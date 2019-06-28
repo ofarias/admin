@@ -1,0 +1,12 @@
+--- VERSION 9.6 ---
+ACTUALIZADO: 14 NOVIEMBRE 2018
+
+--- REQUISITOS ---
+Servidor web (Apache, NGINX, Tomcat, etc)
+PHP 5.2 o posterior
+Curl habilitado
+OpenSSL habilitado
+
+--- DESCRIPCIÓN ---
+Esta librería te permitirá descargar CFDIs emitidos y recibidos con los siguientes filtros:
+Por mes y año, por dia mes y año, por estatus (cancelado / vigente), con o sin complemento, o todos.

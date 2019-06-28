@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Certificado="MIIEUjCCAzqgAwIBAgIUMDAwMDEwMDAwMDAzMDMwMTI5NTkwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAyMjAxNzIyNThaFw0xODAyMjAxNzIyNThaMIGeMR0wGwYDVQQDExRKVUFOIEFMTU9OVEUgTU9SQUxFUzEdMBsGA1UEKRMUSlVBTiBBTE1PTlRFIE1PUkFMRVMxHTAbBgNVBAoTFEpVQU4gQUxNT05URSBNT1JBTEVTMRYwFAYDVQQtEw1BT01KNjUxMDA5TkwxMRswGQYDVQQFExJBT01KNjUxMDA5SFBMTFJOMDYxCjAIBgNVBAsTAUMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMXX1ZapWWTNEpoiFC4z3zM15SUyC5NA8Xu5AMPMdHN4pTN76TWdA5lPvyIb8sf5kOx/dk7wJGszjU1aDRECDksxDQf07oZwq2noThsD0n7/PNLq6BHJqCGseEwMJUKjAaRq2xdZfrVnOdZoeq0wMfhYHsoeMSvc0SOXeCh4H4L5AgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQCDnSXcOnNvigxkvJudKfeAFWYbJ6TLsXMkpbA9qTfET0Nd1C/aCEoiRsohZwMm8iFi5HvaNXErsOLsnfD2Wg6UVgTfV25lrx1cjlXuYazDRZPfFBnAxeIfNMODTWu9V4z0haQBGBCtXRySuadkHp3M7j+PjYs0f0O4keh4aLucYm6y753x+KfJJpGDSYs0zEKKNg3dEYgu9i4J+npgO0UccoTVPMHIo4V/OEc9qayNmmLLUHU7Zz4cT4xMgc05mspwqLiGBRfVqb8sE4XskfwZiqpXAYf4XAq4ohpibarhBqf65AEvDgPbqLiU1eo5JkPQquxlA9DT3uJFxlgPMP0X" CondicionesDePago="Contado" Fecha="2018-01-24T17:14:39" Folio="14797" FormaPago="01" LugarExpedicion="74400" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000303012959" Sello="HfeFDKGhp2XY5xABdYlditqNcnq8SahsFDfK3LVyESgT3AIxtPffA5M1v4/qMQCBL/Wog5VAc9dgZlILuTYI5JQIVRaHmkDKdP0kq6XI4bcOsMvOgP330DEs2qTALYeKfVPV74dm8+9ePxaQ9pJpam9iLtCBJPdloKamD5hHals=" SubTotal="181.04" TipoDeComprobante="I" Total="210.01" Version="3.3">
+  <cfdi:Emisor Nombre="JUAN ALMONTE MORALES" RegimenFiscal="621" Rfc="AOMJ651009NL1" />
+  <cfdi:Receptor Nombre="KOMPAKTAR, S.A. DE C.V." Rfc="KOM151201CD3" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="90101501" ClaveUnidad="E48" Descripcion="CONSUMO DE ALIMENTOS" Importe="181.04" NoIdentificacion="001" Unidad="SERVICIO" ValorUnitario="181.04">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="181.04" Importe="28.97" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="28.97">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="28.97" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" FechaTimbrado="2018-01-24T17:14:43" NoCertificadoSAT="00001000000306850881" RfcProvCertif="PFE140312IW8" SelloCFD="HfeFDKGhp2XY5xABdYlditqNcnq8SahsFDfK3LVyESgT3AIxtPffA5M1v4/qMQCBL/Wog5VAc9dgZlILuTYI5JQIVRaHmkDKdP0kq6XI4bcOsMvOgP330DEs2qTALYeKfVPV74dm8+9ePxaQ9pJpam9iLtCBJPdloKamD5hHals=" SelloSAT="I9S2x1uKQNPZzS/Ckudl587Nq8SSruqsvieXv1h1iX9wzpHkB9t2aK+eYrp8GCHIX+2riy5C/boGSAMInQszoQYHFl3P5P4JvZn9z2U1IasDCWAnQID45grdwOqAuiFeoT/KnxX/NT81ds56nkF/RdLPoqqVMzc+g/wHwKIu7hU=" UUID="09cb76f8-9f47-48c7-b46e-bdaedca356a3" Version="1.1" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

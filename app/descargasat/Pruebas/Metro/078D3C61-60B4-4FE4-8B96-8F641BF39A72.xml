@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Certificado="MIIEnzCCA4egAwIBAgIUMDAwMDEwMDAwMDAzMDY1MzM2MjMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMjUxNjEyNTZaFw0xOTAzMjUxNjEyNTZaMIHrMS8wLQYDVQQDEyZMSUJSQU1JRU5UTyBFTEVWQURPIERFIFBVRUJMQSBTQSBERSBDVjEvMC0GA1UEKRMmTElCUkFNSUVOVE8gRUxFVkFETyBERSBQVUVCTEEgU0EgREUgQ1YxLzAtBgNVBAoTJkxJQlJBTUlFTlRPIEVMRVZBRE8gREUgUFVFQkxBIFNBIERFIENWMSUwIwYDVQQtExxMRVAxNDA4MTg0UjEgLyBGQVZQNzQxMDIzNFc0MR4wHAYDVQQFExUgLyBGQVZQNzQxMDIzSERGQkxEMDQxDzANBgNVBAsTBk1FWElDTzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAl45OQ62AfHiqw3ZPX9sZ+fGXuwGE5CDZ1RAHrOh+ZqOh2hfZmn9/K4748/zz0N0UvRDH7zylF3+q2XTm81FZruVB2xdmHqixwXUPfcsZYZunsMju+l9Y5NpET/jp3fBrdDfeHpOM22GcHc7tKk3BGOEXsyXmre6m/PMgou4f+2kCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAH8DZ2K+qMlXg1ikouzNGgwywJK1bBccI75fLjFvJDNghYlYr92bpAmxCYsO4qIyF5s1qcM07vcYQTyfcKZ16p+ZaL6+v4SXPPCHqyG1zQBRfw6qHdGrC6dSzPpmSitI9chkuyxP0KE4a+1/c97+AHukqe/25W1zoT/Kwaj8BNzeOHWmm/LdVQLbiWr82g+B1qzRYVNNc9ua/vzysulKx/Brz1HQJf7MioF7J4WOizcF2rBQiNduu7+79zwVsbPbtWGn8eYFRGT2qG9pA2DIPWa/WcOyFLLo6KEbuKff0Hjos6iouD/LV9R25nqKHa/RzM2ZmkWgk6RAMZBzr042V2c=" Fecha="2018-06-28T10:16:51" Folio="5455525" FormaPago="01" LugarExpedicion="05348" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000306533623" Sello="X+lBLvUpwUjP+0kbghOmB34Q0lNW/Lznt3MqFVhuNJ0lSxBESezc7f9vfApBM/DFE47680sTQ962f3HvWgQ1KsPlZldUov4F3YLT4BhmJYew0KgAOoULE5bpeHC06CBRqijasXp+HiTa9FXB3BvWyj4UpqVPh/IxDuF7Y8dnjTA=" SubTotal="47.41" TipoDeComprobante="I" Total="55.00" Version="3.3">
+  <cfdi:Emisor Nombre="LIBRAMIENTO ELEVADO DE PUEBLA SA DE CV" RegimenFiscal="601" Rfc="LEP1408184R1" />
+  <cfdi:Receptor Nombre="METROPOLITANOS ECA S.A. DE C.V." Rfc="MEC151215DV6" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="95111603" ClaveUnidad="A9" Descripcion="PEAJE EFECTIVO XLC01021191282" Importe="47.41" Unidad="N/A" ValorUnitario="47.41">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="47.41" Importe="7.59" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="7.59">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="7.59" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" FechaTimbrado="2018-06-28T10:17:09" NoCertificadoSAT="00001000000306850881" RfcProvCertif="PFE140312IW8" SelloCFD="X+lBLvUpwUjP+0kbghOmB34Q0lNW/Lznt3MqFVhuNJ0lSxBESezc7f9vfApBM/DFE47680sTQ962f3HvWgQ1KsPlZldUov4F3YLT4BhmJYew0KgAOoULE5bpeHC06CBRqijasXp+HiTa9FXB3BvWyj4UpqVPh/IxDuF7Y8dnjTA=" SelloSAT="e5uOm21Y4av4dOw2rLQ+w7fzWHLw7xBjcKBsuaJNO4NwgvxMmixSswYtbKmh+F7IQVRTKpdt4QFZ49TuPRlcIll7MuntCBHBiPf0anKsT6ZuPA50pfL2hngslpk56SugipP8QMoKUoPOQmqFpF48njrYIGBuIX4kChcl3NqX3bk=" UUID="078d3c61-60b4-4fe4-8b96-8f641bf39a72" Version="1.1" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
