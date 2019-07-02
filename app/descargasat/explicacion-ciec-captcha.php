@@ -5,6 +5,7 @@
 */
 
 // Instanciar librería
+// TODO verificar que esta ruta es correcta, al parecer debe ser ../lib/DescargaMasivaCfdi.php
 require dirname(dirname(__FILE__)) . DIRECTORY_SEPARATOR . 'lib' . DIRECTORY_SEPARATOR . 'DescargaMasivaCfdi.php';
 $descargaCfdi = new DescargaMasivaCfdi();
 

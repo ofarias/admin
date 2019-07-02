@@ -269,6 +269,43 @@ class pegaso_controller{
 		}
 	}
 
+	function iniciaProcesoDescargaEmpresa() {
+		if ($_SESSION['user']) {
+			$data= new ftc;
+			$emp = $data->fechaUltimaDescarga($ide);
+			if ($emp){
+				$fecha = $emp['fecha_ultima_descarga'];
+				$credencial = $emp['credencial'];
+				if ($credencial){
+					//TODO here comes the code to gain the captcha element
+				} else {
+					$e = "Al paracer la empresa $emp no ha registrado sus crdenciales de consulta.";
+					header('Location: index.php?action=login&e='.urlencode($e)); 
+					return;
+					}
+			} else {
+				$e = "La empresa $emp no se ha localizado o algo fue mal con la consulta.";
+				header('Location: index.php?action=login&e='.urlencode($e)); 
+				return;
+			}
+		} else {
+			$e = "Favor de verificar que no haya expirado su sesión.";
+			header('Location: index.php?action=login&e='.urlencode($e)); exit;
+		}
+		/*
+		// TODO: at the end, if there isn't error, set the view 
+		$pagina = $this->load_template('Menu Admin');			
+		$html = $this->load_page('app/views/pages/empresas/p.descarga-sat.php');
+		ob_start();
+		$table = ob_get_clean();
+		// TODO : Set values for table, include empresa, fecha ultima descarga, captcha, field for captcha and a button to start new download
+		include 'app/views/pages/empresas/p.descarga-sat.php';
+		$pagina = $this->replace_content('/\#CONTENIDO\#/ms', $table, $pagina);
+		$this-> view_page($pagina);
+		return;
+		*/
+	}
+
 	function cambiaFecha($ide, $fecha){
 		if($_SESSION['user']){
 			$data = new ftc;
