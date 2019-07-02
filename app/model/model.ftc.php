@@ -171,7 +171,7 @@ class ftc extends ftcws {
     }
 
     function fechaUltimaDescarga($ide){
-        $this->query="SELECT fecha_ultima_descarga, credencial FROM ftc_empresas WHERE ide = $ide";
+        $this->query="SELECT fecha_ultima_descarga, nombre, rfc FROM ftc_empresas WHERE ide = $ide";
         $res=$this->EjecutaQuerySimple();
         $row =mysqli_fetch_row($res);
         return $row;

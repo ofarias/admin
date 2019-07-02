@@ -9,6 +9,7 @@ require_once 'app/model/pegasoqr.php';
 require_once('app/model/pegaso.model.recoleccion.php');
 require_once('app/model/pegaso.model.cxc.php');
 require_once('app/model/facturacion.php');
+require_once('app/lib/DescargaMasivaCfdi.php');
 
 class pegaso_controller{
 	var $contexto_local = "http://SERVIDOR:8081/pegasoFTC/app/";
@@ -275,9 +276,14 @@ class pegaso_controller{
 			$emp = $data->fechaUltimaDescarga($ide);
 			if ($emp){
 				$fecha = $emp['fecha_ultima_descarga'];
+				$nombre = $emp['nombre'];
+				$rfc = $emp['rfc'];
 				$credencial = $emp['credencial'];
 				if ($credencial){
 					//TODO here comes the code to gain the captcha element
+					$descargaCfdi = new DescargaMasivaCfdi();
+					$imagenBase64 = $descargaCfdi->obtenerCaptcha();
+					$imgStr = '<img src="data:image/jpeg;base64,'.$imagenBase64.'" />';					
 				} else {
 					$e = "Al paracer la empresa $emp no ha registrado sus crdenciales de consulta.";
 					header('Location: index.php?action=login&e='.urlencode($e)); 
@@ -298,7 +304,7 @@ class pegaso_controller{
 		$html = $this->load_page('app/views/pages/empresas/p.descarga-sat.php');
 		ob_start();
 		$table = ob_get_clean();
-		// TODO : Set values for table, include empresa, fecha ultima descarga, captcha, field for captcha and a button to start new download
+		// TODO : Set values for table, include empresa, rfc, fecha ultima descarga, captcha, field for captcha and a button to start new download
 		include 'app/views/pages/empresas/p.descarga-sat.php';
 		$pagina = $this->replace_content('/\#CONTENIDO\#/ms', $table, $pagina);
 		$this-> view_page($pagina);
