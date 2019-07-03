@@ -50,6 +50,10 @@ CREATE TABLE `ftc_empresas` (
   `auto` varchar(2) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+ALTER TABLE ftc_empresas ADD COLUMN fecha_ultima_descarga DATE NULL AFTER cve;
+ALTER TABLE ftc_empresas ADD COLUMN credencial VARCHAR(250) NULL DEFAULT '' AFTER fecha_ultima_descarga;
+ALTER TABLE ftc_empresas ADD COLUMN documentos_descargados INT NULL DEFAULT -1 AFTER credencial;
+
 --
 -- Volcado de datos para la tabla `ftc_empresas`
 --
