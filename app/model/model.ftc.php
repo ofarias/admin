@@ -190,8 +190,26 @@ class ftc extends ftcws {
 
     function cambioUsr($ide, $idu, $tipo){
         $val= $tipo=='Activar'? 1:0;
-        $this->query="UPDATE ftc_empresas_usuarios SET STATUS= $val WHERE ide= $ide and idu = $idu";
+        switch ($tipo) {
+            case 'Activar':
+                $val=1;
+                break;
+            case 'Desactivar':
+                $val=0;
+                break;
+            case 'Quitar':
+                $val=3;
+                break;
+            default:
+                break;
+        }
+        if($val <3){
+            $this->query="UPDATE ftc_empresas_usuarios SET STATUS= $val WHERE ide= $ide and idu = $idu";
+        }else{
+            $this->query="DELETE FROM ftc_empresas_usuarios WHERE ide= $ide and idu = $idu";
+        }
         $this->EjecutaQuerySimple();
+
         return array("status"=>'ok', "mensaje"=>'Se ha cambiado el usuario.');
     }
 

@@ -40,7 +40,9 @@
                                             <td><?php echo $key['17'].' / '.$key['3'];?></td>
                                             <td><?php echo $key['15'];?></td>
                                             <td><?php echo $key['16'];?> </td>
-                                            <td><input type="button" name="" value="<?php echo ($key['3']==1)? 'Desactivar':'Activar'?>" onclick="cambiaUsr(this.value, <?php echo $key['2']?>, <?php echo $key['idu']?>)"></td>
+                                            <td><input type="button" name="" value="<?php echo ($key['3']==1)? 'Desactivar':'Activar'?>" onclick="cambiaUsr(this.value, <?php echo $key['2']?>, <?php echo $key['idu']?>)">
+                                                <input type="button" name="" value="<?php echo 'Quitar'?>" onclick="cambiaUsr(this.value, <?php echo $key['2']?>, <?php echo $key['idu']?>)">
+                                            </td>
                                             <td></td>
                                         </tr>
                                         </form>
