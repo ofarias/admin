@@ -23,9 +23,9 @@
 <script src="app/views/dist/js_md5/md5.min.js"></script>
 <script>
     function enviar(){
-        pwd = document.getElementById('contra').value
-        pwd = document.getElementById('contra').value=md5(pwd);
-        var form = document.getElementById().value
+        pwd = document.getElementById('contra').value;
+        document.getElementById('contra').value = md5(pwd);
+        var form = document.getElementById().value;
         form.submit();
     }
 </script>

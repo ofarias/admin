@@ -270,27 +270,30 @@ class pegaso_controller{
 		}
 	}
 
-	function iniciaProcesoDescargaEmpresa() {
+	function iniciaProcesoDescargaEmpresa($rfc) {
 		if ($_SESSION['user']) {
-			$data= new ftc;
-			$emp = $data->fechaUltimaDescarga($ide);
+			$data= new ftc;			
+			$emp = $data->fechaUltimaDescarga($rfc);			
 			if ($emp){
-				$fecha = $emp['fecha_ultima_descarga'];
-				$nombre = $emp['nombre'];
-				$rfc = $emp['rfc'];
-				$credencial = $emp['credencial'];
-				if ($credencial){
+				//print_r($emp);								
+				$fecha = $emp[0];					
+				$nombre = $emp[1];
+				$rfc = $emp[2];
+				$clave = $emp[3];				
+				//$credencial = $emp[4];
+				
+				if ($clave){
 					//TODO here comes the code to gain the captcha element
 					$descargaCfdi = new DescargaMasivaCfdi();
 					$imagenBase64 = $descargaCfdi->obtenerCaptcha();
 					$imgStr = '<img src="data:image/jpeg;base64,'.$imagenBase64.'" />';					
 				} else {
-					$e = "Al paracer la empresa $emp no ha registrado sus crdenciales de consulta.";
+					$e = "Al paracer la empresa $emp no ha registrado sus credenciales de consulta.";
 					header('Location: index.php?action=login&e='.urlencode($e)); 
 					return;
 					}
 			} else {
-				$e = "La empresa $emp no se ha localizado o algo fue mal con la consulta.";
+				$e = "La empresa $emp no se ha localizado o algo fue mal con la consulta.";				
 				header('Location: index.php?action=login&e='.urlencode($e)); 
 				return;
 			}
@@ -298,18 +301,17 @@ class pegaso_controller{
 			$e = "Favor de verificar que no haya expirado su sesión.";
 			header('Location: index.php?action=login&e='.urlencode($e)); exit;
 		}
-		/*
+		
 		// TODO: at the end, if there isn't error, set the view 
-		$pagina = $this->load_template('Menu Admin');			
-		$html = $this->load_page('app/views/pages/empresas/p.descarga-sat.php');
-		ob_start();
+		$pagina = $this->load_templateL('Descarga SAT');
+
+
 		$table = ob_get_clean();
-		// TODO : Set values for table, include empresa, rfc, fecha ultima descarga, captcha, field for captcha and a button to start new download
-		include 'app/views/pages/empresas/p.descarga-sat.php';
+		//$html = $this->load_page('app/views/pages/empresas/p.descargasat.php');
+		include 'app/views/pages/empresas/p.descargasat.php';
 		$pagina = $this->replace_content('/\#CONTENIDO\#/ms', $table, $pagina);
 		$this-> view_page($pagina);
-		return;
-		*/
+		return;		
 	}
 
 	function cambiaFecha($ide, $fecha){
