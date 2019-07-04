@@ -6,13 +6,13 @@
  * Fecha Actualización: 3 ABRIL 2019
  */
 
-require_once 'BusquedaEmitidos.php';
-require_once 'BusquedaRecibidos.php';
-require_once 'DescargaAsincrona.php';
-require_once 'MultiCurl.php';
+require_once '../../lib/BusquedaEmitidos.php';
+require_once '../../lib/BusquedaRecibidos.php';
+require_once '../../lib/DescargaAsincrona.php';
+require_once '../../lib/MultiCurl.php';
 require_once 'RespuestaCurl.php';
-require_once 'UtilCertificado.php';
-require_once 'XmlInfo.php';
+require_once '../../lib/UtilCertificado.php';
+require_once '../../lib/XmlInfo.php';
 
 class DescargaMasivaCfdi {
     const URL_CFDIAU = 'https://cfdiau.sat.gob.mx/nidp/app';
