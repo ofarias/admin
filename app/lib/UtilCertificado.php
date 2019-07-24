@@ -1,6 +1,10 @@
 <?php
 /**
  * Clase para trabajar con certificados.
+ *
+ * @author Novatech Labs asanchez@novatechlabs.com
+ * @copyright 2019 PLAN B
+ * @version 10.0.0 (22/07/2019)
  */
 
 class UtilCertificado {
