@@ -1021,7 +1021,7 @@ class RespuestaCurl {
 
 class MultiCurl {
     private $_curl_version;
-    private $_maxConcurrent = 0;    //max. number of simultaneous connections allowed
+    private $_maxConcurrent = 3;    //max. number of simultaneous connections allowed
     private $_options       = array();   //shared cURL options
     private $_headers       = array();   //shared cURL request headers
     private $_callback      = null; //default callback
@@ -1029,7 +1029,7 @@ class MultiCurl {
     public $requests        = array();   //request_queue
 
 
-    function __construct($max_concurrent = 10) {
+    function __construct($max_concurrent = 3) {
         $this->setMaxConcurrent($max_concurrent);
         $v = curl_version();
         $this->_curl_version = $v['version'];
@@ -1208,7 +1208,9 @@ class DescargaAsincrona {
                 $response,
                 $user_data['dir'],
                 $user_data['fn'],
-                $user_data['ext']
+                $user_data['ext'], 
+                $user_data['accion'],
+                $user_data['rfc']
             );
             $this->resultados[] = array(
                 'uuid' => $user_data['uuid'],
@@ -1222,12 +1224,15 @@ class DescargaAsincrona {
         });
     }
 
-    public function agregarXml($url, $dir, $uuid, $nombreArchivo=null) {
+    public function agregarXml($url, $dir, $uuid, $accion, $r, $nombreArchivo=null) {
         $this->mc->addRequest($url, array(
             'ext'=>'xml',
             'dir'=>$dir,
             'uuid'=>$uuid,
-            'fn'=>$nombreArchivo ? $nombreArchivo : $uuid
+            'fn'=>$nombreArchivo ? $nombreArchivo : $uuid, 
+            'accion'=>$accion,
+            'rfc'=>$r
+
         ));
     }
 
@@ -1280,8 +1285,15 @@ class DescargaAsincrona {
         return $this->resultados;
     }
 
-    private function guardarArchivo($str, $dir, $nombre, $ext) {
-        $resource = fopen($dir.DIRECTORY_SEPARATOR.$nombre.'.'.$ext, 'w');
+    private function guardarArchivo($str, $dir, $nombre, $ext, $accion, $rfc) {
+        if(file_exists($dir.$rfc)){
+            //echo 'Si existe la carpete'.$dir.$rfc;
+        }else{
+            //echo 'No existe y se tiene que crear';
+            mkdir($dir.$rfc);
+        }
+        //exit();
+        $resource = fopen($dir.DIRECTORY_SEPARATOR.$rfc.DIRECTORY_SEPARATOR.substr($accion,10).'-'.$rfc.'-'.$nombre.'.'.$ext, 'w');
         $saved = false;
         if(!empty($str)) {
             $bytes = fwrite($resource, $str);
