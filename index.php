@@ -72,8 +72,9 @@ else{switch ($_GET['action']){
 		$controller->usXemp($_GET['ide']);
 		break;
 	default: 
-	header('Location: index.php?action=login');
-	break;
+	        //header('Location: index.php?action=login');
+		$controller->Login();
+	        break;
 	}
 
 }
