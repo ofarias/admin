@@ -14,5 +14,5 @@
 </div>
 
 <script>
-    setTimeout("location.replace('index.php')", 10);
+    setTimeout("location.replace('index.php')", 3000);
 </script>
