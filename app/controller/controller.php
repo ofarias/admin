@@ -29,8 +29,10 @@ class pegaso_controller{
 	}
 
 	function salir(){
-		$data= new pegaso;
-		$salir=$data->salir();
+		if ($_SESSION['bd'] && $_SESSION['bd']!=''){
+			$data= new pegaso;
+			$salir=$data->salir();
+		}
 		$CookieInfo = session_get_cookie_params();
 		if ( (empty($CookieInfo['domain'])) && (empty($CookieInfo['secure'])) ) {
 			setcookie(session_name(), '', time()-3600, $CookieInfo['path']);
