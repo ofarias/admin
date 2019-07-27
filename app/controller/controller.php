@@ -31,7 +31,20 @@ class pegaso_controller{
 	function salir(){
 		$data= new pegaso;
 		$salir=$data->salir();
-		return;
+		$CookieInfo = session_get_cookie_params();
+		if ( (empty($CookieInfo['domain'])) && (empty($CookieInfo['secure'])) ) {
+			setcookie(session_name(), '', time()-3600, $CookieInfo['path']);
+		} elseif (empty($CookieInfo['secure'])) {
+			setcookie(session_name(), '', time()-3600, $CookieInfo['path'], $CookieInfo['domain']);
+		} else {
+			setcookie(session_name(), '', time()-3600, $CookieInfo['path'], $CookieInfo['domain'], $CookieInfo['secure']);
+		}
+		//session_unset();
+		session_destroy();		
+		$pagina = $this->load_templateL('Login');
+		$html = $this->load_page('app/views/modules/m.logoff.php');
+		$pagina = $this->replace_content('/\#CONTENIDO\#/ms', $html, $pagina);
+		$this->view_page($pagina);
 	}
 
 	function LoginA($user, $pass){
