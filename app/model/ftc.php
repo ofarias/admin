@@ -1,7 +1,8 @@
 <?php
 
 class ftcws {
-    private $DBServer="ofa.dyndns.org:3306";
+    //private $DBServer="ofa.dyndns.org:3306";
+    private $DBServer="localhost";
     private $DBUser="ftc";
     private $DBPaswd="elPaso01+";
     private $DBName="ftc_ws";
@@ -17,6 +18,7 @@ class ftcws {
         if (!$sdb) {
             die('no se pudo conectar 2 ' . mysqli_error($sdb));
         }
+        
     }
     private function CierraCnx() {
         mysqli_close($this->cnx);

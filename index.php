@@ -6,9 +6,9 @@ require_once('app/controller/controller.php');
 $controller = new pegaso_controller;
 
 if(isset($_GET['action'])){
-$action = $_GET['action'];
+	$action = $_GET['action'];
 }else{
-	$action = '';
+	$action = 'login';
 }
 //exit(print_r($_POST));
 //print_r($_POST);
@@ -43,6 +43,7 @@ if (isset($_POST['usuario'])){
 	$res=$controller->acomodar();
 	echo json_encode($res);
 	exit();
+<<<<<<< HEAD
 }
 else{switch ($_GET['action']){
 	//case 'inicio':
@@ -74,6 +75,42 @@ else{switch ($_GET['action']){
 		//header('Location: index.php?action=login');
 		$controller->Login();
 		break;
+=======
+} else {
+	switch ($action){
+		//case 'inicio':
+		//	$controller->Login();
+		//	break;
+		case 'login':
+			$controller->Login();
+			break;
+		case 'salir':
+			$controller->salir();
+			header('Location: index.php?action=login');
+			break;
+		case 'loginC':
+			$_SESSION['empresa']=$_GET['empresa'];
+			$controller->LoginA($_SESSION['usuario'], $_SESSION['contra']);
+			break;
+		case 'CambiarSenia':
+			$controller->CambiarSenia();
+			break;
+		case 'madmin':
+			$controller->MenuAdmin();
+			break;
+		case 'AltaEmpresa':
+			$controller->AltaEmpresa();
+			break;
+		case 'usXemp':
+			$controller->usXemp($_GET['ide']);
+			break;
+		case 'descargasat':			
+			$controller->iniciaProcesoDescargaEmpresa($_GET['empresa']);
+			break;
+		default: 
+			header('Location: index.php?action=login');
+			break;
+>>>>>>> 41d6770cd2cef1a8df47bc33e679c56b3e146bef
 	}
 
 }

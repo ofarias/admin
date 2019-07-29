@@ -54,7 +54,7 @@
                                     <td><?php echo $data['ruta_noi']?></td>
                                     <td><?php echo $data['ruta_bd']?></td>
                                     <td><?php echo $data['timbrado']?></td>
-                                    <td><?php echo $data['rfc']?></td>
+                                    <td><?php echo $data['rfc']?>&nbsp;&nbsp;<a href="./index.php?action=descargasat&empresa=<?php echo $data['rfc']?>" class="btn btn-success" >Descargas</a></td>
                                     <td><?php echo $data['cve']?></td>
                                     <td><?php echo $data['logo']?><br>
                                         <form action="carga_logo.php" method="post" enctype="multipart/form-data">
