@@ -43,50 +43,22 @@ if (isset($_POST['usuario'])){
 	$res=$controller->acomodar();
 	echo json_encode($res);
 	exit();
-<<<<<<< HEAD
-}
-else{switch ($_GET['action']){
+} elseif (isset($_POST['action']) && $_POST['action']=="descarga-sat") {
+	$empresa = $_POST['empresa'];
+	$rfc = $_POST['rfc'];
+	$clave = $_POST['clave'];
+	$captcha = $_POST['captcha'];
+	$controller->descargaSAT($empresa,$rfc,$clave,$captcha);
+} else { 
+	switch ($_GET['action']){
 	//case 'inicio':
 	//	$controller->Login();
 	//	break;
-	case 'login':
-		$controller->Login();
-		break;
-	case 'salir':
-        $controller->salir();        
-        break;
-	case 'loginC':
-		$_SESSION['empresa']=$_GET['empresa'];
-		$controller->LoginA($_SESSION['usuario'], $_SESSION['contra']);
-		break;
-	case 'CambiarSenia':
-		$controller->CambiarSenia();
-		break;
-	case 'madmin':
-		$controller->MenuAdmin();
-		break;
-	case 'AltaEmpresa':
-		$controller->AltaEmpresa();
-		break;
-	case 'usXemp':
-		$controller->usXemp($_GET['ide']);
-		break;
-	default: 
-		//header('Location: index.php?action=login');
-		$controller->Login();
-		break;
-=======
-} else {
-	switch ($action){
-		//case 'inicio':
-		//	$controller->Login();
-		//	break;
 		case 'login':
 			$controller->Login();
 			break;
 		case 'salir':
-			$controller->salir();
-			header('Location: index.php?action=login');
+			$controller->salir();        
 			break;
 		case 'loginC':
 			$_SESSION['empresa']=$_GET['empresa'];
@@ -108,10 +80,9 @@ else{switch ($_GET['action']){
 			$controller->iniciaProcesoDescargaEmpresa($_GET['empresa']);
 			break;
 		default: 
-			header('Location: index.php?action=login');
+			//header('Location: index.php?action=login');
+			$controller->Login();
 			break;
->>>>>>> 41d6770cd2cef1a8df47bc33e679c56b3e146bef
 	}
-
 }
 ?>

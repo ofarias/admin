@@ -170,8 +170,8 @@ class ftc extends ftcws {
         return $row;
     }
 
-    function fechaUltimaDescarga($rfc){
-        $this->query="SELECT fecha_ultima_descarga, nombre, rfc, cve, credencial FROM ftc_empresas WHERE rfc = '$rfc'";        
+    function datosDescarga($rfc){
+        $this->query="SELECT fecha_ultima_descarga, nombre, rfc, cve FROM ftc_empresas WHERE rfc = '$rfc'";        
         $res=$this->EjecutaQuerySimple();
         $row =mysqli_fetch_row($res);
         return $row;

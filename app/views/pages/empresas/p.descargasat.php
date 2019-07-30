@@ -6,9 +6,9 @@
 <br />
 <div class="row">
 	<div class="col-lg-6">
-		<form action="index.php" method="get">
-            Ultima descarga: <input required type="text" class="form-control" name="fecha" value='<?php echo $fecha;?>' /><br />
-            Empresa: <input required type="text" class="form-control" name="rfc" value='<?php echo $nombre;?>' /><br />
+		<form action="index.php" method="POST">
+			<input type = "hidden" name="action" value="descarga-sat" />
+            Empresa: <input required type="text" class="form-control" name="empresa" value='<?php echo $nombre;?>' /><br />
 			RFC: <input required type="text" class="form-control" name="rfc" value='<?php echo $rfc;?>' /><br />
 			Clave: <input required type="text" class="form-control" name="clave" value= '<?php echo $clave;?>' /><br />
             Captcha: <input required type="text" class="form-control" name="captcha" />&nbsp;&nbsp;&nbsp;&nbsp;<?php echo $imgStr;?><br />

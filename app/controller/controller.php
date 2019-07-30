@@ -11,10 +11,10 @@ require_once('app/model/pegaso.model.cxc.php');
 require_once('app/model/facturacion.php');
 require_once('app/lib/DescargaMasivaCfdi.php');
 
-class pegaso_controller{
+class pegaso_controller {
 	var $contexto_local = "http://SERVIDOR:8081/pegasoFTC/app/";
 	var $contexto = "http://SERVIDOR:8081/pegasoFTC/app/";
-	
+
 	function Login(){
 			$pagina = $this->load_templateL('Login');
 			$html = $this->load_page('app/views/modules/m.login.php');
@@ -288,7 +288,7 @@ class pegaso_controller{
 	function iniciaProcesoDescargaEmpresa($rfc) {
 		if ($_SESSION['user']) {
 			$data= new ftc;			
-			$emp = $data->fechaUltimaDescarga($rfc);			
+			$emp = $data->datosDescarga($rfc);			
 			if ($emp){
 				//print_r($emp);								
 				$fecha = $emp[0];					
@@ -319,14 +319,59 @@ class pegaso_controller{
 		
 		// TODO: at the end, if there isn't error, set the view 
 		$pagina = $this->load_templateL('Descarga SAT');
-
-
 		$table = ob_get_clean();
-		//$html = $this->load_page('app/views/pages/empresas/p.descargasat.php');
 		include 'app/views/pages/empresas/p.descargasat.php';
 		$pagina = $this->replace_content('/\#CONTENIDO\#/ms', $table, $pagina);
 		$this-> view_page($pagina);
 		return;		
+	}
+
+	function descargaSAT($empresa, $rfc, $clave, $captcha) {
+		$rutaDescarga = 'app/media/';
+		$maxDescargasSimultaneas = 3;
+		echo "Ruta de descarga: ".$rutaDescarga;
+		// Instanciar clase principal
+		$descargaCfdi = new DescargaMasivaCfdi();
+
+		$ok = $descargaCfdi->iniciarSesionCiecCaptcha($rfc, $clave, $captcha);
+      	if($ok) {
+			  /*
+        	echo json_response(array(
+				'mensaje' => 'Se ha iniciado la sesión',
+				'sesion' => $descargaCfdi->obtenerSesion()
+			));
+			*/
+			echo "Se ha iniciado la sesión";
+			$filtros = new BusquedaRecibidos();			
+			$filtros->establecerFecha(date("y"), date("m"), day('d'));
+			echo "Preparando llamada a SAT: ".$filtros;
+			$xmlInfoArr = $descargaCfdi->buscar($filtros);
+			echo "Retorno del SAT: ".$xmlInfoArr;
+			if($xmlInfoArr){
+				echo "Response OK";
+			}else{
+				echo "No se han localizado CFDIs para ".$descargaCfdi->obtenerSesion();
+				/*
+				echo json_response(array(
+					'mensaje' => 'No se han encontrado CFDIs',
+					'sesion' => $descargaCfdi->obtenerSesion()
+				));
+				*/
+			}
+		}else{
+			echo "Ha ocurrido un error al iniciar sesión. Intente nuevamente";
+			/*
+        	echo json_response(array(
+          		'mensaje' => 'Ha ocurrido un error al iniciar sesión. Intente nuevamente',
+			));
+			*/
+		}
+		$pagina = $this->load_templateL('Descarga SAT');
+		$table = ob_get_clean();
+		include 'app/views/pages/empresas/p.descargasat.response.php';
+		$pagina = $this->replace_content('/\#CONTENIDO\#/ms', $table, $pagina);
+		$this-> view_page($pagina);
+return;
 	}
 
 	function cambiaFecha($ide, $fecha){
@@ -360,5 +405,14 @@ class pegaso_controller{
 			return $acomodar;
 		}
 	}
+
+	function json_response($data, $success=true) {
+		header('Cache-Control: no-transform,public,max-age=300,s-maxage=900');
+		header('Content-Type: application/json');
+		return json_encode(array(
+		  'success' => $success,
+		  'data' => $data
+		));
+	  }
 
 }?>
