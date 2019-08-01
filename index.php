@@ -2,8 +2,19 @@
 session_start();
 date_default_timezone_set('America/Mexico_City');
 require_once('app/controller/controller.php');
-
+require_once('app/lib/DescargaMasivaCfdi.php');
 $controller = new pegaso_controller;
+// Instanciar clase principal
+$descargaCfdi = new DescargaMasivaCfdi();
+
+function json_response($data, $success=true) {
+	header('Cache-Control: no-transform,public,max-age=300,s-maxage=900');
+	header('Content-Type: application/json');
+	return json_encode(array(
+	  'success' => $success,
+	  'data' => $data
+	));
+  }
 
 if(isset($_GET['action'])){
 	$action = $_GET['action'];
@@ -44,11 +55,31 @@ if (isset($_POST['usuario'])){
 	echo json_encode($res);
 	exit();
 } elseif (isset($_POST['action']) && $_POST['action']=="descarga-sat") {
+	if(!empty($_POST['rfc']) && !empty($_POST['pwd']) && !empty($_POST['captcha'])) {
+		// iniciar sesion en el SAT
+		$ok = $descargaCfdi->iniciarSesionCiecCaptcha($_POST['rfc'],$_POST['pwd'],$_POST['captcha']);
+		if($ok) {
+		  echo json_response(array(
+			'mensaje' => 'Se ha iniciado la sesión',
+			'sesion' => $descargaCfdi->obtenerSesion()
+		  ));
+		} else {
+		  echo json_response(array(
+			'mensaje' => 'Ha ocurrido un error al iniciar sesión. Intente nuevamente',
+		  ));
+		}
+	}else{
+		echo json_response(array(
+		  'mensaje' => 'Proporcione todos los datos',
+		));
+	}
+	/*
 	$empresa = $_POST['empresa'];
 	$rfc = $_POST['rfc'];
 	$clave = $_POST['clave'];
 	$captcha = $_POST['captcha'];
 	$controller->descargaSAT($empresa,$rfc,$clave,$captcha);
+	*/
 } else { 
 	switch ($_GET['action']){
 	//case 'inicio':

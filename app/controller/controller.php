@@ -335,7 +335,7 @@ class pegaso_controller {
 
 		$busqueda = new BusquedaRecibidos();
 		$busqueda->establecerFecha(2017, 10); // $anio, $mes, $dia=null
-		echo "params: ".$rfc.", ".$clave.", ".$captcha;
+		// echo "params: ".$rfc.", ".$clave.", ".$captcha;
 		$ok = $descargaCfdi->iniciarSesionCiecCaptcha($rfc, $clave, $captcha);
       	if($ok) {
 			  /*
