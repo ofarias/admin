@@ -333,6 +333,9 @@ class pegaso_controller {
 		// Instanciar clase principal
 		$descargaCfdi = new DescargaMasivaCfdi();
 
+		$busqueda = new BusquedaRecibidos();
+		$busqueda->establecerFecha(2017, 10); // $anio, $mes, $dia=null
+		echo "params: ".$rfc.", ".$clave.", ".$captcha;
 		$ok = $descargaCfdi->iniciarSesionCiecCaptcha($rfc, $clave, $captcha);
       	if($ok) {
 			  /*
@@ -342,21 +345,49 @@ class pegaso_controller {
 			));
 			*/
 			echo "Se ha iniciado la sesión";
-			$filtros = new BusquedaRecibidos();			
-			$filtros->establecerFecha(date("y"), date("m"), day('d'));
-			echo "Preparando llamada a SAT: ".$filtros;
-			$xmlInfoArr = $descargaCfdi->buscar($filtros);
-			echo "Retorno del SAT: ".$xmlInfoArr;
+			$xmlInfoArr = $descargaCfdi->buscar($busqueda);
 			if($xmlInfoArr){
-				echo "Response OK";
-			}else{
-				echo "No se han localizado CFDIs para ".$descargaCfdi->obtenerSesion();
-				/*
-				echo json_response(array(
-					'mensaje' => 'No se han encontrado CFDIs',
-					'sesion' => $descargaCfdi->obtenerSesion()
-				));
-				*/
+		
+				echo "Preparando descarga";
+				$descarga = new DescargaAsincrona($maxDescargasSimultaneas);
+
+				// Recorrer array de resultados
+				foreach ($xmlInfoArr as $xmlInfo) {
+
+					// Mostrar datos del comprobante
+					print_r($xmlInfo);
+
+					// Agregar XML a la cola de descarga
+					$descarga->agregarXml(
+						$xmlInfo->urlDescargaXml,
+						$rutaDescarga,
+						$xmlInfo->folioFiscal
+					);
+
+					// Agregar Acuse a la cola de descarga (si aplica)
+					if($xmlInfo->urlDescargaAcuse) {
+						$descarga->agregarAcuse(
+							$xmlInfo->urlDescargaAcuse,
+							$rutaDescarga,
+							$xmlInfo->folioFiscal
+						);
+					}
+				}
+
+				// Iniciar proceso de descarga
+				$descarga->procesar();
+
+				// Mostra totales de la descarga
+				$totalDescargados = $descarga->totalDescargados();
+				$totalErrores = $descarga->totalErrores();
+				$segundosTranscurridos = $descarga->segundosTranscurridos();
+				echo "Descargados: $totalDescargados.\n";
+				echo "Errores: $totalErrores.\n";
+				echo "Duración: $segundosTranscurridos segundos.\n";
+
+				// Mostrar detalle de la descarga
+				print_r($descarga->resultado());
+				echo "\n";
 			}
 		}else{
 			echo "Ha ocurrido un error al iniciar sesión. Intente nuevamente";

@@ -131,6 +131,11 @@ class DescargaMasivaCfdi {
                 'submit'=>'Enviar'
             )
         );
+
+        echo "<p>status code: ".$respuesta->getStatusCode()."</p>";
+        echo "<p>";
+        print_r($respuesta);
+        echo "</p>";
         if($respuesta->getStatusCode() != 200 || !$respuesta->getBody()){
             return false;
         }
