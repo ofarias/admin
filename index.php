@@ -52,8 +52,7 @@ else{switch ($_GET['action']){
 		$controller->Login();
 		break;
 	case 'salir':
-        $controller->salir();
-        header('Location: index.php?action=login');
+        $controller->salir();        
         break;
 	case 'loginC':
 		$_SESSION['empresa']=$_GET['empresa'];
@@ -72,8 +71,9 @@ else{switch ($_GET['action']){
 		$controller->usXemp($_GET['ide']);
 		break;
 	default: 
-	header('Location: index.php?action=login');
-	break;
+		//header('Location: index.php?action=login');
+		$controller->Login();
+		break;
 	}
 
 }
