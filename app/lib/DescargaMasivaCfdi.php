@@ -127,7 +127,8 @@ class DescargaMasivaCfdi {
                 'option'=>'credential',
                 'Ecom_User_ID'=>$rfc,
                 'Ecom_Password'=>$contrasena,
-                'jcaptcha'=>$captcha,
+                //'jcaptcha'=>$captcha,
+                'userCaptcha'=>strtoupper($captcha),
                 'submit'=>'Enviar'
             )
         );
@@ -183,20 +184,30 @@ class DescargaMasivaCfdi {
         if($respuesta->getStatusCode() != 200 || !$respuesta->getBody()){
             return false;
         }
-
         // 2
         $respuesta = RespuestaCurl::request('https://cfdiau.sat.gob.mx/nidp/wsfed/ep?id=SATUPCFDiCon&sid=0&option=credential&sid=0');
         if($respuesta->getStatusCode() != 200){
             return false;
         }
-
         // 3
-        $respuesta = RespuestaCurl::request('https://cfdiau.sat.gob.mx/nidp/jcaptcha.jpg');
+        /*$respuesta = RespuestaCurl::request('https://cfdiau.sat.gob.mx/nidp/jcaptcha.jpg');
         if($respuesta->getStatusCode() != 200){
             return false;
         }
-
         return base64_encode($respuesta->getBody());
+        */
+        $document = new DOMDocument();
+        $document->loadHTML( $respuesta->getBody() );
+        if(!$document) {
+            return false;
+        }
+        $xp = new DOMXPath($document);
+        $img = $xp->query('//label[@id="divCaptcha"]/img');
+        if(empty($img[0])) {
+            return false;
+        }
+        $src = $img[0]->getAttribute('src');
+        return substr($src, strlen('data:image/jpeg;base64,'));
     }
 
     /**
