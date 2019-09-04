@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="185751" fecha="2016-08-15T20:59:58" sello="IaaUxWwcPcKOH8h9EmTXUXjyVTLJVNA2MZYGtxH9c+Q3EfkTyn/PjQIvVD+QgGMmoSc+lpQF6pQeyEE4DEUL0PEJ34U3LMlOIreu3Q3MZHFMNzXA+dHWkema2A2GiEOCR1faMh0Nq0ifeuPiaWuV4ezVuMChjTEXW6Eh4KDcrGM=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="3114.08" TipoCambio="1.000000" Moneda="Pesos" total="3612.33" tipoDeComprobante="ingreso" metodoDePago="03" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="IFS760816V16" nombre="ISS FACILITY SERVICES S.A. DE C.V.">
+    <cfdi:Domicilio calle="AVENIDA 1 DE MAYO #120" noExterior="4 PISO" noInterior="OFIC.401" colonia="SAN ANDRES ATOTO" localidad="." municipio="NAUCALPAN DE JUAREZ" estado="MEXICO" pais="MEXICO" codigoPostal="53500" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000" unidad="cbta" descripcion="Pintura comex vinimex perote h4-05" valorUnitario="1571.680000" importe="1571.68" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="Sapo wc 2&quot; amarillo ECONOFLAP 9449 FAMA" valorUnitario="7.800000" importe="39.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="bolsa" descripcion="Cincho plastico natural 20cms c/100pzas" valorUnitario="20.150000" importe="20.15" />
+    <cfdi:Concepto cantidad="2.000" unidad="GALON" descripcion="FOAM CLEANER 4 LTS." valorUnitario="124.000000" importe="248.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="GALON" descripcion="COIL CLEANER GALON 4 LTS." valorUnitario="83.500000" importe="167.00" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="AFLOJATODO WD-40 8 OZ 226GMS" valorUnitario="55.950000" importe="167.85" />
+    <cfdi:Concepto cantidad="1.000" unidad="galon" descripcion="Pintura comex aqua 100 negra c/4lts" valorUnitario="448.900000" importe="448.90" />
+    <cfdi:Concepto cantidad="3.000" unidad="par" descripcion="Guante plastico gde truper 14263" valorUnitario="18.000000" importe="54.00" />
+    <cfdi:Concepto cantidad="3.000" unidad="paq" descripcion="Cinta teflon 3/4&quot; c/10pzas pretul 27011" valorUnitario="33.600000" importe="100.80" />
+    <cfdi:Concepto cantidad="3.000" unidad="par" descripcion="Guante negro uso ind truper 14269" valorUnitario="98.900000" importe="296.70" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="498.25">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="498.25" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="IaaUxWwcPcKOH8h9EmTXUXjyVTLJVNA2MZYGtxH9c+Q3EfkTyn/PjQIvVD+QgGMmoSc+lpQF6pQeyEE4DEUL0PEJ34U3LMlOIreu3Q3MZHFMNzXA+dHWkema2A2GiEOCR1faMh0Nq0ifeuPiaWuV4ezVuMChjTEXW6Eh4KDcrGM=" FechaTimbrado="2016-08-15T21:00:08" UUID="808ccddc-ea41-4889-9d47-9cdd1ecc1382" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="UWaa6nVSmt+Peu3mAU7GWQ0SMvxX+f0Rvb2+NjGKLcBqHohDqTanvGLzwtnFAN3zUdZvhM5yaVYUZ+sOuZaBU0/K+FhtoNWlI0UUyGg3VOe1pge1ctTA3ZBEcK5swgKGlirA9IWe1K06U1fKYmE6U37nFyZ1CEnS9fGShJvVvL8=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

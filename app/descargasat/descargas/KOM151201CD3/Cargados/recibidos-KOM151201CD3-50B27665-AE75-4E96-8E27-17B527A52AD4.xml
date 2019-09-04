@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Serie="FCIT" Folio="000024057" Fecha="2019-08-12T08:10:10" Sello="H3Lu1UNBcrRNq0+5eC+YvJR+xaqP9u/FVVwlOMv06bAgBNUGSpx8f4Rq5zZRC2Hpo2NRJNarfK8BXH/QiBjc46ecNT8zyz9Oqtrmg8EeOER6LkbJ4iXi4iq39ogtAzFkuzfzeXuX4t8up6wDdgzUhP97vU+cUSFeEjMHD/Hd08Fk89KSNwLZk1hOqNHWXGc0BcuVs1nUZYzFDCVAFm9CgybPThdYoVSQR3BOeb47srf5dxdvfT4TvtTJQqgYIj74Qrtf/rwREywbfcC942is6s9MCnOeVZYlsa9Muc//qTqJfoeXkjsD13NV7hXnHwgEQXPhvmgWlWOxtaNWkU3bTw==" FormaPago="29" NoCertificado="00001000000403940677" Certificado="MIIGwDCCBKigAwIBAgIUMDAwMDEwMDAwMDA0MDM5NDA2NzcwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTYxMDEyMTkyMzM5WhcNMjAxMDEyMTkyMzM5WjCCAV8xRDBCBgNVBAMTO0NBTUlOT1MgWSBQVUVOVEVTIEZFREVSQUxFUyBERSBJTkdSRVNPUyBZIFNFUlZJQ0lPUyBDT05FWE9TMUQwQgYDVQQpEztDQU1JTk9TIFkgUFVFTlRFUyBGRURFUkFMRVMgREUgSU5HUkVTT1MgWSBTRVJWSUNJT1MgQ09ORVhPUzFEMEIGA1UEChM7Q0FNSU5PUyBZIFBVRU5URVMgRkVERVJBTEVTIERFIElOR1JFU09TIFkgU0VSVklDSU9TIENPTkVYT1MxJTAjBgNVBC0THENQRjYzMDcwMzZOOCAvIEdBT0g2NzAzMDhQTkExHjAcBgNVBAUTFSAvIEdBT0g2NzAzMDhIREZSUkcwMDFEMEIGA1UECxM7Q0FNSU5PUyBZIFBVRU5URVMgRkVERVJBTEVTIERFIElOR1JFU09TIFkgU0VSVklDSU9TIENPTkVYT1MwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDAyBsGX2Y5eJVr96SzlK+vCEfJOKBRrPvLvW9O4M/XfbWKJGZ6ed6KmDZSIUnaWm5N1cQiu5aUbkmzw2Zvp5B/0PnZDq6EWHUXSZcSNT+NuIdHILNLiAiQGNkYQTPoZczq8IxHvqsxq6KH/xDM+KFxau7K4YIRLjaulqt4hBlmhuo5F4gLUjUT36WRq4Y/dLpVIE1FJlysGrMHZJvqJLlH/riaFwxnWA661swnoG4rZa/1aF1K4xmanBND587o+jWcJPIxPY4Dl4lLPFouDO9SaCycQu//UQn8W8vIuzG6byF0BEZG4Iwu4pmHUoXk7Nmpa24CUluTqeudf1WgH5vFAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBCwUAA4ICAQAi0HaCs5WIekqRfig6LAL/COIVT5YDszQVIfznVbVKXLe+mbQwOdfLo08DKKQSsfD3PIVchxwsYN+Gm9InL1nAJ9rOkpuWHksjeuTt0FSu3kFELWVQNDMGxUaYFn9KPj+al655KqfVh2/r8mlyEdkJ1t1Wt/nf1bUWryB0ayCyRUjMg23APj+yE+m9dQzaQN7RIqL4hopYe+33eZpnU8D06qXRN/4QVmQX40wwQpVsoCtIPi0XUyfEC5nhrUyy9p0GecoJ3yTMFgUg0vxs7KSxe7K/TGIi/od9Q/g8M3mE1ug9ZOlTsidP8KxJ1kgoLDx5b9TJukNlz8eLCCYF65qFkyLV0lI000yGmziM5c5i2VWzhAsKhBdaxg0N66zuxpxZXV9913sMpYy+Cd+uxJjVwDwIXLe8ztLdASHAyfM9fVBzYank3zXrjKk+7pNu8AeKtq0YkMKsPH2nszz2pbJ7D0TBqBuOj/n48TQQsYvpeomWw/WCkhkL3ovf7egFFcDY3XytgW7CMP5F7NIqUxl7ZgB6gB8FVljmFumaXXJ/kGqqyVfk7JeEFdCke+25S4ltVCr9e+E0d1zILecGIKyZBPHHnGlYSNluj7XYxeuppX3FeHWV2Uv74Cd4B8hlvBcv46rCk0OaYj0VoZlBHgMSctJHca/SQIIBe4UswJwczg==" SubTotal="5639.66" Moneda="MXN" Total="6542.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="62130">
+  <cfdi:Emisor Nombre="CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS" Rfc="CPF6307036N8" RegimenFiscal="603" />
+  <cfdi:Receptor Rfc="KOM151201CD3" Nombre="KOMPAKTAR, S.A. DE C.V." UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 144 ZINAPECUARO" ValorUnitario="228.4483" Importe="228.45">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="228.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="36.55" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 145 PANINDICUARO" ValorUnitario="298.2759" Importe="298.28">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="298.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="47.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 146 ECUANDUREO" ValorUnitario="156.8966" Importe="156.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="156.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="25.10" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 147 OCOTLAN" ValorUnitario="192.2414" Importe="192.24">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="192.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 147 OCOTLAN" ValorUnitario="281.8966" Importe="281.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="281.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.10" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 440 QUERETARO ARCO - I+D: 430 MARTIN TEXMELUCAN" ValorUnitario="564.6552" Importe="564.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="564.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="90.34" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 430 MARTIN TEXMELUCAN - I+D: 440 QUERETARO ARCO" ValorUnitario="318.9655" Importe="318.97">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="318.97" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="51.03" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 430 MARTIN TEXMELUCAN - I+D: 443 ATLACOMULCO" ValorUnitario="663.7931" Importe="663.79">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="663.79" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="106.21" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 463 LIB. LA PIEDAD" ValorUnitario="117.2414" Importe="117.24">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="117.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="18.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 317 APASEO GDE - PALMILLAS" ValorUnitario="248.2759" Importe="248.28">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="248.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="39.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 318 PALMILLAS - APASEO GDE" ValorUnitario="116.3793" Importe="116.38">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="116.38" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="18.62" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="I+D: 139-CUAUTITLAN La Venta - Cuatitlán" ValorUnitario="113.7931" Importe="113.79">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="113.79" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="18.21" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="PINFRA: 102 Caseta Marquesa (Toluca - La Venta)" ValorUnitario="37.069" Importe="37.07">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="37.07" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.93" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="PINFRA: 0 Caseta Marquesa T2 (Lerma - Marquesa)" ValorUnitario="47.4138" Importe="47.41">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="47.41" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.59" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="PINFRA: 46 Caseta El Higueron (Jantelco - El Higueron)" ValorUnitario="154.3103" Importe="154.31">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="154.31" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24.69" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="4.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OSIPASS: 7 San Marcos" ValorUnitario="113.7931" Importe="455.17">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="455.17" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="72.83" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="6.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OSIPASS: 8 San Martín.Puebla" ValorUnitario="35.3448" Importe="212.07">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="212.07" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="33.93" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="2.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OSIPASS: 8 San Martín.Puebla" ValorUnitario="81.0345" Importe="162.07">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="162.07" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="25.93" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="3.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OSIPASS: 26 Amozoc" ValorUnitario="60.3448" Importe="181.03">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="181.03" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="28.97" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OSIPASS: 27 Esperanza." ValorUnitario="117.2414" Importe="117.24">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="117.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="18.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OSIPASS: 41 Salamanca" ValorUnitario="145.6897" Importe="145.69">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="145.69" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="23.31" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OSIPASS: 45 Fortín de las Flores" ValorUnitario="27.5862" Importe="27.59">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27.59" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.41" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OSIPASS: 116 CUITLAHUAC" ValorUnitario="95.6897" Importe="95.69">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="95.69" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15.31" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OSIPASS: 202 PALMILLAS BIS" ValorUnitario="75.00" Importe="75.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="75.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OSIPASS: 202 PALMILLAS BIS" ValorUnitario="150.8621" Importe="150.86">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="150.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24.14" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="2.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OHL: 616843008 T1 - Amazoc" ValorUnitario="98.2759" Importe="196.55">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="196.55" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="31.45" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OHL: 16843264 TULTEPEC" ValorUnitario="69.8276" Importe="69.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="69.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.17" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OHL: 16844544 CONMEX" ValorUnitario="50.00" Importe="50.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="50.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OHL: 16845568 T3 Nabor Carrillo" ValorUnitario="31.8966" Importe="31.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.10" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OHL: 16847360 T4 Chalco" ValorUnitario="72.4138" Importe="72.41">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="72.41" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.59" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OHL: 16847616 T5 Tultitlan" ValorUnitario="25.8621" Importe="25.86">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.14" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111602" Cantidad="1.00" ClaveUnidad="C62" Unidad="Servicio de peaje" Descripcion="OHL: 16852992 T7 Centro Cultural" ValorUnitario="31.0345" Importe="31.03">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31.03" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.97" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="902.34">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="902.34" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="50b27665-ae75-4e96-8e27-17b527a52ad4" FechaTimbrado="2019-08-12T08:10:10" RfcProvCertif="AUR100128NN3" SelloSAT="ZDwtCT/VU9uR6FukpWWOR4mC23c79tj0nJiPXYtJmeZCd1fOXCSQANhLdOwibLDnAbIly29XAw7KWI4O/2vu+yIZMo39/Y+AOLJnlT0Pw9r5MhqIo5gcCOF23KzGwLSltE5XaQmByh4YUWM3cJe8QAM9K5bcigllnclXxvRocO0Wr+Z4cfDZo49YWMqE0szW1z2Dh56z2o4CTrV2uh2UcOavZS0a1uDHvPk966V6mQjz72Uz467m/3aVRSkp4PnmnkK49WIOiYeyrqgGxTTKK1fW8YIHtsfSiEqL34fSdzsL7197ZSDYQ/84z278b9cQgvKWa1PNn3mLoTyLUNV5jQ==" SelloCFD="H3Lu1UNBcrRNq0+5eC+YvJR+xaqP9u/FVVwlOMv06bAgBNUGSpx8f4Rq5zZRC2Hpo2NRJNarfK8BXH/QiBjc46ecNT8zyz9Oqtrmg8EeOER6LkbJ4iXi4iq39ogtAzFkuzfzeXuX4t8up6wDdgzUhP97vU+cUSFeEjMHD/Hd08Fk89KSNwLZk1hOqNHWXGc0BcuVs1nUZYzFDCVAFm9CgybPThdYoVSQR3BOeb47srf5dxdvfT4TvtTJQqgYIj74Qrtf/rwREywbfcC942is6s9MCnOeVZYlsa9Muc//qTqJfoeXkjsD13NV7hXnHwgEQXPhvmgWlWOxtaNWkU3bTw==" NoCertificadoSAT="00001000000404624465" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

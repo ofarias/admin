@@ -1,0 +1,77 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="02350" MetodoPago="PUE" TipoDeComprobante="I" Total="37167.20" Moneda="MXN" Certificado="MIIEwjCCA6qgAwIBAgIUMDAwMDEwMDAwMDAzMDY1MTU0ODMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMjQxNTUxMjJaFw0xOTAzMjQxNTUyMDJaMIG7MRowGAYDVQQDExFKVUFOIEZFTElQRSBMT1BFWjEaMBgGA1UEKRMRSlVBTiBGRUxJUEUgTE9QRVoxGjAYBgNVBAoTEUpVQU4gRkVMSVBFIExPUEVaMQswCQYDVQQGEwJNWDEjMCEGCSqGSIb3DQEJARYUdmlyeXR1emFAaG90bWFpbC5jb20xFjAUBgNVBC0TDUxPSlU2MDA4MzFQOTAxGzAZBgNVBAUTEkxPWEo2MDA4MzFIREZQWE4wNTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAlEhsK1VQ7Ecp5mp1xYjifnRMpZTuNR7ys2i2dvaSRrxBqMeI9LDHnrbOF0ZImk2CjTYzamyk9o/qu93Zoxz+WU+rPipD8OWARFt8e1ighiYMQ8AwZLsNcaPkNyI9pcJj394fPijHVbcVfg0diEjfjO0e/kFuaANbVkRcIAQcenUCAwEAAaNwMG4wDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCA9gwEQYJYIZIAYb4QgEBBAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMEBggrBgEFBQcDAjAfBgNVHREEGDAWgRR2aXJ5dHV6YUBob3RtYWlsLmNvbTANBgkqhkiG9w0BAQUFAAOCAQEAscIU0iV1NHtJ0U+PjrfOLuCuu8mpCQNouU+8AtmFN7LvkDAfEFcBeDM9NN5s7NLqmWqfMQnlZNhD8Ag1xi87kM0bdgu8e5VdyWPrBQ8xg+nnjFKtlEHHdcCI4JlP2sLjEZ2xtoGSzhbxiGDUvW2Re9pQFdMxLGelaPAjFkMbz3CRwBKPDxilezw8+6JsJxqfrOgwQx88cYUhQ5sDMZlXgtYXLD2FqMbZyobsVEj3a3EQ3p4zyr6wjXoQUp1zQUAb5Zb8+OuiIMdtDScB3EQyk9nRJkJ4Ywv9IOGfzQUNgrrNklJLg7qOYXEvBG5EasQyVV05gM42sxASk8g5HlPmpg==" SubTotal="33185.00" NoCertificado="00001000000306515483" FormaPago="03" Sello="NyY9H2Cna9Nzj7g23Tors1cEUPPiX/qXHPdrOXwhY7d8KKLfQnqCa8btaMdTTrSM6lID+cFWpiuXjb3aq3pVD5gOc7py+CfaUTFJGsTs7w1WY9kEIKzKHc3wjbpofndE5MtOmndZZJl9qDiYTAgKUDzdiYfa5ilesfb9ystBMXc=" Fecha="2018-01-29T18:46:16" Folio="003096" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="LOJU600831P90" Nombre="JUAN FELIPE LOPEZ" RegimenFiscal="612"></cfdi:Emisor>
+  <cfdi:Receptor Rfc="IMI161007SY7" Nombre="IMPORTADORA MIZCO, S.A. DE C.V." UsoCFDI="P01"></cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78101800" NoIdentificacion="FOLIOS 635,653,654, 647, 612, 639, 634, 667, 666" Cantidad="9" ClaveUnidad="A9" Unidad="FLETE" Descripcion="FLETE LOCAL" ValorUnitario="1325.00" Importe="11925.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11925.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1908.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="11925.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.040000" Importe="477.00"></cfdi:Retencion>
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78101801" NoIdentificacion="FOLIOS 611,643, 652,670" Cantidad="4" ClaveUnidad="A9" Unidad="FLETE LOCAL" Descripcion="FLETE FUERA DEL AREA METROPOLITANA" ValorUnitario="1740.00" Importe="6960.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6960.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1113.60"></cfdi:Traslado>
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="6960.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.040000" Importe="278.40"></cfdi:Retencion>
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78101802" NoIdentificacion="FOLIOS 618, 673" Cantidad="2" ClaveUnidad="A9" Unidad="FLETE" Descripcion="FLETE LOCAL CAMION" ValorUnitario="2100.00" Importe="4200.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4200.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="672.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="4200.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.040000" Importe="168.00"></cfdi:Retencion>
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78101801" NoIdentificacion="FOLIO 655" Cantidad="1" ClaveUnidad="A9" Unidad="FLETE" Descripcion="FLETE FORANEO" ValorUnitario="2100.00" Importe="2100.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2100.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="336.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="2100.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.040000" Importe="84.00"></cfdi:Retencion>
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78101802" NoIdentificacion="FOLIO 642" Cantidad="1" ClaveUnidad="A9" Unidad="FLETE" Descripcion="FLETE FORANEO" ValorUnitario="3000.00" Importe="3000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="480.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="3000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.040000" Importe="120.00"></cfdi:Retencion>
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78101802" NoIdentificacion="FOLIOS 625,569" Cantidad="2" ClaveUnidad="A9" Unidad="FLETE" Descripcion="FLETE CAMION FUERA DEL AREA METROPOLITANA" ValorUnitario="2500.00" Importe="5000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="800.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="5000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.040000" Importe="200.00"></cfdi:Retencion>
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosRetenidos="1327.40" TotalImpuestosTrasladados="5309.60">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="002" Importe="1327.40"></cfdi:Retencion>
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5309.60"></cfdi:Traslado>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="5A940300-C015-42ED-8F58-C8733C7CB2FB" FechaTimbrado="2018-01-29T18:56:44" RfcProvCertif="SAT970701NN3" SelloCFD="NyY9H2Cna9Nzj7g23Tors1cEUPPiX/qXHPdrOXwhY7d8KKLfQnqCa8btaMdTTrSM6lID+cFWpiuXjb3aq3pVD5gOc7py+CfaUTFJGsTs7w1WY9kEIKzKHc3wjbpofndE5MtOmndZZJl9qDiYTAgKUDzdiYfa5ilesfb9ystBMXc=" NoCertificadoSAT="00001000000403258748" SelloSAT="TDmIltfiynG9zqKo3O4WcCO9LkGlkcOr4Ald5Zq3rqsfhl4F7oRWKhzxWzh/ykHxmkfDA45K7xsximtqFlm4a+4zSRTzz4NvbTYkTt4/JsbEHzjzSnjzJvFKRvl5J7tWGDf0Wo+Alz/jUwIFzFlXif4y+s01+pgWUvDtqVwU02lj/CnQWK9YhRe448e+ydSwapSkOJaVGoGpyAb9ZVX3VAj2rhNeHdyVnulAT/e7mJHZUCdnWd9vg3vTypsyqouphCm1ox+xOMmakibcf7zfjSJ9pbd54+MCnJ3HHj0VpTIdykoOk2fdnUQOhQxaegAFi6MYNFgUg2Ijbm6JcqB8Xw==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

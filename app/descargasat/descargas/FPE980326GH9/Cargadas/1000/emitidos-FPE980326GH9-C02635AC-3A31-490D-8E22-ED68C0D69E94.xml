@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="179323" fecha="2016-05-18T11:16:29" sello="j7/CQWTkzgLeV8NnafKcPrOcYlkcQfoz0H8vYTemrn1SpqD49aaCN5Fk90BdNM1cp414RNDVH2h4PhtNRi5SZv5MU0vn3UY+KKCL8BzfZuBL1myhniiYhxfS/cssjGuAv6PH3Ds5nzx1CQHj8cHr416sOnwkdYK8e6CFwlX2y7o=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="11560.07" TipoCambio="1.000000" Moneda="Pesos" total="13409.68" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="CRO97061954A" nombre="COMERCIAL ROSHFRANS S.A. DE C.V.">
+    <cfdi:Domicilio calle="AV.OTHON DE MENDIZABAL OTE" noExterior="84" colonia="NUEVA INDUSTRIAL VALLEJO" municipio="GUSTAVO A. MADERO" estado="D.F." pais="MEXICO" codigoPostal="7700" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="OREJERAS DE SEGURIDAD TC1807" valorUnitario="69.770000" importe="279.08" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="MANGAS PARA SOLDAR" valorUnitario="79.950000" importe="399.75" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="CAPUCHA PARA SOLDADOR CON FORRO AL INTER" valorUnitario="55.350000" importe="276.75" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="MANDIL DE MEZCLILLA 60 X 90" valorUnitario="44.280000" importe="221.40" />
+    <cfdi:Concepto cantidad="20.000" unidad="par" descripcion="GUANTE DE NITRILO NO.9 DERMA 51-811" valorUnitario="18.330000" importe="366.60" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="GUANTE DE NITRILO NO.7 DERMA 51-811" valorUnitario="18.330000" importe="366.60" />
+    <cfdi:Concepto cantidad="30.000" unidad="pz" descripcion="LENTES DE SEGURIDAD TRANSPARENTES DERMA" valorUnitario="13.530000" importe="405.90" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="MUÑEQUERA SENCILLA JYRSA 1060" valorUnitario="11.070000" importe="221.40" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="CASCO ROJO CON MATRACA INFRA IC-210" valorUnitario="63.280000" importe="632.80" />
+    <cfdi:Concepto cantidad="100.000" unidad="pz" descripcion="GUANTE DE PIEL TIPO ELECTRICISTA" valorUnitario="43.670000" importe="4367.00" />
+    <cfdi:Concepto cantidad="3.000" unidad="caja" descripcion="GUANTE DE TALEX NO.8 CAJA CON 100 PZ" valorUnitario="108.730000" importe="326.19" />
+    <cfdi:Concepto cantidad="2.000" unidad="paquete" descripcion="CUBRE BOCAS SENCILLO PAQ, CON 100PZ" valorUnitario="34.440000" importe="68.88" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="TAPONES AUDITIVOS CON ESTUCHE 3M ULTRAFI" valorUnitario="22.760000" importe="45.52" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="GUANTES PARA ACIDO NO.8 ADEX" valorUnitario="85.980000" importe="859.80" />
+    <cfdi:Concepto cantidad="2.000" unidad="caja" descripcion="CUBRE BOCAS DE CONCHA 3M CAJA C/20" valorUnitario="260.800000" importe="521.60" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="CINTA DE PRECAUCION (AMARILLA )" valorUnitario="49.200000" importe="196.80" />
+    <cfdi:Concepto cantidad="20.000" unidad="paquete" descripcion="NAVAJA PARA CUTER OLFA HB-5B DE 0.7 PAQ." valorUnitario="100.200000" importe="2004.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="1849.61">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1849.61" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="C02635AC-3A31-490D-8E22-ED68C0D69E94" FechaTimbrado="2016-05-18T11:16:47" noCertificadoSAT="00001000000301160463" selloCFD="j7/CQWTkzgLeV8NnafKcPrOcYlkcQfoz0H8vYTemrn1SpqD49aaCN5Fk90BdNM1cp414RNDVH2h4PhtNRi5SZv5MU0vn3UY+KKCL8BzfZuBL1myhniiYhxfS/cssjGuAv6PH3Ds5nzx1CQHj8cHr416sOnwkdYK8e6CFwlX2y7o=" selloSAT="nl0KVTNeYKyuSHhk1exRzKm3tyA3F7Xea9KBX4PLSCBZ6mefgV2FEV4Lp5NrovgPCW7/033gCv/jAp1zMehzI8CBMB8a8JPRfsDVUb4/ZAti4ESFBjNVHEUeKh5Is2SwX/IIL+zG7O4mkHI+9AmIJ0cSWA+5+hBbdStn/TUnpRc=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

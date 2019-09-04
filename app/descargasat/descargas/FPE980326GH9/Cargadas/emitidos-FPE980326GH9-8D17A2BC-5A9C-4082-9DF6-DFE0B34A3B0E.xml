@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="178655" fecha="2016-05-10T09:29:46" sello="fW5C8C84Q8hfI5kMHs1WnHz8d7o22w9IKSFIAH4dXKgyV67FW6LdTA3thxFd4C88Nd0F8yEJxkPFvPqTXB3wCPBPro+MrT8ZQTHQLWLduzQOH5+eM6gQDoMEjMlsPn1usIAnK0rAntxLkr33mlGrRUlaW2DH9JP/SFJaBN2/0/U=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="7766.66" TipoCambio="1.000000" Moneda="Pesos" total="9009.33" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="IFS760816V16" nombre="ISS FACI.LITY SERVICES SA DE C.V.">
+    <cfdi:Domicilio calle="AVENIDA 1 DE MAYO #120 4TO. PISO OFIC 401" colonia="SAN ANDRES ATOTO" localidad="NAUCALPAN DE JUAREZ" municipio="NAUCALPAN DE JUAREZ" estado="MEXICO" pais="MEXICO" codigoPostal="53350" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="10.000" unidad="PIEZA" descripcion="SILICON SISTA F101 ANTIHONGO TRANS" valorUnitario="50.980000" importe="509.80" />
+    <cfdi:Concepto cantidad="10.000" unidad="PIEZA" descripcion="SILICON DOW CORNING BAÑO-COCINA BCO 300M" valorUnitario="52.980000" importe="529.80" />
+    <cfdi:Concepto cantidad="10.000" unidad="PIEZA" descripcion="AFLOJATODO WD-40 11OZ 311GMS" valorUnitario="79.200000" importe="792.00" />
+    <cfdi:Concepto cantidad="30.000" unidad="METRO" descripcion="FRANELA GRIS METRO" valorUnitario="10.580000" importe="317.40" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="CUTTER TRUPER CUT-6 16974 PROF ALMA M" valorUnitario="25.030000" importe="50.06" />
+    <cfdi:Concepto cantidad="30.000" unidad="piezas" descripcion="brasso antigrasa c/atomizador 650ml" valorUnitario="45.000000" importe="1350.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="DIELECTRICO 20LTS." valorUnitario="1521.000000" importe="1521.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="HILO NYLON PESCA NATURAL .60" valorUnitario="19.500000" importe="19.50" />
+    <cfdi:Concepto cantidad="10.000" unidad="PIEZA" descripcion="PEGAMENTO RESISTOL &quot;NO MAS CLAVOS&quot; 360GR" valorUnitario="65.200000" importe="652.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="PIEZA" descripcion="CEPILLO ALAMBRE PERFECT H00018 3X17 C/MA" valorUnitario="23.660000" importe="118.30" />
+    <cfdi:Concepto cantidad="3.000" unidad="PIEZA" descripcion="BOQUILLA TURNER HT-802 CON CHISPA" valorUnitario="465.000000" importe="1395.00" />
+    <cfdi:Concepto cantidad="30.000" unidad="piezas" descripcion="lija fandelli agua 180 c-99 3006672" valorUnitario="5.690000" importe="170.70" />
+    <cfdi:Concepto cantidad="15.000" unidad="PZA" descripcion="LIJA FANDELLI ESMERIL J-86 G-80" valorUnitario="11.370000" importe="170.55" />
+    <cfdi:Concepto cantidad="15.000" unidad="PZA" descripcion="LIJA FANDELLI ESMERIL J-73 FINO" valorUnitario="11.370000" importe="170.55" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="1242.67">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1242.67" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="fW5C8C84Q8hfI5kMHs1WnHz8d7o22w9IKSFIAH4dXKgyV67FW6LdTA3thxFd4C88Nd0F8yEJxkPFvPqTXB3wCPBPro+MrT8ZQTHQLWLduzQOH5+eM6gQDoMEjMlsPn1usIAnK0rAntxLkr33mlGrRUlaW2DH9JP/SFJaBN2/0/U=" FechaTimbrado="2016-05-10T09:30:05" UUID="8d17a2bc-5a9c-4082-9df6-dfe0b34a3b0e" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="Jl3vfLGtdKADOLjdxOlVuGMkgwBBPfSzccbrC6p4c1W180pWpd8a4ZXx2VUdXisRjN5AEIjiWb9J4UmfC1M6apeL6zG6tDcDBhAlPmtJcB6UMmrLwzfIRjng3TWiZHrPN3hbOXIpmHExuHCYs94SHyzhyY2xBPJaOIOnY93tzMM=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

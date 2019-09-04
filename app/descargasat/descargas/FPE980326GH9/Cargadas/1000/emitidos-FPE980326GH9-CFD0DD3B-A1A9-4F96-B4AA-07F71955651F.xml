@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="181859" fecha="2016-06-17T11:56:18" sello="KK5zWmIiLEcY74wma48r+pEn725dF18i+lrrMXJoXpihh1wIaj3/tQpmhRBDp4fzXgcaiVpMmfAoZNOZPyjE218PM/u2fpCL6l/WOyYI8PuWl6gJHMKN7kaTE1Rh8/x5RmkgfkzxWlC9SL775ucqk3PI6hTK6CZklFKwMcieSZI=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="9549.48" TipoCambio="1.000000" Moneda="Pesos" total="11077.40" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="VME840820RT9" nombre="IMBERA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="CARRETERA MEXICO TEQUISQUIAPAN" noExterior="KM. 3.2" colonia="ZONA INDUSTRIAL" localidad="SAN JUAN DEL RIO" municipio="SAN JUAN DEL RIO" estado="QUERETARO" pais="MEXICO" codigoPostal="76803" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="15.000" unidad="pz" descripcion="ADAPTADOR OD 1/4NPT A 1/4M.4-4FBU-S PARK" valorUnitario="70.000000" importe="1050.00" />
+    <cfdi:Concepto cantidad="6.000" unidad="pz" descripcion="DADO TRUPER 13585 D-5218 3/8&quot;-9/16&quot;" valorUnitario="24.620000" importe="147.72" />
+    <cfdi:Concepto cantidad="15.000" unidad="KILO" descripcion="BOLSA PLASTICO 20X30 TRANSPARENTE" valorUnitario="35.960000" importe="539.40" />
+    <cfdi:Concepto cantidad="16.000" unidad="pz" descripcion="ESPEJO TRUPER 14544 TELESCOPICO" valorUnitario="62.500000" importe="1000.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="EXTENSION URREA 4763 1/4&quot;X14&quot; P/MATRACA" valorUnitario="94.500000" importe="94.50" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="LIQUIDO DETECTOR FUGAS VISO GLOW 236M" valorUnitario="87.500000" importe="875.00" />
+    <cfdi:Concepto cantidad="14.000" unidad="pz" descripcion="ALMOROLL TEMPO PROTECTAN PUM 288ML" valorUnitario="31.120000" importe="435.68" />
+    <cfdi:Concepto cantidad="6.000" unidad="pz" descripcion="CINTA TRANSPARENTE TC3880 48X150MTS" valorUnitario="23.740000" importe="142.44" />
+    <cfdi:Concepto cantidad="9.000" unidad="pz" descripcion="BROCA PRETUL 20700 JBCP-4 C/4PZ CONCRETO" valorUnitario="33.000000" importe="297.00" />
+    <cfdi:Concepto cantidad="15.000" unidad="pz" descripcion="REPUESTO TRUPER 16953 REP-NM-5" valorUnitario="11.000000" importe="165.00" />
+    <cfdi:Concepto cantidad="12.000" unidad="pz" descripcion="ADAPTADOR URREA 50012 P/DESATORNILLADOR" valorUnitario="43.000000" importe="516.00" />
+    <cfdi:Concepto cantidad="6.000" unidad="pz" descripcion="ESCALERA CUPRUM 429-02N TIJERA" valorUnitario="352.760000" importe="2116.56" />
+    <cfdi:Concepto cantidad="6.000" unidad="pz" descripcion="FOCO AHORRADOR 20WTS ESPIRAL LUZ DE DIA" valorUnitario="29.620000" importe="177.72" />
+    <cfdi:Concepto cantidad="16.000" unidad="pz" descripcion="DESARMADOR TRUPER 14053 DP-1/8X4 CRUZ" valorUnitario="24.500000" importe="392.00" />
+    <cfdi:Concepto cantidad="13.000" unidad="pz" descripcion="DESARMADOR TRUPER 14017 DG-1/8X4 PLANO" valorUnitario="22.500000" importe="292.50" />
+    <cfdi:Concepto cantidad="8.000" unidad="pz" descripcion="PEGAMENTO RESISTOL 21ML USO GENERAL" valorUnitario="21.820000" importe="174.56" />
+    <cfdi:Concepto cantidad="17.000" unidad="pz" descripcion="CUNA CON MANGO CHICA" valorUnitario="2.600000" importe="44.20" />
+    <cfdi:Concepto cantidad="9.000" unidad="pz" descripcion="MARTILLO STK 24S BOLA 24 OZ" valorUnitario="108.000000" importe="972.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="LIJA FANDELLI AGUA G-80 C-99" valorUnitario="5.860000" importe="117.20" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="1527.92">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1527.92" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="CFD0DD3B-A1A9-4F96-B4AA-07F71955651F" FechaTimbrado="2016-06-17T11:59:18" noCertificadoSAT="00001000000301160463" selloCFD="KK5zWmIiLEcY74wma48r+pEn725dF18i+lrrMXJoXpihh1wIaj3/tQpmhRBDp4fzXgcaiVpMmfAoZNOZPyjE218PM/u2fpCL6l/WOyYI8PuWl6gJHMKN7kaTE1Rh8/x5RmkgfkzxWlC9SL775ucqk3PI6hTK6CZklFKwMcieSZI=" selloSAT="sD50UXkR64RG8Sd81hXYTjiRMsxqw6O+aUZMgBGrF9WlKJECL8kHDRqTHUGVRDL286DqVAksYmUOgNKlwDshrrq0JT9QO8M+X+8luLOmPT2BOBJSi0j5pymQvQerJHhbkcSLtrMIYdfSeHoDs2HXjOf+0MleMCFT0ACTJCjGQlg=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

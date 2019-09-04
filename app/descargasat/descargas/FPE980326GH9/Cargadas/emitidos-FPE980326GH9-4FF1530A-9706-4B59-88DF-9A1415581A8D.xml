@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="179070" fecha="2016-05-13T17:14:28" sello="hE1FeAMYDujvmVY12P7kBESJ50zGpVkSP/kjmcepQ95NXTfN+v1yJBt4bOrSTZtDq54QwnjKsaKhPIUfm7YgIGoCJlQjXRSBZPNHe5DDfY3nK26JauQj0N0Ng0zHhcHtTfHLqnzz0UFsHH/eFEvjq3QHDmlCaHlSSqfm62psMKs=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="13405.76" TipoCambio="1.000000" Moneda="Pesos" total="15550.68" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="IFS760816V16" nombre="ISS FACILITY SERVICES S.A. DE C.V.">
+    <cfdi:Domicilio calle="AVENIDA 1 DE MAYO #120" noExterior="4 PISO" noInterior="OFIC.401" colonia="SAN ANDRES ATOTO" localidad="." municipio="NAUCALPAN DE JUAREZ" estado="MEXICO" pais="MEXICO" codigoPostal="53500" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000" unidad="PIEZA" descripcion="MULTIMETRO TRUPER 10404 MUT-202 DIGITAL" valorUnitario="654.060000" importe="654.06" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="PINZA TRUPER T203-7 17315 PUNTA Y CORTE" valorUnitario="72.840000" importe="72.84" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="PINZA TRUPER T202-6 17312 CORTE DIAGONAL" valorUnitario="66.120000" importe="66.12" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="PINZA TRUPER T201-8 17304 ELECTRICISTA 8" valorUnitario="114.320000" importe="114.32" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="PINZA DE CHOFER 8&quot; TRUPER 17301 PCH-8" valorUnitario="66.120000" importe="66.12" />
+    <cfdi:Concepto cantidad="1.000" unidad="jgo" descripcion="Desarmador urrea 9800A pta.plana c/6pzas" valorUnitario="423.150000" importe="423.15" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="DESARMADORES URREA 9600A 6PZAS" valorUnitario="308.500000" importe="308.50" />
+    <cfdi:Concepto cantidad="1.000" unidad="PZ" descripcion="LLAVES ALLEN TRUPER COD.15545 ALL13P" valorUnitario="60.030000" importe="60.03" />
+    <cfdi:Concepto cantidad="1.000" unidad="PZ" descripcion="AUTOCLE TRUPER JD1/4X5P COD.18235" valorUnitario="778.900000" importe="778.90" />
+    <cfdi:Concepto cantidad="1.000" unidad="PIEZA" descripcion="MARTILLO DE BOLA TRUPER 16902 MB-16" valorUnitario="109.830000" importe="109.83" />
+    <cfdi:Concepto cantidad="1.000" unidad="PZ" descripcion="ARCO TRUPER ATT-12 COD.10234" valorUnitario="123.280000" importe="123.28" />
+    <cfdi:Concepto cantidad="1.000" unidad="PZ" descripcion="MANIFOLD REFIGERACION" valorUnitario="1025.550000" importe="1025.55" />
+    <cfdi:Concepto cantidad="1.000" unidad="PZ" descripcion="ADAPTADOR TANQUE DE REFIGERACION R410" valorUnitario="106.460000" importe="106.46" />
+    <cfdi:Concepto cantidad="1.000" unidad="PZ" descripcion="LLAVE SERVICIO REFRIGERACION(MATRACA)" valorUnitario="184.920000" importe="184.92" />
+    <cfdi:Concepto cantidad="1.000" unidad="PZ" descripcion="PERICO TRUPER PET-6C COD.15505" valorUnitario="77.330000" importe="77.33" />
+    <cfdi:Concepto cantidad="1.000" unidad="PZ" descripcion="LLAVE TRUPER COMBINADA JC-11P-E COD15781" valorUnitario="509.940000" importe="509.94" />
+    <cfdi:Concepto cantidad="1.000" unidad="PZ" descripcion="BOMBA VACIO AVALY 1/2HP" valorUnitario="7475.260000" importe="7475.26" />
+    <cfdi:Concepto cantidad="1.000" unidad="PZ" descripcion="JUEGO MANGUERAS PARA R410" valorUnitario="952.620000" importe="952.62" />
+    <cfdi:Concepto cantidad="1.000" unidad="PIEZA" descripcion="LLAVE STELSON TRUPER 15835 STI-8 IND 8&quot;" valorUnitario="134.480000" importe="134.48" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="CAJA HERRAMIENTAS CHP-20X 10380 TRUPPER" valorUnitario="162.050000" importe="162.05" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="2144.92">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="2144.92" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="hE1FeAMYDujvmVY12P7kBESJ50zGpVkSP/kjmcepQ95NXTfN+v1yJBt4bOrSTZtDq54QwnjKsaKhPIUfm7YgIGoCJlQjXRSBZPNHe5DDfY3nK26JauQj0N0Ng0zHhcHtTfHLqnzz0UFsHH/eFEvjq3QHDmlCaHlSSqfm62psMKs=" FechaTimbrado="2016-05-13T17:14:51" UUID="4ff1530a-9706-4b59-88df-9a1415581a8d" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="A0pvHjLiWfUEvXnL/XBJiFizNJBD8r16nHA2ZPqsmPmoMM1gttBY+/82Go3tFI/8iyX8aZhxusGzvuJg5yuzzkTBJpLGThbfpTHAd5FBCKC9NpvHU72HID9O2ilCqvAtepjWOvscwYsynRUDyEWX/B8cfGFhrqrDSeG6fDgEd48=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

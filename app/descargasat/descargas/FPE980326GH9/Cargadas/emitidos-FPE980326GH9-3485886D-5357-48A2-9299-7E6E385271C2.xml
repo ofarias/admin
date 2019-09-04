@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="NRB" folio="26647" fecha="2016-05-02T10:00:16" sello="GIEPn5S4wLaOhTDswnAvfmYHMDEE1rAbUMgXUvusRNf7pHSdcUlLFjqJ7zbwsL+TjcfPQBiIHmP2dbNlF/tGK2v/Eo/4IJPup+0zwME4ykDgo5zX/t7H9dig34kjKfRWqsCjZmAcGrjr1DU2i//5F4lrw6No67MgY0pMXOUoXWI=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="1423.44" TipoCambio="1.000000" Moneda="Pesos" total="1651.19" tipoDeComprobante="egreso" metodoDePago="NO IDENTIFICADO" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="NWM9709244W4" nombre="NUEVA WAL MART DE MEXICO,S. DE R.L. DE C.V.">
+    <cfdi:Domicilio calle="NEXTENGO" noExterior="78" colonia="SANTA CRUZ" localidad="ACAYUCAN" municipio="AZCAPOTZALCO" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="02770" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="AFILADOR CUCHILLA STANLEY 16050 WM-FER-G" valorUnitario="95.430000" importe="95.43" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="PASTA P/SOLDAR 604 SOLVER WM-FER-GEN-212" valorUnitario="29.690000" importe="29.69" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="ACEITE HIDR. STK 134005/ACT-X WM-FER-GEN" valorUnitario="63.180000" importe="63.18" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="ACEITERA TRUPER ACEF-300 14872 300ML" valorUnitario="37.110000" importe="37.11" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="ABRAZADERA SIN FIN 2&quot; 24/2046 WM-FER-GEN" valorUnitario="14.840000" importe="148.40" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="ABRAZADERA STK MINI-6 1/2 A 3/4&quot;" valorUnitario="2.260000" importe="22.60" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="ABRAZADERA AC. INOX. MINI 3/8X5/8 MINI-4" valorUnitario="2.260000" importe="22.60" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="ABRAZADERA GALVANIZADA C/TORNILLO 1&quot;" valorUnitario="9.010000" importe="90.10" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="AIRE COMPRIMIDO TORNADO WM-FER-GEN-0142" valorUnitario="127.240000" importe="254.48" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="CONTACTO QUINZIÑO SENCILLO" valorUnitario="26.510000" importe="132.55" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="ABRAZADERA SIN FIN 3&quot; 40/2047 WM-FER-GEN" valorUnitario="16.970000" importe="84.85" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="ABRAZADERA SIN FIN N.60 4&quot;/2048 WM-FER-G" valorUnitario="19.090000" importe="95.45" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="CONECTOR MANGU Y1 1/2 TPR CFM-1/2B WM-FE" valorUnitario="33.930000" importe="169.65" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="APAGADOR ESCALERA 46003 SENCILLO WM-FER-" valorUnitario="16.380000" importe="81.90" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="CONECTOR SENCILLO 1/2 TPR CF-1/2B WM-FER" valorUnitario="19.090000" importe="95.45" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="227.75">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="227.75" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="3485886D-5357-48A2-9299-7E6E385271C2" FechaTimbrado="2016-05-02T10:00:16" noCertificadoSAT="00001000000301160463" selloCFD="GIEPn5S4wLaOhTDswnAvfmYHMDEE1rAbUMgXUvusRNf7pHSdcUlLFjqJ7zbwsL+TjcfPQBiIHmP2dbNlF/tGK2v/Eo/4IJPup+0zwME4ykDgo5zX/t7H9dig34kjKfRWqsCjZmAcGrjr1DU2i//5F4lrw6No67MgY0pMXOUoXWI=" selloSAT="U1i5liBCRddReSBOj4HKLqgydgLrolYBfzr13+I9ljcqN9M3lCDMjg2QgVMdvZyJcTOVQfvxh3TKFH1aOPQzBjBeBQZmUtZcNJRHUMUGHpv9z801ZB2cJahY7aQn+o/tbOVQDslN+5zXlHlaiVdjf2gYOgWbBOuIf0kzdI9cReI=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

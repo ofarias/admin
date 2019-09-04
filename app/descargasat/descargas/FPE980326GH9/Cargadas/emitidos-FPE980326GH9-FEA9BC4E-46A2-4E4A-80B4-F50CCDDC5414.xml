@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="E" folio="891" fecha="2015-01-05T14:53:43" sello="agcyzwQs9OYpJ6f0o/PlkSGuTPXkbMupSjQq+hocQLsAZiS2JyqdBHSamRqMIqyz5gF7seOWp3VzuELxXWgQfl7be2y78SsCWfFKXHgDyQpmjB4WrKo+zKQJAjjtPPEeyS0yd3pVLKmseiGeNMg8RpmM1w7Cjxi/ui9DO7UH1cs=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="548.94" Moneda="MXN" total="636.77" tipoDeComprobante="ingreso" metodoDePago="TRANSFERENCIA,BANCO AZTECA" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MÉXICO" NumCtaPago="0252">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO, S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14" noInterior="a" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA DE BAZ" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MÉXICO" pais="México" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="Persona Moral" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="TAZ960904V78" nombre="TV AZTECA S A B DE C V">
+    <cfdi:Domicilio calle="PERIFERICO SUR" noExterior="4121" colonia="FUENTES DEL PEDREGAL" localidad="TLALPAN" municipio="TLALPAN" estado="DISTRITO FEDERAL" pais="México" codigoPostal="14141" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="2" unidad="pieza" descripcion="Corporativos Y Oficina GENERICO" valorUnitario="274.47" importe="548.94" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="87.83">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="87.83" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="FEA9BC4E-46A2-4E4A-80B4-F50CCDDC5414" FechaTimbrado="2015-01-05T14:53:45" selloCFD="agcyzwQs9OYpJ6f0o/PlkSGuTPXkbMupSjQq+hocQLsAZiS2JyqdBHSamRqMIqyz5gF7seOWp3VzuELxXWgQfl7be2y78SsCWfFKXHgDyQpmjB4WrKo+zKQJAjjtPPEeyS0yd3pVLKmseiGeNMg8RpmM1w7Cjxi/ui9DO7UH1cs=" noCertificadoSAT="00001000000202865018" selloSAT="JGBiD+OaQ2ydUkzimzPVxyBJT92xvTmToPmAEGI6LE54Id+eX74vOO2+o9KCNQuvn3/Y0CNrA+ZKklM/P4kVCo0sJReB0zaGom745b65t0oXsVK/jK1SvJwWGYvanKOgA4Zatzcx8phKelC6T5xNPnIgaSWDbMduGH93Ug9EzXI=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

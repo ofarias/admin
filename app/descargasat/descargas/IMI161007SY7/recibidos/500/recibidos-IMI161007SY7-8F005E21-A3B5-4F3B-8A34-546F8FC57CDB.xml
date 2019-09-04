@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIEhTCCA22gAwIBAgIUMDAwMDEwMDAwMDAzMDYyOTc4NDYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMDkxODUwMjRaFw0xOTAzMDkxODUwMjRaMIHRMSowKAYDVQQDEyFNQVJJQSBFVUdFTklBIEFSUkVET05ETyBNQUxET05BRE8xKjAoBgNVBCkTIU1BUklBIEVVR0VOSUEgQVJSRURPTkRPIE1BTERPTkFETzEqMCgGA1UEChMhTUFSSUEgRVVHRU5JQSBBUlJFRE9ORE8gTUFMRE9OQURPMRYwFAYDVQQtEw1BRU1FOTIwNjA4MzU1MRswGQYDVQQFExJBRU1FOTIwNjA4TURGUkxHMDExFjAUBgNVBAsTDW1hcmlhIGV1Z2VuaWEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIEbCXXafviJgM4CXu72FW/8BBEsn+7AMBzBw9MO36wKI8ulKGdS+3Ix3TQYCHVwv3KtNESQcf5bUqeJu4OUimHfCzzaX4+9Q15tdjE1bph3H+XHwHqAUa0+0E7mo0OTMe3un116xQh6/SPKVElSOkNq1oHTigWzX2JgmzfrUegZAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQAUtGAMx0UqluwPxE1B9tYqL0r7cZ9C2b/vBglh3NlFoISA+6Kbc0F0H/QvfJ0vK11s5/bLZulVQ7dEAKU/O8F0Km6RcY07uNCtBNdFF7Ya6FjoRS4G9RRvCXue3rMb6yig0ey33l3swEo9z38XSiCCHupMJA72yzFjuKQi64FiGrYAptKiib7H0wk7ln5Z9xvIVKOlkuHUQXY51t9OUVrDoia5tRX3L/k+X/j6L0abKpt8AH4d/u7ugmV4xmuUvd9Gu6vcQtIFvz2wOHnxyeurFnWTgNSVTebjKalHBPUwFIDkX/VtuFPZap9h6ExOLUq09lFB4ChOs/HtnEXFpQvh" CondicionesDePago="Contado" Fecha="2019-01-07T11:29:31" Folio="1414" FormaPago="01" LugarExpedicion="54030" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000306297846" Sello="NgNwv6Gz/dtSe1YUemf9tNvwZne8yAthqWX1aIiZiU9kC6ZWT6R28RnGd7z75O/cxJv4+Vnu8v06BfMo2GVaY4KgPJ+tN5iSLCJV00kmZLRfGY1e/iwyGswY/ugc0nQqnVXtJQ2O/ACz6kHXzXmxy8CAlKDQsAGDZpZq5EsGIcQ=" Serie="A" SubTotal="104" TipoDeComprobante="I" Total="120.64" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Nombre="MARIA EUGENIA ARREDONDO MALDONADO" RegimenFiscal="621" Rfc="AEME920608355" />
+  <cfdi:Receptor Nombre="IMPORTADORA MIZCO S.A C.V." Rfc="IMI161007SY7" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="52152202" ClaveUnidad="H87" Descripcion="ESCURRIDOR C/PORTACUBIERTOS FERPLAST" Importe="104.000000" NoIdentificacion="7501972400421" Unidad="PZA" ValorUnitario="104">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="104.000000" Importe="16.64" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="16.64">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="16.64" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2019-01-07T11:29:37" NoCertificadoSAT="00001000000402747854" RfcProvCertif="EFA100217SU5" SelloCFD="NgNwv6Gz/dtSe1YUemf9tNvwZne8yAthqWX1aIiZiU9kC6ZWT6R28RnGd7z75O/cxJv4+Vnu8v06BfMo2GVaY4KgPJ+tN5iSLCJV00kmZLRfGY1e/iwyGswY/ugc0nQqnVXtJQ2O/ACz6kHXzXmxy8CAlKDQsAGDZpZq5EsGIcQ=" SelloSAT="JrCELZLux4HAQ5d8VX/Yr8TQj+X5tOglLlEHfNNV6g9wVDloN7rSd2KKQhOltmT7AlgUlrnfuUBsgKGz6cgHWlkNdbs+3nnZo+9SIuEtyQ7HnMv89dxD3mJeL8ckWRezq0QM5skduamUECbGcC0+0qHbhpUhZdWE/m6/D0V0nBWKRpmRcEMuv7zOk9ri/ZoMAXTrxQQ2PefjBucCYEbkFt1WN303bsg1q6GCgdXazhku5hd17zKWritC+lt7m8o1X3ZUiI+xvyDqLmc8jklaIoEXHk0/jcVdYWmOJfSjH2IiYtkFywxdIvo6CR1gi9UzXww1TyQSJ3/w/9qeZ7SW4A==" UUID="8F005E21-A3B5-4F3B-8A34-546F8FC57CDB" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="NRB" folio="26764" fecha="2016-05-12T16:24:10" sello="hbuKGBMVZkO3BVYLOupSupivRGmP4+QKtxxAG7VXIhV5aI641pJlbeq10lalEasgLVfN02EKHd9UkKopgfz0Ij4lquu0B5MX92h3L97UK/0Ru3S/E6/2opPmRZRJio9H0G4sB7314/Y6onzBoPwHWVjam3/yE/X4dfx5UhhzzMU=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="27671.90" TipoCambio="1.000000" Moneda="Pesos" total="32099.40" tipoDeComprobante="egreso" metodoDePago="No identificado" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="PHI830429MG6" nombre="EL PALACIO DE HIERRO, S.A. DE C.V.">
+    <cfdi:Domicilio calle="DURANGO # PROV. 1024540" noExterior="230" colonia="ROMA" localidad="CUAUHTEMOC" municipio="CUAUHTEMOC" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06700" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="ABRAZADERA SIN FIN # 10 44235" valorUnitario="4.200000" importe="42.00" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="ABRAZADERA SIN FIN 3/4" valorUnitario="4.200000" importe="42.00" />
+    <cfdi:Concepto cantidad="50.000" unidad="pz" descripcion="ABRAZADERA UÑA 13MM 1/2&quot;" valorUnitario="0.570000" importe="28.50" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="AFLOJATODO WD-40 11OZ 311GMS" valorUnitario="62.760000" importe="313.80" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="AIRE COMPRIMIDO" valorUnitario="110.700000" importe="553.50" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="ALAMBRE GALVANIZADO CAL.10 KILO" valorUnitario="19.350000" importe="58.05" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="ALAMBRE GALVANIZADO CAL.14XKILO 3013408" valorUnitario="20.170000" importe="60.51" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="ARENA ENCOSTALADA" valorUnitario="21.210000" importe="42.42" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="ARMELLA CERRADA TRUPER 44376" valorUnitario="69.000000" importe="276.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="ASIENTO IDEAL STD M230 LIDER ALARG S/TAP" valorUnitario="279.740000" importe="1118.96" />
+    <cfdi:Concepto cantidad="15.000" unidad="pz" descripcion="BASE DICROICO REDONDA" valorUnitario="3.470000" importe="52.05" />
+    <cfdi:Concepto cantidad="30.000" unidad="pz" descripcion="BISAGRA HERMEX BC-301P 3&quot; CABNEZA PLANA" valorUnitario="11.000000" importe="330.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BISAGRA LATONADA CUADRADA 2 1/2" valorUnitario="5.830000" importe="116.60" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BROCA AV 1/16&quot;" valorUnitario="6.780000" importe="135.60" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="BROCA AV 1/2&quot;" valorUnitario="48.620000" importe="486.20" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BROCA AV 1/4" valorUnitario="12.470000" importe="249.40" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BROCA AV 3/16&quot;" valorUnitario="8.490000" importe="169.80" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BROCA AV 3/32" valorUnitario="6.360000" importe="127.20" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BROCA AV 3/8&quot; 6300234" valorUnitario="29.390000" importe="587.80" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BROCA AV 5/32&quot;" valorUnitario="6.360000" importe="127.20" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BROCA AV 7/32" valorUnitario="10.600000" importe="212.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BROCA CONCRETO 1/4X4&quot;" valorUnitario="4.630000" importe="92.60" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="BROCA PLANA BPT-7/8&quot; TRUPER 11381" valorUnitario="20.000000" importe="100.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="BROCA TRUPER BPT-1-1/2&quot; 11393" valorUnitario="24.000000" importe="120.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="BROCA TRUPER PLANA BPT-1 1&quot; 1384" valorUnitario="21.000000" importe="105.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="BROCA TRUPER PLANA BPT-1/2 1/2&quot; 11372" valorUnitario="15.000000" importe="75.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="BROCA TRUPER PLANA BPT-1/4 1/4&quot;" valorUnitario="15.000000" importe="75.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="BROCA VIDRIO AZULEJO TRUPER 11702" valorUnitario="20.000000" importe="100.00" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="CANDADO PHILLIPS 112GL ZAMAK CLATON" valorUnitario="35.020000" importe="350.20" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="CERRADURA PHILIPS 0250-C P/MUEBLE" valorUnitario="67.980000" importe="1359.60" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="CERRADURA PHILIPS 0800-LD P/PTA ABATIR" valorUnitario="156.020000" importe="468.06" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="CERRADURA PHILIPS RECAMARA U56GAMA CROMO" valorUnitario="124.140000" importe="620.70" />
+    <cfdi:Concepto cantidad="30.000" unidad="pz" descripcion="CERRADURA PHILLIPS 0021-C 3017868" valorUnitario="27.190000" importe="815.70" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="CERRADURA PHILLIPS 0800-FI IZQUIERDA" valorUnitario="144.410000" importe="433.23" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="CIERRAPTA PHILLIPS HIDRA ALUM 1404/70K" valorUnitario="295.280000" importe="1476.40" />
+    <cfdi:Concepto cantidad="100.000" unidad="pz" descripcion="CINCHO PLASTICO 20CMS" valorUnitario="0.300000" importe="30.00" />
+    <cfdi:Concepto cantidad="100.000" unidad="pz" descripcion="CINCHO PLASTICO 30CMS" valorUnitario="0.480000" importe="48.00" />
+    <cfdi:Concepto cantidad="25.000" unidad="pz" descripcion="CINTA AISLAR 3M SCOTCH SUPER 33" valorUnitario="48.740000" importe="1218.50" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="CINTA SEGURIDAD AMARILLO/NEGRO 4&quot; MARCAG" valorUnitario="184.500000" importe="922.50" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="CLAVO P/PISTOLA NEUMA 15016 CAL16 2&quot;" valorUnitario="135.000000" importe="540.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="CLAVO P/PISTOLA NEUMA 15013 1 1/2 2500P" valorUnitario="105.000000" importe="420.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="CLAVO P/PISTOLA NEUMAT CALI18 3/4 5000PZ" valorUnitario="42.000000" importe="168.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="CLAVO SIN CABEZA 038MM 1 1/2&quot;" valorUnitario="29.000000" importe="29.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="CLAVO SIN CABEZA 050MM 2&quot;" valorUnitario="29.000000" importe="29.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="CLAVO SIN CABEZA 19MM 3/4&quot;" valorUnitario="29.000000" importe="29.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="CORREDERA DUCASE ESMAL/BCA 40CM 2 PZS" valorUnitario="19.400000" importe="388.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="CORTA CIRCULOS TRUPER KIT-14 14PZAS" valorUnitario="120.000000" importe="120.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="COSMETICO LOCTITE P/ BANDAS EN AEROSOL" valorUnitario="54.910000" importe="274.55" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="CUCHARA ALBA BELLOTA 5852-09 NO.09" valorUnitario="127.160000" importe="254.32" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="DIELECTRICO" valorUnitario="1476.050000" importe="1476.05" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="DISCO AUS 751 4-1/2" valorUnitario="23.580000" importe="117.90" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="DISCO AUS. 390 CORTE METAL 115X3X22.2" valorUnitario="23.390000" importe="116.95" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="DISCO AUS. 774 DESBASTE METAL 115X6X22.2" valorUnitario="35.510000" importe="71.02" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="DISCO DIAMANTE MARMOL TRUPER 12977" valorUnitario="89.000000" importe="445.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="ESPUMA POLIURETANO TOUCH'N" valorUnitario="54.080000" importe="270.40" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="FORMON STANLEY 16300 JGO 3PZAS" valorUnitario="209.530000" importe="419.06" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="GANCHO PERCHERO 403 DOBLE CROMADO" valorUnitario="31.880000" importe="637.60" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="GRABA ENCOSTALADA" valorUnitario="21.210000" importe="42.42" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="JALADERA BOTON CROMADA" valorUnitario="10.090000" importe="201.80" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="JUNTA PROEL 3005959" valorUnitario="9.010000" importe="45.05" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="LINTERNA LUMENES RECARG TRUPER 10614" valorUnitario="235.000000" importe="940.00" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="MATRACA URREA 13MM 5449 CABEZA PERA" valorUnitario="311.170000" importe="933.51" />
+    <cfdi:Concepto cantidad="30.000" unidad="pz" descripcion="PASADOR PHILLIPS SOBREPONER 35-C 067MM" valorUnitario="19.530000" importe="585.90" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="PASADOR PHILLIPS SOBREPONER 36-C 104MM" valorUnitario="27.680000" importe="553.60" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="PEGA AZULEJO CREST BLANCO" valorUnitario="92.150000" importe="460.75" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="PEGAMENTO LOCTITE 495-03 20 GRAMOS" valorUnitario="175.590000" importe="526.77" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="PEGAMENTO RESISTOL 5000 NO6 45154 4LTS" valorUnitario="387.220000" importe="387.22" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="PEGAMENTO RESISTOL 850 N.5 47018 4KG" valorUnitario="219.320000" importe="657.96" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="PEGAMENTO RESISTOL LIQ NO MAS CLAVOS" valorUnitario="49.020000" importe="245.10" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="PIEDRA ASENTAR TRUPER DOBLE GRANO 11668" valorUnitario="42.000000" importe="210.00" />
+    <cfdi:Concepto cantidad="6.000" unidad="pz" descripcion="PIJA NEGRA P/MADERA 1 1/2&quot;X6 100PZAS" valorUnitario="12.000000" importe="72.00" />
+    <cfdi:Concepto cantidad="6.000" unidad="pz" descripcion="PIJA NEGRA P/MADERA 2&quot;X6 100 PZAS" valorUnitario="15.000000" importe="90.00" />
+    <cfdi:Concepto cantidad="300.000" unidad="pz" descripcion="PIJA PUNTA BROCA 1/8X1/2 CABEZA PLANA" valorUnitario="0.160000" importe="48.00" />
+    <cfdi:Concepto cantidad="300.000" unidad="pz" descripcion="PIJA PUNTA DE BROCA 1/8X1 C/PLANA" valorUnitario="0.160000" importe="48.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="PUNTAS PHILIPS LARGO 2&quot; 17782" valorUnitario="20.000000" importe="400.00" />
+    <cfdi:Concepto cantidad="100.000" unidad="pz" descripcion="REMACHE POP 1/8X1/2&quot;" valorUnitario="0.170000" importe="17.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="SEGUETA AV NICHOLSON D/FINO 24D MH-2412" valorUnitario="7.950000" importe="39.75" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="SEGUETA AV NICHOLSON D/GRUE 18D MH-1812" valorUnitario="7.950000" importe="39.75" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="SILICON CORNING 300ML BA-OS COCINA TRANS" valorUnitario="36.160000" importe="180.80" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="SILICON DOW CORNING ALTA TEMP DE 300 ML" valorUnitario="136.190000" importe="136.19" />
+    <cfdi:Concepto cantidad="15.000" unidad="pz" descripcion="SILICON DOW CORNING USO GRAL N,B,TRANSP" valorUnitario="36.160000" importe="542.40" />
+    <cfdi:Concepto cantidad="200.000" unidad="pz" descripcion="TAQUETE MADERA 06MM 1/4 X PIEZA" valorUnitario="0.120000" importe="24.00" />
+    <cfdi:Concepto cantidad="300.000" unidad="pz" descripcion="TAQUETE PLASTICO ANKER DE 1/4&quot; X 32MM" valorUnitario="0.220000" importe="66.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="TOPE PHILIPS 54-C P/PISO ESFERICO CROMAD" valorUnitario="41.600000" importe="832.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="4427.50">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="4427.50" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="hbuKGBMVZkO3BVYLOupSupivRGmP4+QKtxxAG7VXIhV5aI641pJlbeq10lalEasgLVfN02EKHd9UkKopgfz0Ij4lquu0B5MX92h3L97UK/0Ru3S/E6/2opPmRZRJio9H0G4sB7314/Y6onzBoPwHWVjam3/yE/X4dfx5UhhzzMU=" FechaTimbrado="2016-05-12T16:24:29" UUID="95a05cb3-309c-4b02-b14d-093fce837086" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="Z/fXZUf64kDk2w4wK1PcLszGp1Umd4z97lVl4WXyo1lWyJo0MJPpdvoVUuNV+puoNBa74S1yGF4QkulMP9GFD+XbIcPpsABiDpbA4v1+mj6LT0NuRuEegftfFxvlL/Ah09rhnyjUnIvsWkglnimRVtl0U2oAieA4S2PNVV1FS0Q=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="177147" fecha="2016-04-20T17:37:40" sello="l/scUgRoBzKNSkWbpKb+9Gw49w4PeDUVn3NSFxppqg3c7apDVPm5yRxS16gX5aIAgiTCfEwIdSdKKPh84YbObh7JWEnW7GnwXEm3RkRFHaLnPBmUy+cIkq8cadwAXxtMnDYgqKdfEQusIewpSJ7hU4A5EonddS0XKqYIUh+WPDA=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="48862.38" TipoCambio="1.000000" Moneda="Pesos" total="56680.36" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="CCM080101IL8" nombre="CERVECERIA CUAUHTEMOC MOCTEZUMA SA DE CV">
+    <cfdi:Domicilio calle="AV.ALFONSO REYES" noExterior="2202" colonia="MONTERREY" localidad="NUEVO" municipio="LEON" estado="MEXICO" pais="MEXICO" codigoPostal="64410" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO DE 13 LLAVES ALLEN MM.CRAFTSMAN" valorUnitario="216.460000" importe="216.46" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO DE 13 LLAVES ALLEN STDCRAFTSMAN" valorUnitario="216.460000" importe="216.46" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO DE 17 DESARMADORES (+ -)CRAFTSMAN" valorUnitario="573.360000" importe="573.36" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO DE 12 PZAS (PUNZONES Y CINCELES)C" valorUnitario="596.640000" importe="596.64" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="PINZA DE PRESIÓN 10&quot;CRAFTSMAN" valorUnitario="348.360000" importe="348.36" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="MATRACA DE 1/2&quot;CRAFTSMAN" valorUnitario="441.470000" importe="441.47" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="MATRACA DE 1/2&quot;CRAFTSMAN" valorUnitario="441.470000" importe="441.47" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO DE 17 DESARMADORES (+ -)CRAFTSMAN" valorUnitario="573.360000" importe="573.36" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO DE 9 LLAVES MIXTAS MM.CRAFTSMAN" valorUnitario="332.840000" importe="332.84" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="LLAVES STD T/MATRACA DE CAJA 5PZASCRAFTS" valorUnitario="705.250000" importe="705.25" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="MANERAL DE 1/2 X 18&quot;CRAFTSMAN" valorUnitario="371.640000" importe="371.64" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="EXTENSION DE 1/2&quot; X 10&quot;CRAFTSMAN" valorUnitario="131.120000" importe="131.12" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO DE 10 DADOS DE 1/2 STD CRAFTSMAN" valorUnitario="394.910000" importe="394.91" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="LLAVES STD T/MATRACA DE CAJA 5PZASCRAFTS" valorUnitario="705.250000" importe="705.25" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="MANERAL DE 1/2 X 18&quot;CRAFTSMAN" valorUnitario="371.140000" importe="371.14" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="LLAVE STILSON 10&quot;CRAFTSMAN" valorUnitario="130.200000" importe="130.20" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO DE 9 LLAVES MIXTAS MM.CRAFTSMAN" valorUnitario="332.840000" importe="332.84" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="MATRACA DE 1/2&quot;CRAFTSMAN" valorUnitario="441.470000" importe="441.47" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO LLAVES ESPAÑOLAS 9PZAS CRAFTSMAN" valorUnitario="3189.900000" importe="3189.90" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO DE 9 LLAVES MIXTAS MM.CRAFTSMAN" valorUnitario="332.840000" importe="332.84" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="MATRACA DE 1/2&quot;CRAFTSMAN" valorUnitario="441.470000" importe="441.47" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO LLAVES ESPAÑOLAS 9PZAS CRAFTSMAN" valorUnitario="3189.900000" importe="3189.90" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="LLAVES STD T/MATRACA DE CAJA 5PZASCRAFTS" valorUnitario="564.200000" importe="564.20" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="EXTENSION DE 1/2&quot; X 10&quot;CRAFTSMAN" valorUnitario="104.900000" importe="104.90" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="EXTENSION DE 1/2&quot; X 10&quot;CRAFTSMAN" valorUnitario="131.130000" importe="131.13" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="JUEGO DE 13 LLAVES ALLEN MM.CRAFTSMAN" valorUnitario="216.460000" importe="216.46" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="LLAVES HEX T MÉTRICA C/7PZASCRAFTSMAN" valorUnitario="816.460000" importe="816.46" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="LLAVES STD T/MATRACA DE CAJA 5PZASCRAFTS" valorUnitario="564.200000" importe="564.20" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="EXTENSION DE 1/2&quot; X 10&quot;CRAFTSMAN" valorUnitario="104.900000" importe="104.90" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="CAJA DE HERRAMIENTA D3C20 URREA" valorUnitario="346.500000" importe="1386.00" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="PINZA DE ELECTRICISTA 8&quot; CRAFTSMAN" valorUnitario="379.400000" importe="1138.20" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="PINZA DE PRESIÓN 10&quot;CRAFTSMAN" valorUnitario="348.360000" importe="1045.08" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="PINZA DE PUNTA Y CORTE 8&quot; CRAFTSMAN" valorUnitario="371.640000" importe="1114.92" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="PERICO 10 1 1/8 44604 CRAFTSMAN" valorUnitario="369.830000" importe="1109.49" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="MARTILLO DE BOLA 24 OZ. CRAFTSMAN" valorUnitario="294.050000" importe="882.15" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="JUEGO LLAVES ESPAÑOLAS 9PZAS CRAFTSMAN" valorUnitario="3189.900000" importe="9569.70" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="JUEGO DE 13 LLAVES ALLEN STDCRAFTSMAN" valorUnitario="216.470000" importe="649.41" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="JUEGO DE 13 LLAVES ALLEN MM.CRAFTSMAN" valorUnitario="216.470000" importe="649.41" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="DESARMADOR PLANO 5/16&quot; 47115 CRAFTSMAN" valorUnitario="405.740000" importe="1217.22" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="JUEGO DE 12 DESARMADORES CAJA &quot; CRAFTSMA" valorUnitario="596.640000" importe="1789.92" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="JUEGO DE 17 DESARMADORES (+ -)CRAFTSMAN" valorUnitario="573.360000" importe="1720.08" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="JUEGO DE 12 PZAS (PUNZONES Y CINCELES)C" valorUnitario="596.640000" importe="1789.92" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="JUEGO DE 10 DADOS DE 1/2 MM CRAFTSMAN" valorUnitario="394.910000" importe="1184.73" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="MATRACA DE 1/2&quot;CRAFTSMAN" valorUnitario="441.470000" importe="1324.41" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="VERNIER 6&quot; MM/PULG UMCV6 URREA" valorUnitario="596.110000" importe="1788.33" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="PINZAS SEGUROS 47384 CRAFTSMAN" valorUnitario="197.700000" importe="593.10" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="JUEGO DE 9 LLAVES MIXTAS MM.CRAFTSMAN" valorUnitario="332.840000" importe="998.52" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="LLAVE STILSON 14&quot; CRAFTSMAN" valorUnitario="418.190000" importe="1254.57" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="CALIBRADOR 25H PULGADAS 00OAA URREA" valorUnitario="94.410000" importe="283.23" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="EXTENSION DE 1/2&quot; X 10&quot;CRAFTSMAN" valorUnitario="131.130000" importe="393.39" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="7817.98">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="7817.98" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="l/scUgRoBzKNSkWbpKb+9Gw49w4PeDUVn3NSFxppqg3c7apDVPm5yRxS16gX5aIAgiTCfEwIdSdKKPh84YbObh7JWEnW7GnwXEm3RkRFHaLnPBmUy+cIkq8cadwAXxtMnDYgqKdfEQusIewpSJ7hU4A5EonddS0XKqYIUh+WPDA=" FechaTimbrado="2016-04-20T17:44:18" UUID="2dab75ae-372a-47a7-bcc7-6baf545bf46f" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="IVcbi+tmYNGirkbxJq2L6YKV/VSQXLtCS3f9+NEJxEyz0+Y47uOmX56F8m17C2D+rbbqObrkD3FnxsgAvRU8SkOrN1FSbxabQuUbQR6PJLl5x+lyPOL+ym3G1xkSrs2TwATwyhGO2QVIInyyiwvNmeMmr1yQZPgrx3q67sCVDWk=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="177652" fecha="2016-04-26T20:26:12" sello="MQEWBKMYLc6OHS9RLgKATAamAFuqyJLbG+hRXcMfVzJBPDSSu/5U6wPko6KRSQ4qiIKye6jXFttLqSgAasT0sBiQW3VW00mN1L+mo8Q+dF4jQtf9mwQ9+V2o+eEvbfQTAMHFS6aLmeTPsdMnJJ5vaHNJrcMgmopUoyuqKL7AHfA=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="4645.49" TipoCambio="1.000000" Moneda="Pesos" total="5388.77" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="NWM9709244W4" nombre="NUEVA WAL MART DE MEXICO S. DE R.L. DE C.V.">
+    <cfdi:Domicilio calle="NEXTENGO" noExterior="78" colonia="SANTA CRUZ ACAYUCAN" localidad="AZCAPOTZALCO" municipio="AZCAPOTZALCO" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="02770" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000" unidad="pieza" descripcion="arco para segueta ajustable ptl 20018" valorUnitario="61.890000" importe="61.89" />
+    <cfdi:Concepto cantidad="6.000" unidad="pz" descripcion="CANDADO HERMEX 43355 COR-50 LATON ANTIPL" valorUnitario="117.700000" importe="706.20" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="desarmador wf9351 6pzs combinados" valorUnitario="50.900000" importe="50.90" />
+    <cfdi:Concepto cantidad="3.000" unidad="pieza" descripcion="gabinete metalico p/guardar 100 llaves" valorUnitario="262.000000" importe="786.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pieza" descripcion="martillo una curva 16oz wf6416" valorUnitario="37.340000" importe="37.34" />
+    <cfdi:Concepto cantidad="1.000" unidad="pieza" descripcion="pinza mecanica 10 tc4240" valorUnitario="57.500000" importe="57.50" />
+    <cfdi:Concepto cantidad="2.000" unidad="piezas" descripcion="segueta a.v.diente grueso 1218 3005112 4" valorUnitario="5.500000" importe="11.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="piezas" descripcion="segueta a.v.diente fino 1224 3005111 400" valorUnitario="5.500000" importe="11.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="Pinza corte diagonal wf0880" valorUnitario="34.990000" importe="34.99" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="pinza electricista 9¨ wf0829/22612" valorUnitario="67.650000" importe="67.65" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="Pinza punta y corte 8¨wf0868" valorUnitario="45.260000" importe="45.26" />
+    <cfdi:Concepto cantidad="1.000" unidad="JGO" descripcion="JGO BROCA A.V. 29PZAS 1/16 A 1/2 1367" valorUnitario="429.330000" importe="429.33" />
+    <cfdi:Concepto cantidad="1.000" unidad="pieza" descripcion="caja herramienta metalica urrea d4" valorUnitario="216.000000" importe="216.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="piezas" descripcion="flexometro profesional 3mts wf3513" valorUnitario="14.790000" importe="14.79" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="llave ajustable Pecio 12¨negro wf0124" valorUnitario="100.740000" importe="100.74" />
+    <cfdi:Concepto cantidad="1.000" unidad="piezas" descripcion="llave stilson pretul 22014 sti-18p 18" valorUnitario="167.540000" importe="167.54" />
+    <cfdi:Concepto cantidad="1.000" unidad="juego" descripcion="llave allen truper 15545 all-13p 3/64a 3" valorUnitario="56.980000" importe="56.98" />
+    <cfdi:Concepto cantidad="1.000" unidad="pieza" descripcion="llave espanola urrea jgo 09pzas 30000rm" valorUnitario="703.530000" importe="703.53" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="SERRUCHO DORADO 500-26 26&quot;" valorUnitario="111.340000" importe="111.34" />
+    <cfdi:Concepto cantidad="1.000" unidad="pieza" descripcion="rotomartillo toolcraft tc3421 1/2" valorUnitario="519.090000" importe="519.09" />
+    <cfdi:Concepto cantidad="1.000" unidad="piezas" descripcion="multicontacto 6 entradas fu0173" valorUnitario="41.240000" importe="41.24" />
+    <cfdi:Concepto cantidad="1.000" unidad="piezas" descripcion="extension uso rudo 4 mts fu0201" valorUnitario="42.000000" importe="42.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="CANDADO LATON MG TT-050 COD.3887" valorUnitario="126.080000" importe="126.08" />
+    <cfdi:Concepto cantidad="1.000" unidad="caja" descripcion="remache pop r-45 1/8 113403 c/1000pzs 30" valorUnitario="83.530000" importe="83.53" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="Remachadora wf6601" valorUnitario="65.740000" importe="65.74" />
+    <cfdi:Concepto cantidad="1.000" unidad="pieza" descripcion="porta herramientas foy 143213 400003409" valorUnitario="97.830000" importe="97.83" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="743.28">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="743.28" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="MQEWBKMYLc6OHS9RLgKATAamAFuqyJLbG+hRXcMfVzJBPDSSu/5U6wPko6KRSQ4qiIKye6jXFttLqSgAasT0sBiQW3VW00mN1L+mo8Q+dF4jQtf9mwQ9+V2o+eEvbfQTAMHFS6aLmeTPsdMnJJ5vaHNJrcMgmopUoyuqKL7AHfA=" FechaTimbrado="2016-04-26T20:26:43" UUID="2a3f8c1a-b08b-44f9-b56a-4103e6dcdc03" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="XytUBnHs0kWO4N3D6fNwBo+oPHEgSGzh4ht+9Kl4ggBmh9IvvvGxBORWvOLajUyy8gUoXprzZzfHsxfHXd+2XILfE5iuTWUuqvGjLmhfVGioTe/e2/ccKBWXKNYBFeYrxxxnmf44s+B4UhS1uXke2dXtavYkQ7nRavXS0JISOe8=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

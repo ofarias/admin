@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="177083" fecha="2016-04-20T16:10:04" sello="jVxOTYtVutSdXghySFLSrAnBVa59A9hzGOtySE1zymrB+eb8yRi42Yd6nG7buGlAcSIZtfEJv0Kncv56QKankJfwy7ZRMzuE0iIJDorZqPkVT6l3MBmWFclBgQq2hgRnzZd472oUc/xTFMznm6tQZ3TzwmcctpwRzrv5Ta0pC94=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="3221.90" TipoCambio="1.000000" Moneda="Pesos" total="3737.40" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="JCM910903G94" nombre="JOHNSON CONTROLS MEXICO BE, S.A. DE C.V.">
+    <cfdi:Domicilio calle="DAVID ALFARO SIQUEIROS" noExterior="104" colonia="VALLE ORIENTE" localidad="APODACA NUEVO LEON" municipio="SAN PEDRO GARZA GARCIA" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66269" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="10.000" unidad="rollo" descripcion="Toalla azul scott shop towels" valorUnitario="48.500000" importe="485.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="PIEZA" descripcion="AFLOJATODO WD-40 11OZ 311GMS" valorUnitario="76.200000" importe="152.40" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="Lija fandelli agua 800" valorUnitario="6.600000" importe="132.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="AXION LIQUIDO 900 ML" valorUnitario="23.400000" importe="468.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="rollos" descripcion="franela blanca 50cms x 25mts" valorUnitario="213.500000" importe="213.50" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="LIMPIADOR PLEDGE AEROSOL 300GMS" valorUnitario="48.100000" importe="481.00" />
+    <cfdi:Concepto cantidad="10.000" unidad="pieza" descripcion="Cinta aislar nitto" valorUnitario="18.950000" importe="189.50" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="Limpiador steren lim-e+" valorUnitario="100.250000" importe="200.50" />
+    <cfdi:Concepto cantidad="100.000" unidad="pz" descripcion="PLUG STEREN 301-178 RJ45 8CONTASTOS" valorUnitario="3.750000" importe="375.00" />
+    <cfdi:Concepto cantidad="100.000" unidad="piezas" descripcion="terminal steren tfac-1/4l laton hembra f" valorUnitario="4.000000" importe="400.00" />
+    <cfdi:Concepto cantidad="100.000" unidad="piezas" descripcion="terminal steren tfa-1/4l laton hembra c/" valorUnitario="1.250000" importe="125.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="515.50">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="515.50" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="jVxOTYtVutSdXghySFLSrAnBVa59A9hzGOtySE1zymrB+eb8yRi42Yd6nG7buGlAcSIZtfEJv0Kncv56QKankJfwy7ZRMzuE0iIJDorZqPkVT6l3MBmWFclBgQq2hgRnzZd472oUc/xTFMznm6tQZ3TzwmcctpwRzrv5Ta0pC94=" FechaTimbrado="2016-04-20T16:10:13" UUID="f8cfce88-f3aa-4970-a1ed-0266eedce89d" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="F2oGO7NiWzUboNV6TPGlKFnZOzttw0ZMKyNilef6VOfzVhaKpsRVv2UgzZ0NptsDMEeA3ZHtRXdBwMLiXB6E8ZEyRyYw5SZbY/vhRM0zJ2iO7Pu0mUkvc+lya7RiMsOYZFU+a0zNA5YG77tX3kV6Wuda+FbPMQzgePpwJXcyfiM=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIExDCCA6ygAwIBAgIUMDAwMDEwMDAwMDAzMDU3MzEwMjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDEyMTkwMDUzNTBaFw0xODEyMTkwMDUzNTBaMIIBDzEwMC4GA1UEAxMnTElERVJBWkdPIEFVVE9NT1RSSVogREUgUFVFQkxBIFNBIERFIENWMTAwLgYDVQQpEydMSURFUkFaR08gQVVUT01PVFJJWiBERSBQVUVCTEEgU0EgREUgQ1YxMDAuBgNVBAoTJ0xJREVSQVpHTyBBVVRPTU9UUklaIERFIFBVRUJMQSBTQSBERSBDVjElMCMGA1UELRMcTEFQMDIwOTI1NVU3IC8gSUFIRTc0MDIwNEc4MTEeMBwGA1UEBRMVIC8gSUFIRTc0MDIwNE1QTEJSTDAyMTAwLgYDVQQLEydMSURFUkFaR08gQVVUT01PVFJJWiBERSBQVUVCTEEgU0EgREUgQ1YwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJW6XtVpkx319m9HoEPvEanwiaPgzmalKXJRDPYRWNRIvzobmLiKfBimKVKiGQakCltAGASF6zyYMb6IeOhqIHfPp0qYWbIU/mQ5+V1cJOFwgHl/m0vfVtYC+CY3iHq9DksnfyklkgXSDu5ljZ5ZTjnmO6Pksn8Xbe4f6c9LvJprAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQAwAY83GHeAom4NLh5BFRDPe1fTvI0+XWh8hlBpbYiLvdK8Xs99dcyxm0bDVvW11UEBDMr5dOeoJm/iiEb5fvz3ou6Px1/K+4yQtsJ0IwrMtM3EBS1m1jdkA/DNhSXHDPduTF+1P5AixhF9YVOhaGlrDe0KmzXjwCU7Uqh32ueSCNA09OOABb+JvHMXhII2726w4Bie4gdHIiDg6yeanc9jS4PMwqqblQKVW9XQFFLA2d4v1bPPb76T+rFo7cNLIhWoN9cVHZq1vKtMy29hos7kPBq/Rho8/FyB5SJGsKTWY9cGWfbGstlYsr9oCxrgg3TZYhCEWSDb+xGvN1m1nJ/F" CondicionesDePago="CONTADO" Descuento="0.00" Fecha="2018-01-09T20:22:29" Folio="902" FormaPago="99" LugarExpedicion="72400" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000305731027" Sello="N7ybJ/3TCKhRYZRIQerVw/w284u+TLMTJiUPeyCL1wb3ETtYQIPgkxrVspEDhWxmWBNp2y5KFaK7JZcW/RQYc87QNpPKAPLTu0AKtsXAO2sypxFSWUqdSPGHVlIRpL9Jw8ihDqtX4g5oXiD6u8DhRopCEcNpZggk1prvLK9eGdY=" Serie="NCRF" SubTotal="1508.62" TipoDeComprobante="E" Total="1750.00" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd ">
+<cfdi:Emisor Nombre="LIDERAZGO AUTOMOTRIZ DE PUEBLA, S.A. DE C.V." RegimenFiscal="601" Rfc="LAP0209255U7" />
+<cfdi:Receptor Nombre="KOMPAKTAR, S.A. DE C.V." Rfc="KOM151201CD3" UsoCFDI="P01" />
+<cfdi:Conceptos>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="49101704" ClaveUnidad="XPG" Descripcion="PAGO PLACAS" Descuento="0.00" Importe="1508.62" NoIdentificacion="CN" Unidad="PLACA" ValorUnitario="1508.62">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="1508.62" Importe="241.38" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos TotalImpuestosTrasladados="241.38">
+<cfdi:Traslados>
+<cfdi:Traslado Importe="241.38" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2018-01-09T20:22:31" NoCertificadoSAT="00001000000405766635" RfcProvCertif="ERE0504194D3" SelloCFD="N7ybJ/3TCKhRYZRIQerVw/w284u+TLMTJiUPeyCL1wb3ETtYQIPgkxrVspEDhWxmWBNp2y5KFaK7JZcW/RQYc87QNpPKAPLTu0AKtsXAO2sypxFSWUqdSPGHVlIRpL9Jw8ihDqtX4g5oXiD6u8DhRopCEcNpZggk1prvLK9eGdY=" SelloSAT="f81NQBLNtIwoAkA+h6TPFAZPeDJ80mx4LZyYdt/qO79zAgxWxiHrEGVzXPQNw3xashHhn5FnefJ0eqUrgmaqhZ0Y3IvBM6et0OlFJPvAtN8il2KtF2s/pJ8y7WjwpKn40s4If5c0IIoYSbsbzfpNPQ/Yl0iD0QxNO2UxguHsMf/pjPNgBf/KvjtTt+KgjY86KooczC/PHjsFEZAFTVIyEpUhRcM55F4m+bhgrf3ZWSDQDnoClNFMGhwAxwM8RwHzvsiuDiEJUMFmZCTKdUy/LmZ8Mfor2hp4GYe+guJUTnPWOhg1L1EsYD+E3FwkI6Als40Mz89zcw5kGiqrRZ2PYQ==" UUID="A7E48466-8BD0-4DD9-9F70-4B20EA6E1C3A" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

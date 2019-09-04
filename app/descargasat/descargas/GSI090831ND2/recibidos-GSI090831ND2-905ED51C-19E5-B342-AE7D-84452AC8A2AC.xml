@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  <cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:implocal="http://www.sat.gob.mx/implocal" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd" Version="3.3" Serie="A" Folio="22297" Fecha="2019-03-31T11:20:19" Sello="eF9MS5qCHpRUmP7oqT6kc1N/Q2kwQ+MXatxlZ3Ox+b72hJij4bSemHhNTTuhXTzsKjh9dXvuWOnBBtIkiyRafdXPWTUkZv4B1S9bQC1HnavOmlsoZ8UOrA5Yegk4S76MB9krO5X0tk6hvfqZB/tT15vtt4A2enPzwMz7TeLP6JE=" FormaPago="04" NoCertificado="00001000000306733008" Certificado="MIIEojCCA4qgAwIBAgIUMDAwMDEwMDAwMDAzMDY3MzMwMDgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTA0MTAxNjAzNDdaFw0xOTA0MTAxNjAzNDdaMIHuMSowKAYDVQQDEyFIT1RFTEVTIEhJIERFIE5VRVZPIExFT04gU0EgREUgQ1YxKjAoBgNVBCkTIUhPVEVMRVMgSEkgREUgTlVFVk8gTEVPTiBTQSBERSBDVjEqMCgGA1UEChMhSE9URUxFUyBISSBERSBOVUVWTyBMRU9OIFNBIERFIENWMSUwIwYDVQQtExxISE4xNTAzMTJONjIgLyBQQVZDNzcwODE5REEyMR4wHAYDVQQFExUgLyBQQVZDNzcwODE5TUpDTFpSMDgxITAfBgNVBAsTGEhPVEVMRVMgSEkgREUgTlVFVk8gTEVPTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArVkt5V2FpzHkTQmThtm/2i04BiqOZAm54gQQE9TqHYlMV8RbHMr56qi3K/t4+xjzcA8ZBCiKz1wV33L7S2s5V4RuIEjE0Drgo3xswLcKnaujXXv91nQkWTwsu+DsSFYh4chVn4UzJDIi4n4Bp9vCWdOFcNK3HIcLbm3Opb/AApsCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAMrbWj2vCNCfCj2zCeaSX9+6qJvAlgn64K7JTq9nyKBW7hR+ltgMiehownnzZCQHHFKVP+dNOwpgouY/526p2eHqqh0OL8h3ubCS9OJlACSSYzkov1aUAQfu1qlauTX2zyV+k71zMehIomqhnKWjonSbmGKKV58ozEWJSJxvrKIATxqZXI4VGFlnw2TBLyPUriItTMURip684YRJt+yzK6Q3JZJwBpHj2kf+phHobpuocuvwsqxd8fGlWUHPbjeZD4rf+4+nnu1nXcaFDmdYfANOdO7vyALx+FxSQ/NhMdbtDRUq7qv9L/EOaXYp13nu2RBTvziNhkgStJXXVffxfZc=" SubTotal="1006.72" Moneda="MXN" Total="1198.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="66170" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+    <cfdi:Emisor Rfc="HHN150312N62" Nombre="HOTELES HI DE NUEVO LEON S.A. DE C.V." RegimenFiscal="601" />
+    <cfdi:Receptor Rfc="GSI090831ND2" Nombre="GOBATO SOLUCIONES INTEGRALES S DE RL MI" UsoCFDI="G03" />
+    <cfdi:Conceptos>
+      <cfdi:Concepto ClaveProdServ="90111500" NoIdentificacion="1" Cantidad="1.00" ClaveUnidad="E48" Unidad="SERVICIO" Descripcion="HOSPEDAJE" ValorUnitario="503.36" Importe="503.36">
+        <cfdi:Impuestos>
+          <cfdi:Traslados>
+            <cfdi:Traslado Base="503.36" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="80.54" />
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+      <cfdi:Concepto ClaveProdServ="90111500" NoIdentificacion="1" Cantidad="1.00" ClaveUnidad="E48" Unidad="SERVICIO" Descripcion="HOSPEDAJE" ValorUnitario="503.36" Importe="503.36">
+        <cfdi:Impuestos>
+          <cfdi:Traslados>
+            <cfdi:Traslado Base="503.36" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="80.54" />
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="161.08">
+      <cfdi:Traslados>
+        <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="161.08" />
+      </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+      <implocal:ImpuestosLocales version="1.0" TotaldeRetenciones="0.00" TotaldeTraslados="30.20">
+        <implocal:TrasladosLocales ImpLocTrasladado="ISH" TasadeTraslado="3.00" Importe="30.20" />
+      </implocal:ImpuestosLocales>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="905ED51C-19E5-B342-AE7D-84452AC8A2AC" FechaTimbrado="2019-03-31T11:20:50" RfcProvCertif="SCD110105654" SelloCFD="eF9MS5qCHpRUmP7oqT6kc1N/Q2kwQ+MXatxlZ3Ox+b72hJij4bSemHhNTTuhXTzsKjh9dXvuWOnBBtIkiyRafdXPWTUkZv4B1S9bQC1HnavOmlsoZ8UOrA5Yegk4S76MB9krO5X0tk6hvfqZB/tT15vtt4A2enPzwMz7TeLP6JE=" NoCertificadoSAT="00001000000401041203" SelloSAT="lkz7jHjEuSG78UYHQKzaFmZF6V1jguB5t54vDRhOQWus5k65HAGPG7ZqM64ypKrk4/CDdPovHeOD3DnM2jSCN+QcZqkoX5WEUTLWUowFNqCTjnC0bDgeLV2QHVNNkXJGBXZPVI1E5b7qtYhRxfhkl0FBnoqKPUxSgs6aPkBl7SWGPcl26Zcf4LhmJjvssgvfbuU0Jic9PwPI/oDhx3/ereUthcNaJ67Co9ebzJmSjgyz3l1fUIM/PWHeCEjZ2RG7o1CErXAh2kFhn6fxMpt4QQh0Xwaw8t0W6VsDL2QvowCC/drYk6qhF8ZCyZ2Q49HkSjVdwXJ6O7p8TmP3DQsR4g==" />
+</cfdi:Complemento>
+  </cfdi:Comprobante>

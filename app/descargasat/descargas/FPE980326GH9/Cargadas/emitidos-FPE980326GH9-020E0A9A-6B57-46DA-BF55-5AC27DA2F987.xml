@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="176038" fecha="2016-04-06T17:46:06" sello="ZpSvu04iTnj8hdAzrs0cz4xXz9qu0P7U7dj/uyW+WRrOVoB5oXolMoOy2yzE6UYpcOhlCmD5H32GVJtZw/LTIzJra8WIII6oXXvEkPWX3vOThBhZBUxS53/J2dx9W5DclIlLuY44AAR6vfMAjqxETCVcFnUacMiNBoxnIyW2dcY=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="40272.50" TipoCambio="1.000000" Moneda="Pesos" total="46716.10" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="GPI350910RY0" nombre="BIO PAPPEL PRINTING S.A DE C.V">
+    <cfdi:Domicilio calle="AV EJERCITO NACIONAL" noExterior="1130" noInterior="P 9" colonia="LOS MORALES" localidad="." municipio="POLANCO" estado="D.F" pais="MEXICO" codigoPostal="11510" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="2.000" unidad="piezas" descripcion="bio1 adhesivo loctite 495-03 de 20grs." valorUnitario="185.000000" importe="370.00" />
+    <cfdi:Concepto cantidad="27.000" unidad="piezas" descripcion="bio1 aflojatodo permatex 68k 300grs." valorUnitario="42.000000" importe="1134.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="piezas" descripcion="bio1 buril de 1/2 calzado derecho royco" valorUnitario="55.000000" importe="220.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="pieza" descripcion="bio1 buril de 1/2 calzado izquierdo royc" valorUnitario="55.000000" importe="110.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="piezas" descripcion="bio1 buril de 1/2 punta cuadrada royco" valorUnitario="55.000000" importe="220.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="BURIL MOMAX COBALTO DE 3/8&quot;" valorUnitario="229.000000" importe="229.00" />
+    <cfdi:Concepto cantidad="3.000" unidad="pieza" descripcion="bio1 carda mca. perfec cod. 100512" valorUnitario="203.000000" importe="609.00" />
+    <cfdi:Concepto cantidad="9.000" unidad="piezas" descripcion="bio1 cepillo de alambre truper 11559 cea" valorUnitario="21.000000" importe="189.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="piezas" descripcion="bio1 corta pernos 14 mca. hit" valorUnitario="320.000000" importe="320.00" />
+    <cfdi:Concepto cantidad="3.000" unidad="pieza" descripcion="bio1 disco austromex 557 desbaste metal" valorUnitario="29.800000" importe="89.40" />
+    <cfdi:Concepto cantidad="5.000" unidad="piezas" descripcion="bio1 disco austromex 368 corte de metal" valorUnitario="24.500000" importe="122.50" />
+    <cfdi:Concepto cantidad="51.000" unidad="piezas" descripcion="bio1 disco austromex 1317 corte metal" valorUnitario="49.500000" importe="2524.50" />
+    <cfdi:Concepto cantidad="10.000" unidad="piezas" descripcion="bio1 disco austromex 555 desbaste de met" valorUnitario="54.000000" importe="540.00" />
+    <cfdi:Concepto cantidad="15.000" unidad="piezas" descripcion="bio1 disco austromex 780 corte metal 175" valorUnitario="66.500000" importe="997.50" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="FLEXOMETRO TRUPER 14577 FH-3M" valorUnitario="36.000000" importe="36.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="PIEZA" descripcion="FLEXOMETRO TRUPER 14578 FH-5M" valorUnitario="61.000000" importe="305.00" />
+    <cfdi:Concepto cantidad="40.000" unidad="pz" descripcion="HEBILLA PARA FLEJE INOX. DE 3/8&quot;" valorUnitario="6.500000" importe="260.00" />
+    <cfdi:Concepto cantidad="165.000" unidad="piezas" descripcion="bio1 lija de agua grano 320 fandeli" valorUnitario="4.700000" importe="775.50" />
+    <cfdi:Concepto cantidad="32.000" unidad="piezas" descripcion="bio1 lija de esmeril grano fino fandeli" valorUnitario="7.400000" importe="236.80" />
+    <cfdi:Concepto cantidad="25.000" unidad="piezas" descripcion="bio1 lija de esmeril grano grueso fandel" valorUnitario="9.300000" importe="232.50" />
+    <cfdi:Concepto cantidad="29.000" unidad="piezas" descripcion="bio1 lija de esmeril grano mediano fande" valorUnitario="8.600000" importe="249.40" />
+    <cfdi:Concepto cantidad="25.000" unidad="piezas" descripcion="bio1 lija para madera grano mediano fand" valorUnitario="2.900000" importe="72.50" />
+    <cfdi:Concepto cantidad="13.000" unidad="piezas" descripcion="bio1 lima de triangulo nicholson pesado" valorUnitario="13.500000" importe="175.50" />
+    <cfdi:Concepto cantidad="3.000" unidad="piezas" descripcion="bio1 resistol 5000 de 250grs." valorUnitario="51.000000" importe="153.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="piezas" descripcion="bio1 segueta mca. nicholson 1 x 14 de 14" valorUnitario="143.000000" importe="572.00" />
+    <cfdi:Concepto cantidad="23.000" unidad="piezas" descripcion="bio1 silicon dow corning transp. uso gra" valorUnitario="38.000000" importe="874.00" />
+    <cfdi:Concepto cantidad="11.000" unidad="piezas" descripcion="bio1 silicon dow corning alta temp. 736" valorUnitario="148.000000" importe="1628.00" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="TAQUETE DE EXPANSION TX DE 1/2&quot; X 3 1/2&quot;" valorUnitario="8.900000" importe="89.00" />
+    <cfdi:Concepto cantidad="25.000" unidad="pz" descripcion="TAQUETE EXPANSION TX DE 1/4&quot; X 3&quot;" valorUnitario="2.600000" importe="65.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="VALVULA WORCESTER 466T DE 1&quot;" valorUnitario="1190.000000" importe="4760.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="VALVULA WORCESTER411T DE 1&quot;" valorUnitario="765.000000" importe="1530.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="VALVULA WORCESTER FIG. 411T DE 1/2&quot;" valorUnitario="433.000000" importe="1732.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="VALVULA WORCESTER 411T DE 1/4&quot;" valorUnitario="442.000000" importe="442.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="VALVULA WORCESTER 466T DE 3/4&quot;" valorUnitario="908.000000" importe="908.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="VALVULA WORCESTER 411T DE 3/4&quot;" valorUnitario="497.000000" importe="1988.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="piezas" descripcion="bio1 varilla roscada 1/2 x 1 mt. galv. c" valorUnitario="27.500000" importe="110.00" />
+    <cfdi:Concepto cantidad="3.000" unidad="piezas" descripcion="bio1 varilla roscada 1/4 x 1 mt. galv. c" valorUnitario="7.900000" importe="23.70" />
+    <cfdi:Concepto cantidad="3.000" unidad="piezas" descripcion="bio1 varilla roscada 3/4 x 1 mt. galv. c" valorUnitario="71.000000" importe="213.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="piezas" descripcion="bio1 varilla roscada 3/8 x 1 mt. galv. c" valorUnitario="15.500000" importe="77.50" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="VARILLA ROSCADA GALV 5/16&quot; X 1M G2" valorUnitario="10.600000" importe="10.60" />
+    <cfdi:Concepto cantidad="9.000" unidad="pz" descripcion="bio1 varilla roscada galv. 5/8&quot; x 1 mt." valorUnitario="47.800000" importe="430.20" />
+    <cfdi:Concepto cantidad="6.000" unidad="KILO" descripcion="BOLSA PLASTICO TRANSPARENTE 20 X 30" valorUnitario="40.300000" importe="241.80" />
+    <cfdi:Concepto cantidad="1.000" unidad="KILO" descripcion="BOLSA PLASTICO TRANSPARENTE 25 X 35" valorUnitario="40.300000" importe="40.30" />
+    <cfdi:Concepto cantidad="17.000" unidad="KILO" descripcion="BOLSA PLASTICO TRANSPARENTE 30 X 40" valorUnitario="40.300000" importe="685.10" />
+    <cfdi:Concepto cantidad="3.000" unidad="KILO" descripcion="BOLSA PLASTICO TRANSPARENTE 35 X 45" valorUnitario="40.300000" importe="120.90" />
+    <cfdi:Concepto cantidad="1.000" unidad="KILO" descripcion="BOLSA PLASTICO TRANSPARENTE 40 X 60" valorUnitario="40.300000" importe="40.30" />
+    <cfdi:Concepto cantidad="4.000" unidad="ROLLO" descripcion="PELICULA POLIESTRETCH ROLLO 45 CMS." valorUnitario="180.000000" importe="720.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="ROLLO" descripcion="PLASTICO NEGRO CAL.600 DE 8 MTS." valorUnitario="2560.000000" importe="12800.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="6443.60">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="6443.60" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="020E0A9A-6B57-46DA-BF55-5AC27DA2F987" FechaTimbrado="2016-04-06T17:46:08" noCertificadoSAT="00001000000301160463" selloCFD="ZpSvu04iTnj8hdAzrs0cz4xXz9qu0P7U7dj/uyW+WRrOVoB5oXolMoOy2yzE6UYpcOhlCmD5H32GVJtZw/LTIzJra8WIII6oXXvEkPWX3vOThBhZBUxS53/J2dx9W5DclIlLuY44AAR6vfMAjqxETCVcFnUacMiNBoxnIyW2dcY=" selloSAT="JjQHLH12ktNnnfvaAdetmbPztysfK3W1JWdVPfUig2HQ3U5fEUjnMqA042xLSQHweMXnm3RL9+2JNeWaT5G/Gc8Yzh5WkpwiIfE9CY0J1S6ldYzcDE/kpQVjbq0roFQJES6ZQby9BpJsqJ7IJayYWP+Z9f9uqRdDIGyAyVFRYos=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

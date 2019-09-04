@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante Version="3.3" Folio="B1-58565840T1-4" Fecha="2018-04-13T07:05:44" Sello="ErWDgsN/q2SIJlw/pgNfYFVDv82iRWzMEaZFp3a+3ci8q8FFhAClM9M9ZbSGJUw1bUF3QP6ESNIW6lcGeRWQDezS+ucy83tuCzAzjQxH3wAh+5T1pT+2fWw/9XeCQh1I+0+MXFK/sAkVVdUztlJF4K52NepKov0RxNkX3Sw77aE=" FormaPago="99" NoCertificado="00001000000304003052" Certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDQwMDMwNTIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA0MzAyMDU3MzVaFw0xODA0MzAyMDU3MzVaMIGvMRswGQYDVQQDExJUT1RBTCBCT1ggU0EgREUgQ1YxGzAZBgNVBCkTElRPVEFMIEJPWCBTQSBERSBDVjEbMBkGA1UEChMSVE9UQUwgQk9YIFNBIERFIENWMSUwIwYDVQQtExxUQk8xNDAzMDVESDAgLyBGT0dNNzEwNTA0RTE0MR4wHAYDVQQFExUgLyBGT0dNNzEwNTA0SERGTFJSMDkxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtlwORveSQSTdj5bkGSXlGB3cjFwmuwkFxBnWqk92wbDSb4n1iCwWwUF5oi7aB5fB6G6zTXUQLhqax4zCIe5xB7VS0xAqrEBIhK4hv2C+JXSx2znsxhpOahISo9h+feayCvX3tKMxTdzwrYF9mWWLcfMGMkTUt3szdmeXVUrfC4cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAJxnstjqRR/0bgnqNPlsLlPlxekAc6vSXljW+BHLKBllY2E/1YGniqzZqN5KKbfYgKeCtECd6YrUq4WS2VuN05i1eXaY4/nzBufUoK5RjP6CnasoA5bf9RxvRZPOePL+SYkp7M6atqy3X7M6InaOmL7O+Q55GyUjMXKh5fU2RCYi7SLn9u1CIX4LuZPi95tJ68LV//nFK7HNY/yLOfC6+FJLHG92K+rVNm/Rc0HMBewE00pO4x5dl3ZTj9GPnHBy5TRSFYzGVn6PTjKki9NA3aEmOSqqHR8jWSF0PXXsfz1A78iYj23D/L6cdrNiJvL0k44zYnP5tCXtjRqjdAOYssE=" SubTotal="182.45" Moneda="MXN" Total="211.64" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="14141" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="TBO140305DH0" Nombre="TOTAL BOX SA DE CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="IMI161007SY7" Nombre="IMPORTADORA MIZCO SA DE CV" UsoCFDI="P01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="81161800" NoIdentificacion="SERVICIO_RENTA" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Renta de Equipos" ValorUnitario="182.45" Importe="182.45">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="182.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="29.19" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="29.19">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="29.19" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital Version="1.1" UUID="B000EC2A-E572-4BCD-8ABB-49C4CF0009D1" FechaTimbrado="2018-04-13T07:07:45" RfcProvCertif="INT020124V62" SelloCFD="ErWDgsN/q2SIJlw/pgNfYFVDv82iRWzMEaZFp3a+3ci8q8FFhAClM9M9ZbSGJUw1bUF3QP6ESNIW6lcGeRWQDezS+ucy83tuCzAzjQxH3wAh+5T1pT+2fWw/9XeCQh1I+0+MXFK/sAkVVdUztlJF4K52NepKov0RxNkX3Sw77aE=" NoCertificadoSAT="00001000000404598147" SelloSAT="CUJbPZQzH4Tom+nbp0G61eN7/C3IALuAh5+i2dg7WMNsJzFojJ6vBT6sbitJR27QUc45R2FadE9C+UAQPvJqx85bQe7L0S0quZ7S3bDZR+tKX6txkjV3GBdiCBqE2kjwNC5XvWL9UfMOHU6Q6FE2o9vTN3I39MrUZHbsqvNnwSuTioqsM9cfwmWYOIl6q9sFDKobM07Yp8qaP9/6TE0jFnb9tlFFr+OuwVF5+u4KMJwr0o1DDUEHaF3tlasJN84PTmFu28qOHYNlNNIZEdgP8WZFY9Gp2dHb3wHCxT9KqGljHzbC3WdCmvob0LmFkP/O8EBYMz9hc7NdObbaGjcfFg==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

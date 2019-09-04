@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="184471" fecha="2016-07-26T18:51:36" sello="B0ZnLz2aI7jxoU+UCb6dI/EGLUlbBLFkSMAq7+GGBSZDQoVn7ptu+Lav8ZnzqrEIDC8zVbsbYAw27QytMZQfS2hdTO0VSahDsZlsXD85od5LrPUeZ2ljKd/Giz17R61kyXCGdZJ1IyV0fPhUQ2HZIglJhOL1R9dBhiKdxefHYcI=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="75113.22" TipoCambio="1.000000" Moneda="Pesos" total="87131.34" tipoDeComprobante="ingreso" metodoDePago="03" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="PAC120605V77" nombre="ATENTO MEXICO HOLDCO S DE R.L.">
+    <cfdi:Domicilio calle="MONTERREY" noExterior="100" colonia="COLONIA ROMA" localidad="DELEGACION" municipio="CUAUHTEMOC" estado="MEXICO DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06700" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="BALASTRA MAG 3X14 B0386-100" valorUnitario="130.520000" importe="391.56" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="BALASTRA MAG 3X28 B0416-000" valorUnitario="274.710000" importe="824.13" />
+    <cfdi:Concepto cantidad="25.000" unidad="pz" descripcion="BALASTRA SOLA BASIC 2X32 758-232-MC" valorUnitario="117.050000" importe="2926.25" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="LAMPARA FLUORESCENTE D/ESPIRAL MAG 45 W" valorUnitario="150.720000" importe="1507.20" />
+    <cfdi:Concepto cantidad="50.000" unidad="pz" descripcion="LAMPARA FLUORESCENTE D/ESPIRAL 13W 6500K" valorUnitario="39.720000" importe="1986.00" />
+    <cfdi:Concepto cantidad="35.000" unidad="pz" descripcion="LÁMPARA FLUORESCENTE PLC 26 W 840/4P PHI" valorUnitario="46.110000" importe="1613.85" />
+    <cfdi:Concepto cantidad="35.000" unidad="pz" descripcion="LÁMPARA PL-S 2P 13W/840 PHILIPS" valorUnitario="30.710000" importe="1074.85" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="LAMPARA PL-L-40W PIEZA PHILIPS" valorUnitario="86.580000" importe="173.16" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="LAMPARA PLC 13W 840/2P PHILIPS" valorUnitario="27.180000" importe="543.60" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="LAMPARA PLC 26W 840/2P PHILIPS" valorUnitario="27.390000" importe="547.80" />
+    <cfdi:Concepto cantidad="10.000" unidad="GALON" descripcion="PINTURA ESMALTE COMEX VELMAR AMARILLO OR" valorUnitario="534.410000" importe="5344.10" />
+    <cfdi:Concepto cantidad="10.000" unidad="CUB" descripcion="ESMALTE COLOR CEMENTO COMEX VELMAR 19 L" valorUnitario="1777.140000" importe="17771.40" />
+    <cfdi:Concepto cantidad="5.000" unidad="CUB" descripcion="REDIMIX USG C/6 KG" valorUnitario="85.890000" importe="429.45" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="RODILLO P/PINTAR 7&quot; PERFECT R00107" valorUnitario="22.280000" importe="445.60" />
+    <cfdi:Concepto cantidad="20.000" unidad="LTS" descripcion="THINNER 1 LT C/ ENVASE" valorUnitario="28.110000" importe="562.20" />
+    <cfdi:Concepto cantidad="30.000" unidad="pz" descripcion="BROCHA 500 4'' PERFECT A00687" valorUnitario="26.510000" importe="795.30" />
+    <cfdi:Concepto cantidad="30.000" unidad="pz" descripcion="BROCHA 500 6&quot; PERFECT A00689" valorUnitario="33.940000" importe="1018.20" />
+    <cfdi:Concepto cantidad="2.000" unidad="ROLLO" descripcion="CABLE USO RUDO DE 3 X 10 CONDULAC C/100" valorUnitario="4247.010000" importe="8494.02" />
+    <cfdi:Concepto cantidad="15.000" unidad="pz" descripcion="CINTA ANTIDERRAPANTE 2&quot; VARMAC" valorUnitario="487.080000" importe="7306.20" />
+    <cfdi:Concepto cantidad="1000.000" unidad="pz" descripcion="CINCHO DE PLASTICO 18CMX4.6 MM BLANCO LE" valorUnitario="0.390000" importe="390.00" />
+    <cfdi:Concepto cantidad="25.000" unidad="pz" descripcion="MASKING TAPE 1 1/2 TUK T110 36X150" valorUnitario="27.330000" importe="683.25" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BATERIA 6 V PANASONIC CRP2" valorUnitario="170.970000" importe="3419.40" />
+    <cfdi:Concepto cantidad="18.000" unidad="pz" descripcion="PEGAMENTO 5000 1LTS" valorUnitario="137.550000" importe="2475.90" />
+    <cfdi:Concepto cantidad="60.000" unidad="PAQ" descripcion="KIT P/LLAVE ECONOMIZADORA HELVEX SV064" valorUnitario="210.050000" importe="12603.00" />
+    <cfdi:Concepto cantidad="40.000" unidad="pz" descripcion="SILICON TRANSPARENTE SISTA 300 ML" valorUnitario="44.670000" importe="1786.80" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="12018.12">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="12018.12" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="E1ED8C24-FD88-4C0E-9B66-186E38264DD2" FechaTimbrado="2016-07-26T18:51:42" noCertificadoSAT="00001000000301160463" selloCFD="B0ZnLz2aI7jxoU+UCb6dI/EGLUlbBLFkSMAq7+GGBSZDQoVn7ptu+Lav8ZnzqrEIDC8zVbsbYAw27QytMZQfS2hdTO0VSahDsZlsXD85od5LrPUeZ2ljKd/Giz17R61kyXCGdZJ1IyV0fPhUQ2HZIglJhOL1R9dBhiKdxefHYcI=" selloSAT="3Z3/SmTePEJyyKEx7Ng12h0HhCS2i84GGWpaLvHH4DBdfVZC2mTEjDczDSB+4oZQjzQYmIxnCRDqZoccyvStuQ67PalaiMYNbKlltLAhTmGcW/z5GqxL098DLHyqSW3LjRuNHFEhUPJdvVE7rQFgk8a4qOsiKO27LewEraEFCl0=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns="http://www.sat.gob.mx/terceros" xmlns:amazonaddenda="http://www.amazon.com.mx/AmazonAddenda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIEvjCCA6agAwIBAgIUMDAwMDEwMDAwMDAzMDUwNzk5MjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA5MTAxNTA2NDhaFw0xODA5MTAxNTA2NDhaMIIBCTE6MDgGA1UEAxMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjE6MDgGA1UEKRMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjE6MDgGA1UEChMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjElMCMGA1UELRMcQU5FMTQwNjE4UDM3IC8gRk9BTDUzMDMwOTQyMzEeMBwGA1UEBRMVIC8gRk9BTDUzMDMwOUhERkxMUzA0MQwwCgYDVQQLEwNTQVQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIbf/xsQbF6kt2UC2IYjAj5k6BLEXWMg3oBi/ySVas+67pduKKa7Q126OfRV8DRBcl755gnv7gyMOY3qjklYzyl/livuP3ihzOGQYhmITPXBnZ/sPl2jUXY7CzQiRA8yfwbwQiwAFLLTUTFdoED3HtoNh8fdHjaLpCvd00BBasB7AgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQDP187yR1fYkmmbllT9fDR6lD7W6DFripIgTc2AVgqnKUhLrDleQtHRF4zb6jliP4w5sI85MHkPC4Jvu+3bFdIj0ORhgpuBjFXiTGT8uBcP68MeeFpRi1sulUd+mPHRvikXEC56BhYEfxx6+uk7Zg9FsK+L1sP72TRt/X1AT/rTHN4qigZz2JLuTZmbtj8fU6hScxCv2DEZ4FWrPr5Zr9LT3tSlyL5T10aYkC7VVQI2UN2mNfq6dX8hHhy6jYT0eqT0+MDp1/6cRVefgRvl0VP0bX1TQn4HL9Xv6dD/AlWiNJNtiV1i0p6CIIV7BhKN94CzOzQAcsQ2qrkGL5CEP5X/" Fecha="2018-08-02T08:45:43" Folio="394505" FormaPago="99" LugarExpedicion="05348" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000305079927" Sello="VGIiVQvF1qK4E4CvbfpkRb+wBdtnPRnGGSPLBgTa+jmbSTS6M5pww36YxTe5WqV/0nOFVnvBrTsfeDmBnCmTF7bndqVR5QS6GOKLiV7vTFFnI9ZEvqTNg1aQZ+w3QOpuiSCXmByZWn0iSO+yLMNHHmywsCuklha9fdJrQFvtoVg=" Serie="SellerDebit" SubTotal="1200.17" TipoDeComprobante="I" Total="1392.20" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:Emisor Nombre="Servicios Comerciales Amazon México S. de R.L. de C.V." RegimenFiscal="601" Rfc="ANE140618P37" />
+    <cfdi:Receptor Rfc="IMI161007SY7" UsoCFDI="G03" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="80141706" ClaveUnidad="E48" Descripcion="Tarifa por referencia" Importe="472.95" NoIdentificacion="1_18175741202" Unidad="servicio" ValorUnitario="472.95">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="472.95" Importe="75.67" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="80141706" ClaveUnidad="E48" Descripcion="Tarifa variable por venta de artículo" Importe="37.32" NoIdentificacion="2_18175741202" Unidad="servicio" ValorUnitario="37.32">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="37.32" Importe="5.97" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="81141601" ClaveUnidad="E48" Descripcion="Tarifas de almacenamiento de Logística de Amazon:" Importe="172.66" NoIdentificacion="3_18175741202" Unidad="servicio" ValorUnitario="172.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="172.66" Importe="27.63" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="81112106" ClaveUnidad="E48" Descripcion="Suscripción" Importe="517.24" NoIdentificacion="4_18175741202" Unidad="servicio" ValorUnitario="517.24">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="517.24" Importe="82.76" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="192.03">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="192.03" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="ED7971BC-F52E-413F-A923-D9F068E7DCF8" FechaTimbrado="2018-08-02T13:45:44" SelloCFD="VGIiVQvF1qK4E4CvbfpkRb+wBdtnPRnGGSPLBgTa+jmbSTS6M5pww36YxTe5WqV/0nOFVnvBrTsfeDmBnCmTF7bndqVR5QS6GOKLiV7vTFFnI9ZEvqTNg1aQZ+w3QOpuiSCXmByZWn0iSO+yLMNHHmywsCuklha9fdJrQFvtoVg=" NoCertificadoSAT="00001000000404477432" SelloSAT="bow9iMTRtjy/0rvQlHshF0EJZRxUo5Hw7RCCLaU4QnjM0+z1bGuB9dqZXKg+lKXlzj93NzOACF+oyVslbOIglmkt5lqkcHB9HBOW2EdGPQ1e6crKrRbEE9hpaCLL01YrIcVdCs9ceqRX8Sp3wfRKwJbDrk4whVnqAqGPZ4dRPZUwUKVjrxR+iJ0i7HncYoWtR27DJFthfFyoEPRFeza38YSNGJVju/SDBQVZOR+RmyL5T/tP1UnxqlJhJasOqTfl5GuhmngjAenTbXYVbzIPrqcvob15/SIf1aYikBKKUK1Wqg325M7q+o9y9x2+fGcxCif6VSX6hXZXqENjczfqYg==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

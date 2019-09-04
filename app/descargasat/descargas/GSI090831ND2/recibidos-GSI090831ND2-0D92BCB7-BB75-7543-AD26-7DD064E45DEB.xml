@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  <cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:implocal="http://www.sat.gob.mx/implocal" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd" Version="3.3" Serie="A" Folio="22295" Fecha="2019-03-31T11:18:47" Sello="en+/G12pY3cbZfsXZs6IiMPVf9kb9/xjgY/uYUY5hxWU9pCD7nF4zHAM8lWDj3OBIsONucx3ys9VFuUb2eB9LpDkkNzC/LTSF6m9pnVaETcOSg2kN11z1DRVbGiMTo4My3+0Djt5jLzSeTvAXp9rQXXj2mvXa/LB6NWXRviCL9g=" FormaPago="04" NoCertificado="00001000000306733008" Certificado="MIIEojCCA4qgAwIBAgIUMDAwMDEwMDAwMDAzMDY3MzMwMDgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTA0MTAxNjAzNDdaFw0xOTA0MTAxNjAzNDdaMIHuMSowKAYDVQQDEyFIT1RFTEVTIEhJIERFIE5VRVZPIExFT04gU0EgREUgQ1YxKjAoBgNVBCkTIUhPVEVMRVMgSEkgREUgTlVFVk8gTEVPTiBTQSBERSBDVjEqMCgGA1UEChMhSE9URUxFUyBISSBERSBOVUVWTyBMRU9OIFNBIERFIENWMSUwIwYDVQQtExxISE4xNTAzMTJONjIgLyBQQVZDNzcwODE5REEyMR4wHAYDVQQFExUgLyBQQVZDNzcwODE5TUpDTFpSMDgxITAfBgNVBAsTGEhPVEVMRVMgSEkgREUgTlVFVk8gTEVPTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArVkt5V2FpzHkTQmThtm/2i04BiqOZAm54gQQE9TqHYlMV8RbHMr56qi3K/t4+xjzcA8ZBCiKz1wV33L7S2s5V4RuIEjE0Drgo3xswLcKnaujXXv91nQkWTwsu+DsSFYh4chVn4UzJDIi4n4Bp9vCWdOFcNK3HIcLbm3Opb/AApsCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAMrbWj2vCNCfCj2zCeaSX9+6qJvAlgn64K7JTq9nyKBW7hR+ltgMiehownnzZCQHHFKVP+dNOwpgouY/526p2eHqqh0OL8h3ubCS9OJlACSSYzkov1aUAQfu1qlauTX2zyV+k71zMehIomqhnKWjonSbmGKKV58ozEWJSJxvrKIATxqZXI4VGFlnw2TBLyPUriItTMURip684YRJt+yzK6Q3JZJwBpHj2kf+phHobpuocuvwsqxd8fGlWUHPbjeZD4rf+4+nnu1nXcaFDmdYfANOdO7vyALx+FxSQ/NhMdbtDRUq7qv9L/EOaXYp13nu2RBTvziNhkgStJXXVffxfZc=" SubTotal="503.36" Moneda="MXN" Total="599.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="66170" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+    <cfdi:Emisor Rfc="HHN150312N62" Nombre="HOTELES HI DE NUEVO LEON S.A. DE C.V." RegimenFiscal="601" />
+    <cfdi:Receptor Rfc="GSI090831ND2" Nombre="GOBATO SOLUCIONES INTEGRALES S DE RL MI" UsoCFDI="G03" />
+    <cfdi:Conceptos>
+      <cfdi:Concepto ClaveProdServ="90111500" NoIdentificacion="1" Cantidad="1.00" ClaveUnidad="E48" Unidad="SERVICIO" Descripcion="HOSPEDAJE" ValorUnitario="503.36" Importe="503.36">
+        <cfdi:Impuestos>
+          <cfdi:Traslados>
+            <cfdi:Traslado Base="503.36" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="80.54" />
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="80.54">
+      <cfdi:Traslados>
+        <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="80.54" />
+      </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+      <implocal:ImpuestosLocales version="1.0" TotaldeRetenciones="0.00" TotaldeTraslados="15.10">
+        <implocal:TrasladosLocales ImpLocTrasladado="ISH" TasadeTraslado="3.00" Importe="15.10" />
+      </implocal:ImpuestosLocales>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="0D92BCB7-BB75-7543-AD26-7DD064E45DEB" FechaTimbrado="2019-03-31T11:19:19" RfcProvCertif="SCD110105654" SelloCFD="en+/G12pY3cbZfsXZs6IiMPVf9kb9/xjgY/uYUY5hxWU9pCD7nF4zHAM8lWDj3OBIsONucx3ys9VFuUb2eB9LpDkkNzC/LTSF6m9pnVaETcOSg2kN11z1DRVbGiMTo4My3+0Djt5jLzSeTvAXp9rQXXj2mvXa/LB6NWXRviCL9g=" NoCertificadoSAT="00001000000401041203" SelloSAT="yO17afUiApeyF1vNMIjsC09XArI39//+9jeUbaTlPHy+IbBK9gHMlI0X5NN/5qp62ZQpP4KstlPpRmZ1mqKCka53qJkq3p9S8Ju3c3J/tRjAGpj9OpF7ei5eHUMYewec7g2OpD6FGh3a+xF2LfbQo3rGu5XBrChPWl3OX+wlyGmIx24YSFTvlsWwjUjdptqylmUCYS+U42/jyJmKCgqLDzxBT2Sl1Y3Gh7Nd3Bszb4ndk46MNKu4BtQ5UeS5L/LIgpBSz4WnjiQOC0YgFveIVyfny7HZtIWc917vBXqqozBqtwz1cBDaz/eBd6+3HNnP2l4kHBJs2GAiDHPWMq5Cug==" />
+</cfdi:Complemento>
+  </cfdi:Comprobante>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="185902" fecha="2016-08-17T20:23:21" sello="YkHlb//ImIRmrzW4EzQ3CYCj/6r83PJsQEYiGJK60HUqJNlBCDMp4lSM4goU73GatkeifNm6ZHaQhJR9+EFTusHm5tTBtvNd6JCLRclkxQJglnuwySujSKtT9N3/WCP6O9eOfvBlFXM10ghWzdsMrJlV1HCMpp2RA0nGkKW5XQg=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="10628.65" TipoCambio="1.000000" Moneda="Pesos" total="12329.23" tipoDeComprobante="ingreso" metodoDePago="03" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="PHI830429MG6" nombre="EL PALACIO DE HIERRO, S.A. DE C.V.">
+    <cfdi:Domicilio calle="DURANGO" noExterior="230" colonia="ROMA" localidad="CUAUHTEMOC" municipio="CUAUHTEMOC" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06700" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="72.000" unidad="pz" descripcion="CERRADURA PHILLIPS 0021-C 3017868" valorUnitario="30.620000" importe="2204.64" />
+    <cfdi:Concepto cantidad="2.000" unidad="PZ" descripcion="CERRADURA PHILIPS RECAM GAMA CROMO(8115)" valorUnitario="124.140000" importe="248.28" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="CERRADURA PHILLIPS 0800-FI IZQUIERDA" valorUnitario="177.790000" importe="355.58" />
+    <cfdi:Concepto cantidad="1000.000" unidad="pz" descripcion="CINCHO PLASTICO 15CMS." valorUnitario="0.260000" importe="260.00" />
+    <cfdi:Concepto cantidad="1000.000" unidad="pz" descripcion="CINCHO PLASTICO 20CMS." valorUnitario="0.320000" importe="320.00" />
+    <cfdi:Concepto cantidad="1000.000" unidad="PIEZA" descripcion="CINCHO PLASTICO 30 CMS" valorUnitario="0.500000" importe="500.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="PIEZA" descripcion="CINTA AISLAR 3M SCOTCH SUPER 33" valorUnitario="55.150000" importe="1103.00" />
+    <cfdi:Concepto cantidad="6.000" unidad="pz" descripcion="CINTA DUCTO TRU CDU-50X 50.8MMX50M 12588" valorUnitario="75.000000" importe="450.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="CINTA SEGURIDAD AMARILLO/NEGRO 4&quot; MARCAG" valorUnitario="184.500000" importe="922.50" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="CLAVO TRUPER 15013 1-1/2&quot;C/2500PZS P/PIS" valorUnitario="105.000000" importe="105.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="CLAVO TRUPER 18262 3/4&quot; C/5000PZ P/PISTO" valorUnitario="42.000000" importe="42.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="KG" descripcion="CLAVO FIERO 2&quot; SIN CABEZA 44497" valorUnitario="29.000000" importe="29.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="KG" descripcion="CLAVO FIERO 1&quot; SIN CABEZA 44495" valorUnitario="29.000000" importe="29.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="KG" descripcion="CLAVO FIERO 3/4&quot; SIN CABEZA 44504" valorUnitario="29.000000" importe="29.00" />
+    <cfdi:Concepto cantidad="8.000" unidad="PIEZA" descripcion="CUTTER TRUPER 16977 CUT-6X CON GRIP 6&quot;" valorUnitario="35.000000" importe="280.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="CAJA" descripcion="GRAPA TRUPER 17968 1/2 C/1000 PZAS" valorUnitario="19.000000" importe="38.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="PZ" descripcion="GRAPA ARROW T50 5/16 8MM (IDK510)" valorUnitario="47.950000" importe="95.90" />
+    <cfdi:Concepto cantidad="10.000" unidad="PAR" descripcion="GUANTE TRUPER 13294 GUX-NIT-M NYLON MEX" valorUnitario="45.000000" importe="450.00" />
+    <cfdi:Concepto cantidad="300.000" unidad="pz" descripcion="PIJA PUNTA BROCA 1/4 X 3/4&quot;" valorUnitario="0.670000" importe="201.00" />
+    <cfdi:Concepto cantidad="300.000" unidad="pz" descripcion="PIJA PUNTA BROCA 1/8X1/2 CABEZA PLANA" valorUnitario="0.670000" importe="201.00" />
+    <cfdi:Concepto cantidad="100.000" unidad="PZ" descripcion="PIJA PUNTA BROCA 8X1/2 CABEZA PLANA" valorUnitario="0.250000" importe="25.00" />
+    <cfdi:Concepto cantidad="100.000" unidad="PZ" descripcion="PIJA PUNTA BROCA 1/8X1 C/PLANA" valorUnitario="0.220000" importe="22.00" />
+    <cfdi:Concepto cantidad="4000.000" unidad="PZ" descripcion="PIJA TABLAROCA 8X1&quot; CDA CERRADA" valorUnitario="0.160000" importe="640.00" />
+    <cfdi:Concepto cantidad="500.000" unidad="pz" descripcion="PIJA TABLAROCA 3/4&quot; CUERDA ABIERTA" valorUnitario="0.150000" importe="75.00" />
+    <cfdi:Concepto cantidad="500.000" unidad="PZA" descripcion="PIJA TABLAROCA 8X2 1/2 CUERDA ABIERTA" valorUnitario="0.510000" importe="255.00" />
+    <cfdi:Concepto cantidad="500.000" unidad="PZ" descripcion="PIJA TABLAROCA 8X3&quot; CUERDA ABIERTA" valorUnitario="0.600000" importe="300.00" />
+    <cfdi:Concepto cantidad="600.000" unidad="PZ" descripcion="PIJA TABLAROCA 8X2&quot; CUERDA ABIERTA" valorUnitario="0.350000" importe="210.00" />
+    <cfdi:Concepto cantidad="600.000" unidad="PZ" descripcion="PIJA TABLAROCA 8X2&quot; CUERDA CERRADA" valorUnitario="0.300000" importe="180.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="PAQUETE" descripcion="PUNTAS TRUPER 17783 P5-22 5 PZAS" valorUnitario="25.000000" importe="50.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="PIEZA" descripcion="SEGUETA A.V. NICHOLSON DIENTE FINO 24D" valorUnitario="7.950000" importe="39.75" />
+    <cfdi:Concepto cantidad="6.000" unidad="PIEZA" descripcion="SERROTE TRUPER 18180 STR-6X 6 1/2&quot;" valorUnitario="43.000000" importe="258.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="PIEZA" descripcion="TIJERA TRUPER 18531 TAV-R AVIACION" valorUnitario="120.000000" importe="600.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="TIJERA TRUPER TH-7 PARA HOLATERO" valorUnitario="110.000000" importe="110.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="1700.58">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1700.58" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="E803D466-2946-41D0-B14D-F57EC8D39154" FechaTimbrado="2016-08-17T20:23:39" noCertificadoSAT="00001000000301160463" selloCFD="YkHlb//ImIRmrzW4EzQ3CYCj/6r83PJsQEYiGJK60HUqJNlBCDMp4lSM4goU73GatkeifNm6ZHaQhJR9+EFTusHm5tTBtvNd6JCLRclkxQJglnuwySujSKtT9N3/WCP6O9eOfvBlFXM10ghWzdsMrJlV1HCMpp2RA0nGkKW5XQg=" selloSAT="FKPsL+4k1NrYWfKOEtb3T6i41V0r/jW2Hu3BWYzL3PsaXAiZPMqwKtR7MmLE6VqHfrD7W2Xvvx5PqRYbfyPqlRlryJl18lKi5/N8sTNk9YObZ+znsiyqkNP4M5bXxfJvyBWXZ4TmgzCMEf3PdcD3wwIw/2J3dSqzv7HoogX4pX4=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

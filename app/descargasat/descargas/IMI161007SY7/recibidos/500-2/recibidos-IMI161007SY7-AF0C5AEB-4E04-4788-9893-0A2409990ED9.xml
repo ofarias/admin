@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><cfdi:Comprobante Certificado="MIIEjTCCA3WgAwIBAgIUMDAwMDEwMDAwMDAzMDQ4ODU5MTIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA4MTMxNDIwMThaFw0xODA4MTMxNDIwMThaMIHZMSkwJwYDVQQDEyBBVVRPWk9ORSBERSBNRVhJQ08gUyBERSBSTCBERSBDVjEpMCcGA1UEKRMgQVVUT1pPTkUgREUgTUVYSUNPIFMgREUgUkwgREUgQ1YxKTAnBgNVBAoTIEFVVE9aT05FIERFIE1FWElDTyBTIERFIFJMIERFIENWMSUwIwYDVQQtExxBTUU5NzAxMDlHVzAgLyBXRVNQNjkxMDA1VVE5MR4wHAYDVQQFExUgLyBXRVNQNjkxMDA1SE5FQlBUMDYxDzANBgNVBAsTBk5PTUlOQTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA18W/UO8x/efhSXqWPLAr+MqPH8w/GcwP13Ac+dMzaTX/Cdbp9NJiFiJcrh+lH7IPgfokEfX3HgtzopXdy02LQ0RS0stL6EYfRRIR0hlz0EQHzHvWjMc0ix6Q+PBckFPQl5nqeEWGnmjkKwo2hO/8EOo0Yk0NUYpDrhlHGhhaB7cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAHR1GPpI1IMtNAfJibj5XxyXRjN034A4yBv411BIktttE/4APCkBb6iUnz70+qi0X8axfbaV7ura/TgLwowJ7jfKFxt5leW05SyLCJ8MsRu7ofvJCD9dchMsDGiWoqwVPE4Dp0ZIOHZTKL7jyuUeKmkrvaQ9JlY7kVLj4Tb/0PrWzMEE4uE0ZetpocOJ+5nF7ns0UPAxmcZeJey0gl4NuzGqjmVI2mz3Mw1s9J4md3gqLjLxHbMHvLpJ9F6B8O1LLL7+YkObNKmNZxstagaSx1ddjFOReJZ7FJJLpoj219clyZf8JVLlLs56A1aa1x/ypaMDOZlbSp7pcojvBBc8dWw=" Fecha="2018-01-24T15:52:17" Folio="606667" FormaPago="01" LugarExpedicion="54030" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000304885912" Sello="mfOZ7uEumaG7k8M01stv9qUtU2lEOvlAVUQ9s4RhDAd9hnay34hW2D2GD3guEgn20iiIjKYo6UEN1r5O4uEprl/zN6Bod5gBKq99l1QXyxcT6vE1Dl8NlNkF+JlW8V4bOJT6cdOhpPtgatddhr6xHegOxcP+TMJcAiwbqSB+pDI=" Serie="7378" SubTotal="150.78" TipoDeComprobante="I" Total="174.90" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:dvz="http://www.diverza.com/ns/addenda/diverza/1" xmlns:fm="http://facturame.mx/ns/addenda/1" xmlns:pago10="http://www.sat.gob.mx/Pagos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Nombre="AUTOZONE DE MEXICO S DE RL DE CV" RegimenFiscal="601" Rfc="AME970109GW0" />
+  <cfdi:Receptor Rfc="IMI161007SY7" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1.000000" ClaveProdServ="25172408" ClaveUnidad="H87" Descripcion="5791  Tap n p Comb c Lla" Importe="150.78" NoIdentificacion="4393" ValorUnitario="150.780000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="150.780000" Importe="24.12" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="24.12">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="24.12" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+      </cfdi:Traslados>
+    </cfdi:Impuestos>
+  <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="af0c5aeb-4e04-4788-9893-0a2409990ed9" RfcProvCertif="DIA031002LZ2" FechaTimbrado="2018-01-24T15:52:17" SelloCFD="mfOZ7uEumaG7k8M01stv9qUtU2lEOvlAVUQ9s4RhDAd9hnay34hW2D2GD3guEgn20iiIjKYo6UEN1r5O4uEprl/zN6Bod5gBKq99l1QXyxcT6vE1Dl8NlNkF+JlW8V4bOJT6cdOhpPtgatddhr6xHegOxcP+TMJcAiwbqSB+pDI=" NoCertificadoSAT="00001000000404614920" SelloSAT="AFcdEbxxKX5cZUGAn6t69kYr6nKMqfuE+C5oK9QP4a1+r/j7r0m3aXtUmvNGobdcwRcJ1saHQ3qfmdrvG4pnXuiqp+LcnY6mfq+EaW5SsgM94fAnyaePQkEB8OVhie/m1n2BBmOXzZ8rpLz7ViPe/JzHXrUUOFg7gKuSrkfjJtLZ7AyIhOeUezi86LHza6abBdm/+L1oOic0euIjUnYg+ep/YyrkQMaLO2u1QKSdqZvhJh7WnCrPVhiJxYZCZbUVTkfCCWzQKYIj41CqDookCvhCsHUmiHabSkwfun8l1YoPjL0a2TJXXTLkf0w8mezrpDifSuNCFq3KUJw7olMOdw==" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

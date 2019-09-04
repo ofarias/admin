@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="176603" fecha="2016-04-14T20:36:34" sello="b1FR9lo9ydmz/tjVm/BpDRsGTy/LlwMnKGptvoBswCvKPOI9wTzz5bDRN/0xwv+O2x5xiExMXZIrrnh+lx+HdfYa6su2aOPOYAgLqpQnn8q4TZXt4aNi8CKo7MSO++TGE+ESsvQcBWnRguwLQ1cwcfR9A0r9fYX1JOfK4uyWycU=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="3739.21" TipoCambio="1.000000" Moneda="Pesos" total="4337.48" tipoDeComprobante="ingreso" metodoDePago="TRANSFERENCIA ELECTRONICA BBVA" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO" NumCtaPago="0110085669">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="PHI830429MG6" nombre="EL PALACIO DE HIERRO, S.A. DE C.V.">
+    <cfdi:Domicilio calle="DURANGO" noExterior="230" colonia="ROMA # PROV.1024540" localidad="CUAUHTEMOC" referencia="FACTURA CON SELLO FIRMA Y ENTRADA DE ALMACEN." municipio="CUAUHTEMOC" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06700" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="25.000" unidad="pz" descripcion="ABRAZADERA OMEGA 19MM 3/4&quot;" valorUnitario="1.050000" importe="26.25" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="ABRAZADERA SIN FIN IDEAL HS-006 1/2" valorUnitario="3.920000" importe="39.20" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="ABRAZADERA SIN FIN TRUPER M-24 2&quot; 44239" valorUnitario="58.000000" importe="116.00" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="BISAGRA HERMEX BC-401-9 4&quot; 43239" valorUnitario="19.000000" importe="190.00" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="BISAGRA TRUPER BI-20L D 2X1-5/8 43194" valorUnitario="4.000000" importe="40.00" />
+    <cfdi:Concepto cantidad="200.000" unidad="pz" descripcion="CINCHO PLASTICO 15CMS" valorUnitario="0.230000" importe="46.00" />
+    <cfdi:Concepto cantidad="200.000" unidad="pz" descripcion="CINCHO PLASTICO 20CMS" valorUnitario="0.300000" importe="60.00" />
+    <cfdi:Concepto cantidad="200.000" unidad="pz" descripcion="CINCHO PLASTICO 30CMS" valorUnitario="0.480000" importe="96.00" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="CINTA AISLAR 3M SCOTCH SUPER 33" valorUnitario="48.740000" importe="487.40" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="CINTA TEFLON GARLOCK 1/2&quot; IMPORTACION" valorUnitario="32.600000" importe="326.00" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="CINTA TEFLON GARLOCK 3/4&quot; IMPORTACION" valorUnitario="36.350000" importe="363.50" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="CLAVO P/PISTOLA NEUMA 15016 CAL16 2&quot;" valorUnitario="135.000000" importe="135.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="CLAVO P/PISTOLA NEUMA 15013 1 1/2 2500P" valorUnitario="105.000000" importe="105.00" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="CLAVO SIN CABEZA 19MM 3/4&quot;" valorUnitario="29.000000" importe="87.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="DETECTOR FLUKE 1AC-A1-II TIPO PLUMA" valorUnitario="581.050000" importe="581.05" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="LENTES TRUPER LEN-ST SEGURIDAD TRANSP" valorUnitario="18.000000" importe="90.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="PIJA NEGRA P/MADERA 1 1/2&quot;X6 100PZAS" valorUnitario="12.000000" importe="24.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="PIJA NEGRA P/MADERA 2&quot;X6 100 PZAS" valorUnitario="15.000000" importe="30.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="PILA DURACELL ALCALINA &quot;AA&quot;" valorUnitario="10.780000" importe="215.60" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="PILA DURACELL ALCALINA &quot;AAA&quot; C/4 PZAS" valorUnitario="47.070000" importe="141.21" />
+    <cfdi:Concepto cantidad="100.000" unidad="pz" descripcion="RONDANA PLANA GALVANIZADA 1/4&quot;" valorUnitario="0.130000" importe="13.00" />
+    <cfdi:Concepto cantidad="100.000" unidad="pz" descripcion="RONDANA PRESION GALVANIZADA 1/4&quot; PZA" valorUnitario="0.320000" importe="32.00" />
+    <cfdi:Concepto cantidad="15.000" unidad="pz" descripcion="TAQUETE EXPANSION 1/4&quot;" valorUnitario="5.500000" importe="82.50" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="TAQUETE P/TABLAROCA 1/4 C/100 PZAS" valorUnitario="412.500000" importe="412.50" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="598.27">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="598.27" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="b1FR9lo9ydmz/tjVm/BpDRsGTy/LlwMnKGptvoBswCvKPOI9wTzz5bDRN/0xwv+O2x5xiExMXZIrrnh+lx+HdfYa6su2aOPOYAgLqpQnn8q4TZXt4aNi8CKo7MSO++TGE+ESsvQcBWnRguwLQ1cwcfR9A0r9fYX1JOfK4uyWycU=" FechaTimbrado="2016-04-14T21:37:11" UUID="ddc0c4f4-347b-4894-a5fc-d3f4d317abb2" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="IQSEA1GftUfjGazL0B/Vq0RYISj+lNpnXv241SpgWGnuNfNo8+nqHm4PxFw/jJVQzapD8UoZ3IWtbxLf4yC8e1TLscNVuuXz9LYu+Hv8Pn+/DeV+xQ9lLtTA2GeSUSc6ghr88SRjpPUJQTZWgtILdXFE6hUCzNCkfAw1oo/x9BQ=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

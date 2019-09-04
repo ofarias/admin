@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Folio="1059" Fecha="2018-07-06T18:13:52" Sello="Y63Ixflktiafm81PkmQusFRME2VU1uHhFRX9gww8bI292741sYsIT9S24Y3KqgZ1qwvxQZcs9C3Rv5g7t852beNQNrZ1tEnzyll+2/ARobBaQLWPt0J4/CweneBk4O2WepccNG53fCsRD7iy3cRci7L2xKQHBNv9khqgc+rwAoY=" FormaPago="01" NoCertificado="00001000000306328034" Certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDYzMjgwMzQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTAxOTQ5MjRaFw0xOTAzMTAxOTQ5MjRaMIGvMSEwHwYDVQQDExhKT1NFRklOQSBHT0RJTkVaIFJBTUlSRVoxITAfBgNVBCkTGEpPU0VGSU5BIEdPRElORVogUkFNSVJFWjEhMB8GA1UEChMYSk9TRUZJTkEgR09ESU5FWiBSQU1JUkVaMRYwFAYDVQQtEw1HT1JKNTgwNDEzUTMwMRswGQYDVQQFExJHT1JKNTgwNDEzTUpDRE1TMDgxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAikoKCRSJwYFd2oFpiV2b+4SAV5K57A5J9Dl1iOnmQYQWMfNXmltikL8v35+5EIOz1+D3ohuR67vkW1tBmXw+z07Fy/76qvexPKlZwP7ZwO6T6iCAv7reBq0r20RwnFZ+y5G2SmmiHs+aiVNCYBSrvWqLDrk1iUkE7ZuQTp/JIFsCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAH7OIfJU0fVi0taQGMIiGoN6IGjLa6FuzZ3Lb+HBvjxROedkd8GW4ZJ5lV0Ckts9vLoJ+U/WwcsmcZttdDbbHqk3nP7z6vYx+o2C9OIz63OXZ5m3DOWe7R8/jN1RLmwYzwZKRRDMd5k1O+7FU74xJFWm4utW1lZGx1FW0ZPMLQvvaVMbjFZN5qzWMGvPNzVMEduy0P8GGW84ENvqbMrLlh7wZn9ohPLtyECEUZrc+Ty5TWrGcM6zlHoc/x2Isp76jOBI5UTOs3Jvf+dn36WAMa6hvK7iQD6j2uashgpWHzyl9VmyjtBM8KbIJXIqY626Z8KX+mDJqxIryvjXKd7Vj6g=" SubTotal="1155.00" Moneda="MXN" Total="1339.80" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="54020" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cfdi:Emisor Rfc="GORJ580413Q30" Nombre="JOSEFINA GODINEZ RAMIREZ" RegimenFiscal="621" />
+	<cfdi:Receptor Rfc="IMI161007SY7" Nombre="IMPORTADORA MIZCO S. A.DE C.V." UsoCFDI="G03" />
+	<cfdi:Conceptos>
+		<cfdi:Concepto ClaveProdServ="53102700" NoIdentificacion="10" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZAS" Descripcion="PONCHADO" ValorUnitario="75.00" Importe="75.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="75.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.00" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="53102700" NoIdentificacion="238" Cantidad="9" ClaveUnidad="H87" Unidad="PZ" Descripcion="PLAYERAS TIPO POLO BORDADAS" ValorUnitario="120.00" Importe="1080.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1080.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="172.80" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosTrasladados="184.80">
+		<cfdi:Traslados>
+			<cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="184.80" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital RfcProvCertif="TSP080724QW6" Version="1.1" UUID="3D6CF814-B2DB-441B-B765-56F6C45973C9" FechaTimbrado="2018-07-06T18:16:15" SelloCFD="Y63Ixflktiafm81PkmQusFRME2VU1uHhFRX9gww8bI292741sYsIT9S24Y3KqgZ1qwvxQZcs9C3Rv5g7t852beNQNrZ1tEnzyll+2/ARobBaQLWPt0J4/CweneBk4O2WepccNG53fCsRD7iy3cRci7L2xKQHBNv9khqgc+rwAoY=" NoCertificadoSAT="00001000000407612027" SelloSAT="UmMwoti8xTeQY7I5CkugF0ihmzPY2e8vagQ36RXriCs65DJRVxQ/3VVdm7GQAN1dXwnSaN9LCSy00Zkva+qDfXIvUePU3GxXwfzw5BpphchvWV1xQpWDURfOR+LhPsGcIh8vr2gIY/Oq6tCiPTkO3BCdZDsNpP223VanzenUI4cC35rPLpbI5bo702AtLUy4LtsUkzNzVNXFpe/CfJBE0uV02/8Z7xiFJMZthaVqXZZAcuTLqxoTRVbyeAmlzgy0mvq77ySUnDZl3OEQA3rbYjOnADvPpynDTHbQRS9Z1anxiHO1v/3EcRQ2d8DImYkSZZZB0L9aqTSU2HuDNPoO2Q==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" /></cfdi:Complemento></cfdi:Comprobante>

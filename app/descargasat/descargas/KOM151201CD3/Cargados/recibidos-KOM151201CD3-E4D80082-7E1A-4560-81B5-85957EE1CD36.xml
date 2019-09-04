@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:modelo="http://www.gmodelo.com.mx/CFD/Addenda/Receptor" xmlns:ns8="http://www.farmaciasguadalajara.com.mx/AddendaFragua" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIExDCCA6ygAwIBAgIUMDAwMDEwMDAwMDAzMDM1MzU2NDEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAzMjgyMTA3MTZaFw0xODAzMjgyMTA3MTZaMIIBDzEwMC4GA1UEAxMnS00gRElTVFJJQlVDSU9OIERFIE1BUVVJTkFSSUFTIFNBIERFIENWMTAwLgYDVQQpEydLTSBESVNUUklCVUNJT04gREUgTUFRVUlOQVJJQVMgU0EgREUgQ1YxMDAuBgNVBAoTJ0tNIERJU1RSSUJVQ0lPTiBERSBNQVFVSU5BUklBUyBTQSBERSBDVjElMCMGA1UELRMcS0RNMDgwODIyMjYwIC8gTUFVSjY4MDczMTVCMjEeMBwGA1UEBRMVIC8gTUFVSjY4MDczMUhKQ1JSUjAyMTAwLgYDVQQLEydLTSBESVNUUklCVUNJT04gREUgTUFRVUlOQVJJQVMgU0EgREUgQ1YwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ7OZUAubTHlyx128y8558xlrR1DaiXVDY4e1R7TfTSng7Xe126nQzGng171iL42Me/ZPNQIp7y8Uki1ziD7xvajLj7ntiGpsGqhMz0QQfwZ6GoUNUHGDXZI5zoxCEpfOeuQdI22y8d1wKRTFZs0B6gp/UjOSTsZg5Hk6DmZODGFAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQAe+oCiIg2L63vMV0tDoGhsAQCP9aDMl18To4LwZjSU9HcHm3xTcXYXxC7jfe0HAHJugU7R5E4ObdJvxTM2HKmmlvN9NhTlco2fQV4zYDxhtqL/ebs6ElLi1fzwEqyV9ttDvHD7Ud/OMKOvv8LHa90KGtveKo283iqGmIj27M6DwTNcfdv+ZVoOyZe3kvKo+lZCrVkK4yGsRjtbI1d/AhyJAnNNyNu1byjycMT7pChdwDL/zfXfZ8FmhxqVoHzOJt8BKbQOmYK6Bkrqc/G64jB6VjQdFjOn+X60mMeWxjJohRL5Q13Gco3CuH96CADODHBBOah9dxU+H4z9PI8GvUOa" CondicionesDePago="CONTADO" Fecha="2018-01-24T15:01:00" Folio="11653" FormaPago="03" LugarExpedicion="45620" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000303535641" Sello="XghEqgei6J16yaOiVjegbg/pHKBdPCOq6dQwwwV16WZ5wRYCVTvMPxnmNUoiW9C8H+7GyOBblxrABev1CFQtrq/kUYI9vYJukMEv+vLL2M+uYX4Fmn/aD0m/faMVXhFNTBHpggCwniX9Q9Bj9C/oY4+emNKSlXhjqF2z16oylQo=" Serie="A" SubTotal="3177.59" TipoDeComprobante="I" Total="3686.00" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Nombre="KM DISTRIBUCION DE MAQUINARIAS S.A DE C.V." RegimenFiscal="601" Rfc="KDM080822260" />
+  <cfdi:Receptor Nombre="KOMPAKTAR S.A DE C.V" Rfc="KOM151201CD3" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="84131504" ClaveUnidad="SET" Descripcion="SERVICIOS ADMINISTRATIVOS POR SEGUROS" Importe="3177.59" NoIdentificacion="S0002" ValorUnitario="3177.59">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3177.59" Importe="508.41" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="508.41">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="508.41" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2018-01-24T15:01:15" NoCertificadoSAT="00001000000405607284" RfcProvCertif="FCG840618N51" SelloCFD="XghEqgei6J16yaOiVjegbg/pHKBdPCOq6dQwwwV16WZ5wRYCVTvMPxnmNUoiW9C8H+7GyOBblxrABev1CFQtrq/kUYI9vYJukMEv+vLL2M+uYX4Fmn/aD0m/faMVXhFNTBHpggCwniX9Q9Bj9C/oY4+emNKSlXhjqF2z16oylQo=" SelloSAT="bOnLOcjPBv+gve9EICCRtOmBjT031QIq6BesEhUGBtekb5pmUK/zcohTYU+EhjIJA8WtSj+KGCST7KxE8nRcAErd/oKqLgyJsEZx86cuiZcyy5MqEWZ2m7nC1ugBxLn7kQ0k7ns8r03z9LPr45gyjXEbvCuvcWhPKNu7shzcvlLQosmLLmOglCGS+b2uC2DZaAH7BqcqZZLdXHuK6kML/FLSb//TLbzKkIgfcCO7yGhSdo18fbbvZX1Q5ljfhhOLNzUulLMk3RINItaQrWUpO/qY5zIjRQ6iXSBau7MHyxRaqAGR8rK6kF+4u+pq0TTfendLhty2AkxZ40+vPdY0IQ==" UUID="E4D80082-7E1A-4560-81B5-85957EE1CD36" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

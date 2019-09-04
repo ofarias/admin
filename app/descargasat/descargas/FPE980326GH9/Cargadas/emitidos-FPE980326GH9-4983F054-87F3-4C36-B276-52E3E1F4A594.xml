@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="178683" fecha="2016-05-10T20:53:37" sello="fXSfaglPE96UEjU6kB1EhYAxnGOiv70RbQHp+vxQc+dcRqDoCD26GOo9OwauGd0UY8jA+AWj2BRtaudTo+GcDb9hEL0Q5mSvkb48CZ5iBGZtq/L3xYmkOO2b2Sd2Mj0WXtyxeM9npr+UivKI0bp8pASpl/v8lkGrTDhpd5BE0Wk=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="40657.50" TipoCambio="1.000000" Moneda="Pesos" total="47162.70" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="ILD041028IT1" nombre="INNOVACION EN LOGISTICA Y DISTRIBUCION S.A. DE C.V.">
+    <cfdi:Domicilio calle="BALMIS" noExterior="180" colonia="DOCTORES" localidad="D.F." municipio="CUAUHTEMOC" estado="D.F." pais="MEXICO ." codigoPostal="06700" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="FOCO PAR 20 DE 50 WATTS PHILLIPS" valorUnitario="60.000000" importe="600.00" />
+    <cfdi:Concepto cantidad="40.000" unidad="pz" descripcion="LAMPARA FLUORESCENTE T8 LUZ DIA 32WATTS" valorUnitario="19.500000" importe="780.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="maneral para rodillo 4&quot;" valorUnitario="17.000000" importe="68.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="piezas" descripcion="balastro 3x14w magg t5" valorUnitario="132.000000" importe="2640.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BALASTRA 2 X 32 SOLO BASIC" valorUnitario="107.000000" importe="2140.00" />
+    <cfdi:Concepto cantidad="30.000" unidad="pz" descripcion="Pila panasonic crp2" valorUnitario="149.000000" importe="4470.00" />
+    <cfdi:Concepto cantidad="40.000" unidad="piezas" descripcion="pila energizer tipo d" valorUnitario="26.000000" importe="1040.00" />
+    <cfdi:Concepto cantidad="10.000" unidad="pz" descripcion="FOCO GU10 DE LED 4.5 WATTS 127 VOLTS" valorUnitario="78.000000" importe="780.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="SELLADOR POLIURETANO DURETAN BCO 300ML" valorUnitario="70.000000" importe="350.00" />
+    <cfdi:Concepto cantidad="100.000" unidad="pz" descripcion="CINCHO DE PLASTICO 14 CM" valorUnitario="0.270000" importe="27.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="SILICON SISTA USO GENERAL BLANCO 300ML" valorUnitario="43.000000" importe="215.00" />
+    <cfdi:Concepto cantidad="3.000" unidad="pz" descripcion="MANGUERA COFLEX DE 1/2 X 1/2 X 55MTS AL-" valorUnitario="93.000000" importe="279.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="MINI FELPA NYLON 4&quot;" valorUnitario="14.000000" importe="280.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="MINI FELPA ESPONJA 4&quot;" valorUnitario="14.000000" importe="280.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="SEGUETA DIENTE GRUESO NICHOLSON 18DT" valorUnitario="7.500000" importe="37.50" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="DISCO AUSTROMEX 2022 DESBASTE P/METAL 4&quot;" valorUnitario="21.000000" importe="84.00" />
+    <cfdi:Concepto cantidad="100.000" unidad="pz" descripcion="CINCHO DE PLASTICO DE 28 CM" valorUnitario="0.450000" importe="45.00" />
+    <cfdi:Concepto cantidad="4.000" unidad="pz" descripcion="DISCO DE CORTE 2023 AUSTOMEX 3.2MM 1/8&quot;" valorUnitario="16.000000" importe="64.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="PLASTICO PROTECTOR USO RUDO COMEX 10X10M" valorUnitario="28.000000" importe="560.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="cubetas" descripcion="PINTURA VINIMEX BLANCO 700 MATE TAMBO" valorUnitario="14025.000000" importe="14025.00" />
+    <cfdi:Concepto cantidad="1.000" unidad="pz" descripcion="ESMALTE COMEX 100 BLANCO CUBETA 19 LTS" valorUnitario="1975.000000" importe="1975.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="BALASTRO 2 X 54 120/227 V LUMICON" valorUnitario="204.000000" importe="4080.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="piezas" descripcion="helvex sf-556 sensor para fluxometro de" valorUnitario="2314.000000" importe="4628.00" />
+    <cfdi:Concepto cantidad="5.000" unidad="pz" descripcion="SELLADOR POLIURETANO DURETAN GRIS 300ML" valorUnitario="70.000000" importe="350.00" />
+    <cfdi:Concepto cantidad="20.000" unidad="pz" descripcion="MASKING TAPE AZUL 1&quot; 3M TIPO 2090" valorUnitario="43.000000" importe="860.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="6505.20">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="6505.20" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="fXSfaglPE96UEjU6kB1EhYAxnGOiv70RbQHp+vxQc+dcRqDoCD26GOo9OwauGd0UY8jA+AWj2BRtaudTo+GcDb9hEL0Q5mSvkb48CZ5iBGZtq/L3xYmkOO2b2Sd2Mj0WXtyxeM9npr+UivKI0bp8pASpl/v8lkGrTDhpd5BE0Wk=" FechaTimbrado="2016-05-10T20:54:09" UUID="4983f054-87f3-4c36-b276-52e3e1f4a594" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="GR30pL7B5e0oIpAok9lbLvcBSvjSQKVv8znSSx9GIJCTXO8h8yEWlKGDi+kTYXhMx89D8IqioHo4fdaIrD14WnxQjMF5fU7oY9E1qgUPQS21UMKcAW+5zynouul/SBrIyN5icC8HUy2/4jV36+oCCkOIciFyt68ynOKuN4gZBm8=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

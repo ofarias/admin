@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="FAA" folio="179411" fecha="2016-05-18T22:24:45" sello="LbNyDhl+JbJM37fhXVsr6pstru75sfXfnac+qy8HLuHxiPJH0sIOwzOuz0jNEUbcTJlfbJEYfHh+wF86tedid4ZerNAqKNRr6aIzSqJACZF6F2kA8I0dAuRkL/LsMZc5tk6Te/iLBjEXk3XbHJz1nkIZx2wQEIHz0cI6zI5ULbI=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300077614" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAzMDAwNzc2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTMxODA1MjVaFw0xNzA1MTMxODA1MjVaMIHEMSIwIAYDVQQDExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQpExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSIwIAYDVQQKExlGRVJSRVRFUkEgUEVHQVNPIFNBIERFIENWMSUwIwYDVQQtExxGUEU5ODAzMjZHSDkgLyBQRUJBNjYwNzE1VEs4MR4wHAYDVQQFExUgLyBQRUJBNjYwNzE1SERGUkxMMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoMt/1pJrA0EmFkPk40uM2mm+RJ5I+Kv/u9wfPNyNUy2f2rBDL4ogVUKgNDvf4y8mHWQ6+f96HmIIyMJMJ4w29Nz5CZIwjkw4f/IPNAs2jxXpDfOt8UiY3l5XGQN5F8t2gqYQNoLWba8pJESyo2xoB+no80UOlV4Y5SEg6feLz8cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADCkAWTLY4V/gcjM8opvawdnwsBCM7Z+cskyW5jO9Q8usXa6LOKTqZaSpox9xiZO6yFJvv9BijBTagIJWToiAP8K4KnItJTNmRvarzJ4XhBIp3FJx+Z7mhHns1tVUB6azXWfg9QRdJibQTwNR8moyRqq9gbaZ2fgx7v7F4iArrplJ4wLsfFQ7kBOv6ApgbLLZ+CTFIcz6pIrvoD8L5ebe3cxcF+y0eeGwi22AkgXoPygJetksuRmn68Ztq5yhtKwAN93GBJX4pqXAwkXf9buuKD0mu5XNXniVlsiGUihr+Czb+0RYyoftGZINRKoKSXPvqrUwWp9t5DNZhn8SiE4D7c=" subTotal="18150.48" TipoCambio="1.000000" Moneda="Pesos" total="21054.56" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="FPE980326GH9" nombre="FERRETERA PEGASO SA DE CV">
+    <cfdi:DomicilioFiscal calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="GUILLERMO BARROSO" noExterior="14-A" colonia="INDUSTRIAL LAS ARMAS" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXCIO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="CII770127MA2" nombre="CONSORCIO DE INGENIERIA INTEGRAL, S.A. DE C.V.">
+    <cfdi:Domicilio calle="COLIMA" noExterior="394" noInterior="2DO PISO" colonia="ROMA" localidad="CUAUHTEMOC" municipio="CUAUHTEMOC" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06700" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="13.000" unidad="pz" descripcion="BOTA HULE JARDINERO TC0972 Nª7" valorUnitario="95.910000" importe="1246.83" />
+    <cfdi:Concepto cantidad="8.000" unidad="pz" descripcion="BOTA HULE JARDINERO TC0973 Nª8" valorUnitario="95.910000" importe="767.28" />
+    <cfdi:Concepto cantidad="7.000" unidad="pz" descripcion="BOTA HULE JARDINERO TC0973 Nª8" valorUnitario="95.910000" importe="671.37" />
+    <cfdi:Concepto cantidad="18.000" unidad="pz" descripcion="CASCO PRETUL CAS-AP AMARILLO 25037" valorUnitario="38.000000" importe="684.00" />
+    <cfdi:Concepto cantidad="15.000" unidad="pz" descripcion="CASCO PRETUL CAS-AP AMARILLO 25037" valorUnitario="38.000000" importe="570.00" />
+    <cfdi:Concepto cantidad="17.000" unidad="pz" descripcion="CASCO PRETUL CAS-AP AMARILLO 25037" valorUnitario="38.000000" importe="646.00" />
+    <cfdi:Concepto cantidad="50.000" unidad="pz" descripcion="CHALECO FOSFORECENTE ANARANJADO" valorUnitario="37.500000" importe="1875.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="CORTADORA DE VARILLA COLMEX 1&quot;" valorUnitario="5095.000000" importe="10190.00" />
+    <cfdi:Concepto cantidad="100.000" unidad="pz" descripcion="SEGUETA NICHOLSON 24D 1016104" valorUnitario="5.700000" importe="570.00" />
+    <cfdi:Concepto cantidad="2.000" unidad="pz" descripcion="CORTAPERNOS TRUPER 12834 CP-30X 30&quot;" valorUnitario="465.000000" importe="930.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="2904.08">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="2904.08" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="A6B478D9-3F0D-4515-92FC-19DE127EA74F" FechaTimbrado="2016-05-18T22:24:47" noCertificadoSAT="00001000000301160463" selloCFD="LbNyDhl+JbJM37fhXVsr6pstru75sfXfnac+qy8HLuHxiPJH0sIOwzOuz0jNEUbcTJlfbJEYfHh+wF86tedid4ZerNAqKNRr6aIzSqJACZF6F2kA8I0dAuRkL/LsMZc5tk6Te/iLBjEXk3XbHJz1nkIZx2wQEIHz0cI6zI5ULbI=" selloSAT="j3IWqArQ+KFS/eyz7s37qiwzc3mHYReWZR+uK7nGmv2DW7IJZEpYyxGjPSOktF33hKos2rQ+iK65Ilos4qMBRsg6Kg1n66v4qaTG6Gh5krc21LoxppRp5kXH3fb/AGt2iqES2rh5AZAF0gMj34nCBO5S95+Rcq2wTnZWDvVFIlQ=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
