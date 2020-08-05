@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="ctl00_Head1"><title>
+
+</title><meta http-equiv="cache-control" content="no-cache" /><meta http-equiv="Content-Type" content="text/html; charset=utf-16" /><meta http-equiv="PRAGMA" content="NO-CACHE" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link href="Styles/sat.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="Images/favicon.ico" type="image/vnd.microsoft.icon" /><link rel="icon" href="Images/favicon.ico" type="image/vnd.microsoft.icon" /><link href="Content/satMain.css" rel="stylesheet" /><link href="Styles/SatNomina.css" rel="stylesheet" />
+    <script src="../Scripts/Jquery/jquery-1.4.1.js" type="text/javascript"></script>
+
+    <script src="../Scripts/Jquery/SessionValidation.js" type="text/javascript"></script>
+    <script src="../Scripts/Jquery/CuadriculaSat.js" type="text/javascript"></script>
+    <script src="../Scripts/Jquery/FuncionesComunes.js" type="text/javascript"></script>
+    
+    <script src="../Scripts/CustomAlert.js" type="text/javascript"></script>
+    
+    <script src="../Scripts/gobmx.js" type="text/javascript"></script>
+
+    
+</head>
+<body class="container">
+    
+    <form method="post" action="./ErrorDescarga.aspx" id="aspnetForm" class="form-horizontal">
+<input type="hidden" name="__CSRFTOKEN" id="__CSRFTOKEN" value="/wEFJDcwNGJmNjlkLTUyNjgtNDdkZi1hNjhhLTUzYzBhYzM5ODkxMQ==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="H1l0IjBmYqu9KEHO45ZAgFfSptiOub2fOMVBTyo/QSOPaPBKjQhY0fGuSGhoMxf7OHH/EwsqeliUOm+Mx+QI1gJsmqhY3WzzDkTt8qINdehLULc65Me0VXYQn7vLcWE8TV3KQYZvcmU5pecjFzq5yg==" />
+
+
+<script src="/ScriptResource.axd?d=fUSNZpZWr3oEQsh7o_pB0cxtQ8t7Xg7sUVIb0SVluqyOYTaCu2puglOIbRxS2ztS9Co8bwK6sDouisInN4Z9u7qHMToUsRUyWHqloyl71ebI-QrTczwmyqGf0F4E9F2Kxl3xLmmVeQFH2DR-nJrp0b380B0nBSmEDxi1CK0wUac1&amp;t=ffffffffecf19baa" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="844D1D18" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+        
+        <div id="cuerpo_principal">
+            <div id="encabezado">
+                <div id="firma_busquedax">
+                    <img id="ctl00_PnlEncabezado" class="imagenMaster" src="Images/headerRojo.jpg" />
+                </div>
+                <div id="encabezadoPortal">
+                    <table class="table">
+                        <tr>
+                            <td style="width: 320px"></td>
+                            <td style="width: 320px; font-size: 14px; text-align: center" rowspan="2">Factura Electrónica</td>
+                            <td style="width: 320px; font-size: 10px"></td>
+                        </tr>
+                        <tr>
+                            <td style="width: 320px; font-size: 10px"></td>
+                            <td style="width: 320px; font-size: 10px"></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div id="cuerpo">
+                
+    <div class="col-md-12 alert alert-danger">
+        <h2>
+            Ocurrió  un error al intentar descargar el archivo, por favor inténtelo más tarde o comuníquese a soporte técnico.
+        </h2>
+    </div>
+  
+            </div>
+
+        </div>
+    </form>
+
+</body>
+</html>

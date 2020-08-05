@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns="http://www.sat.gob.mx/terceros" xmlns:amazonaddenda="http://www.amazon.com.mx/AmazonAddenda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIEvjCCA6agAwIBAgIUMDAwMDEwMDAwMDAzMDUwNzk5MjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA5MTAxNTA2NDhaFw0xODA5MTAxNTA2NDhaMIIBCTE6MDgGA1UEAxMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjE6MDgGA1UEKRMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjE6MDgGA1UEChMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjElMCMGA1UELRMcQU5FMTQwNjE4UDM3IC8gRk9BTDUzMDMwOTQyMzEeMBwGA1UEBRMVIC8gRk9BTDUzMDMwOUhERkxMUzA0MQwwCgYDVQQLEwNTQVQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIbf/xsQbF6kt2UC2IYjAj5k6BLEXWMg3oBi/ySVas+67pduKKa7Q126OfRV8DRBcl755gnv7gyMOY3qjklYzyl/livuP3ihzOGQYhmITPXBnZ/sPl2jUXY7CzQiRA8yfwbwQiwAFLLTUTFdoED3HtoNh8fdHjaLpCvd00BBasB7AgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQDP187yR1fYkmmbllT9fDR6lD7W6DFripIgTc2AVgqnKUhLrDleQtHRF4zb6jliP4w5sI85MHkPC4Jvu+3bFdIj0ORhgpuBjFXiTGT8uBcP68MeeFpRi1sulUd+mPHRvikXEC56BhYEfxx6+uk7Zg9FsK+L1sP72TRt/X1AT/rTHN4qigZz2JLuTZmbtj8fU6hScxCv2DEZ4FWrPr5Zr9LT3tSlyL5T10aYkC7VVQI2UN2mNfq6dX8hHhy6jYT0eqT0+MDp1/6cRVefgRvl0VP0bX1TQn4HL9Xv6dD/AlWiNJNtiV1i0p6CIIV7BhKN94CzOzQAcsQ2qrkGL5CEP5X/" Descuento="0.00" Fecha="2018-08-21T00:03:06" Folio="2585758" FormaPago="04" LugarExpedicion="05348" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000305079927" Sello="KOyvOybTONrOAzWnM04FWUe1Pt7BFn2qb38MZD1KUvgSQ/DTnKDPaIcxwOTmlOSxfgkNDqVRaHhwm19Knu1SrIYuQIzUQU0RtaU9xBkmkYn2kdXWcWbkbO6T/Mkr5fs74l4RNjq3XKU94J+INNoRkSS05nM32leT5zcwDODzGIY=" Serie="CSale" SubTotal="1957.77" TipoDeComprobante="I" Total="2271.02" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:Emisor Nombre="Servicios Comerciales Amazon México S. de R.L. de C.V." RegimenFiscal="601" Rfc="ANE140618P37" />
+    <cfdi:Receptor Rfc="SORA8707159F5" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Action Figure Movies Hannibal" Descuento="0.00" Importe="206.03" NoIdentificacion="1_B00BNPEJ7Q_2619170237118" Unidad="pieza" ValorUnitario="206.03">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="206.03" Importe="32.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Coleccionable Pop Disney Pop Alice" Descuento="0.00" Importe="206.03" NoIdentificacion="2_B00BV1P48A_2619170237118" Unidad="pieza" ValorUnitario="206.03">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="206.03" Importe="32.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Action Figure Games Overwatch Action Figure - Winston, 6&quot;" Descuento="0.00" Importe="275.00" NoIdentificacion="3_B01CDEXB1A_2619170237118" Unidad="pieza" ValorUnitario="275.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="275.00" Importe="44.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura de Colección Toy Figure" Descuento="0.00" Importe="206.04" NoIdentificacion="4_B01LEYKMGM_2619170237118" Unidad="pieza" ValorUnitario="206.04">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="206.04" Importe="32.97" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Guardians Of The Galaxy Vol. 2 - Groot" Descuento="0.00" Importe="214.66" NoIdentificacion="5_B01M7YNDXI_2619170237118" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="214.66" Importe="34.35" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Destiny - Oryx" Descuento="0.00" Importe="214.66" NoIdentificacion="6_B0714BMC1K_2619170237118" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="214.66" Importe="34.35" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Sister Location - Funtime Freddy" Descuento="0.00" Importe="206.03" NoIdentificacion="7_B072HXHDRQ_2619170237118" Unidad="pieza" ValorUnitario="206.03">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="206.03" Importe="32.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop Games: Mortal Kombat-Scorpion Figura de Vinilo Coleccionable" Descuento="0.00" Importe="214.66" NoIdentificacion="8_B072N8CVNN_2619170237118" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="214.66" Importe="34.35" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! Games: Overwatch - Roadhog 6" Descuento="0.00" Importe="214.66" NoIdentificacion="9_B0797N4D48_2619170237118" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="214.66" Importe="34.35" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="313.25">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="313.25" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="74F05B14-5C7A-4E05-9D3F-0F870E8C946E" FechaTimbrado="2018-08-21T00:03:21" SelloCFD="KOyvOybTONrOAzWnM04FWUe1Pt7BFn2qb38MZD1KUvgSQ/DTnKDPaIcxwOTmlOSxfgkNDqVRaHhwm19Knu1SrIYuQIzUQU0RtaU9xBkmkYn2kdXWcWbkbO6T/Mkr5fs74l4RNjq3XKU94J+INNoRkSS05nM32leT5zcwDODzGIY=" NoCertificadoSAT="00001000000404477432" SelloSAT="Hr9lVhdA781eL9H/OlUkOYcnGM1bRmmP16n9qDvCwHwrTyXk6wqowXy772yU0QJSbswaGcO9OOZbwVnK9gfWzzZl9dyUMzDDjWX/RAa0wpw65b4nJDOK1qRG+g+SDVRhXoBUR08p/dCVVPJOsI/qigCwz6v4JeLVjQc2Xym7zYZIZ6d8Opv2EofSwhGupCl0HE63fvWSlYSOiw3FFMajQCqGVnJjPBFSygrjJaVjtQZZrDj5w+E7Xnqhv9xj+cWLz2n/w+rBT+fqhX/MrN5lmbqfmeivH42rlDzuoZybWqTfZvzNdFWrA74R4dK7+ij3TaxmXMcYum6UsxPsC6xgJA==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

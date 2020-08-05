@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns="http://www.sat.gob.mx/terceros" xmlns:amazonaddenda="http://www.amazon.com.mx/AmazonAddenda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIEvjCCA6agAwIBAgIUMDAwMDEwMDAwMDAzMDUwNzk5MjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA5MTAxNTA2NDhaFw0xODA5MTAxNTA2NDhaMIIBCTE6MDgGA1UEAxMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjE6MDgGA1UEKRMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjE6MDgGA1UEChMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjElMCMGA1UELRMcQU5FMTQwNjE4UDM3IC8gRk9BTDUzMDMwOTQyMzEeMBwGA1UEBRMVIC8gRk9BTDUzMDMwOUhERkxMUzA0MQwwCgYDVQQLEwNTQVQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIbf/xsQbF6kt2UC2IYjAj5k6BLEXWMg3oBi/ySVas+67pduKKa7Q126OfRV8DRBcl755gnv7gyMOY3qjklYzyl/livuP3ihzOGQYhmITPXBnZ/sPl2jUXY7CzQiRA8yfwbwQiwAFLLTUTFdoED3HtoNh8fdHjaLpCvd00BBasB7AgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQDP187yR1fYkmmbllT9fDR6lD7W6DFripIgTc2AVgqnKUhLrDleQtHRF4zb6jliP4w5sI85MHkPC4Jvu+3bFdIj0ORhgpuBjFXiTGT8uBcP68MeeFpRi1sulUd+mPHRvikXEC56BhYEfxx6+uk7Zg9FsK+L1sP72TRt/X1AT/rTHN4qigZz2JLuTZmbtj8fU6hScxCv2DEZ4FWrPr5Zr9LT3tSlyL5T10aYkC7VVQI2UN2mNfq6dX8hHhy6jYT0eqT0+MDp1/6cRVefgRvl0VP0bX1TQn4HL9Xv6dD/AlWiNJNtiV1i0p6CIIV7BhKN94CzOzQAcsQ2qrkGL5CEP5X/" Descuento="0.00" Fecha="2018-07-02T02:24:06" Folio="2396299" FormaPago="04" LugarExpedicion="05348" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000305079927" Sello="IPErTTG8IhlGlyogNSQt1bha7PcXxIktb4tYJlu+LOWy7LUEs9dgmqiWRYWpf9eo8N6KGyS5qPFh1ykoJdTxQW8JAQBwhDzwfydUYAPeePaH+I7km4MEqCwRVW9knPPmfMYxc8jO/adoqLGqEGreOgA7ylpVnpVn49wa8GT8Y40=" Serie="CSale" SubTotal="1313.82" TipoDeComprobante="I" Total="1524.04" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:Emisor Nombre="Servicios Comerciales Amazon México S. de R.L. de C.V." RegimenFiscal="601" Rfc="ANE140618P37" />
+    <cfdi:Receptor Rfc="SORA8707159F5" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Five Nights At Freddy's - Gold Freddy" Descuento="0.00" Importe="223.28" NoIdentificacion="1_B019NWQVDU_1922334090918" Unidad="pieza" ValorUnitario="223.28">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="223.28" Importe="35.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Five Nights At Freddy's - Freddy" Descuento="0.00" Importe="257.76" NoIdentificacion="2_B019NX9O92_1922334090918" Unidad="pieza" ValorUnitario="257.76">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="257.76" Importe="41.24" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Guardians Of The Galaxy Vol. 2 - Rocket" Descuento="0.00" Importe="214.66" NoIdentificacion="3_B01M6D2OUO_1922334090918" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="214.66" Importe="34.35" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Steven Universe - Lion" Descuento="0.00" Importe="206.04" NoIdentificacion="4_B01N10MO4J_1922334090918" Unidad="pieza" ValorUnitario="206.04">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="206.04" Importe="32.97" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Steven Universe - Rose Quartz" Descuento="0.00" Importe="206.04" NoIdentificacion="5_B01N2200DC_1922334090918" Unidad="pieza" ValorUnitario="206.04">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="206.04" Importe="32.97" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Despicable Me 3 - Fluffy" Descuento="0.00" Importe="206.04" NoIdentificacion="6_B06XCC3RGQ_1922334090918" Unidad="pieza" ValorUnitario="206.04">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="206.04" Importe="32.97" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="210.22">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="210.22" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="A5A6C711-7387-4594-96A4-37E7EDD6F82A" FechaTimbrado="2018-07-02T02:24:23" SelloCFD="IPErTTG8IhlGlyogNSQt1bha7PcXxIktb4tYJlu+LOWy7LUEs9dgmqiWRYWpf9eo8N6KGyS5qPFh1ykoJdTxQW8JAQBwhDzwfydUYAPeePaH+I7km4MEqCwRVW9knPPmfMYxc8jO/adoqLGqEGreOgA7ylpVnpVn49wa8GT8Y40=" NoCertificadoSAT="00001000000404477432" SelloSAT="fAnoKefil2e0WuWVZTIhMpoEF5sgcyIfX9YHtM9NmW+w1MX/pWP2Kg05ZLwS/33tPmtzoBS9aoyEqblHMcRgjBOnW5D9ycpuHhx2dA3M/B8aRbkb+3vAHCbrkVmIqeXPAUBBT8e050gwyLCtVFGA/5AMOzeewVovANG8MuBlgXjgkVP766JgvZaHdQqliJxqj6VE0kaxHlV1uSUNhJw4J1t/mgwDoBozenfdrjGlJJqkpXDhDiAtvfH1FWA2RbejzlHkwbC8Rh7IC7bgr/95K237Rrg4L0JIj3x7+3YbNOrFPf8MAFBv+DsAwAPskVyc2hTtsW726IHLWEwPsKGNUQ==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

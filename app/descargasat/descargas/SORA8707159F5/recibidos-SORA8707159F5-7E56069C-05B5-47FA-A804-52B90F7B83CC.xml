@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns="http://www.sat.gob.mx/terceros" xmlns:amazonaddenda="http://www.amazon.com.mx/AmazonAddenda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" Descuento="803.64" Fecha="2019-07-15T20:35:17" Folio="4006603" FormaPago="04" LugarExpedicion="05348" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000414562186" Sello="BitHSqsj2b3xS42MINLdQaik5d6PUAJoLecE0Lrn5FZqJ1p/7bgEOeYeVB9+9VdhUQs9ZtGiwae+OlMhNLQz952YzKXUjcmN9sHcgUfxaHGY+JDrQaI/UtOGPq/BhgC/A77ld8oNY/xfGgrOJlt8BRY/cd3Wl/AGaHHIB4OrCp4VMUmXcAwvTuA860Tcy9KDVUb5DzG960PEKgGXg5+fVBr6jFVB5g8VTDTjvsyKnc8b4LwR0Q/tKqzHyXK6ayzMPQJmtYov4QxIt8WklGMdS4i6QMYsbfAQmyk0lZD2rk630WQCSyh1dknucJ9+G+OUHRolZ2JtTm9dzTvSsq0cUQ==" Serie="CSale" SubTotal="5313.71" TipoDeComprobante="I" Total="5231.67" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:Emisor Nombre="Servicios Comerciales Amazon México S. de R.L. de C.V." RegimenFiscal="601" Rfc="ANE140618P37" />
+    <cfdi:Receptor Rfc="SORA8707159F5" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="26121600" ClaveUnidad="H87" Descripcion="Amazon Basics 4-Port USB 2.0 Ultra-Mini Hub" Descuento="26.42" Importe="132.11" NoIdentificacion="1_B003M0NURK_22806099248301" Unidad="pieza" ValorUnitario="132.11">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="105.69" Importe="16.91" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Action Figure Marvel Keychain Spider-Man" Descuento="35.94" Importe="239.66" NoIdentificacion="2_B00Z0FG7HA_22806099248301" Unidad="pieza" ValorUnitario="119.83">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="203.72" Importe="32.60" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Coleccionable Pop Disney Pop Cheshire Cat" Descuento="30.91" Importe="206.04" NoIdentificacion="3_B0199R4EQ0_22806099248301" Unidad="pieza" ValorUnitario="206.04">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="175.13" Importe="28.02" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="DC Comics- Superman - Keychain" Descuento="33.36" Importe="222.42" NoIdentificacion="4_B01F75UIRW_22806099248301" Unidad="pieza" ValorUnitario="111.21">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="189.06" Importe="30.25" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! Action Figure Fantastic Beasts and Where to Find Them Niffler" Descuento="30.91" Importe="206.04" NoIdentificacion="5_B01K9IO3MS_22806099248301" Unidad="pieza" ValorUnitario="206.04">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="175.13" Importe="28.02" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop TV: Stranger Things Dustin with Compass - Figura Coleccionable" Descuento="30.91" Importe="206.04" NoIdentificacion="6_B01M34GDVV_22806099248301" Unidad="pieza" ValorUnitario="206.04">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="175.13" Importe="28.02" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura de Stranger Things Mike" Descuento="32.21" Importe="214.66" NoIdentificacion="7_B01M7WVAUU_22806099248301" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="182.45" Importe="29.19" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! TV: Stranger Things - Demogorgon figura de vinilo, modelos surtidos (Incluye 1 Figura aleatoria)" Descuento="31.59" Importe="210.61" NoIdentificacion="8_B01MD0RWD6_22806099248301" Unidad="pieza" ValorUnitario="210.61">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="179.02" Importe="28.64" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop Rocks: Metallica-James Hetfield Collectible Figure" Descuento="32.21" Importe="214.66" NoIdentificacion="9_B072KL77LR_22806099248301" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="182.45" Importe="29.19" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! Rides Disney: Hercules - Hercules &amp; Pegasus - Figura coleccionable" Descuento="80.53" Importe="537.21" NoIdentificacion="10_B0797P9YZW_22806099248301" Unidad="pieza" ValorUnitario="537.21">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="456.68" Importe="73.07" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko, Figura Coleccionable, Iron Spider, Marvel Infinity War" Descuento="32.21" Importe="214.66" NoIdentificacion="11_B079PQ7T69_22806099248301" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="182.45" Importe="29.19" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! Disney: Hercules - Baby Pegasus" Descuento="32.21" Importe="214.66" NoIdentificacion="12_B079TG731Q_22806099248301" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="182.45" Importe="29.19" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop Animation: The Grinch Movie - The Grinch Collectible Figure, Multicolor" Descuento="32.21" Importe="214.66" NoIdentificacion="13_B07DFBFWW4_22806099248301" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="182.45" Importe="29.19" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Coleccionable Pop Jack and Sally Hill Disney Toy Figure" Descuento="70.89" Importe="472.70" NoIdentificacion="14_B07DFBNKTK_22806099248301" Unidad="pieza" ValorUnitario="472.70">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="401.81" Importe="64.29" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! Games: Lefty Collectible Figure, Multicolor" Descuento="32.21" Importe="214.66" NoIdentificacion="15_B07DM8RYL9_22806099248301" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="182.45" Importe="29.19" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop Keychain Rick &amp; Morty Rick In Rat Suit" Descuento="33.36" Importe="222.42" NoIdentificacion="16_B07J4QMCZD_22806099248301" Unidad="pieza" ValorUnitario="111.21">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="189.06" Importe="30.25" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Collectible Figure Pop! Sanrio, Aggretsuko, Retsuko with Chainsaw" Descuento="26.29" Importe="175.22" NoIdentificacion="17_B07KPRF5M3_22806099248301" Unidad="pieza" ValorUnitario="175.22">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="148.93" Importe="23.83" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop Keychain Mickey and Minnie, 2 Pack" Descuento="32.21" Importe="214.66" NoIdentificacion="18_B07LCDH396_22806099248301" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="182.45" Importe="29.19" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! &amp; Buddy: Avatar - Aang w/ Momo" Descuento="33.49" Importe="223.28" NoIdentificacion="19_B07LD1DZ87_22806099248301" Unidad="pieza" ValorUnitario="223.28">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="189.79" Importe="30.37" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! Town: Spongebob w/ Pineapple" Descuento="79.97" Importe="533.29" NoIdentificacion="20_B07NSN6R2X_22806099248301" Unidad="pieza" ValorUnitario="533.29">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="453.32" Importe="72.53" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! Games: Pokémon - Charmander" Descuento="33.60" Importe="224.05" NoIdentificacion="21_B07PPJ7VYJ_22806099248301" Unidad="pieza" ValorUnitario="224.05">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="190.45" Importe="30.47" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="721.60">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="721.60" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="7E56069C-05B5-47FA-A804-52B90F7B83CC" FechaTimbrado="2019-07-15T20:35:46" SelloCFD="BitHSqsj2b3xS42MINLdQaik5d6PUAJoLecE0Lrn5FZqJ1p/7bgEOeYeVB9+9VdhUQs9ZtGiwae+OlMhNLQz952YzKXUjcmN9sHcgUfxaHGY+JDrQaI/UtOGPq/BhgC/A77ld8oNY/xfGgrOJlt8BRY/cd3Wl/AGaHHIB4OrCp4VMUmXcAwvTuA860Tcy9KDVUb5DzG960PEKgGXg5+fVBr6jFVB5g8VTDTjvsyKnc8b4LwR0Q/tKqzHyXK6ayzMPQJmtYov4QxIt8WklGMdS4i6QMYsbfAQmyk0lZD2rk630WQCSyh1dknucJ9+G+OUHRolZ2JtTm9dzTvSsq0cUQ==" NoCertificadoSAT="00001000000404477432" SelloSAT="Kni+Rxf5qh+iepVP76YUv36JZY2y6LDAcQThOFdi//Ll2dzqqRFkwjG1DKqDn2VXVYqxmn6U4PthKyp71zYW+s+fUS6WvZHzVOw08c6Iy03alwa1RUm5Hios8n/TAxX2zJDsSszcJ+NkSRjQgvjZWb6kUpUSXieTlfZx2pZKmQUlX2cpZvIvdeGQJAIdNUPauJrvipgRbJLj1Q19WI21XtO00tHoYFvU6LBeBkhuHppeeTe0ERbXcuOJ9KaEaWJufBsv+0eVoY8JcygQTTevyMhYxDtZt5+lcBCYsX+yKJs4J04Rp6tcY9irk86SLn++lKckFiZyNNqhoQ+y/M2T5g==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

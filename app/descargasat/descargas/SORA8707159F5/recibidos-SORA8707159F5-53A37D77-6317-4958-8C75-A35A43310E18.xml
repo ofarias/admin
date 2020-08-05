@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns="http://www.sat.gob.mx/terceros" xmlns:amazonaddenda="http://www.amazon.com.mx/AmazonAddenda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIEvjCCA6agAwIBAgIUMDAwMDEwMDAwMDAzMDUwNzk5MjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA5MTAxNTA2NDhaFw0xODA5MTAxNTA2NDhaMIIBCTE6MDgGA1UEAxMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjE6MDgGA1UEKRMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjE6MDgGA1UEChMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjElMCMGA1UELRMcQU5FMTQwNjE4UDM3IC8gRk9BTDUzMDMwOTQyMzEeMBwGA1UEBRMVIC8gRk9BTDUzMDMwOUhERkxMUzA0MQwwCgYDVQQLEwNTQVQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIbf/xsQbF6kt2UC2IYjAj5k6BLEXWMg3oBi/ySVas+67pduKKa7Q126OfRV8DRBcl755gnv7gyMOY3qjklYzyl/livuP3ihzOGQYhmITPXBnZ/sPl2jUXY7CzQiRA8yfwbwQiwAFLLTUTFdoED3HtoNh8fdHjaLpCvd00BBasB7AgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQDP187yR1fYkmmbllT9fDR6lD7W6DFripIgTc2AVgqnKUhLrDleQtHRF4zb6jliP4w5sI85MHkPC4Jvu+3bFdIj0ORhgpuBjFXiTGT8uBcP68MeeFpRi1sulUd+mPHRvikXEC56BhYEfxx6+uk7Zg9FsK+L1sP72TRt/X1AT/rTHN4qigZz2JLuTZmbtj8fU6hScxCv2DEZ4FWrPr5Zr9LT3tSlyL5T10aYkC7VVQI2UN2mNfq6dX8hHhy6jYT0eqT0+MDp1/6cRVefgRvl0VP0bX1TQn4HL9Xv6dD/AlWiNJNtiV1i0p6CIIV7BhKN94CzOzQAcsQ2qrkGL5CEP5X/" Descuento="0.00" Fecha="2018-08-21T02:21:36" Folio="2586437" FormaPago="04" LugarExpedicion="05348" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000305079927" Sello="eRVNOJV7D5vXpIn5KqzIYBGznQ8CKWk4owgQiq1SWcl1v4uqJOFMY1zePOmoatH5XIfFa1bf9LH9ZlssetScHgH8gWl8ZawLxQlSworJ7ZlbJxjURwhBDEDXeOtykUBL9gIDdpAOBt7eW4J93iFqfdnimDrHLRLXROqTCzuqscY=" Serie="CSale" SubTotal="877.60" TipoDeComprobante="I" Total="1018.02" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:Emisor Nombre="Servicios Comerciales Amazon México S. de R.L. de C.V." RegimenFiscal="601" Rfc="ANE140618P37" />
+    <cfdi:Receptor Rfc="SORA8707159F5" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="FUNKO POP! GAMES: Titanfall 2 - Jack &amp; 6&quot; BT" Descuento="0.00" Importe="473.28" NoIdentificacion="1_B01LEJD4N0_2151660507918" Unidad="pieza" ValorUnitario="473.28">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="473.28" Importe="75.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! Movies: DC Wonder Woman" Descuento="0.00" Importe="214.66" NoIdentificacion="2_B01MUAEH5O_2151660507918" Unidad="pieza" ValorUnitario="214.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="214.66" Importe="34.35" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop Animation: My Hero Academia-All Might Collectible Figure, Multicolor" Descuento="0.00" Importe="189.66" NoIdentificacion="3_B07D7SFMF3_2151660507918" Unidad="pieza" ValorUnitario="189.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="189.66" Importe="30.35" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="140.42">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="140.42" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="53A37D77-6317-4958-8C75-A35A43310E18" FechaTimbrado="2018-08-21T02:32:48" SelloCFD="eRVNOJV7D5vXpIn5KqzIYBGznQ8CKWk4owgQiq1SWcl1v4uqJOFMY1zePOmoatH5XIfFa1bf9LH9ZlssetScHgH8gWl8ZawLxQlSworJ7ZlbJxjURwhBDEDXeOtykUBL9gIDdpAOBt7eW4J93iFqfdnimDrHLRLXROqTCzuqscY=" NoCertificadoSAT="00001000000404477432" SelloSAT="cncjjI+AaxQm+s8bWStE8yE7r4+0f4CyvQhio/7mkklYUjPyYWHMoCOdjXR+uVGAopUV5eZh7cyHO0ojB1+F9LbR34harCJKcj79QME9MHRbktk92HaPu81sc0+JRs65HgMJd98sg5lgo+a0TxKo17I/ji6Skyr2sXM9w4l6ZbAQEGUEKV+Cv2KFhGB9g3WXwu+PMWMtxhLD2qaRuWKAAVNbeRa0CgHLHCEC6exBqSNFacQInqo4Wzj0m8Qtd4nAnVx9FThMFA3vzRRb0GnWkRtkmINPKgYXgbHfptZjCJFQrAGUDLBK0c/8v1WoBZ5QWFrRuTpXFBZc+3Bbn/P9Fg==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>
