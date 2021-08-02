@@ -2,7 +2,6 @@
 session_start();
 date_default_timezone_set('America/Mexico_City');
 require_once('app/controller/controller.php');
-
 $controller = new pegaso_controller;
 
 if(isset($_GET['action'])){
@@ -10,8 +9,6 @@ $action = $_GET['action'];
 }else{
 	$action = '';
 }
-//exit(print_r($_POST));
-//print_r($_POST);
 if (isset($_POST['usuario'])){
 	$controller->InsertaUsuarioN($_POST['usuario'], $_POST['contrasena'], $_POST['email'], $_POST['rol'], $_POST['letra'], $_POST['nombre'], $_POST['numletras'], $_POST['paterno'],$_POST['materno']);	
 }elseif (isset($_POST['cambioSenia'])){
@@ -44,10 +41,7 @@ if (isset($_POST['usuario'])){
 	echo json_encode($res);
 	exit();
 }
-else{switch ($_GET['action']){
-	//case 'inicio':
-	//	$controller->Login();
-	//	break;
+else{switch(isset($_GET['action'])){
 	case 'login':
 		$controller->Login();
 		break;

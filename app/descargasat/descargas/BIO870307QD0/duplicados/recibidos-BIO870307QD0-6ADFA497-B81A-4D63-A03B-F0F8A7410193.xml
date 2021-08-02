@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="A" folio="726" fecha="2015-02-24T11:08:50" sello="SjRzgWIhoVmKwywzWf+J8YQ4P7b9UIs7hjn9SVYY4oeyTeH22uy7860ehZhA6Z+DzHm+uqN9YeCIgatgutX7VHv563bwuQflNlYBHRdN5aPqZv7SonfZSX5mwAFfSobTDIsUrgzSM1PqTtcx/N/S6Bh2gSfpQR8AElpZk1Blijs=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000201477415" certificado="MIIEcjCCA1qgAwIBAgIUMDAwMDEwMDAwMDAyMDE0Nzc0MTUwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDcwMzIwMzcyOFoXDTE2MDcwMzIwMzcyOFowgbMxHjAcBgNVBAMTFVBPUlRBIE1PQklMRSBTQSBERSBDVjEeMBwGA1UEKRMVUE9SVEEgTU9CSUxFIFNBIERFIENWMR4wHAYDVQQKExVQT1JUQSBNT0JJTEUgU0EgREUgQ1YxJTAjBgNVBC0THFBNTzA2MDQyNTkzQSAvIEdPR0E3NTEyMTU1NzgxHjAcBgNVBAUTFSAvIEdPR0E3NTEyMTVIUExOVFIwNjEKMAgGA1UECxMBQjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuS8kLq4LfGynLKZFiuKUpAEr/EprAwr3uMTTfiP0U8KOzPUzVpOqWcWN3/uiwGbIkk+y0vREvXWQsZPweOPYAtKB/ip20gLqxBkPD9lvtEuP78EbKXx1y+J6NaICG+pqnQ5RFJyZnp2f21WG2oGwoAO8D1vl46ZmyVV/3ueuSGsCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAE/jyXV3/LWlkQ8IMsIUXRqTzDZ49563VOiWbeZaefcYuM5+MgBMjMsurZD8SQMNa9UKuzfgcbAqisDW3Nj68WCXaqfG0UweCiW3mF5rA1qZX41/6OUd9VBjS+bF/KssWR8ZBDPvHhHX9eLY06hGMtDIsYGpV6+w0FhS6t+xjCBJpJaceowIvDzwCzTQSN0wd3AbnSLj6QtoNvzCiI1KFVGo4cTpsq1t77jUKYurLSCYA2A0GLtNJ6iCrNu/VyiZtEbTTXE3XoL31u0bvOdRKvQsUG5hW+nEpoBirKtbCaW+4S+ekL5mzjptyRVlAqMdRatbkD50VXq8/OkY4JRvlrc=" subTotal="0.0100" total="0.0116" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="TULTITLAN DE MARIANO ESCOBEDO ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="PMO06042593A" nombre="PORTA MOBILE SA DE CV">
+    <cfdi:DomicilioFiscal calle="AVENIDA INDEPENDENCIA" noExterior="CONDOMINIO 8" noInterior="CASA 17" colonia="EL OBELISCO" localidad="TULTITLAN" referencia="TREN SUBURBANO" municipio="TULTITLAN DE MARIANO ESCOBEDO" estado="ESTADO DE MEXICO" pais="México" codigoPostal="54915" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONA MORAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" localidad="MEXICO" municipio="TLALNEPANTLA DE BAZ" estado="Estado de México" pais="México" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="1" descripcion="CAMBIO DE EQUIPO A 18 MESES EN PLAN TELCEL PLUS TODO DESTINO 40 CC. NYX MOBILE QUO. IMEI: 352337060433646. NUMERO: 5554073504." valorUnitario="0.0100" importe="0.0100" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0.0016">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.0000" importe="0.0016" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="6ADFA497-B81A-4D63-A03B-F0F8A7410193" FechaTimbrado="2015-02-24T11:08:19" selloCFD="SjRzgWIhoVmKwywzWf+J8YQ4P7b9UIs7hjn9SVYY4oeyTeH22uy7860ehZhA6Z+DzHm+uqN9YeCIgatgutX7VHv563bwuQflNlYBHRdN5aPqZv7SonfZSX5mwAFfSobTDIsUrgzSM1PqTtcx/N/S6Bh2gSfpQR8AElpZk1Blijs=" noCertificadoSAT="00001000000203352843" selloSAT="k6mmmeVCoT5ifKlYGmqPKQ5pcUUiwbyO72+NJb5SFSA60p0hLa+5LnAdhtOmdjz1B2uqZD5ztddb8EEIhmt6DTu8XatbonCoRAcHh7CsXM+YDCouVwcJt+4irNJROONIENPRtYGCWbT2JRZUQ3b8YfdT0S3U3EYBxSryUy7nYCE=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

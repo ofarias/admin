@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tipoDeComprobante="ingreso" metodoDePago="NO IDENTIFICADO" total="41897.00" TipoCambio="1.00" Moneda="MXN" LugarExpedicion="MÉXICO, DISTRITO FEDERAL" fecha="2015-12-22T14:48:59" sello="tLB+1Le8xS93zQOPZGpN9Tc7rN/C2OszzA6Qx1XetQrewBvpcZi0JJsJDLC7DqMYK9JkQ6fzBtkDFwP5wvBE9HAyJ9ODHjJ1o9tccRSbkIL4fEr77/4a1SG08yfeIppfQ+TaPH0pWBQXO4NbE6QBXDDVDJixuqIxKDibWB4T+3s=" folio="1440" version="3.2" serie="IOR2" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="36118.10" descuento="0.00" noCertificado="00001000000202382349" certificado="MIIEjDCCA3SgAwIBAgIUMDAwMDEwMDAwMDAyMDIzODIzNDkwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyMDE5NTE0NVoXDTE2MTEyMDE5NTE0NVowgc0xJTAjBgNVBAMTHElOTU9CSUxJQVJJQSBPUlJBQ0EgU0EgREUgQ1YxJTAjBgNVBCkTHElOTU9CSUxJQVJJQSBPUlJBQ0EgU0EgREUgQ1YxJTAjBgNVBAoTHElOTU9CSUxJQVJJQSBPUlJBQ0EgU0EgREUgQ1YxJTAjBgNVBC0THElPUjkzMDgzMTZCQSAvIEFJTVM2NzAyMjUzUTcxHjAcBgNVBAUTFSAvIEFJTVM2NzAyMjVIREZMUkwwODEPMA0GA1UECxMGTUFUUklaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2qI1L2k87nDhjdJdMXlWgFALVX8WAV66P7HbGReahCQ3e40Qgg5BdRhQkvBOIakm24a6TDcyUPCGUeEpjO+P63TaolKDnzFoF7UxPElGIleMHfrxqpFLed9wNc7cvFyECW5wYhHRoMD+aEXT8cM/iIbi//3Go1TaC4K4sxUNpjQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAgVci7QwpbnUHLsr/LVBvsGBBUiajlxG94orQo3Psn2MRKUPoRZI0FCazCLfp8ACQyHfMUPm99lcsbeqnroKX4Y7hg4mrP6Qp6PlvAwCJjyZ+yoOzVxqSrpO8fkBjZ/fEk1kfBFvtPiPseiPs+KoGWIhWf0dLWbIRjDe2fS/6h9P9vzrhy9PKI/kqIuzlUJOhscUkvw8uue2Rgtf+h7rsWKQ6vB1bvdizA26ibmcTVj7BaI5OFXe6qaO9XVSbRSyVra7Yr2mLOtpaYOub7QwzkWl+1f8ziy8reJEsg4Ck2Ly2qamdFXz0ZFpdagyuoYdAHjgv5dTScw1syjxf+wO4qw==" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="INMOBILIARIA ORRACA, S.A. DE C.V." rfc="IOR9308316BA">
+    <cfdi:DomicilioFiscal calle="HAVRE" noExterior="30" colonia="JUAREZ" localidad="MEXICO" municipio="CUAUHTEMOC" estado="DISTRITO FEDERAL" pais="MÉXICO" codigoPostal="06600" />
+    <cfdi:RegimenFiscal Regimen="Personas Morales, Régimen General de Ley." />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA, S.A. DE C.V." rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MÉXICO" pais="MÉXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="CONSUMO" valorUnitario="36118.10" importe="36118.10" cantidad="1.00" unidad="NA" noIdentificacion="GRA1" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="5778.90">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="5778.90" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="5ba6b9f2-0b68-470d-bd9b-5b82bf0c8c22" FechaTimbrado="2015-12-22T14:50:20" selloCFD="tLB+1Le8xS93zQOPZGpN9Tc7rN/C2OszzA6Qx1XetQrewBvpcZi0JJsJDLC7DqMYK9JkQ6fzBtkDFwP5wvBE9HAyJ9ODHjJ1o9tccRSbkIL4fEr77/4a1SG08yfeIppfQ+TaPH0pWBQXO4NbE6QBXDDVDJixuqIxKDibWB4T+3s=" noCertificadoSAT="00001000000300171326" selloSAT="ZqK4CZSyEzjpsFn87VFYLOBY7VSagAtE5NFwnZW0oPk2KV0qa3S2tE5r27AmXcmYXKTrcJKFcIlZ60TVQJvFSsdqC8R14yRa1laDBusouCmLPkx+W6w9cyW4+jF+JQx/t0okCFzvuCNYgjsFf3fwlhgigQ9Dw4nJq3AmYJsNFSs=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

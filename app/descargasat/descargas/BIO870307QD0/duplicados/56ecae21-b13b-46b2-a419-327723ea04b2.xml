@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" fecha="2015-01-23T17:48:22" sello="iPfwLjmTCtDMkgrfQp9rvTjoR9guyo/x7PEd/RbQhhUxrtRuYhjd1hDLaNYlzy/2XNY0tPRqIUPJrGPBIBp/nuSG/uh4eHJr9SJA0rCtsskQCfXXbJMgCupSKo6GrlIXsvpWpUPEa3nEgpCXUBCZsWS3OFVsYVQhYKt2dDTAdig=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000202844184" certificado="MIIEojCCA4qgAwIBAgIUMDAwMDEwMDAwMDAyMDI4NDQxODQwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDExODE1NDAyN1oXDTE3MDExODE1NDAyN1owgeMxLTArBgNVBAMTJE5SIEZJTkFOQ0UgTUVYSUNPIFNBIERFIENWIFNPRk9NIEVOUjEtMCsGA1UEKRMkTlIgRklOQU5DRSBNRVhJQ08gU0EgREUgQ1YgU09GT00gRU5SMS0wKwYDVQQKEyROUiBGSU5BTkNFIE1FWElDTyBTQSBERSBDViBTT0ZPTSBFTlIxJTAjBgNVBC0THE5GTTAzMDcwOTFMOSAvIExPQ0o2MTAxMjdTSDAxHjAcBgNVBAUTFSAvIExPQ0o2MTAxMjdIREZQUk4xOTENMAsGA1UECxMETlJGTTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtn1ve9glGljzl70G+SgN3d8Wk7KIbFIs0uwJUvdciGmNvd6SxcbEDiC+rJf4k0rJbPJ2Xi0HPvdRRGQ1EqKwgTFKYH+US+TE3a5eT8oxEV3K6aEscPc991JdLvrKTNzn9eVnRKw9eHqhesQOdxgI1HT6LQRe5IjaAVkMkVOyX8ECAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAKtx4F8v5CW7jaPjCNsUM6TVaKeLVbpPQzdayNTW2FmYmQsf12sqzpFaO9TLJeDjOtuArIE55qwVgfi9JCDuVUQDs4dXyT8+3fh9YkTNdNGHuayUjFic4gBGLWjcDdNsobKP6iJVBO3gel0Izb7dSesm2ZQErlDTRNEnyx6qUX8vUR54YsXVUUP/YLjNrHNbM34sCXGyqCTt4QKLv278W2JH6SxYalbOujvsicI5jGN03P6Ab84NChTmbsXhCNZZeP49f8//wF8gJ7v31EY+VCUUfXdxSmHTDvI/28OVdymGBCpUNgq5PNuXvWWPrlKvL33J8dLLeNe1Vr5vtEW7zOU=" subTotal="629.62" total="629.62" tipoDeComprobante="ingreso" metodoDePago="DOMICILIACION" LugarExpedicion="México D.F." NumCtaPago="7501" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor rfc="NFM0307091L9" nombre="NR FINANCE MEXICO S.A. DE C.V. SOFOM ENR">
+    <cfdi:DomicilioFiscal calle="INSURGENTES SUR" noExterior="1958" noInterior="PISO 4" colonia="FLORIDA" municipio="DELEGACION ALVARO OBREGON" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="01030" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de ley Persona moral" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="LOS PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="TLALNEPANTLA DE BAZ" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="Servicio" descripcion="INTERESES DEL 20141216 AL 20150115" valorUnitario="629.62" importe="629.62" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="56ECAE21-B13B-46B2-A419-327723EA04B2" FechaTimbrado="2015-01-23T18:33:25" selloCFD="iPfwLjmTCtDMkgrfQp9rvTjoR9guyo/x7PEd/RbQhhUxrtRuYhjd1hDLaNYlzy/2XNY0tPRqIUPJrGPBIBp/nuSG/uh4eHJr9SJA0rCtsskQCfXXbJMgCupSKo6GrlIXsvpWpUPEa3nEgpCXUBCZsWS3OFVsYVQhYKt2dDTAdig=" noCertificadoSAT="00001000000202700691" selloSAT="O6OXjRavHXejq4Jrh3h0SZJmwVCR2jeBQNrXZEEiyY0x3ctVFPmo43HfDCXyJ+97UCOmvaO8hlyd4J4sXaE0Prgu1HORU5pvIr+yQa1LjUrgDLPlPby2fUbHkB3wYFCiiye6bclZBxOqtvXtHpQjE9OZyXCUApELT3hx8ykrFNk=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <ext:ElementosExtra xsi:schemaLocation="http://www.buzone.com.mx/XSD/Sender33634/A http://www.buzone.com.mx/XSD/Sender33634/A/Addenda.xsd" xmlns:ext="http://www.buzone.com.mx/XSD/Sender33634/A">
+      <ext:Conector>1160159</ext:Conector>
+      <ext:NISSAN>2</ext:NISSAN>
+      <ext:Registro000 Marca_000="NS" Fecha_Corte_000="17/ENE/2015" />
+      <ext:Registro100 Numero_Prestamo_100="116015926" Fecha_Contratacion_100="18/ABR/2013" Cred_Inicial_100="117000.00" Tipo_Tasa_100="11.50" Plazo_100="36" Plan_Elegido_100="PYME PLUS NAFIN D22(1)" Insertos_100="0" No_Serie_100="3N6DD25T8EK001317" RFC_No_Fiscal_100="BIO870307QD0" />
+      <ext:Registro200 Auto_200="CH CAB TM DH V. ESP B PU 14" Fecha_Inicial_200="16/DIC/2014" Fecha_Final_200="15/ENE/2015" Banco_Pago_200="BBVA Bancomer" Cuenta_Cargo_200="012180004427847501" Importe_200="5487.52" Fecha_Limite_Pago_200="15/FEB/2015" Fecha_Emision_200="17012015" Tasa_Interes_200="11.50" Numero_Periodo_200="22" Dias_Transcurridos_200="30" Saldo_Base_Calculo_200="76395.47" Intereses_Mes_200="577.40" Iva_Intereses_200="0.00" Seguro_Vida_200="0.00" Capital_200="4910.12" Importe_Periodo_200="5487.52" Importe_Periodo_Letra_200="(CINCO MIL CUATROCIENTOS OCHENTA Y SIETE PESOS 52/100 M.N.)" Prepago_Total_200="76972.87" Fecha_Prepago_200="15/FEB/2015" Importe_Vencido_200="0.00" Saldo_Anterior_200="79707.61" Saldo_Nuevo_200="76395.47" Importe="629.62" />
+      <ext:Registro300 Fecha_Movimiento_300="15/ENE/2015" Cargo_Abono_300="(+)" Descripcion_300="Ints. período" Importe_300="546.05" />
+      <ext:Registro300 Fecha_Movimiento_300="15/ENE/2015" Cargo_Abono_300="(+)" Descripcion_300="Capital seguro" Importe_300="1545.76" />
+      <ext:Registro300 Fecha_Movimiento_300="15/ENE/2015" Cargo_Abono_300="(+)" Descripcion_300="Ints. seguro" Importe_300="83.57" />
+      <ext:Registro300 Fecha_Movimiento_300="15/ENE/2015" Cargo_Abono_300="(-)" Descripcion_300="SU PAGO GRACIAS:" Importe_300="5487.52" />
+      <ext:Registro300A Subtotal_300A="629.62" Importe_Impuesto_Trasladado_300A="0.00" Total_300A="629.62" />
+    </ext:ElementosExtra>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

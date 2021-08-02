@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfdi:Comprobante xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="Tlaltelulco, Tlaxcala" tipoDeComprobante="ingreso" metodoDePago="01" total="301" Moneda="MXN" TipoCambio="1" subTotal="259.48" condicionesDePago="INMEDIATO" certificado="MIIEWjCCA0KgAwIBAgIUMDAwMDEwMDAwMDAzMDMyMDkzMTYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAzMDYwMDA4MTBaFw0xODAzMDYwMDA4MTBaMIGmMR4wHAYDVQQDExVTVVNBTkEgU0VSUkFOTyBUT1JSRVMxHjAcBgNVBCkTFVNVU0FOQSBTRVJSQU5PIFRPUlJFUzEeMBwGA1UEChMVU1VTQU5BIFNFUlJBTk8gVE9SUkVTMRYwFAYDVQQtEw1TRVRTNjkwODI0TjRBMRswGQYDVQQFExJTRVRTNjkwODI0TUhHUlJTMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAv8CwhIhUNsBjWwFmscCz2sKOe72p+C6MgkZMZypx1iZnFb7PfQHANwmq9d+FvTb5U0czJy44v/ddNsswCM6bd/OFU+SlpnAjf1wWZNwUfwGgk2whZnyY955JaAxGytNEUgE6zypf0lB0EG7WoJBfTfvfH1PEbM9ODFPNawNeuUcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBACLF3PwwWD5ml/IFh9Gkeq6wqWQebmD7+7tqa/2lJ2jHoX6o8JYDmOZcHqBTPo4rL1lAP5lU3p7BAnzp7eLPZCIRHn9+1OP0/Dmsu8JECAGEslDBDxdc3Hfea/EO/lgf/BzzGnS6WAYUGZfn65qtx7WWqA5GjFd/tAJBd/7WnMkexBBxqI0CeFfAqP2C+mZbMfoU2i3/YRmHeBjSvfRbWq+somNdMxPoOCh93H3PO9erijjiqHb0VmvnhbFeevR/jpCI/50/YmLYHJTFSro5g1gIXePq1IDqExOyCVhXcxxqXOKoOiRrD1f8WWbtxsF8izvVKPHXdk5AM/I9f72qNlw=" noCertificado="00001000000303209316" formaDePago="PAGO EN UNA SOLA EXHIBICIÓN" sello="kvvVBfLX+nkOdCJ+/XEGa8IOUtgoVSQ0Hws1XXRUAwJMpTnX6GUYu30Axz6lqBZeii/0Yaaon7a62jvytFxxLoSFo7c5q8u8nhBLNzS6ecjC4n7h3EkTodO/cSpplzrS9XU2MY8Uwx2KpYGr8BIGw+VbU/ttvdO6QEoyN/pnI/4=" fecha="2017-10-26T17:37:26" folio="1316" serie="F" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor nombre="Susana Serrano Torres" rfc="SETS690824N4A">
+        <cfdi:DomicilioFiscal codigoPostal="90830" pais="México" estado="Tlaxcala" municipio="Tlaltelulco" colonia="La Magdalena" noInterior="Int.2" calle="Puebla km 23.5"/>
+        <cfdi:RegimenFiscal Regimen="Regimen de Incorporacion fiscal"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+        <cfdi:Domicilio codigoPostal="54040" pais="México" estado="México" municipio="Tlalnepantla" colonia="LOS PIRULES" noExterior="2900-804" calle="BLVD. MANUEL AVILA CAMACHO"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="259.48" valorUnitario="259.48" descripcion="consumo de alimentos" noIdentificacion="000295" unidad="SERVICIO" cantidad="1"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="41.52">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="41.52" tasa="16" impuesto="IVA"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2017-10-26T17:37:19" UUID="b481ae6e-dacd-41e9-9aca-73d839961a29" noCertificadoSAT="00001000000406144089" selloCFD="kvvVBfLX+nkOdCJ+/XEGa8IOUtgoVSQ0Hws1XXRUAwJMpTnX6GUYu30Axz6lqBZeii/0Yaaon7a62jvytFxxLoSFo7c5q8u8nhBLNzS6ecjC4n7h3EkTodO/cSpplzrS9XU2MY8Uwx2KpYGr8BIGw+VbU/ttvdO6QEoyN/pnI/4=" selloSAT="YNLMsxcz17BB/+qjuHAQNpHgUmpGs6TFTPg3CSAOIb9uOMMKuk5g2a0f3mj6tuxWOR86MwUQOjMdc0i+0nKqydUluUgB4V0XWVQ8n144v8r13EM+II2TRWruJ8pB1cs2mXolqcOviZCdbyWj4sLbidTkzAH+GrcoIEdoNuT15243iS8mc7rlew01iRDc65N+t8rdwn/Ydzy6po5hsutPSLX6/s4NMbWNPCtQCvuAtGFlyecuJtH/lmfRwTn03b6d9A5szoK2V5NYKi/SCfCpwwkOzkQpd0cPKOyLU6iso0s+KVElxQNznk30FtArTJMmDnVqOF6tp43cm5lJNsCW8g==" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+    </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,21 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="52740" MetodoPago="PUE" TipoDeComprobante="I" Total="130.00" Moneda="MXN" Certificado="MIIEdTCCA12gAwIBAgIUMDAwMDEwMDAwMDAzMDIwNzEzOTUwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjcxNjMwNDhaFw0xNzEyMjcxNjMwNDhaMIHBMSEwHwYDVQQDExhDQVJNRUxPIEdVVElFUlJFWiBNT0xJTkExITAfBgNVBCkTGENBUk1FTE8gR1VUSUVSUkVaIE1PTElOQTEhMB8GA1UEChMYQ0FSTUVMTyBHVVRJRVJSRVogTU9MSU5BMRYwFAYDVQQtEw1HVU1DNjAwNzE2UTRBMRswGQYDVQQFExJHVU1DNjAwNzE2SE1DVExSMDgxITAfBgNVBAsTGENhcm1lbG8gR3V0aWVycmV6IE1vbGluYTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA4gkR+4w7/y5OYYn1SYIG0dmZxVS4bOiU5OPFUdhz9rEH4D5TGALoi1mKdw6nCC+cMJGwn0WiQDzbZ95EtTdKPbxYdTnhb5L2CeZiNNB8V/AFgG28wVrd5iStWhLqgGezZSLo/STHhhhthdLZMmaFoXhBeiA2d+Q26bjCHm88hSkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAIaXqfZ4T9LVWQ8F6oAbiDu8iWcGbqMuVU7iHefaS9Oiae6lGW/rce6ncq6MarInXc0K7Vrx0gZMP7lZQVi9LXMuhnxFrLkAvK+ziJMBWuUArlGUKWMQ7lihm8E/8962eS/OH9DMd9XoDFhhXx0M44VEPRCHZ7QCh3mGxa1l5l95NhdMvq50T+/n8kojG/tAbusP5f3hWhRFxJg3f3R6zzQDbeDSUzdOQ9ZfyCxjsadvDIRUwo2W1TVgjHKuhFSI4BCVCZuA4XbNkv0GTF34DT4+edgppSj/Ygsa+p2FDv/z2Va8j7APXmq5jrDmGSgSH68yrwJ3iCYpcoOtqyvCwRE=" SubTotal="112.07" NoCertificado="00001000000302071395" FormaPago="01" Sello="1JCPniJSF7oWqVCnf3RQrNK2FzNq2bp3Vv/mlYzm7JBzAUSg1ZrDQPe3N/um04r5tYEQBfhAV0ySZ57UzFAZGkP7/0ohMM3FD5Gx9070O2WAmGjG2DH7WAFAsrgQtlwEiHnvckYi6SunbbU1mOiE6JU9SSOORjLG8spwPwCMFdo=" Fecha="2017-08-10T20:25:04" Folio="540" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="GUMC600716Q4A" Nombre="CARMELO GUTIERREZ MOLINA" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA, S.A. DE C.V." UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="90101501" Cantidad="1" ClaveUnidad="Q3" Descripcion="CONSUMO DE ALIMENTOS " ValorUnitario="112.07" Importe="112.07">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="112.07" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17.93" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="17.93">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17.93" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="AD43A161-5C4F-4D3E-848F-34482B6A201C" FechaTimbrado="2017-08-10T20:28:18" RfcProvCertif="SAT970701NN3" SelloCFD="1JCPniJSF7oWqVCnf3RQrNK2FzNq2bp3Vv/mlYzm7JBzAUSg1ZrDQPe3N/um04r5tYEQBfhAV0ySZ57UzFAZGkP7/0ohMM3FD5Gx9070O2WAmGjG2DH7WAFAsrgQtlwEiHnvckYi6SunbbU1mOiE6JU9SSOORjLG8spwPwCMFdo=" NoCertificadoSAT="00001000000403258748" SelloSAT="XnpPyozhotyYdUfPPEnnlBN8MXyqF6i7U41Ay1Tc8qhZ4IXpPxlKNnf+tlM01ktqJS5tBgbdejsRzqPCvDXG0AhOLwROcreo3E/RdU72HlMIxtl9ZYtFilppXc5X/g0/8AskhTgiIuacLwKZpOc8Y2fUaf8+z7wHSfY+tnhgD9037/B0JOB7sdtK+kCYBt9BzA985YgStfwIpafWf2xiymv08k3YfsO1jtwpr1Q+4PNk0I+n5FFPgiUkxSO94GbSdSk2c4Lnis8FOJIgLjnZL1bV3vj0TdRcI3Plnga5pgFtBSzXZTf1QAH3Xf2+sGXT4D6OXSzH1izsskcqNwoYyg==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

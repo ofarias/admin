@@ -10,7 +10,8 @@
 		
 		#Abre la conexión a la base de datos
 		private function AbreCnx(){
-			$host = $_SESSION['bd'];
+			$servidor = '192.168.100.33:';
+			$host = $servidor.$_SESSION['bd'];
 			$this->cnx = ibase_connect($host, self::$usr, self::$pwd);
 		}		
 		#Cierra la conexion a la base de datos

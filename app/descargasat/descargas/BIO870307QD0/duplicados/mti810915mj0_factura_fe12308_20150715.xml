@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:implocal="http://www.sat.gob.mx/implocal" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="FE" folio="12308" fecha="2015-07-15T07:42:01" sello="KqIqGqQNG2dQMkAxG9p0OS+UDbv6UynRbbYNL9J1/UhfeSlmLlOGqLVgKppj+WmESOQkVLVOo7XeKG45GAbM0cxV9hs1UcN1qgvPTqb7pN/JqsRttMqcRc53ke4IcxBehfPXfu7uByIp8tNwFHEguI5RRGZA0Wn5ZiMgq0EodKs=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000202016775" certificado="MIIEjzCCA3egAwIBAgIUMDAwMDEwMDAwMDAyMDIwMTY3NzUwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDkyNTE5MDIxN1oXDTE2MDkyNTE5MDIxN1owgdAxJjAkBgNVBAMTHU1PVEVMIFRBUkFIVU1BUkEgSU5OIFNBIERFIENWMSYwJAYDVQQpEx1NT1RFTCBUQVJBSFVNQVJBIElOTiBTQSBERSBDVjEmMCQGA1UEChMdTU9URUwgVEFSQUhVTUFSQSBJTk4gU0EgREUgQ1YxJTAjBgNVBC0THE1USTgxMDkxNU1KMCAvIENBQUE2OTA2MjJIMTcxHjAcBgNVBAUTFSAvIENBQUE2OTA2MjJITkxWUlIwMDEPMA0GA1UECxMGVW5pZGFkMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDMbpQJyg6vFXrAyUz/k3KJ7kcpE9osMZlR11HEylPFr/JY/HyMxht3ujZvMFpwj3k+ef/k7tWlRJ2sLVsmTR/nyry4r7Ycv0Tm8VYerIULt6n8pjwfzHpF3P5B7EnDBMVRsndIYg6O16BlCSSk8auO2cZ+XcMYwdkpvj2ECJATTQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAXj19962pwpoOyFKqzLY2AzszylMq5ZzjjtqquPyJaawCjter62A596j7UoUfYbKkGGiZLOnF2+unY5NVfrTb8HEAoKPV89sdNvmmfucm7frDoyg+wyYHb0vylJ7IQJUfnW1WYSjUGgXOt1ooKD+zokk0ICU0dSYS9J1Credgr6DHW41ICiUVgzJ15ff19kzSQj4bwXK5qlVgSJ126TDSjoAFQezco4XGzHCrIDJ5Bi0hIfkemnvoHkvtiaq2zCgiXPtAIas6Rwr4ASL8mQBFASkNe5+pBNHGbNoOb65QZxiMrkE8espBQFmPpI52GVLW/oMj+l0Gaf4D6Ebj/YZJpQ==" subTotal="655.47" TipoCambio="1.00" Moneda="MXN" total="780.01" metodoDePago="Tarjeta de credito" LugarExpedicion="CUAUHTEMOC, CHIHUAHUA" NumCtaPago="4322" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MTI810915MJ0" nombre="MOTEL TARAHUMARA INN S.A. DE C.V.">
+		<cfdi:DomicilioFiscal calle="ALLENDE" noExterior="No. 373" colonia="COL. CENTRO" municipio="CUAUHTEMOC" estado="CHIHUAHUA" pais="MEXICO" codigoPostal="31500"/>
+		<cfdi:RegimenFiscal Regimen="Régimen general personas morales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54040"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" unidad="NO APLICA" noIdentificacion="HS" descripcion="HABITACION SENCILLA/DOBLE" valorUnitario="655.47" importe="655.47">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="104.88">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="104.88"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<implocal:ImpuestosLocales version="1.0" TotaldeRetenciones="0.00" TotaldeTraslados="19.66">
+			<implocal:TrasladosLocales ImpLocTrasladado="Imp sobre hospedaje 3%" TasadeTraslado="3.00" Importe="19.66"/>
+		</implocal:ImpuestosLocales>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="F08HHtageo6Z2m0dhoN+XZM87l8yFvvi7n4/IkfDrDmaPPNHMQSYLimtyB23vr6jwaigi9N2ww7LRQ1Z2n3qCJ9sTqYgc/KXQIYvbX2vgBG7CXspsWS4WkiYZrT/2H9EvqJ8YwjwJLNQJcDJ3ngadrD4hoEBghiBWjte242aPKY=" noCertificadoSAT="00001000000200011997" selloCFD="KqIqGqQNG2dQMkAxG9p0OS+UDbv6UynRbbYNL9J1/UhfeSlmLlOGqLVgKppj+WmESOQkVLVOo7XeKG45GAbM0cxV9hs1UcN1qgvPTqb7pN/JqsRttMqcRc53ke4IcxBehfPXfu7uByIp8tNwFHEguI5RRGZA0Wn5ZiMgq0EodKs=" FechaTimbrado="2015-07-15T08:46:38" UUID="B42FC84C-FE79-D946-ADF2-1AF1F4C81670" version="1.0"/></cfdi:Complemento>
+</cfdi:Comprobante>

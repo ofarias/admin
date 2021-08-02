@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="3.2" serie="B" folio="1771" LugarExpedicion="CELAYA" NumCtaPago="8305" TipoCambio="1" Moneda="Pesos Mexicanos" fecha="2016-04-27T19:27:06" sello="OEPbQ4ln3PIkqex6iCxgy9zKrqIUddQanSuPtDeBoFkBbWgcm8C049I3E8WHQD35Vtt/oMJnhBu8tVIBqFC+B9yLJITHRXp0q8m1zB/WLUbecpxNaKZYHgvfndxbx/5gavcoIY5HHK07Eyxe/fMHBJ6FT4XwVQ/o4R0Ve+emw5w=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000301425026" certificado="MIIEXTCCA0WgAwIBAgIUMDAwMDEwMDAwMDAzMDE0MjUwMjYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMjYyMDE2MTNaFw0xNzExMjYyMDE2MTNaMIGpMRswGQYDVQQDExJKRVNVUyBUQVJJTiBSSVZFUkExGzAZBgNVBCkTEkpFU1VTIFRBUklOIFJJVkVSQTEbMBkGA1UEChMSSkVTVVMgVEFSSU4gUklWRVJBMRYwFAYDVQQtEw1UQVJKNTMwMTA1QTc4MRswGQYDVQQFExJUQVJKNTMwMTA1SENIUlZTMDUxGzAZBgNVBAsTEkpFU1VTIFRBUklOIFJJVkVSQTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAmc4iHmrUEP8kkj/c82TEcpuy24EuNLxFRQgjRn5VDm+/uv3F0KrsfXy0DyBYMrSLGqVsTq2M02hToNN1JOG3VOfabNc/Xq9mzrlG6sSKYDBIMiQWDq8aShDpK/DGI/SNwOLe+6ghc2BvahmuiUSMNqLgs+cG3PjSXiOeA5MWAEECAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAFvr8LHUGakzVAMUYyLx3xaP/WR5TyFRfJ7mk0v9N1gj5KRNB0YkLkI8RWdx4+KPpEJmJiDdx2skXJfl6y8x97mu0LOKH6Sgzt+ssYA4YLacmiMOWMZFEAI+W2GtojFuxKdbGzy/hocuOKNT49qbXHvfra8H25C4i8PFSwpADTOz3SaVERqChNz77zKghxk6oRPwpaccTtS1DsHKjMc8iyyvBbOrP2w90rp6DpTDfrVptff/d8Ue7zuIEDwUvOmBz74UHEKs5GY4g+nv0646gV5YiVtUPYJiLM1f3FiJ25hkJcSTmUAc283gwABD6j45l2vKSexvEw37GVgeFnC4Tbg=" subTotal="191.55" total="222.20" metodoDePago="Tarjeta de Crédito" tipoDeComprobante="ingreso" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor rfc="TARJ530105A78" nombre="JESUS TARIN RIVERA">
+    <cfdi:DomicilioFiscal calle="BOULEVARD ADOLFO LOPEZ MATEOS PTE" noExterior="1203" colonia="RENACIMIENTO" localidad="CELAYA" municipio="Celaya" estado="Guanajuato" pais="México" codigoPostal="38044" />
+    <cfdi:RegimenFiscal Regimen="Régimen de las Personas Físicas con Actividades Empresariales y Profesionales." />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" municipio="Tlalnepantla de Baz" estado="México" pais="México" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="ORDEN" noIdentificacion="0001" descripcion="CONSUMO" valorUnitario="191.55" importe="191.55" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="30.65">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="30.65" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="3DFA9285-ADB1-4A47-88F7-81E0DF1FE6E1" FechaTimbrado="2016-04-27T19:27:08" selloCFD="OEPbQ4ln3PIkqex6iCxgy9zKrqIUddQanSuPtDeBoFkBbWgcm8C049I3E8WHQD35Vtt/oMJnhBu8tVIBqFC+B9yLJITHRXp0q8m1zB/WLUbecpxNaKZYHgvfndxbx/5gavcoIY5HHK07Eyxe/fMHBJ6FT4XwVQ/o4R0Ve+emw5w=" noCertificadoSAT="00001000000202864883" selloSAT="ILy+qW/WsFQnHfdnvEtdUbhhF6zgry3OxoS0bJxyT0tehIowZaGMBIBrOEeCogXylktXckGyapeaFAiMjwx8vd5qyz91Ug5hJKSEdDSaqr1w0ty12PUUc899sbMuTFPKmqPQH5L+Ry40vi1yOOZp/07x+CevxVfNddztfqmprSc=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

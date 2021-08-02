@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" sello="I2HCHgxa5TiYeul+YcYoISTaz8vE7EUhTyAUR8Edj+Me6EGZ4vyftnMWFlkxvgUKdiuOHVOjDfubJ25sjl0OweiDgH1RuRiWz4PlcQ8SXM+3RNIaTstrNMGcURXPiT5F4E7gO/QcTYfDBeg3i86bQ1CsByB2vOa5H8Iof/KL5ZI=" certificado="MIIEozCCA4ugAwIBAgIUMDAwMDEwMDAwMDAzMDA1ODk1NTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA3MzExNTU4NTNaFw0xNzA3MzExNTU4NTNaMIHvMS4wLAYDVQQDEyVQVUJMSUNBQ0lPTkVTIEFDQURFTUlDQVMgUFlWIFNBIERFIENWMS4wLAYDVQQpEyVQVUJMSUNBQ0lPTkVTIEFDQURFTUlDQVMgUFlWIFNBIERFIENWMS4wLAYDVQQKEyVQVUJMSUNBQ0lPTkVTIEFDQURFTUlDQVMgUFlWIFNBIERFIENWMSUwIwYDVQQtExxQQVAxMTAyMDlDVzEgLyBBRU1KNTQwNDA3U1AzMR4wHAYDVQQFExUgLyBBRU1KNTQwNDA3SERGVlJSMDMxFjAUBgNVBAsTDUFMU0MtTk9SVEUgREYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANqVZIOQ0bhbnAXHrar3FwgfiZPxmnivJ395NvexO5wV6SwJ8weaQ/oRc/2P6yTXl5B/yeIbHmihRWF254abGVFTrM7vRzy70y2Hxy/tD7GLSAt+1HmRzCz9pDudfvmnWOcCkmEfLnud9DjjYQ4ITaKApKZaXWXLQkZCXTGvv8QXAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQDKsh3e/FC0hjLiikYtDre+nsh+4UfjXtZH5IfwgiFQLVmhgzRy8diPL8i2IuW7IJXGikH2k+U18XIB1IZCcWi5b4uHuhXiP7vm7MqMB4iG2pOZ3W5fzH0zh2UkLp8dLZMuoARa27JK+7aeTKMNWI0VmgNIvoyoeaWazIrbpXFCrR2KED7lrrBYi6jEKKyBPgfZQ3rY3TJ3XM1c3ZF+khckcp1heafIfFtSQHcqGEllVg2bgS2MS1Kz4h153LwpTyMs9EZDQHow9pl1Jxf7WEYs+pWVMI1ejtbnJhjiJiuh8VxwKdJrRB6mS7gwaR/k1Pa7NVpTby8F4gzTaeCpGNI9" noCertificado="00001000000300589554" fecha="2015-09-30T11:15:57" tipoDeComprobante="ingreso" serie="INTERNA" folio="4954" formaDePago="Pago en una sola exhibicion" metodoDePago="Efectivo" Moneda="MXN" TipoCambio="1" subTotal="200.00" total="200.00" LugarExpedicion="BENITO JUAREZ, DISTRITO FEDERAL">
+  <cfdi:Emisor rfc="PAP110209CW1" nombre="PUBLICACIONES ACADEMICAS PYV SA DE CV">
+    <cfdi:DomicilioFiscal calle="FILIPINAS" noExterior="217" colonia="PORTALES NORTE" municipio="BENITO JUAREZ" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="03303" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO 2900-804" colonia="PIRULES" estado="NAUCALPAN, EDO DE MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="PZAS" descripcion="N16-451 LA PRIMAVERA DE DAMASCO 9786074025897 DIEGO GOMEZ P." valorUnitario="200.00" importe="200.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="0.00" importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="A5447E81-6B83-4BBB-B1CE-3AE6A4A918FA" FechaTimbrado="2015-09-30T11:16:03" noCertificadoSAT="00001000000301160463" selloCFD="I2HCHgxa5TiYeul+YcYoISTaz8vE7EUhTyAUR8Edj+Me6EGZ4vyftnMWFlkxvgUKdiuOHVOjDfubJ25sjl0OweiDgH1RuRiWz4PlcQ8SXM+3RNIaTstrNMGcURXPiT5F4E7gO/QcTYfDBeg3i86bQ1CsByB2vOa5H8Iof/KL5ZI=" selloSAT="eiMqxS2bJ+yuncQsBvYR4orhIPJDlCTyYJlQnxqBUPlXvkyT7UW/hHdTnI4n6pJoLUPO1UTK8CcRK71zpbR3DxD875pU3HO6FeWRtCPhI775LaUClFs1ldwylOW5sxN96ZAA4vEIzu2qVNOOkhnQok7uJ2+E+MY4JvJRIDdDoAQ=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

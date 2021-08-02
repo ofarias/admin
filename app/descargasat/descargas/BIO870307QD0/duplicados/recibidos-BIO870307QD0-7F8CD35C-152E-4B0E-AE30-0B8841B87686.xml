@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="A" folio="31646" fecha="2015-02-23T19:09:03" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="1729.940000" descuento="0.000000" total="2006.730400" metodoDePago="TARJETA DE CREDITO" tipoDeComprobante="ingreso" LugarExpedicion="TOLUCA  , ESTADO DE MEXICO" Moneda="MXN" noCertificado="00001000000202175566" certificado="MIIEjDCCA3SgAwIBAgIUMDAwMDEwMDAwMDAyMDIxNzU1NjYwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTAxOTE3MTEwOVoXDTE2MTAxOTE3MTEwOVowgc0xJTAjBgNVBAMUHCJSRU5PVkFSU0UgTyBNT1JJUiIgU0EgREUgQ1YxJTAjBgNVBCkUHCJSRU5PVkFSU0UgTyBNT1JJUiIgU0EgREUgQ1YxJTAjBgNVBAoUHCJSRU5PVkFSU0UgTyBNT1JJUiIgU0EgREUgQ1YxJTAjBgNVBC0THFJPTTA3MDMwMktIOCAvIE9FREw2MDA1MTZROTkxHjAcBgNVBAUTFSAvIFBFREw2MDA1MTZIREZTU1MwMTEPMA0GA1UECxMGVE9MVUNBMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6fHTdpvlSl1IDlNdMO4V705oGqn9GqB+DR3qn6iU4uhMzuOkx/u79IVhm6ERul5IM4ukBYYKNdzzaFmhE6yHx0ApvK5ek+oCS1d/gPJEQvIdrfNCV3gErw3TPN51/FrEZZ79qiTZBESYaS2BhOq8wygiSZkDj4ZpTA/pVxUo1PQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAP0evemijyA4gxTeBHAOsMIrnssu1zqMS/ZB6vJkZez/DLuGJW8j/z+Al+Bb34zbLiuLTd0Tc5ArrSD4jqEIgaDxB8kAG9fX12OcBjFOqeVCh4x4dKCYpkbPt7t/yp27V3A4FLV6pVvUR0WkckQCR4a5snlumN8l69Y19Xtlxpe1XHMOjMSrERr8r7qFyAZKGNIC8U2ygum5GzOwIDQP1N2MfQ2153zMsuWoo3Jt2M5Cr6X2tKpxQhEVllNOqCUHnw/IK32efSsfMtC//n8rZKsMmdA0XTbPHFUDPUm2mdNlArIit28aqnUEzs89Zafa0hNXiy3muu5ObuuwAUEL73w==" sello="cY5TVOWPfegoX277noBjjP6WVcgE8y0BDSq/t7aVbkPTq2xbWBIWznTJLdF84QZpZRUyMmpQYNLsBE4YyYKwZJwCoYeNXTyWnKmYzKL5uZulSMCbz2hoyrA/leOphrSTX5m+O6FVL7IXfCkaBJTgoN7ipnBOL+q6gnWkpcbCHzg=">
+  <cfdi:Emisor rfc="ROM070302KH8" nombre="RENOVARSE O MORIR S.A DE C.V.">
+    <cfdi:DomicilioFiscal calle="IGNACIO COMONFORT" noExterior="302" colonia="SANTA ANA TLALPALTITLAN" localidad="TOLUCA" municipio="TOLUCA " estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="50160" />
+    <cfdi:RegimenFiscal Regimen="GENERAL DE PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV ">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO  2900-804" colonia="LOS PIRULES " municipio="TLALNEPANTLA " estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" descripcion="CONSUMOTICKET 180667" valorUnitario="1729.94" importe="1729.940000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="276.790400">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="276.790400" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="7F8CD35C-152E-4B0E-AE30-0B8841B87686" FechaTimbrado="2015-02-23T19:14:25" noCertificadoSAT="00001000000301160463" selloCFD="cY5TVOWPfegoX277noBjjP6WVcgE8y0BDSq/t7aVbkPTq2xbWBIWznTJLdF84QZpZRUyMmpQYNLsBE4YyYKwZJwCoYeNXTyWnKmYzKL5uZulSMCbz2hoyrA/leOphrSTX5m+O6FVL7IXfCkaBJTgoN7ipnBOL+q6gnWkpcbCHzg=" selloSAT="SiSoR8GWaRNsn8U1HsVBN2AQufEGFJ522f7KKo7/Vtw6YBzcP+lYG3EcPPE92QOrQi3gLnhpyp7C624+Jh/bzUiJYai9trTD4ko1hi7oJbkhqx84wWV48Sg+0FMncy82g+br0tL8UQYefTQsmtd8vVfM4172sDW86TeKDx3WnLM=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" tipoDeComprobante="ingreso" serie="B" folio="22327" fecha="2016-01-25T18:46:35" LugarExpedicion="MEXICO DISTRITO FEDERAL 06470" sello="aR1QgF1/PCHgDrr2/sFKIY7eBXHClvoySakdER2YNgIfjlIZtGKsIN431uDBQE+XhuiG+FBJcSNOTeF/z5P9j5fycsh16CCXutL9UuUDYsd/sLcOpOYqZuiJx0nvPz/PwODDdZAc6+NV9IUPWc1NTDrzDkLZxxqAtEzs9OUH8lI=" noCertificado="00001000000202174530" certificado="MIIEijCCA3KgAwIBAgIUMDAwMDEwMDAwMDAyMDIxNzQ1MzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTAxOTE2MjMwMloXDTE2MTAxOTE2MjMwMlowgcsxJDAiBgNVBAMTG1BST1ZFRURPUkEgT0ZJRkFJUiBTQSBERSBDVjEkMCIGA1UEKRMbUFJPVkVFRE9SQSBPRklGQUlSIFNBIERFIENWMSQwIgYDVQQKExtQUk9WRUVET1JBIE9GSUZBSVIgU0EgREUgQ1YxJTAjBgNVBC0THFBPRjA1MDQxOUQ4OCAvIEhBQUo2MTExMDhETjMxHjAcBgNVBAUTFSAvIEhBQUo2MTExMDhIUExDTEMwMzEQMA4GA1UECxMHT0ZJRkFJUjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA8naZz5kLR16OmHfL9RCRLfrt+DBh3syR+NJclcOpTzVt4rYEe66HgRVZM0iCybBAoIwzp6fki6o6ikKp0JhDg5uiKZ1KknI4FMHTFol3AVY8Gn0r15g74Z9StxvXYq4cWkyEH9oSVVeVYySqLjgQivyYeJL1PKAFtxVj7mvmYycCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAFoeA0dDoye7IX+pULs1fZT7nm7eFuBDvTDUdePDj6qNQkMQBRmsvXhS5/EkQZBvGwdLKszL8FPJJoZFxiZnjWthPAgPBur1JpiWWZPhoaEKpVEbvAXlNSHr5oTbd3IxqgMIVaM2Kh1Tem7bdtORgphO7LL/7diPbeO/CBp/uftti71FyIB92QZdMOl8iiLQZAxBnwhB6uq7889NcvnW6Z556+P2Gcl+uww48X8EV+WARhhfgGJaWc/Cpg2jS0WFy4zoeuUyNVK2I1+UE8Wem5VEbPaPxZ2L4doe12AG4AHFM2UULdOzM5xVmRTMi0kIV2sfsi39ceeXFDiSFT+oOEQ=" total="946.18" subTotal="815.67" Moneda="MXN" formaDePago="PAGO EN UNA SOLA EXHIBICION" condicionesDePago="CREDITO" metodoDePago="TRANSFERENCIA" NumCtaPago="4750">
+	<cfdi:Emisor rfc="POF050419D88" nombre="PROVEEDORA OFIFAIR SA DE CV">
+		<cfdi:DomicilioFiscal calle="MANUEL MA. CONTRERAS" noExterior="49" colonia="SAN RAFAEL" municipio="MEXICO" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06470"/>
+		<cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S. A. DE C. V.,">
+		<cfdi:Domicilio calle="BLVD. M. AVILA CAMACHO" noExterior="#2900-804" colonia="COL. LOS PIRULES," municipio="TLALNEPANTLA," estado="EDO. DE MEXICO, C.P." pais="MEXICO" codigoPostal="54040"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="0816" descripcion="MOUSE PERFECT CHOICE INALAM. PC-044604" valorUnitario="277.71" importe="555.42">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="25.00" unidad="JUEGO" noIdentificacion="7995N" descripcion="PASTA P/ENGAR GBC GBPLAK CARTA NEGRO" valorUnitario="3.28" importe="82.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="25.00" unidad="JUEGO" noIdentificacion="9705T" descripcion="PASTA P/ENGAR GBC GBPLAK TRASLUCIDA CTA" valorUnitario="3.28" importe="82.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.00" unidad="CAJA" noIdentificacion="2761" descripcion="CLIP SUJETA DOCUMENTO ACCO CHICO C/12PZ" valorUnitario="5.28" importe="26.40">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.00" unidad="PIEZA" noIdentificacion="0871D" descripcion="LAPIZ MIRADO HEXAGONAL # 2" valorUnitario="2.77" importe="13.85">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.00" unidad="PIEZA" noIdentificacion="0872" descripcion="LAPIZ BIC EVOLUTION 655 GRAFITO HB" valorUnitario="2.48" importe="12.40">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.00" unidad="PIEZA" noIdentificacion="8216" descripcion="CINTA ADHESIVA JANEL 119 DE 18X33" valorUnitario="4.36" importe="43.60">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="130.51">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="130.51"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="aR1QgF1/PCHgDrr2/sFKIY7eBXHClvoySakdER2YNgIfjlIZtGKsIN431uDBQE+XhuiG+FBJcSNOTeF/z5P9j5fycsh16CCXutL9UuUDYsd/sLcOpOYqZuiJx0nvPz/PwODDdZAc6+NV9IUPWc1NTDrzDkLZxxqAtEzs9OUH8lI=" FechaTimbrado="2016-01-25T18:53:25" UUID="2AECF447-ECDC-4682-BD9C-6619D0008F64" noCertificadoSAT="00001000000202864530" version="1.0" selloSAT="n01xLUfeFiIjEQICgN51FvXqzBzGQKiqufa14ZcU05n8iAH38/agaTVlcfBvjET3NZGYjtfwvNLSYLrGxAG0IqlYxNjeJ8sFXEOpgScA+mrlbJlu1dyXdbrGY5dvBFR/I5gPZ+8nCihM9Rwj+HnI9y+9FsivDe9kwmbTT1S8OLI="/></cfdi:Complemento>
+</cfdi:Comprobante>

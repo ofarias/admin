@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" serie="RP" folio="1272022" fecha="2017-03-10T19:15:29" sello="dF8Yr2Q/i4RVo0r8VTOh+XU5xkCr7cDMQxo+ybk/I0Dpa7QOHzklhnoWbo/pA0VY5Ib7RPkoyjDvZ/+wR1kTWUokvVT6rAH27RGGNQaKxxQ+0enrt10QHZG6IFt9YRm6RWz0tv3DMGP/M5UR3mWoxQVIuQ9UWU4mfacwwaNsZgI=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000300796027" certificado="MIIEbDCCA1SgAwIBAgIUMDAwMDEwMDAwMDAzMDA3OTYwMjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA5MDUxNjIwMzRaFw0xNzA5MDUxNjIwMzRaMIG4MR0wGwYDVQQDExRFQ09MQUIgUyBERSBSTCBERSBDVjEdMBsGA1UEKRMURUNPTEFCIFMgREUgUkwgREUgQ1YxHTAbBgNVBAoTFEVDT0xBQiBTIERFIFJMIERFIENWMSUwIwYDVQQtExxFQ084NzAzMjM4QjkgLyBHVU9SNjIxMDE4TEUyMR4wHAYDVQQFExUgLyBHVU9SNjIxMDE4SE5FVFJNMDIxEjAQBgNVBAsTCUN1YXRpdGxhbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvTPKdWxfxz5EMbSFtoykvlgidD3B8rsLknqGpuVU5efoD35TrlQnLKOtD4EKPya8zFh2fW49JXO034fhTVrfI/tguamDLMDv2Zuvcy9OTTou5g4ig294ffmLc0d4dZVVQ14kRsh3SNSyypa0FV3vaMlnmNV5M6mD+AMEWv0H0ucCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBACQyubWyx50M6L6yuy4IKNQozqH17WQRRhAdnxk9faCMH8iqE+8Se6zLgYrOgG5mrteM/+hUahwEZarhZfDntpd2H7gkp4LHzUqOSJmTyEbUnGu4x1OR/zJwLMipBQuv24qCq8q/kBM4rYWnl7X5u9w93UAQ5srmjV/7Y8DJTgZx1YUbU7qszG5GkVhhaLnL0hW2xKfD+XldKAldAOiyrlrW6i6zAgMlsMUs4Zq8SeCeoktQUb46VCI7gfgMkzKDBXD12Ir0kP1Irwup+oiop7rDi2jozcYgKeIsWgPgW5XHKc+wH6O/czoPP2Vw9k80J53FYitYoI0tkVIYiEfXs1c=" subTotal="1356.00" descuento="0" motivoDescuento="AJ" TipoCambio="1.0000000" Moneda="MXN" total="1572.96" tipoDeComprobante="ingreso" metodoDePago="03" LugarExpedicion="Mexico, Estado de Mexico" NumCtaPago="NO IDENTIFICADO" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor rfc="ECO8703238B9" nombre="Ecolab S. de R.L. de C.V.">
+    <cfdi:DomicilioFiscal calle="AVENIDA INDUSTRIALES" noExterior="28" colonia="FRACC. INDUSTRIAL CUAMATLA" referencia="1272022" municipio="Cuautitlan Izcalli" estado="Estado de Mexico" pais="Mexico" codigoPostal="54700" />
+    <cfdi:ExpedidoEn calle="AV INDUSTRIALES NO 28" colonia="FRACC INDUSTRIAL CUAMATLA" municipio="CUAUTITLAN IZCALLI" estado="Estado de Mexico" pais="Mexico" codigoPostal="54700" />
+    <cfdi:RegimenFiscal Regimen="General de Ley P. M." />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="1111759" descripcion="QSR HYG HAND RUB 6X800 ML&#xD;&#xA;*.EL TRANSPORTISTA DEBERA PORTAR SU EPP&#xD;&#xA;(CAMISA DE MANGA LARGA, CASCO, ZAPATOS DE SEGURIDAD&#xD;&#xA;LENTES Y CHALECO)" valorUnitario="1356.00" importe="1356.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="216.96">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="216.96" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="08a5f352-4893-473d-b181-a4e03324ae64" FechaTimbrado="2017-03-10T19:20:16" selloCFD="dF8Yr2Q/i4RVo0r8VTOh+XU5xkCr7cDMQxo+ybk/I0Dpa7QOHzklhnoWbo/pA0VY5Ib7RPkoyjDvZ/+wR1kTWUokvVT6rAH27RGGNQaKxxQ+0enrt10QHZG6IFt9YRm6RWz0tv3DMGP/M5UR3mWoxQVIuQ9UWU4mfacwwaNsZgI=" noCertificadoSAT="00001000000300171326" selloSAT="HXQZspBGxyN6zQESN+DcX3l372Aryjma0XLLwy3tyPvCciQ300ev+m3LL+43ptFlxZhwHBwhwBN+jeLmTTmgnnPzV+TdOrfNsoIOk0t+vuR+y+aCGmWrQaBQMXHQF2ApIWMXyrHo60c0ntEhyX4MiY5rzgMmHzaUXl4HWkPgoRY=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

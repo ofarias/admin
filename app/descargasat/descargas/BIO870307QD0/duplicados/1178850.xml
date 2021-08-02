@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="RP" folio="1178850" fecha="2016-08-08T19:35:55" sello="hFgHlLPOf7qk0ROApnliwWN23s7hYwlB5DeOwK0yHmMbSNRuepMPTUKSAgVA3KGNp6ccKh3mxHsPhDmqiGcXmdEBnGPeTP0lgFdHTUWvNAF2w6naSEItx4j5eyLerOLNnA3e4ns4u7ozcisIEzPYNx3S5feOezcqFViOpXfjnu0=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000300796027" certificado="MIIEbDCCA1SgAwIBAgIUMDAwMDEwMDAwMDAzMDA3OTYwMjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA5MDUxNjIwMzRaFw0xNzA5MDUxNjIwMzRaMIG4MR0wGwYDVQQDExRFQ09MQUIgUyBERSBSTCBERSBDVjEdMBsGA1UEKRMURUNPTEFCIFMgREUgUkwgREUgQ1YxHTAbBgNVBAoTFEVDT0xBQiBTIERFIFJMIERFIENWMSUwIwYDVQQtExxFQ084NzAzMjM4QjkgLyBHVU9SNjIxMDE4TEUyMR4wHAYDVQQFExUgLyBHVU9SNjIxMDE4SE5FVFJNMDIxEjAQBgNVBAsTCUN1YXRpdGxhbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvTPKdWxfxz5EMbSFtoykvlgidD3B8rsLknqGpuVU5efoD35TrlQnLKOtD4EKPya8zFh2fW49JXO034fhTVrfI/tguamDLMDv2Zuvcy9OTTou5g4ig294ffmLc0d4dZVVQ14kRsh3SNSyypa0FV3vaMlnmNV5M6mD+AMEWv0H0ucCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBACQyubWyx50M6L6yuy4IKNQozqH17WQRRhAdnxk9faCMH8iqE+8Se6zLgYrOgG5mrteM/+hUahwEZarhZfDntpd2H7gkp4LHzUqOSJmTyEbUnGu4x1OR/zJwLMipBQuv24qCq8q/kBM4rYWnl7X5u9w93UAQ5srmjV/7Y8DJTgZx1YUbU7qszG5GkVhhaLnL0hW2xKfD+XldKAldAOiyrlrW6i6zAgMlsMUs4Zq8SeCeoktQUb46VCI7gfgMkzKDBXD12Ir0kP1Irwup+oiop7rDi2jozcYgKeIsWgPgW5XHKc+wH6O/czoPP2Vw9k80J53FYitYoI0tkVIYiEfXs1c=" subTotal="1320.00" descuento="0.00" motivoDescuento="AJ" TipoCambio="1.0000000" Moneda="MXN" total="1531.20" tipoDeComprobante="ingreso" metodoDePago="03" LugarExpedicion="Mexico, Estado de Mexico" NumCtaPago="NO IDENTIFICADO">
+  <cfdi:Emisor rfc="ECO8703238B9" nombre="Ecolab S. de R.L. de C.V.">
+    <cfdi:DomicilioFiscal calle="AVENIDA INDUSTRIALES" noExterior="28" colonia="FRACC. INDUSTRIAL CUAMATLA" referencia="1178850" municipio="Cuautitlan Izcalli" estado="Estado de Mexico" pais="Mexico" codigoPostal="54700" />
+    <cfdi:ExpedidoEn calle="AV INDUSTRIALES NO 28" colonia="FRACC INDUSTRIAL CUAMATLA" municipio="CUAUTITLAN IZCALLI" estado="Estado de Mexico" pais="Mexico" codigoPostal="54700" />
+    <cfdi:RegimenFiscal Regimen="General de Ley P. M." />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA DE BAZ                MEX" estado="MEX" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="1240" descripcion="HANDS FREE GARRAFA 20 KG&#xD;&#xA;*.EL TRANSPORTISTA DEBERA PORTAR SU EPP&#xD;&#xA;(CAMISA DE MANGA LARGA, CASCO, ZAPATOS DE SEGURIDAD&#xD;&#xA;LENTES Y CHALECO)" valorUnitario="1320.00" importe="1320.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="211.20">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="211.20" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="6b1bb367-2831-4b66-82d2-28a6a5e76a2e" FechaTimbrado="2016-08-08T19:45:35" selloCFD="hFgHlLPOf7qk0ROApnliwWN23s7hYwlB5DeOwK0yHmMbSNRuepMPTUKSAgVA3KGNp6ccKh3mxHsPhDmqiGcXmdEBnGPeTP0lgFdHTUWvNAF2w6naSEItx4j5eyLerOLNnA3e4ns4u7ozcisIEzPYNx3S5feOezcqFViOpXfjnu0=" noCertificadoSAT="00001000000300171326" selloSAT="PHytlIlfRUQrB3OzkgLwcLDN5mdg3XmOMqJ5JDVZBC1WyUFFUsU8v/vmmRNrt8b1F6jy62OYev3dR9GIoc8E74RkHRKKl3J2qBAyoPnSN2oMvoGnAVZyxI03/9tj8vMuADt8VSvdSaZdqz7oiZbPXm8dStpqMi7bqHB5YdLBNoQ=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento><cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33RP1178850">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>54862</ecfd:NroAprob>
+            <ecfd:AnoAprob>2008</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>RP</ecfd:Serie>
+            <ecfd:Folio>1178850</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:FechaEmis>2016-08-08T19:35:55</ecfd:FechaEmis>
+            <ecfd:FormaPago>PAGO EN UNA SOLA EXHIBICION</ecfd:FormaPago>
+            <ecfd:MedioPago>03</ecfd:MedioPago>
+            <ecfd:NumCtaPago>NO IDENTIFICADO</ecfd:NumCtaPago>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>ECO8703238B9</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>Ecolab S. de R.L. de C.V.</ecfd:NmbEmisor>
+            <ecfd:CdgGLNEmisor>0000000016183</ecfd:CdgGLNEmisor>
+            <ecfd:CodigoExEmisor>
+              <ecfd:TpoCdgIntEmisor>INT</ecfd:TpoCdgIntEmisor>
+            </ecfd:CodigoExEmisor>
+            <ecfd:Sucursal>MEX</ecfd:Sucursal>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>AVENIDA INDUSTRIALES</ecfd:Calle>
+              <ecfd:NroExterior>28</ecfd:NroExterior>
+              <ecfd:Colonia>FRACC. INDUSTRIAL CUAMATLA</ecfd:Colonia>
+              <ecfd:Referencia>1178850</ecfd:Referencia>
+              <ecfd:Municipio>Cuautitlan Izcalli</ecfd:Municipio>
+              <ecfd:Estado>Estado de Mexico</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>54700</ecfd:CodigoPostal>
+              <ecfd:GLN>0000000016183</ecfd:GLN>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>AV INDUSTRIALES NO 28</ecfd:Calle>
+              <ecfd:Colonia>FRACC INDUSTRIAL CUAMATLA</ecfd:Colonia>
+              <ecfd:Municipio>CUAUTITLAN IZCALLI</ecfd:Municipio>
+              <ecfd:Estado>Estado de Mexico</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>54700</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QD0</ecfd:RFCRecep>
+            <ecfd:NmbRecep>BIOTECSA, S.A. DE C.V.</ecfd:NmbRecep>
+            <ecfd:CdgGLNRecep>7504000107903</ecfd:CdgGLNRecep>
+            <ecfd:Contacto>SUMINISTROS</ecfd:Contacto>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>BOULEVARD MANUEL AVILA CAMACHO 2900-804</ecfd:Calle>
+              <ecfd:Colonia>FRACC. LOS PIRULES</ecfd:Colonia>
+              <ecfd:Municipio>TLALNEPANTLA DE BAZ                MEX</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>MX</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+            <ecfd:LugarRecep>
+              <ecfd:Calle>CALLE DESTAJISTAS NO. 6</ecfd:Calle>
+              <ecfd:Colonia>ZONA IND. XHALA</ecfd:Colonia>
+              <ecfd:Municipio>CUAUTITLAN IZCALLI</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>MX</ecfd:Pais>
+              <ecfd:CodigoPostal>54800</ecfd:CodigoPostal>
+              <ecfd:GLN>7504000107903</ecfd:GLN>
+            </ecfd:LugarRecep>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:FctConv>1.0000000</ecfd:FctConv>
+            <ecfd:SubTotal>1320.00</ecfd:SubTotal>
+            <ecfd:MntDcto>0</ecfd:MntDcto>
+            <ecfd:PctDcto>0</ecfd:PctDcto>
+            <ecfd:MntBase>1320.00</ecfd:MntBase>
+            <ecfd:MntImp>211.20</ecfd:MntImp>
+            <ecfd:VlrPagar>1531.20</ecfd:VlrPagar>
+            <ecfd:VlrPalabras>UN MIL QUINIENTOS TREINTA Y UN PESOS 20/100 M.N.*******************************************************************</ecfd:VlrPalabras>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16</ecfd:TasaImp>
+            <ecfd:MontoImp>211.20</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:CdgItem>
+            <ecfd:TpoCodigo>INT</ecfd:TpoCodigo>
+            <ecfd:VlrCodigo>1240</ecfd:VlrCodigo>
+          </ecfd:CdgItem>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>HANDS FREE GARRAFA 20 KG
+*.EL TRANSPORTISTA DEBERA PORTAR SU EPP
+(CAMISA DE MANGA LARGA, CASCO, ZAPATOS DE SEGURIDAD
+LENTES Y CHALECO)</ecfd:DscItem>
+          <ecfd:QtyItem>1</ecfd:QtyItem>
+          <ecfd:UnmdItem>PIEZA</ecfd:UnmdItem>
+          <ecfd:PrcBrutoItem>1320.00</ecfd:PrcBrutoItem>
+          <ecfd:PrcNetoItem>1320.00</ecfd:PrcNetoItem>
+          <ecfd:MontoBrutoItem>1320.00</ecfd:MontoBrutoItem>
+          <ecfd:MontoNetoItem>1320.00</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:DscRcgGlobal>
+          <ecfd:NroLinDR>1</ecfd:NroLinDR>
+          <ecfd:TpoMov>D</ecfd:TpoMov>
+          <ecfd:CodigoDR>BILL_BACK</ecfd:CodigoDR>
+          <ecfd:GlosaDR>AJ</ecfd:GlosaDR>
+          <ecfd:TpoValor>$</ecfd:TpoValor>
+          <ecfd:ValorDR>0</ecfd:ValorDR>
+        </ecfd:DscRcgGlobal>
+        <ecfd:Referencia>
+          <ecfd:NroLinRef>1</ecfd:NroLinRef>
+          <ecfd:TpoDocRef>ON</ecfd:TpoDocRef>
+          <ecfd:FolioRef>N/A</ecfd:FolioRef>
+          <ecfd:FechaRef>2009-12-29</ecfd:FechaRef>
+        </ecfd:Referencia>
+        <ecfd:TimeStamp>2016-08-08T19:45:03</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="MontoPalabras">UN MIL QUINIENTOS TREINTA Y UN PESOS 20/100 M.N.*******************************************************************</ecfd:campoString>
+        <ecfd:campoString name="Impresora">MEX</ecfd:campoString>
+        <ecfd:campoString name="Impresora2">SL</ecfd:campoString>
+        <ecfd:campoString name="DiasPago">8 Dias</ecfd:campoString>
+        <ecfd:campoString name="Embarque">09/08/2016</ecfd:campoString>
+        <ecfd:campoString name="GerenteT">314  JOSUE CASTILLO RAMIREZ</ecfd:campoString>
+        <ecfd:campoString name="Tcantidad">1</ecfd:campoString>
+        <ecfd:campoString name="Observaciones1">INSTRUCCIONES  PARA LA ENTREGA DEL PRODUCTO</ecfd:campoString>
+        <ecfd:campoString name="Observaciones2">*. SOLICITAR NOMBRE, FIRMA Y SELLO DE RECIBIDO</ecfd:campoString>
+        <ecfd:campoString name="Observaciones3">*. ANEXAR CERTIFICADO DE CALIDAD DEL PRODUCTO</ecfd:campoString>
+        <ecfd:campoString name="Observaciones4">FECHA VENCIMIENTO  16/08/2016</ecfd:campoString>
+        <ecfd:campoString name="Observaciones5">LA FALTA DE PAGO AL VENCIMIENTO CAUSARA</ecfd:campoString>
+        <ecfd:campoString name="Observaciones6">EL CPP MAS 6 PTOS DE INTERESES MORATORIO</ecfd:campoString>
+        <ecfd:campoString name="Observaciones7">DR AUT</ecfd:campoString>
+        <ecfd:campoString name="Observaciones8">HR</ecfd:campoString>
+        <ecfd:campoString name="Observaciones9">GC AUT</ecfd:campoString>
+        <ecfd:campoString name="CodCliente">20341</ecfd:campoString>
+        <ecfd:campoString name="CodCliente2">20337</ecfd:campoString>
+        <ecfd:campoString name="CodCliente3">A&amp;B-ADM</ecfd:campoString>
+        <ecfd:campoString name="Receptor">BIOTECSA, S.A. DE C.V.</ecfd:campoString>
+        <ecfd:campoString name="Ocompra">N/A</ecfd:campoString>
+        <ecfd:campoString name="Pedido">778484 SL</ecfd:campoString>
+        <ecfd:campoString name="Referencia">314203373</ecfd:campoString>
+        <ecfd:campoString name="RFCrecep">BIO870307QD0</ecfd:campoString>
+        <ecfd:campoString name="SI_ZZZ">UN MIL QUINIENTOS TREINTA Y UN PESOS 20/100 M.N.*******************************************************************</ecfd:campoString>
+        <ecfd:campoString name="Fecha">08/08/2016</ecfd:campoString>
+        <ecfd:campoString name="DIAS">001 LUNES A VIERNES</ecfd:campoString>
+        <ecfd:campoString name="HORARIO">014 09:00-17:00 HRS</ecfd:campoString>
+        <ecfd:campoString name="LUGAR">001 ALMACEN GENERAL</ecfd:campoString>
+        <ecfd:campoString name="RUTA">NINGUNA</ecfd:campoString>
+        <ecfd:campoString name="idRecepcion" />
+        <ecfd:campoString name="RegimenFiscal">General de Ley P. M.</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago">NO IDENTIFICADO</ecfd:campoString>
+        <ecfd:campoString name="LugarDeExpedicion">Mexico, Estado de Mexico</ecfd:campoString>
+        <ecfd:campoNumero name="Ptotal">20.0</ecfd:campoNumero>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>1</ecfd:CustDetNroLin>
+          <ecfd:CustDetAFN_01>1240</ecfd:CustDetAFN_01>
+          <ecfd:CustDetAFN_02>20.00</ecfd:CustDetAFN_02>
+          <ecfd:CustDetAFN_03>1240</ecfd:CustDetAFN_03>
+          <ecfd:CustDetAFN_04>211.20</ecfd:CustDetAFN_04>
+        </ecfd:CustDetalle>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

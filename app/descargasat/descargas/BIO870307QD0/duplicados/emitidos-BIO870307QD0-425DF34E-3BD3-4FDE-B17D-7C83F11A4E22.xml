@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:nomina="http://www.sat.gob.mx/nomina" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/nomina http://www.sat.gob.mx/sitio_internet/cfd/nomina/nomina11.xsd" version="3.2" serie="NOMINA" folio="1130" fecha="2015-03-13T11:03:43" sello="JRxO1m3xDcitG/0enKCbF4coEM+/F5hVYSBgVDzr3wui3ppehQTNDztqLsxt4WTtULyTWSuZz1Ojx+htr5FVx8N6sb+6rkBSJUra0peEX/4TuHMzW1aw1ZtyZCYMyGtNfmD3NGx5tnZfgmc51QtlcseF5Q4yFkgLXeJAD8kvUDs=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302350628" certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDIzNTA2MjgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMTAyMzM4MjdaFw0xODAxMTAyMzM4MjdaMIGvMRowGAYDVQQDExFCSU9URUNTQSBTQSBERSBDVjEaMBgGA1UEKRMRQklPVEVDU0EgU0EgREUgQ1YxGjAYBgNVBAoTEUJJT1RFQ1NBIFNBIERFIENWMSUwIwYDVQQtExxCSU84NzAzMDdRRDAgLyBUT1RINDcwMjE4S1VBMR4wHAYDVQQFExUgLyBUT1RINDcwMjE4SFBMUU5SMDQxEjAQBgNVBAsTCU5BVUNBTFBBTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsBMBohzkflDRJ8xRQBCGqnRB8oVG+zbrsxiceijIEkSNXAhCIrRBKCzxYqNWu4FV/thzUN45bAMOGqzR2XBwXAnJgTv2sKoPsxkAqJe9/61+AKHKhvYFyTXQCYRLqeU4ws7UF/TajZyteHQyd9VhWD1Y6aOqvZb2tdMmuI/Pv3UCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEmboZgwm6i1c+Ds2z/M2Fdp0fVb/KWmLa1bSVxVIxdq96H12NzmWvTGRkxS78LpEsVFsHFzkaMpfRFICXyQ6Fwxt0+vGzCCCrLpvcbuEVKIIvgLToQXbL00fpCugWhbiEIMgQBv0p6ua9o2KiZPCvK4T/QaXQovJvxqPTJJo8H7DGFUyn9bwT/9zqDFe4xBXZ9lstT+tXBnmwqzdDs+/myn9odD3UpDmm5DDDmqPCbRJ4ahJQYQKnmFoO2aI1E9ioMvAQJagvjWnSiSwPGjqrbXDptW+mP3vVCeQmrE+JOrSJlf3Y93RZRFZ6kpSIO/pHnJLtC8yGqt01qTsgpLnds=" subTotal="4884.26" descuento="1406.66" motivoDescuento="Deducciones nómina" TipoCambio="1.00" Moneda="Pesos" total="3002.54" tipoDeComprobante="egreso" metodoDePago="Transferencia" LugarExpedicion="Tlalnepantla de Baz, Estado de Mexico" NumCtaPago="1151261916">
+  <cfdi:Emisor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:DomicilioFiscal calle="Blvd. Manuel Avila Camacho" noExterior="2900" municipio="Tlalnepantla de Baz" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:ExpedidoEn calle="Blvd. Manuel Avila Camacho" noExterior="2900" municipio="Tlalnepantla de Baz" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:RegimenFiscal Regimen="LEY GENERAL DE PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="MAZA740114LL4" nombre="ALFREDO MARTINEZ ZENTENO">
+    <cfdi:Domicilio pais="Mexico" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000000" unidad="Servicio" descripcion="Pago de Nómina" valorUnitario="4884.26" importe="4884.26" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="475.06">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="ISR" importe="475.06" />
+    </cfdi:Retenciones>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <nomina:Nomina Version="1.1" RegistroPatronal="C53-20744-10-0" NumEmpleado="25" CURP="MAZA740114HDFRNL09" TipoRegimen="2" NumSeguridadSocial="01917424861" FechaPago="2015-03-13" FechaInicialPago="2015-02-28" FechaFinalPago="2015-03-13" NumDiasPagados="14.000000" Departamento="EMBARQ" Banco="012" FechaInicioRelLaboral="2000-10-16" Puesto="CHOFER" PeriodicidadPago="CATORCENAL" SalarioBaseCotApor="492.97" SalarioDiarioIntegrado="492.97">
+      <nomina:Percepciones TotalGravado="4590.9" TotalExento="293.36">
+        <nomina:Percepcion TipoPercepcion="001" Clave="P001" Concepto="SUELDO" ImporteGravado="4190.90" ImporteExento="0.00" />
+        <nomina:Percepcion TipoPercepcion="005" Clave="P006" Concepto="FONDO AHORRO PATRON" ImporteGravado="0.00" ImporteExento="293.36" />
+        <nomina:Percepcion TipoPercepcion="016" Clave="P020" Concepto="GRATIFICACION EXTRAORDINARIA" ImporteGravado="400.00" ImporteExento="0.00" />
+      </nomina:Percepciones>
+      <nomina:Deducciones TotalGravado="1881.72" TotalExento="0">
+        <nomina:Deduccion TipoDeduccion="002" Clave="D001" Concepto="ISR" ImporteGravado="475.06" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="001" Clave="D002" Concepto="IMSS" ImporteGravado="179.74" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D005" Concepto="FONDO AHORRO PATRON" ImporteGravado="293.36" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D006" Concepto="ALIMENTACION" ImporteGravado="140.20" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D011" Concepto="FONDO AHORRO TRABAJADOR" ImporteGravado="293.36" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D108" Concepto="PRESTAMO CAJA DE AHORRO" ImporteGravado="200.00" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D109" Concepto="CAJA DE AHORRO" ImporteGravado="300.00" ImporteExento="0.00" />
+      </nomina:Deducciones>
+    </nomina:Nomina>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="JRxO1m3xDcitG/0enKCbF4coEM+/F5hVYSBgVDzr3wui3ppehQTNDztqLsxt4WTtULyTWSuZz1Ojx+htr5FVx8N6sb+6rkBSJUra0peEX/4TuHMzW1aw1ZtyZCYMyGtNfmD3NGx5tnZfgmc51QtlcseF5Q4yFkgLXeJAD8kvUDs=" FechaTimbrado="2015-03-13T11:05:04" UUID="425df34e-3bd3-4fde-b17d-7c83f11a4e22" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="M+g0uM7H9XljTvxU9TuzG4rRxjtIS8v+C0/bgoLCO7z1KjN7ZWhPu+jLk6b1MRy+DnMzo3hTpXgymHkPjtH7CBM9rMnBVH15OK0AE0NUp4FECdATmHExZgMjtFp8+NigjKn1QvzjXPYzjSyJNm+zGhv2T34cRUy+mPnRNlmhRgQ=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

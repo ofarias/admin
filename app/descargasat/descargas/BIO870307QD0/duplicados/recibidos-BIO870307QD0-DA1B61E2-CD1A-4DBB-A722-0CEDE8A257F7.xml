@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" fecha="2016-02-15T18:09:51" sello="Lj7kuoc9zxxHMbYCEtA3MtBRPDZoZRWyTM4WoU/jiZJBg972Kd4Y1IPsoAj6WT+OCqXs3eUYrenhMM39mEZedwugmxuWZWE6j+PFtMQpLm0St4ILN33UGGUBpuRbsZ8kFrqyvCo/EirGOPgMnJ1N1BJLkmoEsxCllAasJk32D+Y=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000303858446" certificado="MIIEcDCCA1igAwIBAgIUMDAwMDEwMDAwMDAzMDM4NTg0NDYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA0MjEyMzQ1NTZaFw0xODA0MjEyMzQ1NTZaMIG8MSUwIwYDVQQDExxTQUxWQURPUiBDQVNUSUxMTyBWSUxMQVJSRUFMMSUwIwYDVQQpExxTQUxWQURPUiBDQVNUSUxMTyBWSUxMQVJSRUFMMSUwIwYDVQQKExxTQUxWQURPUiBDQVNUSUxMTyBWSUxMQVJSRUFMMRYwFAYDVQQtEw1DQVZTODAwOTEyOTEzMRswGQYDVQQFExJDQVZTODAwOTEySENMU0xMMDAxEDAOBgNVBAsTB1RPUlJFT04wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIqHbUqqT/89d8ciDaFRqASkYr/fWFDWmm0srHgZFkj2mgsRRrFTa7GKqELLrDy34RF1VpuY6gdxrm74hp3NSA34QOCgn2iXl+PGkCfjCEhDGdfQTK0cmpP9zitixiATV0kdqN7Cas878ysMdGFOEe18GC6hm35UBxPwV9PMSSDJAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQB2C+TD7m8TWc3gIFit1uk4FZjH9uwEgluqRLh7/oPK3N+1Xp2GMzWpWIHvKjkpGZsuxa+8GybrSkJnejGFn7UKDsB8vemWawYp1OXJGzw9/fHvSh9OiMXS1KnW/MPi3kstb2QlnESYpwYqU4yYnPxg9dbEw1sshPYh7JXM9Knn9ephiHJIacS9AHuMoRjeYo83PSqWkKMQtEMNHTj5s+6l5LJo7/jyQ9zCkLiLWH69JexzPXEojerVzfZdUfKt8EhG0bD5ZM4A8u3Ghc8smtx+f886uKx8cMeq2Fr+k1KUt6H04Fg46s1DGbuUoMVRmIatfOjIP+KraB29tzNW4eNS" condicionesDePago="Contado" subTotal="120.69" descuento="0.00" Moneda="MXN" total="140.00" tipoDeComprobante="ingreso" metodoDePago="En efectivo" LugarExpedicion="TORREON, Torreón, Coahuila, México">
+  <cfdi:Emisor rfc="CAVS800912913" nombre="SALVADOR CASTILLO VILLARREAL">
+    <cfdi:DomicilioFiscal calle="BLVD. PEDRO RODRIGUEZ TRIANA" noExterior="400" noInterior="LOCAL 8" colonia="RESIDENCIAL LA HACIENDA" localidad="TORREON" referencia="MARISCOS MAZATLAN RESTAURANTE" municipio="Torreón" estado="Coahuila" pais="México" codigoPostal="27276" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN DE LAS PERSONAS FISICAS CON ACTIVIDADES EMPRESARIALES Y PROFESIONALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900-804" colonia="FRACC LOS PIRULES" localidad="TLALNEPANTLA" municipio="Tlalnepantla de Baz" estado="México" pais="México" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="1" descripcion="CONSUMO" valorUnitario="120.69" importe="120.69" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="19.31">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="19.31" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="DA1B61E2-CD1A-4DBB-A722-0CEDE8A257F7" FechaTimbrado="2016-02-15T18:09:54" selloCFD="Lj7kuoc9zxxHMbYCEtA3MtBRPDZoZRWyTM4WoU/jiZJBg972Kd4Y1IPsoAj6WT+OCqXs3eUYrenhMM39mEZedwugmxuWZWE6j+PFtMQpLm0St4ILN33UGGUBpuRbsZ8kFrqyvCo/EirGOPgMnJ1N1BJLkmoEsxCllAasJk32D+Y=" noCertificadoSAT="00001000000200365214" selloSAT="R1CTnopWxn70ni5nMGxkFbuZaKB1VGYXZzt3jsYEXVqrvqKlynu02c2M8BurvbM2wZdswMpJ96DbzdfoPrXWlRM+qr58XFNFX7m18iUn5HWw0lN2hNtsTPn/PZhMp3e7jY9qHX4sDtgiITZWgZY1iFcffEt3V5dTI06f5+cwqM4=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

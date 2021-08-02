@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="PP025228" fecha="2015-03-14T18:26:11" sello="EHY99IastJ04vA77t3xPcticFoz1VLg+tiSFdFD8yuj7Fyzt65sbjf5Vf7lIaVWmUA+/+AR1ABbV4i0y1cONEzm1xtXMi+3V2Thr42IEKhL0pbCIvyW2E4OW38fM2IxKU//vZwOdtm3wzscMG60e3N3iu08folrCda9h1uiF5NY=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000305494692" certificado="MIIE+zCCA+OgAwIBAgIUMDAwMDEwMDAwMDAzMDU0OTQ2OTIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDExMTMwMzIyMjFaFw0xODExMTMwMzIyMjFaMIIBRjFJMEcGA1UEAxNASU5TVElUVVRPIERFTCBGT05ETyBOQUNJT05BTCBERSBMQSBWSVZJRU5EQSBQQVJBIExPUyBUUkFCQUpBRE9SRTFKMEgGA1UEKRNBSU5TVElUVVRPIERFTCBGT05ETyBOQUNJT05BTCBERSBMQSBWSVZJRU5EQSBQQVJBIExPUyBUUkFCQUpBRE9SRVMxSTBHBgNVBAoTQElOU1RJVFVUTyBERUwgRk9ORE8gTkFDSU9OQUwgREUgTEEgVklWSUVOREEgUEFSQSBMT1MgVFJBQkFKQURPUkUxJTAjBgNVBC0THElORjcyMDUwMTFaQSAvIEZFRko2NjA4MjRDUjQxHjAcBgNVBAUTFSAvIEZFRko2NjA4MjRITUNSTE4wNjEbMBkGA1UECxQSUmVjYXVkYWNp824gRmlzY2FsMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCTdb6k787KBWN2ttCyCk/hjpkzTilicanbI20PZrxKrBshD5yBXsRN4WxU38PSgtyNd5OqP87Efwp/NbEloYM7PSfap+RnHkNv873H9QMxrvE/Sa6HuCJaReJW82pMrSijm8lvZR5KOByR8FKGzLcs2Q0lSgIiMJMbWyRu8xXOhQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEA3p3y4+aY5Zl+h1z1VSUv2fhlIUfZe07O4EAQ63NVAZj5gacNDpIkTlXRwCRS4Yap1FL7nmFrWIDBjVaxHojn/nf9n2ChTgzjUa7EMCBOhAd/b5uMpI0EKU4byjNPFxVgl5V7V5/BFmYkwbuMmgu3l1DU0BYlVFgh0vHOZAuWWb8TGd/TlA/He/AwF8yVjv07yZdoe9uyZ1eBYdybiOGR1yDS2RiqztHqMdm4E155VGApafPZ5Mpmt635tJF77Je3kYlTHiUs7clnj54diQrgy7lPOjQo+MgIlbr0iC89b0ykWbZkriY57k2eRZXxidDjW13f1cYruajZPhc8aLxoOw==" subTotal="179.84" total="179.84" tipoDeComprobante="ingreso" metodoDePago="Deposito" LugarExpedicion="MEXICO">
+  <cfdi:Emisor nombre="Instituto del Fondo Nacional de la Vivienda para los Trabajadores" rfc="INF7205011ZA">
+    <cfdi:DomicilioFiscal calle="Barranca del Muerto" noExterior="280" colonia="Gpe. Inn" municipio="Del.Alvaro Obregon" estado="Mexico D.F." pais="Mexico" codigoPostal="01029" />
+    <cfdi:RegimenFiscal Regimen="simplificado" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.0" unidad="SERVICIO" descripcion="Amortizaciones" valorUnitario="153.47" importe="153.47" />
+    <cfdi:Concepto cantidad="1.0" unidad="SERVICIO" descripcion="Actualizacion" valorUnitario="8.11" importe="8.11" />
+    <cfdi:Concepto cantidad="1.0" unidad="SERVICIO" descripcion="Recargos" valorUnitario="18.26" importe="18.26" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" importe="0" tasa="0" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="BE9D117C-ED83-49DF-A6D7-B2717D3C490B" FechaTimbrado="2015-03-14T18:26:39" selloCFD="EHY99IastJ04vA77t3xPcticFoz1VLg+tiSFdFD8yuj7Fyzt65sbjf5Vf7lIaVWmUA+/+AR1ABbV4i0y1cONEzm1xtXMi+3V2Thr42IEKhL0pbCIvyW2E4OW38fM2IxKU//vZwOdtm3wzscMG60e3N3iu08folrCda9h1uiF5NY=" noCertificadoSAT="00001000000201748120" selloSAT="EylkXmhEUni+8ciWI8wkdBMiI+bWKRTZYuzaPde8izvpiUKw/5ni4izruqtesJBPxmP6D87us+1UM9IjfzRDKk1fJBJT9XbNDkd3qi5EMVWmHZ/TGGWtVrrpqMAnGHE5+i3xXCs1ebRZRXt+7zJWWfeIN8UI7mTS0r+x7qLAw1w=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" fecha="2015-05-26T12:11:14" sello="fqVfLh3b4Rm98PiNEolPXH8iQ2iBIRAYrJc6iFv65j3+F7zjwVr+AZMkzu8hp1li/mwbjmI7lpl7Ca8YGhHruzqLs7k6wc7XJPByVLk60yzpX3Cj8e6GPQzfuaCjfKs76wnw+xAlnfyS29ncgZWJfrXeGKZs8BoH8myZYY/KDlw=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000202844184" certificado="MIIEojCCA4qgAwIBAgIUMDAwMDEwMDAwMDAyMDI4NDQxODQwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDExODE1NDAyN1oXDTE3MDExODE1NDAyN1owgeMxLTArBgNVBAMTJE5SIEZJTkFOQ0UgTUVYSUNPIFNBIERFIENWIFNPRk9NIEVOUjEtMCsGA1UEKRMkTlIgRklOQU5DRSBNRVhJQ08gU0EgREUgQ1YgU09GT00gRU5SMS0wKwYDVQQKEyROUiBGSU5BTkNFIE1FWElDTyBTQSBERSBDViBTT0ZPTSBFTlIxJTAjBgNVBC0THE5GTTAzMDcwOTFMOSAvIExPQ0o2MTAxMjdTSDAxHjAcBgNVBAUTFSAvIExPQ0o2MTAxMjdIREZQUk4xOTENMAsGA1UECxMETlJGTTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtn1ve9glGljzl70G+SgN3d8Wk7KIbFIs0uwJUvdciGmNvd6SxcbEDiC+rJf4k0rJbPJ2Xi0HPvdRRGQ1EqKwgTFKYH+US+TE3a5eT8oxEV3K6aEscPc991JdLvrKTNzn9eVnRKw9eHqhesQOdxgI1HT6LQRe5IjaAVkMkVOyX8ECAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAKtx4F8v5CW7jaPjCNsUM6TVaKeLVbpPQzdayNTW2FmYmQsf12sqzpFaO9TLJeDjOtuArIE55qwVgfi9JCDuVUQDs4dXyT8+3fh9YkTNdNGHuayUjFic4gBGLWjcDdNsobKP6iJVBO3gel0Izb7dSesm2ZQErlDTRNEnyx6qUX8vUR54YsXVUUP/YLjNrHNbM34sCXGyqCTt4QKLv278W2JH6SxYalbOujvsicI5jGN03P6Ab84NChTmbsXhCNZZeP49f8//wF8gJ7v31EY+VCUUfXdxSmHTDvI/28OVdymGBCpUNgq5PNuXvWWPrlKvL33J8dLLeNe1Vr5vtEW7zOU=" subTotal="417.25" total="417.25" tipoDeComprobante="ingreso" metodoDePago="DOMICILIACION" LugarExpedicion="México D.F." NumCtaPago="7501" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor rfc="NFM0307091L9" nombre="NR FINANCE MEXICO S.A. DE C.V. SOFOM ENR">
+    <cfdi:DomicilioFiscal calle="INSURGENTES SUR" noExterior="1958" noInterior="PISO 4" colonia="FLORIDA" municipio="DELEGACION ALVARO OBREGON" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="01030" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de ley Persona moral" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="LOS PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="TLALNEPANTLA DE BAZ" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="Servicio" descripcion="INTERESES DEL 20150416 AL 20150515" valorUnitario="417.25" importe="417.25" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="AD4F4B28-508D-4C7C-B407-882AC48A7918" FechaTimbrado="2015-05-26T12:26:14" selloCFD="fqVfLh3b4Rm98PiNEolPXH8iQ2iBIRAYrJc6iFv65j3+F7zjwVr+AZMkzu8hp1li/mwbjmI7lpl7Ca8YGhHruzqLs7k6wc7XJPByVLk60yzpX3Cj8e6GPQzfuaCjfKs76wnw+xAlnfyS29ncgZWJfrXeGKZs8BoH8myZYY/KDlw=" noCertificadoSAT="00001000000202700691" selloSAT="UPFK/ORi3cqKGJTMFXyLs1EOBzyPUrt9z7U1/sxg4NoMbEEdM5eK/Ysg2n7m8jfACFuWtkquZIzNgAtvy9NtX8hSs2ntBG1kgxgTwURT52DywG26T1crkO9qZQU51HsHMv5ncEMKQuET+9Hz7JHufchMvSh/ZZwbwIyusXgtAAQ=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <ext:ElementosExtra xsi:schemaLocation="http://www.buzone.com.mx/XSD/Sender33634/A http://www.buzone.com.mx/XSD/Sender33634/A/Addenda.xsd" xmlns:ext="http://www.buzone.com.mx/XSD/Sender33634/A">
+      <ext:Conector>1160159</ext:Conector>
+      <ext:NISSAN>10</ext:NISSAN>
+      <ext:Registro000 Marca_000="NS" Fecha_Corte_000="17/MAY/2015" />
+      <ext:Registro100 Numero_Prestamo_100="116015926" Fecha_Contratacion_100="18/ABR/2013" Cred_Inicial_100="117000.00" Tipo_Tasa_100="11.50" Plazo_100="36" Plan_Elegido_100="PYME PLUS NAFIN D22(1)" Insertos_100="0" No_Serie_100="3N6DD25T8EK001317" RFC_No_Fiscal_100="BIO870307QD0" />
+      <ext:Registro200 Auto_200="CH CAB TM DH V. ESP B PU 14" Fecha_Inicial_200="16/ABR/2015" Fecha_Final_200="15/MAY/2015" Banco_Pago_200="BBVA Bancomer" Cuenta_Cargo_200="012180004427847501" Importe_200="3858.19" Fecha_Limite_Pago_200="15/JUN/2015" Fecha_Emision_200="17052015" Tasa_Interes_200="11.50" Numero_Periodo_200="26" Dias_Transcurridos_200="30" Saldo_Base_Calculo_200="40097.92" Intereses_Mes_200="384.27" Iva_Intereses_200="0.00" Seguro_Vida_200="0.00" Capital_200="3473.92" Importe_Periodo_200="3858.19" Importe_Periodo_Letra_200="(TRES MIL OCHOCIENTOS CINCUENTA Y OCHO PESOS 19/100 M.N.)" Prepago_Total_200="40482.19" Fecha_Prepago_200="15/JUN/2015" Importe_Vencido_200="0.00" Saldo_Anterior_200="61506.09" Saldo_Nuevo_200="40097.92" Importe="417.25" />
+      <ext:Registro300 Fecha_Movimiento_300="15/MAY/2015" Cargo_Abono_300="(+)" Descripcion_300="Ints. período" Importe_300="417.25" />
+      <ext:Registro300 Fecha_Movimiento_300="15/MAY/2015" Cargo_Abono_300="(-)" Descripcion_300="SU PAGO GRACIAS:" Importe_300="3858.19" />
+      <ext:Registro300 Fecha_Movimiento_300="23/ABR/2015" Cargo_Abono_300="(-)" Descripcion_300="PAGO SEGURO DE CONTADO" Importe_300="17967.23" />
+      <ext:Registro300A Subtotal_300A="417.25" Importe_Impuesto_Trasladado_300A="0.00" Total_300A="417.25" />
+    </ext:ElementosExtra>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" folio="4196" fecha="2015-07-16T18:36:07" sello="NsLoyzis/iO8cpmIfIjyuIjeUin3m7fWdGOb+UXcMTeH6oAvaCQKNCTCApyI9lQZBb7yVDxfZKxN0TJ7Ml9lVFSXqxm31yiLNJieq0ICNHTsMEtUsjSo3faUWD16bcZ2Gct68jmEYblCDCvXaq37gw6uTGL1Us/Ohzf81No+CRs=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000301769299" certificado="MIIERTCCAy2gAwIBAgIUMDAwMDEwMDAwMDAzMDE3NjkyOTkwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMTMxOTEwNDlaFw0xNzEyMTMxOTEwNDlaMIGRMRUwEwYDVQQDEwxKSU5GRU4gWkhFTkcxFTATBgNVBCkTDEpJTkZFTiBaSEVORzEVMBMGA1UEChMMSklORkVOIFpIRU5HMRYwFAYDVQQtEw1aRUpJODYwODA2NjkxMRswGQYDVQQFExJaRVhKODYwODA2TU5FSFhOMDIxFTATBgNVBAsTDEpJTkZFTiBaSEVORzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAgoaE7ORV6HfxjEdCU1+5T3nP4n3zGy925QPYh93oap/sTREX4x0uuGM6jiEsdpMw3a82PTiS81Vae2jOWM06eRTpliqy5nrrSackoCEq8sooCiZh9XwmaPbUEvXoCfMcs8fgK5RtjfJyesiLZm3yT65A1ftgTz6oy6hnuO/p9XkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADEqjvGCM3Vig7yQ9WXVQg5/XBkvoF9Yd1GTusEV2hriJolhYiq3UlCQf/Z1ptMar1aIs7yE17tKAft+YderJwKeqYYPjZRIgaT93o9CPs/8+Q2pfszUEvZ+kdXViJ+hd1hmzKFLbhqzq1Dwf3LBAAwvR2NFGb+scS9CFP8sbsVnL805RSF4vGs9K5NLmGdCcurwmDljmV54/lTz3t0dSEZ9n85ENwNjJCIwJ3oxRsRcAPbRXLAvZjESUwcIENO4dInnn0H2NKVJZcYs9Rn+kBM8nMRPF8ls32MZaqCEt//oPIq7f/sBzRp1LXCZgUmqnZru/dGkwHYHUxvJ/DuiaMQ=" subTotal="212.060000" total="245.990000" metodoDePago="Efectivo" tipoDeComprobante="ingreso" LugarExpedicion="MATRIZ - CHIHUAHUA - CHIHUAHUA" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" TipoCambio="1.000000" Moneda="MXN">
+	<cfdi:Emisor rfc="ZEJI860806691" nombre="JINFEN ZHENG">
+		<cfdi:DomicilioFiscal calle="COLON" noExterior="505" colonia="ZONA CENTRO" localidad="CHIHUAHUA" municipio="CHIHUAHUA" estado="CHIHUAHUA" pais="MEXICO" codigoPostal="31000" />
+		<cfdi:RegimenFiscal Regimen="Incorporacion Fiscal" />
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="EDO. DE MEXICO" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="2.000000" unidad="N/A" noIdentificacion="B" descripcion="BUFFET ADULTO" valorUnitario="106.030000" importe="212.060000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="33.930000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.000000" importe="33.930000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+	<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="24A815D5-4833-47BF-A78D-AFE63FDF830A" FechaTimbrado="2015-07-16T18:36:08" selloCFD="NsLoyzis/iO8cpmIfIjyuIjeUin3m7fWdGOb+UXcMTeH6oAvaCQKNCTCApyI9lQZBb7yVDxfZKxN0TJ7Ml9lVFSXqxm31yiLNJieq0ICNHTsMEtUsjSo3faUWD16bcZ2Gct68jmEYblCDCvXaq37gw6uTGL1Us/Ohzf81No+CRs=" noCertificadoSAT="00001000000202639096" selloSAT="adsE5q6OIPQn3BhPW9Axrm5L/SUMA7MEah2OcmQWH37q0oq6nB6Bmt0SZDG927EPR4mrS/ktv2oIhu7xLEryDH107YfHdz/kcMU1wiiwSzCXZ9sIxGDrg03PlWyQOCfyxufsUcS8zgoKqXdNc2d2ozuTSjE69B7XsjCfbeqXsAU=" /></cfdi:Complemento>
+</cfdi:Comprobante>

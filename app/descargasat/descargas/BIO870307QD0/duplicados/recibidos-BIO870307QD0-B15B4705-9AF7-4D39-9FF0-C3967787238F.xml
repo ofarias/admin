@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" folio="215469" fecha="2016-06-16T08:10:10" noCertificado="00001000000202459002" formaDePago="Pago en una sola exhibicion" subTotal="1064.66" descuento="0.00" Moneda="NAL" total="1235.00" tipoDeComprobante="ingreso" sello="S527zR622ZF9UXaVbszpFbQPK5fl7SptDSwNgwvI7ZCULUeKhIYw+8aZFjPoTlglWUv7PctfxDNhfKNbtUy4TaJrekLuYrhB2dai0MsSqfszzhEehhADd4BpKr+PHcIFqKg1BT6uhy/MOUA7gOiSQ48EsAMO8mt0gMXSBNW7O00=" certificado="MIIEcTCCA1mgAwIBAgIUMDAwMDEwMDAwMDAyMDI0NTkwMDIwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyODIwNTM0NloXDTE2MTEyODIwNTM0NlowgbIxGjAYBgNVBAMTEUZJQlJBIEhPVEVMRVJBIFNDMRowGAYDVQQpExFGSUJSQSBIT1RFTEVSQSBTQzEaMBgGA1UEChMRRklCUkEgSE9URUxFUkEgU0MxJTAjBgNVBC0THEZITzEyMTAwNUVGQSAvIFNBVUg3ODA0MjQzNjQxHjAcBgNVBAUTFSAvIFNBVUg3ODA0MjRIREZOUkcwMzEVMBMGA1UECxMMRkkgUVVFUkVUQVJPMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDUNWtlbhCHUfbCTPtRQzmWzoG9OKQGMjpPl/rf7zXfhcQQgTmsYUldSus56MU5B3jmSYvf4qdxnrrvg+lwmcjl8AM9w6C+9DeKxBnZrbJxHQ6ciFg1y7bVRrAQutvqH+U0BiBDYTtoc8DjgYNP6h4J8sJbleIX7MwXQlfC0X+jmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAMF/kDR2TSqzXmsJv8QbyH50nF1ZYZHsJMk4iJ3BGQF6Q6RkW3e71HBgy/9Ww64TYIz0jVoidSVBE+O6vkZ5hiLDSGMmZ8XCVp7HluV+cKG/YjPY9TkP1xJQJJjeHBLQRTz+IdKftyVtSr5IZx+75/YwcxMeIfgq9wC+UYn+nuSm8SMqL3vBpVUecErS46OLgu/5xTma9Y6lKLhiuALDEC4iST/7AWkDNyrdmTkLKiy5INlBGV9mt74M6H8IaeGjWpb8z6uEum8d5w0VlL+twciKmXO3BVHU+rUNvw+ifTp5GAedaiilSkLhbuYbMKdbg7QeOqn7qlyN02iWuSG7DDA==" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" metodoDePago="TARJETA DE CREDITO" NumCtaPago="1004" LugarExpedicion="AV. 5 DE FEBRERO QUERETARO QUERETARO MEXICO">
+  <cfdi:Emisor rfc="FHO121005EFA" nombre="FIBRA HOTELERA S.C.">
+    <cfdi:DomicilioFiscal calle="SANTA FE" noExterior="481" noInterior="PISO 7" colonia="CRUZ MANCA" municipio="CUAJIMALPA DE MORELOS" estado="CIUDAD DE MEXICO" pais="MEXICO" codigoPostal="05349" />
+    <cfdi:ExpedidoEn calle="AV. 5 DE FEBRERO" noExterior="108-A" colonia="NIÑOS HEROES" municipio="QUERETARO" pais="MEXICO" codigoPostal="76010" estado="QUERETARO" />
+    <cfdi:RegimenFiscal Regimen="NA" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO 2900-804 FRACC. LOS PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="SERVICIO" noIdentificacion="CAFET" descripcion="RESTAURANTE" valorUnitario="1064.66" importe="1064.66" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="170.34">
+    <cfdi:Traslados>
+      <cfdi:Traslado tasa="16.00" importe="170.34" impuesto="IVA" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="b15b4705-9af7-4d39-9ff0-c3967787238f" FechaTimbrado="2016-06-16T08:10:13" selloCFD="S527zR622ZF9UXaVbszpFbQPK5fl7SptDSwNgwvI7ZCULUeKhIYw+8aZFjPoTlglWUv7PctfxDNhfKNbtUy4TaJrekLuYrhB2dai0MsSqfszzhEehhADd4BpKr+PHcIFqKg1BT6uhy/MOUA7gOiSQ48EsAMO8mt0gMXSBNW7O00=" noCertificadoSAT="00001000000202693892" selloSAT="YLyrda2tKWRq2nYee+9CsR5x1/95GSMlSd30W/D0NRu7urM/BmBnZbvOdkcC7XU5ARKSXvQabQTJ8mQH9wgwyQSxAxe5QNNvbKLNs1jSUMvufXKXL3RfHkAscaA9hJwU/BhDmjoi058O+5c8nhUGuWrYNWM/6Je3hMQM4mlaw90=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

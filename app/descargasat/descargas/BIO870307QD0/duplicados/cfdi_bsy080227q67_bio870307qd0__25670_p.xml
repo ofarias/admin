@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="25670" fecha="2016-06-16T16:55:28" sello="jvQjUVq6F8LExAlAgPKfSHoSPMMbKQ3F/CRH05SY/md8VjsF2EEZM+398BnoC/zo2VoRuaPmpIJpMb1mNcfIB33yfeuzcBXR1se69e5M89BYUuzybpfK9tZ5fYx3Szx/FScy8hhVb38eR7jQGkgwNlQONdwo/Pr2THYe0kqx0lI=" formaDePago="Pago en una sola Exhibicion" noCertificado="00001000000202718792" certificado="MIIEmTCCA4GgAwIBAgIUMDAwMDEwMDAwMDAyMDI3MTg3OTIwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDEwMzAxNDMxMloXDTE3MDEwMzAxNDMxMlowgdoxKzApBgNVBAMTIk5FT0dFTiBMQVRJTk9BTUVSSUNBIFMgQSBQIEkgREUgQ1YxKzApBgNVBCkTIk5FT0dFTiBMQVRJTk9BTUVSSUNBIFMgQSBQIEkgREUgQ1YxKzApBgNVBAoTIk5FT0dFTiBMQVRJTk9BTUVSSUNBIFMgQSBQIEkgREUgQ1YxJTAjBgNVBC0THEJTWTA4MDIyN1E2NyAvIE5PTU01NjEyMTFBTTkxHjAcBgNVBAUTFSAvIE5PTU01NjEyMTFIREZSTk4wMDEKMAgGA1UECxMBIDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwgzx0mE9ZD3koOudHildGrdDxhhp5AB+fXQPPRBqU8jmD8L02ByapdNA8c2z83WrRw/0MCKSeNSVtCoaI9h2QW6Pkj/tdDARKbC7DMYybnP7qGm4PLBYG31F3CHx6Rf2TTa3uoxRz+6fIVkhbe+bdWqJoaotAddN+nExcoc62Q0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEm8JPzLQCZaGMKG7U6ffHZh7BtCj0YkDlOcrcueFGvat+bREvFZZf6/akMhJ7bVmOkMtmhb4amwuKquokPIS32W0PFfGn/qrGTiaGfwj16AaFlOqfcTlQxpcAvUsgwIQosj2GaA8PNAAtbZEYahCWH6E9/O9fU3vvCiQN3xi09DJGSNhSsUt1Foi33ZdTtRm42oUK/tpHNCMd+WJkDMNErP38i++SfNDzNkfAXNZdlTEZ7qiPgOoxkRQaKVbUecQQbf6CR5Xqp0qiTH2/zF4ru4lZV/6W6ePVhIvvjqcZZaPmuJH/PAzrsH5ts8EJmQ52mnrDDlR7bZ45IMJPyPeOQ=" condicionesDePago="30 Dias" subTotal="6324.00" total="7335.84" metodoDePago="NO IDENTIFICADO" tipoDeComprobante="ingreso" Moneda="MXN" TipoCambio="1.00" LugarExpedicion="Mexico,D.F">
+  <cfdi:Emisor rfc="BSY080227Q67" nombre="NEOGEN LATINOAMERICA, S.A.P.I. DE C.V.">
+    <cfdi:DomicilioFiscal calle="PROLONGACION 5 DE MAYO No. 27" colonia="PARQUE INDUSTRIAL NAUCALPAN" municipio="NAUCALPAN DE JUAREZ" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="53489" />
+    <cfdi:RegimenFiscal Regimen="General de Ley P.M." />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="2" unidad="Pieza" noIdentificacion="6640" descripcion="NEOFILM YEAST AND MOLD COUNT-100 PACK/EACH BOX" valorUnitario="2448.00" importe="4896.00">
+      <cfdi:InformacionAduanera numero="3018-6000080N61" fecha="2016-02-24" aduana="Aeropuerto Internacional de la Ciudad de Mexico" />
+    </cfdi:Concepto>
+    <cfdi:Concepto cantidad="1" unidad="Pieza" noIdentificacion="6620" descripcion="NEOFILM AEROBIC COUNT-100 PACK/EACH BOX" valorUnitario="1428.00" importe="1428.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="1011.84">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1011.84" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="DF4CA015-DEE8-4ED9-B332-C886F2577997" FechaTimbrado="2016-06-16T16:55:34" selloCFD="jvQjUVq6F8LExAlAgPKfSHoSPMMbKQ3F/CRH05SY/md8VjsF2EEZM+398BnoC/zo2VoRuaPmpIJpMb1mNcfIB33yfeuzcBXR1se69e5M89BYUuzybpfK9tZ5fYx3Szx/FScy8hhVb38eR7jQGkgwNlQONdwo/Pr2THYe0kqx0lI=" noCertificadoSAT="00001000000203312933" selloSAT="AI4wbKzY4ga3pYaPhmzsQay57Us81BTEu3gTK7UvF4Q38f4ryonHjn3940QjbHFM3KjsIhNrR+RXcyY1sv86az1+cc0Rl8HgFqsBVIzJp8DzYLifrloc7x/I/EP5ApOCrsFRbtSRewp6hmrj/7LeWYWZdyRxgWtxmpIVqxgMxGg=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <lev1add:EDCINVOICE xsi:schemaLocation="http://www.edcinvoice.com/lev1add http://www.edcinvoice.com/lev1add/lev1add.xsd" xmlns:lev1add="http://www.edcinvoice.com/lev1add">[H0]|BIO870307QD0|900639|9.55||00001000000202718792|0|P|NEOGENV3.2||
+[H1]||25670||2016-06-16T16:55:28|||Pago en una sola Exhibicion|30 Dias||Factura|0||0||||||||16052016|GEISY GONZALEZ|||16||||Mexico,D.F|NO IDENTIFICADO|MXN|1.00|||||||||||Siete Mil Trescientos Treinta y Cinco Pesos 84/100|D00|P|||||||
+[H2]|NEOGEN LATINOAMERICA, S.A.P.I. DE C.V.|BSY080227Q67||PROLONGACION 5 DE MAYO No. 27|||PARQUE INDUSTRIAL NAUCALPAN|||NAUCALPAN DE JUAREZ|ESTADO DE MEXICO|Mexico|53489|General de Ley P.M.|||||X|||||****|
+[H3]|||||||||||||||||||||||||
+[H4]|BIOTECSA, S.A. DE C.V.|BIO870307QD0||BLVD. MANUEL AVILA CAMACHO 2900-804|||FRACC. LOS PIRULES|TLALNEPANTLA||TLALNEPANTLA|ESTADO DE MEXICO|Mexico|54040||(55) 53 70 12 10||||||||||
+[H5]|||||||||||||||||||||||||
+[D]|6640||NEOFILM YEAST AND MOLD COUNT-100 PACK/EACH BOX||2|PIEZA||2448.00|0||0.00|||||||||||||4896.00|16|0.00|2|Aeropuerto Internacional de la Ciudad de Mexico|2016-02-24T00:00:00|3018-6000080N61|6640|6640||||4896.00|4896.00|783.36|0.00|||||||||||||||||||||150903MT|31/10/2017||||||||||||
+[D]|6620||NEOFILM AEROBIC COUNT-100 PACK/EACH BOX||1|PIEZA||1428.00|0||0.00|||||||||||||1428.00|16|0.00|1||||6620|6620||||1428.00|1428.00|228.48|0.00|||||||||||||||||||||150902TC|31/10/2017||||||||||||
+[S]|6324.00|0.00|||||1011.84|.00|7335.84||2|16|||||||||||||||||||||||0.00|6324.00||||
+[CO]|||3.2|2016-06-16T16:55:28|ingreso|Pago en una sola Exhibicion|30 Dias|6324.00|1.00|MXN|7335.84|NO IDENTIFICADO|Mexico,D.F|BSY080227Q67|NEOGEN LATINOAMERICA, S.A.P.I. DE C.V.|PROLONGACION 5 DE MAYO No. 27|PARQUE INDUSTRIAL NAUCALPAN|NAUCALPAN DE JUAREZ|ESTADO DE MEXICO|Mexico|53489|General de Le|
+[CO]|y P.M.|BIO870307QD0|BIOTECSA, S.A. DE C.V.|BLVD. MANUEL AVILA CAMACHO 2900-804|FRACC. LOS PIRULES|TLALNEPANTLA|TLALNEPANTLA|ESTADO DE MEXICO|Mexico|54040|2|Pieza|6640|NEOFILM YEAST AND MOLD COUNT-100 PACK/EACH BOX|2448.00|4896.00|3018-6000080N61|2016-02-24|Aeropuerto Internacional de la Ciudad |
+[CO]|de Mexico|1|Pieza|6620|NEOFILM AEROBIC COUNT-100 PACK/EACH BOX|1428.00|1428.00|IVA|16.00|1011.84|1011.84|||
+[SE]|jvQjUVq6F8LExAlAgPKfSHoSPMMbKQ3F/CRH05SY/md8VjsF2EEZM+398BnoC/zo2VoRuaPmpIJpMb1mNcfIB33yfeuzcBXR1se69e5M89BYUuzybpfK9tZ5fYx3Szx/FScy8hhVb38eR7jQGkgwNlQONdwo/Pr2THYe0kqx0lI=|
+</lev1add:EDCINVOICE>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

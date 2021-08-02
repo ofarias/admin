@@ -1,0 +1,21 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="54720" MetodoPago="PUE" TipoDeComprobante="I" Total="1160.00" Moneda="MXN" Certificado="MIIE2jCCA8KgAwIBAgIUMDAwMDEwMDAwMDAzMDEzMTI2NzQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMTQxODAzMzRaFw0xNzExMTQxODA0MTRaMIHNMR4wHAYDVQQDExVEQU5JRUwgVklMTEVHQVMgVkFMTEUxHjAcBgNVBCkTFURBTklFTCBWSUxMRUdBUyBWQUxMRTEeMBwGA1UEChMVREFOSUVMIFZJTExFR0FTIFZBTExFMQswCQYDVQQGEwJNWDEpMCcGCSqGSIb3DQEJARYacm9tZXJvX29sdmVyYTFAaG90bWFpbC5jb20xFjAUBgNVBC0TDVZJVkQ3MDA1MThLNTYxGzAZBgNVBAUTElZJVkQ3MDA1MThIREZMTE4wMTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAkePwfel0/3bTxLpyxgs/DJFwZr9Mm6wPXHgcbbYck6b3Is0r8uC2cZh5FTycznzzH1sJ1u7AUQO6QlOw3SBqrpDx+OhcZnyGVr3+MuRTgpsKoiQiKbiaKZ8RVN68Zpgv4X5Q96beGja3vVWHeHOxQT37scFX7j9n2aUyFKBh+usCAwEAAaN2MHQwDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCA9gwEQYJYIZIAYb4QgEBBAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMEBggrBgEFBQcDAjAlBgNVHREEHjAcgRpyb21lcm9fb2x2ZXJhMUBob3RtYWlsLmNvbTANBgkqhkiG9w0BAQUFAAOCAQEAEGx/ztYfIODPxA/Nr9h7jQoJedIvsA9kzPIFtfBsHwcMUTZ0f/qBb5zGhcoOI/QTQ54Q/St0emV9jsGEknFK9ZmAkI0diTTftflChfh7gKyFjs2EEEesgHUiwt5XEzxSoWj+fMgqXaJIy6QWoN3M9ZFJY4cBScA+/tbLOGM17Go4ZzpvNuMHfB4Ctj3+ZFL3gZjr9ESa8UHsqZhhBtgoPfuiiHQDupJpwussxAEbY8e51bpnkKBWyp8M3FY53NpLNFydfaVrjNJjITxC7Y3cZ1onlbs5x28vkmcG5lS8AnSmU57ZZ8Fb7GTqFGY6ZV8QfIaZ7EheV9Ce/VF74K4GYA==" SubTotal="1000.00" NoCertificado="00001000000301312674" FormaPago="01" Sello="eeCkh4dYNzTYjY2GAhNKDzIgmo7PEiitV/LjtLXyOgMn8n+KlD9/b9K3LAkSEdBlB6MKMAVeWfeMVEDOVpZk/0+32rWPh+CGFyywBgfGuc3j+orK+p3JRKcdEIB/OJTo7SXWoLbwScFHHAjC+cIZNgDLqFoBBwP5PWoUQB4Fclo=" Fecha="2017-10-13T18:31:50" Folio="042" Serie="F" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="VIVD700518K56" Nombre="DANIEL VILLEGAS VALLE" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA SA DE CV" UsoCFDI="P01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78181500" Cantidad="1" ClaveUnidad="E48" Descripcion="REPARACION DE CHAPA Y PERNOS" ValorUnitario="1000.00" Importe="1000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="160.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="160.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="160.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="C8D261C6-F0CB-4D32-A1B2-3D5CF6E3741E" FechaTimbrado="2017-10-13T18:41:16" RfcProvCertif="SAT970701NN3" SelloCFD="eeCkh4dYNzTYjY2GAhNKDzIgmo7PEiitV/LjtLXyOgMn8n+KlD9/b9K3LAkSEdBlB6MKMAVeWfeMVEDOVpZk/0+32rWPh+CGFyywBgfGuc3j+orK+p3JRKcdEIB/OJTo7SXWoLbwScFHHAjC+cIZNgDLqFoBBwP5PWoUQB4Fclo=" NoCertificadoSAT="00001000000403258748" SelloSAT="QXokzGTcnIwlU50E7a17vLtoIgkbU1qxFbjPCyeTA7QRYNs0BFjyq6zVc6J4dqv+CWfcjBuvxF5P7ppWkJBRQlIQZDJnCgHPA3ahU1hgvN5TYUsBIgFJvoyINUmCL16KQmLCrTryky2q9frXIzZDvLvoF/b6HCGBJSgPx6Hxe1t+ETxhqjQRatmjn2E7esQRxuLluj9kXASAzxsHTbdmj0yn2KsamRUDjV+OelK6NLxxQEdoc3/ChXfLxIM9iFFKQqnPvjSSaakEaJWdWZU4/tr8ZOd8ncp/O3QLVEwpwIOYO/AOM2hXcE3FTWBWuvq0Gjae5gqiWDfhBN0FxHi34g==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

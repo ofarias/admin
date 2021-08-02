@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="808" fecha="2015-01-08T18:19:05" formaDePago="Una sola exhibicion" subTotal="1137.06" descuento="0.00" total="1319.00" tipoDeComprobante="ingreso" noCertificado="00001000000300731561" certificado="MIIEaTCCA1GgAwIBAgIUMDAwMDEwMDAwMDAzMDA3MzE1NjEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA4MjYxODA1MjBaFw0xNzA4MjYxODA1MjBaMIG1MR0wGwYDVQQDExRUUklBTkdPTEFSRSBTQSBERSBDVjEdMBsGA1UEKRMUVFJJQU5HT0xBUkUgU0EgREUgQ1YxHTAbBgNVBAoTFFRSSUFOR09MQVJFIFNBIERFIENWMSUwIwYDVQQtExxUUkkxMzA2MDc0MTEgLyBHVU1DNjgwNTI5REgxMR4wHAYDVQQFExUgLyBHVU1DNjgwNTI5SERGVFJSMDYxDzANBgNVBAsTBkNFTlRSTzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA4hN0vY0n4yZ1h3YE3ZIEo9raDR2pvmkeTzPMtKTp9HOULdnK/FXlhyfHF85fWDYJvlCnN6Ah4NiE2z/lVQTrRZ4y5uEO1xXG3J1F32lE9k9MX3bXBX2kUaukWzeerWFjI5w5Kqc34QNFV4GUkxfIi9zO+x3yvlSw1H4/fiNVHk8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAASl73XljvbOFmxByNCxHlEkje0hRpPMrvWz5+61rRyXytCNiMLIpP4TfEYIvGrsA3U+d3xXOA2zCo1hkg9GO/nnALLuVJzu7pFsTEXGmfZKuc/7oV9PIz1W7/cb5Wb/J/gyTxRQ0bKpXt+7TkPCce6Nq2mQVFvQVbEhISTTuYYOBsREdwDSD6pA+doqIKIB6Klbqxufe3xTT8WYoab0PyHYsZQtFy2Qp6h0fPdxo0zed215UPY5fJaMbzRXlNv4cYdre2l+C9HuBT4DbwtvK2l7NXMeHYY28cUeTbSTg8LB4AHqwTXrXwgxxFWdEKwanW8Vqr92/GQhVElbHkNUTO4=" metodoDePago="(NO APLICA)" LugarExpedicion="ATIZAPAN DE ZARAGOZA,DE MEXICO,MEXICO" NumCtaPago="(AMEX)" sello="ZlM9SCPScphiF/22Xgzv+rnRe4Rv1pqNfiwKNWuYnmwdiQ259B8B4YHSHyWX8+5ljfxAyeOmTPKtpVP8YBETslmXrAHvjhhxuQ1av8jfnO9qptWjzpJ/tN85ojxxxk9u85QHYZI2u+Iu0wRmWkjaTrIWdxlB18A0baOBSCiWe08=">
+  <cfdi:Emisor nombre="TRIANGOLARE SA DE CV" rfc="TRI130607411">
+    <cfdi:DomicilioFiscal calle="EJERCITO NACIONAL" codigoPostal="11520" colonia="GRANADA" estado="MEXICO DISTRITO FEDERAL" localidad="CIUDAD DE MEXICO" municipio="MIGUEL HIDALGO" noExterior="533" noInterior="301" pais="MEXICO DISTRITO FEDERAL" />
+    <cfdi:ExpedidoEn calle="BOULEVARD JORGE JIMENEZ CANTU" codigoPostal="52930" colonia="LOMAS VALLE ESCONDIDO" estado="DE MEXICO" localidad="ATIZAPAN DE ZARAGOZA" municipio="ATIZAPAN DE ZARAGOZA" noExterior="SIN NUMERO" noInterior="LT A-2-5 EDIF 2 L1-7, L1-8,L17" pais="MEXICO" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE PERSONA MORAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA S.A. DE C.V." rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" codigoPostal="54040" colonia="LOS PIRULES" estado="MEXICO" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" noExterior="2900" noInterior="804" pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" descripcion="CONSUMO" importe="1137.06" unidad="ORDEN" valorUnitario="1137.06" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="181.93">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="181.93" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="A778D550-9D0C-49A8-8F85-405D8D310C5F" FechaTimbrado="2015-01-08T18:19:19" noCertificadoSAT="00001000000301160463" selloCFD="ZlM9SCPScphiF/22Xgzv+rnRe4Rv1pqNfiwKNWuYnmwdiQ259B8B4YHSHyWX8+5ljfxAyeOmTPKtpVP8YBETslmXrAHvjhhxuQ1av8jfnO9qptWjzpJ/tN85ojxxxk9u85QHYZI2u+Iu0wRmWkjaTrIWdxlB18A0baOBSCiWe08=" selloSAT="e7GOAuDyM9iFYswVxyZRPEASKlm700YKqNQSmAaZ32/sGlFi8Dzm/nLHByjKDFbcPWbYy9U4WmjgDoBrzoz0arsJwBn9SJSvjVvUbZStn4J+EO6EBfvqTJUAm6FVGn+719DbwRIl9KUC23ITZ16fpmnQtk1sqY/EeJubgWugKkM=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

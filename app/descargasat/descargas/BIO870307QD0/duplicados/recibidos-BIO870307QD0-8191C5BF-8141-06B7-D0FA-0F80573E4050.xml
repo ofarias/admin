@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " folio="1943" fecha="2015-10-15T17:21:08" sello="eFDf2AsrZVJ2uWvJRKjRDUxMUb3sCCicWH39vedSCDZKfNs21FSnHQG6j7vTQqM6cYMdkwy0D05cGCAJZvYewjlCBQhLWk6XrjwSUIvMuDZi/YuXM07taEo/yn+CyQKIn6qugK8JVMupg+7lglLmcZgPrWPAkxVjiGjxN9pUwks=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302073391" certificado="MIIEWjCCA0KgAwIBAgIUMDAwMDEwMDAwMDAzMDIwNzMzOTEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjcxNzE5NDBaFw0xNzEyMjcxNzE5NDBaMIGmMR4wHAYDVQQDExVDQVJNRU4gR09NRVogU0FMRElWQVIxHjAcBgNVBCkTFUNBUk1FTiBHT01FWiBTQUxESVZBUjEeMBwGA1UEChMVQ0FSTUVOIEdPTUVaIFNBTERJVkFSMRYwFAYDVQQtEw1HT1NDNDgwNzEySEQ5MRswGQYDVQQFExJHT1NDNDgwNzEyTURGTUxSMDMxDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAivaSnoQ5i5W5IkcYgP3v2eccWZkuaHotN5EDpBU+PDpE8/33BlUG/b+13vYLulO9NGD0ENsNApXCguw8Kny3g6AVnC9p/saSmoJwQRW1VnBqray//FaGbS4E4yYIBicHEGBB8kCV9jajHDAlifBXZ4HzVlLsfY57Eojk1cDWuc0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAKDDdp4wOLvgokk/U3u86tLsbSTn1m0TBvsQYAu5R3y5O4hnjqrX7sMJ5Vonaq50wz2cCCvBMEMsDU3F+8SWJ1ZSPKXXIzhwyWIGR1HB4wzg98jLNzhm8K3RkgzfyhBocRjnSogjWJmfbiVh44nVgRvaJg3dwyuBwHU5haG7EdQpSIv4Womk00EfZfdsyhMpbWNqLsdMYqsTBuN7emd8aIBuONN0GIjFpzsNi4tDzlgp1A5Rh0Ch7qG1cFEpODfh7VNvrBjygx8vqn6k+Z4bfjnhLFICn4x8Q5HOyaynHSHyee4YRohZQWslUSklwuL28ZST0yuES1VvNL1hrFXqGcY=" subTotal="3102.660000" Moneda="MXP" total="3599.085600" metodoDePago="TRANSFERENCIA" tipoDeComprobante="ingreso" LugarExpedicion="Estado de Mexico" NumCtaPago="NO IDENTIFICADO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="GOSC480712HD9" nombre="CARMEN GOMEZ SALDIVAR">
+		<cfdi:DomicilioFiscal calle="PIRULES" noExterior="36" colonia="SAN ISIDRO" localidad="CUAUTITLAN IZCALLI" municipio="CUAUTITLAN IZCALLI" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54730" />
+		<cfdi:RegimenFiscal Regimen="PERSONA FISICA CON ACTIVIDAD EMPRESARIAL Y PROFESIONAL" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. de C.V.">
+		<cfdi:Domicilio calle="BULEVAR MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACCIONAMIENTO LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="AFINACION DE MOTOR" valorUnitario="862.070000" importe="862.070000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="CAMBIO DE ACEITE AL MOTOR" valorUnitario="336.210000" importe="336.210000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="TUBO DE AIRE CON SENSOR ORIGINAL" valorUnitario="201.730000" importe="201.730000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="JUEGO DE BALATAS DELANTERAS" valorUnitario="387.940000" importe="387.940000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="Pza." descripcion="DISCOS NUEVOS DELANTEROS" valorUnitario="245.690000" importe="491.380000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="Pza." descripcion="RETENES TRASEROS" valorUnitario="25.870000" importe="51.740000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="GRASA PARA BALEROS" valorUnitario="17.250000" importe="17.250000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="serv." descripcion="MANO DE OBRA DE CAMBIO DE BALATAS" valorUnitario="301.730000" importe="301.730000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="JUEGO DE CABLES DE BUJIAS" valorUnitario="375.000000" importe="375.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="CODO DE RECIRCULACION DE GASES DE ACEITE" valorUnitario="51.730000" importe="51.730000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="Pza." descripcion="ABRAZADERAS.PARA.MANGUERA.CODO" valorUnitario="12.940000" importe="25.880000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="496.425600">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="496.425600" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2015-10-15T17:21:09" UUID="8191C5BF-8141-06B7-D0FA-0F80573E4050" noCertificadoSAT="00001000000203392777" selloCFD="eFDf2AsrZVJ2uWvJRKjRDUxMUb3sCCicWH39vedSCDZKfNs21FSnHQG6j7vTQqM6cYMdkwy0D05cGCAJZvYewjlCBQhLWk6XrjwSUIvMuDZi/YuXM07taEo/yn+CyQKIn6qugK8JVMupg+7lglLmcZgPrWPAkxVjiGjxN9pUwks=" selloSAT="u9NTz22hYMn5BasIxJLXlyxAm9sd8g0tjXe18m4Fatfw/RJ0eazuNXSV0YHzcBYC8IcIMjByFPNHT/a11p7o8g7smUQiihJAwBmHcwUg5HSH6IxwF28Emc5oV8YVylQpwLKXQa+jN9M29+X80tecekq+6N2wqbIuUWLQqSQHd88=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

@@ -230,7 +230,7 @@ class DescargaMasivaCfdi {
         $respuesta = RespuestaCurl::request($url);
         $html = $respuesta->getBody();
         $post = $this->obtenerDatosFormHtml($html);
-        if(!$post){
+        if(!$post){ // si no hay elementos devuelve un falso
             return false;
         }
 
@@ -376,9 +376,10 @@ class DescargaMasivaCfdi {
     }
 
     private function obtenerDatosFormHtml($html){
-        $post = $this->getFormData($html);
-        if(!empty($post)) {
+        $post = $this->getFormData($html); // Obtiene los elementos input select de la pagina del SAT.
+        if(!empty($post)) { /// se finaliza cuando no encuentra nada en el resultado. 
             unset(
+                $post['linea'],
                 $post['seleccionador'],
                 $post['ctl00$MainContent$BtnDescargar'],
                 $post['ctl00$MainContent$BtnCancelar'],
@@ -391,7 +392,6 @@ class DescargaMasivaCfdi {
             );
             return $post;
         }
-
         return null;
     }
 
@@ -1208,7 +1208,6 @@ class DescargaAsincrona {
 
     public function __construct($maxSimultaneos=10) {
         $this->mc = new MultiCurl($maxSimultaneos);
-
         $opts = RespuestaCurl::$defaultOptions;
         $opts[CURLOPT_COOKIE] = RespuestaCurl::getCookieString();
         $opts[CURLOPT_CUSTOMREQUEST] = 'GET';

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " serie="A" folio="4278" fecha="2016-04-02T14:11:34" sello="cH5nu7E7MRJYu47o8NDaR51jJVKjGKXjrXidiSMGF7wuiamwN6DteU0I63Vl8yK8qpH0DYKZIP/zG2HG5CEwqA9Em9+nhvEFw6wBqlgVZLrBll/VEG13nHbwkAOlyfyxk1j8XsH/TdH0M0DlInH8jb8lTZJy4PkLHOR/z86GPOw=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302017480" certificado="MIIEWTCCA0GgAwIBAgIUMDAwMDEwMDAwMDAzMDIwMTc0ODAwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjQwNTQ0MTZaFw0xNzEyMjQwNTQ0MTZaMIGlMR4wHAYDVQQDExVJUk1BIEdVWk1BTiBUT0xFTlRJTk8xHjAcBgNVBCkTFUlSTUEgR1VaTUFOIFRPTEVOVElOTzEeMBwGA1UEChMVSVJNQSBHVVpNQU4gVE9MRU5USU5PMRYwFAYDVQQtEw1HVVRJOTQwNjA0OFk0MRswGQYDVQQFExJHVVRJOTQwNjA0TUhHWkxSMDYxDjAMBgNVBAsTBVVOSUNBMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDtRkqHnxD1a1fmENMSoy0eAhnw9b1tg+kGi55kzFndzGR8s6eMEHrGyR7MOjV277+rrKkzfDSkCfMJSLWQwfVTIPt3mVyhpjtrh0oQ2HsrVa0CZtB42lEjZgXhZJsPHnPYarsGl+uaBpboizvffw91h6/n52CaIy1JrB+0CtvifwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAvS5yuJ52IApQCNNdN5xo5RKvzBrrblwTWoSu8WvVPuLtxwFwSRm5e8tt1rG1R8N02s1wf9/mnq6QZ8A13KM1CczX8hhkTTg7QybygYnv53vWoj7Y1RJQNHNPfUncZ4VisLcjPY6EtmbJdlw03n8n9JH/WA+OPcLwglFEAVW3Lxbq6T2oUUhMADf5H6GgldlYV/egiZ/OtnKgCSWK93i8yyDgzDPwSUmGC/qkXvmbL2f6DG+W1KIbxcIzfrGpt7tphgqe3mQ3S5m/Hc1gPzoDlP0ik1ETkbXAmXgOAa+nsXpn/PFzts5vACn9+ni5SS4Y4ZasfeYvUq0Uh29g0oBMfw==" condicionesDePago="CONTADO" subTotal="560.340000" Moneda="MXP" total="649.994400" metodoDePago="EFECTIVO" tipoDeComprobante="ingreso" LugarExpedicion="MEXICO D.F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="GUTI9406048Y4" nombre="IRMA GUZMAN TOLENTINO">
+		<cfdi:DomicilioFiscal calle="AV. MONTEVIDEO" noExterior="87-A" colonia="TEPEYAC INSURGENTES" localidad="MEXICO" municipio="GUSTAVO A. MADERO" estado="Distrito Federal" pais="MEXICO" codigoPostal="07020" />
+		<cfdi:RegimenFiscal Regimen="PERSONA FISICA CON ACTIVIDAD EMPRESARIAL" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+		<cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="LOS PIRULES" municipio="TLALNEPANTLA" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="PAR" descripcion="CALZADO INDUSTRIAL" valorUnitario="560.340000" importe="560.340000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="89.654400">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="89.654400" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2016-04-02T14:11:34" UUID="FD481122-3842-813A-EC4B-F4795EF742AA" noCertificadoSAT="00001000000203392777" selloCFD="cH5nu7E7MRJYu47o8NDaR51jJVKjGKXjrXidiSMGF7wuiamwN6DteU0I63Vl8yK8qpH0DYKZIP/zG2HG5CEwqA9Em9+nhvEFw6wBqlgVZLrBll/VEG13nHbwkAOlyfyxk1j8XsH/TdH0M0DlInH8jb8lTZJy4PkLHOR/z86GPOw=" selloSAT="tCxKIW5QHFyrzcWxRaruabE9goZ2TveHa2C55KzKN8Uxs1HGWbEAyyurHa0ajzMFiUILs2z+To98tCvBoULjGHHe/bUDxBSDnXyVaweBnhk+lEMYcohfLRkhl/FpWqxK9Up5+4kfLnJJyhdSGkRzklw7O01ZgKh33R3+yMbvZbI=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

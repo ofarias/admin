@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="VIA" folio="020097402508" fecha="2017-03-03T13:51:27" sello="B5CVlOMMb+NTe/Gq2sGBCFAWZ2oFyUomdhmjMh/zaSC89F6SooxmHWZ+Y1zY1L5FrKyvdGH6WzRxUgvJZKgQe1Fjiovuw/m85OIaNaX48dC4oPc/bqWN2EjNxE8XatCHljVP4/diU5hVaQOZ7U21jMnEd+XpvJVLqDjE+kfKD7k=" formaDePago="PAGO EN UNA SOLA EXHIBICIÓN" noCertificado="00001000000301269724" certificado="MIIEaDCCA1CgAwIBAgIUMDAwMDEwMDAwMDAzMDEyNjk3MjQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMTAwMzM3MDhaFw0xNzExMTAwMzM3MDhaMIG0MRswGQYDVQQDExJMSU5FQSBWSUEgU0EgREUgQ1YxGzAZBgNVBCkTEkxJTkVBIFZJQSBTQSBERSBDVjEbMBkGA1UEChMSTElORUEgVklBIFNBIERFIENWMSUwIwYDVQQtExxMVkk5MzA2MjNSTjQgLyBHT1ZDNjMwODI2N0VBMR4wHAYDVQQFExUgLyBHT1ZDNjMwODI2SERGTUxSMDUxFDASBgNVBAsTC0JsdmQuIE5vcnRlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCQMdbfBdEi2LPgN4WHQUOMCbnrnHk4x2AwWnaepk086Ku1opWS1NxeQrx8W3GA/PidsKujE6Djm9qc/Akkfy3QA0ulKM0e+Q/2/Z5ttPfS5rML7pIcqxfGOY/UacI3PQaQMibjxm1x7VT6TGyZ5TO2sUYl7ygOWp0AKxZRwlg9PQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAilubywklaFCdoSQn6G6HNwuR6BLgh/+E6Zg4D96acOFVQR8uwq2HnUPM/ZxCjFL94xnaVt8jEKSWWij8rcsFr9c9u7zHSUnA1IvcjKymoAny6gZBtt+zl1o/lEQJmdSj8O9G401I7kO6RKu6Ht2qUYwfNBRiZ0x6MOdL/GDPT4Pb0BAnQyNrdvdXGKwhcsOWstUF6I1JDI9vXMMrnWq3QzW5338OE9Q13y5iVvu5qCK560BHO1ElGzSQECcO72x0jUqG2kNCaqqDEadSNNuchjYq7PVR9MUJ/Uimvv9YxqDfcZWM5t/v5974D4TDj90sfRMHZpm7OnaOOoVlErFDbg==" subTotal="181.03" TipoCambio="1" Moneda="MXN" total="210.00" tipoDeComprobante="ingreso" metodoDePago="01" LugarExpedicion="PUEBLA, PUEBLA">
+  <cfdi:Emisor rfc="LVI930623RN4" nombre="LINEA VIA S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="BLVD NORTE" noExterior="4222" colonia="LAS CUARTILLAS" localidad="PUEBLA" municipio="PUEBLA" estado="PUEBLA" pais="México" codigoPostal="72050" />
+    <cfdi:ExpedidoEn calle="BLVD. NORTE" noExterior="4222" colonia="LAS CUARTILLAS" municipio="PUEBLA" estado="PUEBLA" pais="MEXICO" codigoPostal="72050" />
+    <cfdi:RegimenFiscal Regimen="Persona Moral del Régimen de los Coordinados" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S. A. DE C. V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="LOS PIRULES" municipio="TLALNEPANTLA" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="SERVICIOS DE VIAJE VIA INTERMEDIO PUEBLA-TEZIUTLAN PUE FOL. 020097402508 ASIENTO. 16 02/03/2017" valorUnitario="181.03" importe="181.03" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="28.97">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="28.97" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="47DC36F9-88D6-4511-BB83-D9846463A5E1" FechaTimbrado="2017-03-03T13:52:28" selloCFD="B5CVlOMMb+NTe/Gq2sGBCFAWZ2oFyUomdhmjMh/zaSC89F6SooxmHWZ+Y1zY1L5FrKyvdGH6WzRxUgvJZKgQe1Fjiovuw/m85OIaNaX48dC4oPc/bqWN2EjNxE8XatCHljVP4/diU5hVaQOZ7U21jMnEd+XpvJVLqDjE+kfKD7k=" noCertificadoSAT="00001000000404598147" selloSAT="kK6eYMx1wzlX0Z4W7JahCIlSBGeNNmDrjKNRJZEEiSHVoQ2QrwP9w5tlSEiYovKjEsc1cjw+ZQN+XH1R+LhqsmbNQABXHWJi9c/hWG/ObMq+j/5LocfP2lnGT2U4lJzqTgwRvgJgRRWuYlUdMrjVFWOAQGqatVu+TT0kl+UwmVSbDBrOELWRGYs5H3SIG9me8e+l/EoJ07rO5QEu365c7gZFCKaBD2e6u7xJGDq8sdurgCeAAh0lE2xbOCoO4onzm/HR5045Jf9FPZFugrUJ3SleGeynka2yMyJMiR0RHCyZtLWuzuJEAOSXGcha/rdbnDucqs22VWiQUiIOQDCSWg==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

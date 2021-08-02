@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="40037" fecha="2016-08-01T08:41:50" sello="kVpCSY1tNPLO7boDWm15fr3LUnSDv/ukVuVGu91DMVEUQwp3Xpmf1hPeB3cB4hWeDuw2AIeR9BDTBQMFDs1ewOH537JSMiZshm5utk3dH5cZRyYqEoMSaVfDfRI2eDXsv3oSBq+FHRj0DK07b++32reWeypFyQanM1iRr9/CMCY=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000301125682" certificado="MIIEczCCA1ugAwIBAgIUMDAwMDEwMDAwMDAzMDExMjU2ODIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEwMjQwMDEyNTVaFw0xNzEwMjQwMDEyNTVaMIG/MSIwIAYDVQQDExlHTE9CQUwgRVFVSVBNRU5UIFNBIERFIENWMSIwIAYDVQQpExlHTE9CQUwgRVFVSVBNRU5UIFNBIERFIENWMSIwIAYDVQQKExlHTE9CQUwgRVFVSVBNRU5UIFNBIERFIENWMSUwIwYDVQQtExxHRVEwNTA5MDdIVUEgLyBTQUdGNzMwNjA0S0Q4MR4wHAYDVQQFExUgLyBTQUdGNzMwNjA0SERGTE5SMDAxCjAIBgNVBAsTAUEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL76nYZGieLEm9OyghPg4h9McNTscD2E8G8sgDMATB+Qzgiu/4vVWXg5bXUDZp/ZAlWL8svqAyEPxGFr9mQ292UUlnR7G6U6wfmG5sHoyytIAnfqaqymR1p7gSNr/dntdL6+w7/pWudUko3K732A0XoyEI+sK1BnXjT+Kclu1PVNAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQB3NXTpi+NB7hQL5CdIj7pftSG0Vk58iTjxDLcQxSNodB8NpCcmuhOxx2s0ceAu+IaMzfIJzRBPswjdVQBjU8PipOEbb3uFiMvx2fNb5tfWoS7u8K3oAcRix3bH/wO0cLcSP4k7JLDA7zKapv2jSPtpR+wDBn0qIuYQQwKZ5F43YMYE65OeLZcF6I3WXKg3okKmvbVaEW5ndUfnnIVD8v+xFRd/GjjJB2dv9ea96IdzQU/1F2aQgVnEP7XHdB/8AlSPf7Lop/I+VWqo2URYsi++aNOIBrt6Vic4KifXgSmjmQ0x6ySPC++a3OUiNEkNyMijQm9BO7gRluY0nHdV928o" condicionesDePago="30 Dias" subTotal="1962" TipoCambio="18.7837" Moneda="USD" total="2275.92" tipoDeComprobante="ingreso" metodoDePago="02" LugarExpedicion="Tepotzotlán, Estado de México" NumCtaPago="6024">
+  <cfdi:Emisor rfc="GEQ050907HUA" nombre="GLOBAL EQUIPMENT, S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="LIBRAMIENTO NORTE" noExterior="5" colonia="TLACATECO" localidad="TEPOTZOTLAN" municipio="TEPOTZOTLAN" estado="ESTADO DE MEXICO" pais="México" codigoPostal="54605" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="Biotecsa, S.A. De C.V.">
+    <cfdi:Domicilio calle="Blvd. Manuel A. Camacho" noExterior="2900 - 804" colonia="Fracc. Los Pirules" localidad="Tlalnepantla de Baz" municipio="Tlalnepantla de Baz" estado="MEX" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="Marca Nissan Modelo MAP1F1A18LV Serie AP1F1-9T1137 Unidad 2575" valorUnitario="981" importe="981" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="Marca Nissan Modelo MAP1F1A18LV Serie AP1F1-9T1129 Unidad 2550" valorUnitario="981" importe="981" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="313.92">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="313.92" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="E1E88B59-4CCD-456F-AD29-19152B5863A2" FechaTimbrado="2016-08-01T08:43:51" selloCFD="kVpCSY1tNPLO7boDWm15fr3LUnSDv/ukVuVGu91DMVEUQwp3Xpmf1hPeB3cB4hWeDuw2AIeR9BDTBQMFDs1ewOH537JSMiZshm5utk3dH5cZRyYqEoMSaVfDfRI2eDXsv3oSBq+FHRj0DK07b++32reWeypFyQanM1iRr9/CMCY=" noCertificadoSAT="00001000000202865018" selloSAT="OGqRfUIBzZZvhHBNwc28rbQyBbTcN8L3rJ1xRmvJX05rGZVW4iIUxKRV/T/1UPlkpn2HO9yxJ64lc6VdmGU8c9UP4q178Wejtv7g3sCxWcNncd6uBnEguLLn9NtC2ACrrR90cIZrbJK9k9pyeQD0paYNQ1wgo8QG4Tfj503zh8Q=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

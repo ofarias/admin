@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" LugarExpedicion="METEPEC, ESTADO DE MEXICO" folio="7697" fecha="2016-09-13T15:18:13" sello="Dy0RfXyWUJlW9Yyzmiyl81Gf7u0ckc5gVhTBdtG5N/Ei98ikehhg3B2ai3x+KW28b3AqIPDY7sil+DZ7zB0PehRylUY50bdzmBV0tcG0YOb85utnWlHyizYbUzVuSbl0cCD5eWo2xUJk1voxp9Uixb3hzw3wgLx++Vvm5gx8Isg=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302147548" certificado="MIIEWjCCA0KgAwIBAgIUMDAwMDEwMDAwMDAzMDIxNDc1NDgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMDExNTE4NDRaFw0xODAxMDExNTE4NDRaMIGmMR4wHAYDVQQDExVTSUxWSUEgUk9TQVJJTyBPQ0FNUE8xHjAcBgNVBCkTFVNJTFZJQSBST1NBUklPIE9DQU1QTzEeMBwGA1UEChMVU0lMVklBIFJPU0FSSU8gT0NBTVBPMRYwFAYDVQQtEw1ST09TODUxMTE3UzUxMRswGQYDVQQFExJST09TODUxMTE3TU1DU0NMMDUxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvDLW9CVGLqSe9/OrCmBr2Zwk7hO/vbCF7yAlD7Rvh9Jqrx/6DbpdMdQDXcO5+XI+C7q255hax+Oy2KvTF/NN0G2dpq0jtI/RDzP1GFaQ3jPlwYncHnUinVe/43pCe6VQIhtoDypzNZeqXJof5JwdOeA25xbmPl22I1yEcuT9PBMCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBANEy0CAN4seB/1QDN1ZsrTHhUafc1AG4BC8mjVH+py9/rIwgZo+uJF1ImEihhZi9ta2shU0WWhM9XoAa8t5Xgv76Os2kInmc1Qo2VCC9UNbqofp1n6y6XR68S217ieKu31goMYD654QkoahPQ4OxIwFnQsmdIaGNUwhXqyXWu5cQkF0D6I75n/N4taGSPVisJbnasNLrEeebzHQj3I5KDt5szLooze9X/zi14d36wasBamIfupRiVKepzMGOSxZVi0yJVhXffpWavNHjU4anDgoQnZIhmky5k2mVPAS5ANGNfRfdAuLP8oJiVshGcUBPEXPozjJfzNF7G8dBh4/jvMw=" subTotal="372.41" total="432" metodoDePago="04" NumCtaPago="3841" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="ROOS851117S51" nombre="SILVIA ROSARIO OCAMPO">
+		<cfdi:DomicilioFiscal calle="AV. TECNOLOGICO" codigoPostal="52172" colonia="FRANCISCO I. MADERO" estado="MEXICO" municipio="METEPEC" noExterior="215" pais="MEXICO"/>
+		<cfdi:ExpedidoEn calle="AV. TECNOLOGICO" codigoPostal="52172" colonia="FRANCISCO I. MADERO" estado="MEXICO" localidad="METEPEC" municipio="METEPEC" noExterior="215" pais="MEXICO"/>
+		<cfdi:RegimenFiscal Regimen="PERSONA FISICA CON ACTIVIDAD EMPRESARIAL"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+		<cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO 2900-804" codigoPostal="54040" colonia="FRACC LOS PIRULES" estado="DE MEXICO" municipio="TLALNEPANTLA" pais="MEXICO"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" descripcion="CONSUMO GENERAL " importe="372.41" unidad="NO APLICA" valorUnitario="372.41"/>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="59.59">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16" importe="59.59"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" UUID="1E4DC0CB-5C77-43EC-AB21-C201624DECBF" FechaTimbrado="2016-09-13T15:18:16" selloCFD="Dy0RfXyWUJlW9Yyzmiyl81Gf7u0ckc5gVhTBdtG5N/Ei98ikehhg3B2ai3x+KW28b3AqIPDY7sil+DZ7zB0PehRylUY50bdzmBV0tcG0YOb85utnWlHyizYbUzVuSbl0cCD5eWo2xUJk1voxp9Uixb3hzw3wgLx++Vvm5gx8Isg=" noCertificadoSAT="00001000000301751173" selloSAT="Wcp62IIcv7bmDIFjHtFrX+Sqx2OACR1kbbOxmM53VIeeTzplcYshXwcR3jRI9lilKpdjjFzDUykkNt0pbilKI5xHx2uvOL/yKpZ7qsn+3wHhnuxQCYIF9HTuJHWrhcOjyXMr0M548cTLYZYNmaenfuHttEC//Z/oxudqyUkOV7U="/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

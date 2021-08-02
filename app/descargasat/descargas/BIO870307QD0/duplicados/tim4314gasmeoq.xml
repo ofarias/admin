@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:aieps="http://www.sat.gob.mx/acreditamiento" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="TIM" folio="4314" fecha="2016-04-27T10:43:30" sello="tfEQSiBE7P0qLsk4/SzybflzD2WynoPe6kg6RymOAexQs9y37rrXjWypUsHf8Xo6CJBIydDBST3uiHHHWh/dFGHfKHon1C0/F6Aj5vxvum7nHrMVxA6ALN1WgUFroq8Cw5H3+uqe/rEo2Iy0I8rz09Got1+FUmohN1qcN1h6uac=" formaDePago="Pago en una sola exhibicion" noCertificado="00001000000300116287" certificado="MIIEaTCCA1GgAwIBAgIUMDAwMDEwMDAwMDAzMDAxMTYyODcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA1MTcxNzI3MjVaFw0xNzA1MTcxNzI3MjVaMIG1MSMwIQYDVQQDExpBTE1BIFJPU0EgUk9EUklHVUVaIEZMT1JFUzEjMCEGA1UEKRMaQUxNQSBST1NBIFJPRFJJR1VFWiBGTE9SRVMxIzAhBgNVBAoTGkFMTUEgUk9TQSBST0RSSUdVRVogRkxPUkVTMRYwFAYDVQQtEw1ST0ZBNzUwNDAzMUM1MRswGQYDVQQFExJST0ZBNzUwNDAzTVNSRExMMDgxDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAv2G3xsVZ6TYYXeY31lMWYx2xlSOq3dSjU/hzptG1jMs8xYt9ohMCmhXODzUWoDO5gDklY5VBjYUHVuuagUmeUpYpfSV+w30JKbBnZ//Oh5HP+QnKQLdk4/8L1nRthSDhAKD+Enfn9hz+S28wDopV+yo9Hp7BXXNwx1EVxtg75W0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAJhNHydE+ep6KY5d+raDPYzU+7EQQk3lXupzilCtN1PxyHVJIorT4A1T0em2DHV8Jp8qkL1UHfpKh52SPuLx944mUHJPinIDbz3T+H0pBPiac5AJWKYAqxidsiiO1C/Xr8/eQUkz9kItOz6KFe1n7J9Xq+H/2CYKGpOhK2A7Ah6PPw95YD/yrOg3TkGfiWdAXHT8BVeIW/yD1KhulFzhZ5yZAqNWXS4wNTcznWXkCBPHSLflcmjcIZ7qedK+N6YV2z5qjnr9p1zd3CloqV2UNlvS/WTQBwyMPuh+/3YXF0Dr+X7E955QbysINC64BGllojESOqe8BUE75gPD5U9VfZE=" TipoCambio="1.0" Moneda="MXP" metodoDePago="Tarjeta" tipoDeComprobante="ingreso" LugarExpedicion="SAUCILLO CHIHUAHUA" NumCtaPago="4363" subTotal="406.94" total="470.00">
+  <cfdi:Emisor rfc="ROFA7504031C5" nombre="ALMA ROSA RODRIGUEZ FLORES">
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES TLALNEPANTLA" municipio="MEXICO" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="35.7140" unidad="LITROS" descripcion="MAGNA 32011" valorUnitario="11.3945" importe="406.94" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="63.0600">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="63.0600" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="tfEQSiBE7P0qLsk4/SzybflzD2WynoPe6kg6RymOAexQs9y37rrXjWypUsHf8Xo6CJBIydDBST3uiHHHWh/dFGHfKHon1C0/F6Aj5vxvum7nHrMVxA6ALN1WgUFroq8Cw5H3+uqe/rEo2Iy0I8rz09Got1+FUmohN1qcN1h6uac=" FechaTimbrado="2016-04-27T11:43:34" UUID="616D6E3F-40F4-4299-9C50-4CD79C0F66DA" noCertificadoSAT="00001000000203220518" version="1.0" selloSAT="HJxeAYmZfWmaGZY7yvUkBMHvoBv1utC+ZQu1p+muPMs4JnOZqPn1wKtZMw+EF0pjNhYpQDC3J6dcGtyKr5bfGiA4MmzTT05Is2Y4E6Np6Nk7di4oo8prg5sanm7gbwrcGi5CrjWLeie0KFr4ATHvqBj1f32xAIWcf0NxQPlQ5nY=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

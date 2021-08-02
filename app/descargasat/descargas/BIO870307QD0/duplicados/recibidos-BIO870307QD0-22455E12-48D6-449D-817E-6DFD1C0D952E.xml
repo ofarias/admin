@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tipoDeComprobante="egreso" metodoDePago="NO IDENTIFICADO" total="7332.36" TipoCambio="1.0000000" Moneda="MXN" LugarExpedicion="Mexico, Estado de Mexico" NumCtaPago="NO IDENTIFICADO" motivoDescuento="AJ" fecha="2015-10-15T18:16:21" sello="l8RXrdbmxvhe6JU52fXSZRO0vMllzY2xx0cwN/Rp4qBDQ+P/wffuLsdTr2mYT8lG00Ga4hyej5hba2FMJgSfJBnLm472LfZ39O+xoQBzMGIyG3dROy2uch0pYmuqcgjbSe/HCq0ZR1EIaXPWccDc73CF8/aX8xbaEeKuib8X72E=" folio="253731" version="3.2" serie="RX" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="6321.00" descuento="0.00" noCertificado="00001000000300796027" certificado="MIIEbDCCA1SgAwIBAgIUMDAwMDEwMDAwMDAzMDA3OTYwMjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA5MDUxNjIwMzRaFw0xNzA5MDUxNjIwMzRaMIG4MR0wGwYDVQQDExRFQ09MQUIgUyBERSBSTCBERSBDVjEdMBsGA1UEKRMURUNPTEFCIFMgREUgUkwgREUgQ1YxHTAbBgNVBAoTFEVDT0xBQiBTIERFIFJMIERFIENWMSUwIwYDVQQtExxFQ084NzAzMjM4QjkgLyBHVU9SNjIxMDE4TEUyMR4wHAYDVQQFExUgLyBHVU9SNjIxMDE4SE5FVFJNMDIxEjAQBgNVBAsTCUN1YXRpdGxhbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvTPKdWxfxz5EMbSFtoykvlgidD3B8rsLknqGpuVU5efoD35TrlQnLKOtD4EKPya8zFh2fW49JXO034fhTVrfI/tguamDLMDv2Zuvcy9OTTou5g4ig294ffmLc0d4dZVVQ14kRsh3SNSyypa0FV3vaMlnmNV5M6mD+AMEWv0H0ucCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBACQyubWyx50M6L6yuy4IKNQozqH17WQRRhAdnxk9faCMH8iqE+8Se6zLgYrOgG5mrteM/+hUahwEZarhZfDntpd2H7gkp4LHzUqOSJmTyEbUnGu4x1OR/zJwLMipBQuv24qCq8q/kBM4rYWnl7X5u9w93UAQ5srmjV/7Y8DJTgZx1YUbU7qszG5GkVhhaLnL0hW2xKfD+XldKAldAOiyrlrW6i6zAgMlsMUs4Zq8SeCeoktQUb46VCI7gfgMkzKDBXD12Ir0kP1Irwup+oiop7rDi2jozcYgKeIsWgPgW5XHKc+wH6O/czoPP2Vw9k80J53FYitYoI0tkVIYiEfXs1c=" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="Ecolab S. de R.L. de C.V." rfc="ECO8703238B9">
+    <cfdi:DomicilioFiscal calle="AVENIDA INDUSTRIALES" noExterior="28" colonia="FRACC. INDUSTRIAL CUAMATLA" referencia="253731" municipio="Cuautitlan Izcalli" estado="Estado de Mexico" pais="Mexico" codigoPostal="54700" />
+    <cfdi:ExpedidoEn calle="AV INDUSTRIALES NO 28" colonia="FRACC INDUSTRIAL CUAMATLA" municipio="CUAUTITLAN IZCALLI" estado="Estado de Mexico" pais="Mexico" codigoPostal="54700" />
+    <cfdi:RegimenFiscal Regimen="General de Ley P. M." />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA, S.A. DE C.V." rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA DE BAZ                MEX" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="VORTEXX GARRAFA 49 KG" valorUnitario="6321.00" importe="6321.00" cantidad="1.00" unidad="PIEZA" noIdentificacion="7090" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="1011.36">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1011.36" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="22455e12-48d6-449d-817e-6dfd1c0d952e" FechaTimbrado="2015-10-15T18:25:57" selloCFD="l8RXrdbmxvhe6JU52fXSZRO0vMllzY2xx0cwN/Rp4qBDQ+P/wffuLsdTr2mYT8lG00Ga4hyej5hba2FMJgSfJBnLm472LfZ39O+xoQBzMGIyG3dROy2uch0pYmuqcgjbSe/HCq0ZR1EIaXPWccDc73CF8/aX8xbaEeKuib8X72E=" noCertificadoSAT="00001000000300171326" selloSAT="CmgbFE4cs/jrG2PoRJ87udojHUkBBk2eXer/FO9fTGIcT473DtVr/80wBzDqYaIvsOvcIRiIqCy1kMb1VW1gSmo82K6n84i/wtImgV9OnsVaed9n9yDsxxYNGx2h8ub5fdpoVmUTkDrlz+/r3EHJxdSdKdQs5bqc5T/rMrVbqVA=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

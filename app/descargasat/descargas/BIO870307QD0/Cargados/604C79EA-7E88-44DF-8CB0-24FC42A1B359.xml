@@ -1,0 +1,21 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="43600" MetodoPago="PUE" TipoDeComprobante="I" Total="370.00" Moneda="MXN" Certificado="MIIE8DCCA9igAwIBAgIUMDAwMDEwMDAwMDAzMDI5ODM0ODcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAyMTgyMTE5MjRaFw0xODAyMTgyMTE5MjRaMIIBOzE7MDkGA1UEAxMyQ09SUE9SQVRJVk8gQ09OR0EgREVMIFZBTExFIERFIFRVTEFOQ0lOR08gU0EgREUgQ1YxOzA5BgNVBCkTMkNPUlBPUkFUSVZPIENPTkdBIERFTCBWQUxMRSBERSBUVUxBTkNJTkdPIFNBIERFIENWMTswOQYDVQQKEzJDT1JQT1JBVElWTyBDT05HQSBERUwgVkFMTEUgREUgVFVMQU5DSU5HTyBTQSBERSBDVjElMCMGA1UELRMcQ0NWMTEwOTA3RVo4IC8gQ09NQzU0MDcyMTRYMzEeMBwGA1UEBRMVIC8gQ09NQzU0MDcyMUhIR05EUjA3MTswOQYDVQQLEzJDT1JQT1JBVElWTyBDT05HQSBERUwgVkFMTEUgREUgVFVMQU5DSU5HTyBTQSBERSBDVjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoV4HHYzNzu7gcdICwztFToHDiMZnIkr8KDPGYQuuVK4Khk7cN3ORB4STe6OJKlfkpul+8s6wO57hUYU/VgjKaBU2AliEpjpg1FFhbzMmcptd6kaLPY8/4u3EJzxcjtMYUYXtsn5gC+Jep+1Z6eEV5yNSfamvwMsvtLweKafhPrcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAMXXjSUure2wqUgs3DxkySd1BCEhjZNSFQc+APRZl5iqq5m+ukyfQ5qPR7SLjcJjHSNbAnRX8enzgQwDEF9h5bCpGrctFXy/wnrnyK0tPZVP/7P95b+paEbL19c71g18nMBjl76xj6kczLQBG9Bf9lzI0kcLiSidW4WOoq2gIh+pj4EePOQQt8VKnYP8YL6YSckczzHYrS48XFjav1RE9wJAKMFsILe7fbII1Bhx7ZpKx5LXrM7YoOZ50TzmyMfrFAUIRGF9W6L6rZ9V8n+Q+Qp7iDQUQgfmL2O1KicgWbTFwj1bl5G6Puq/zJ8nGdJ7n3SV0s8QuBSpnhdhRbcQDwc=" SubTotal="318.97" NoCertificado="00001000000302983487" FormaPago="04" Sello="FPfK5/TnvtBD/YwCN770ccVFogSffqBpydA4+xyXUYnNiZwl2BvcS0Hls6ncutBludH5GkkM6B9SZCGuHi3QxRDbq6PbpoSncmrOrkecboRH9qx2pUCdf23nn+r1IrlMqv00eD8SSUy6TeAdERn7S4X7nkVeLFhaeGqDvdZ2HDs=" Fecha="2017-10-24T15:15:48" Folio="2523" Serie="R" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="CCV110907EZ8" Nombre="CORPORATIVO CONGA DEL VALLE DE TULANCINGO SA DE CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA SA DE CV " UsoCFDI="P01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="90101500" Cantidad="1" ClaveUnidad="H87" Descripcion="CONSUMO DE ALIMENTOS QUE PERTENECE AL DIA 23 DE OCTUBRE DE 2017" ValorUnitario="318.97" Importe="318.97">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="318.97" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="51.03" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="51.03">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="51.03" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="604C79EA-7E88-44DF-8CB0-24FC42A1B359" FechaTimbrado="2017-10-24T15:20:46" RfcProvCertif="SAT970701NN3" SelloCFD="FPfK5/TnvtBD/YwCN770ccVFogSffqBpydA4+xyXUYnNiZwl2BvcS0Hls6ncutBludH5GkkM6B9SZCGuHi3QxRDbq6PbpoSncmrOrkecboRH9qx2pUCdf23nn+r1IrlMqv00eD8SSUy6TeAdERn7S4X7nkVeLFhaeGqDvdZ2HDs=" NoCertificadoSAT="00001000000403258748" SelloSAT="fS+AixhSVtZVKnJrPuRnSkiVBdM64KCvK63Vm/D1syccgWDj+2OjNgyXreM83129rzqGjARMP1aWVPWbI/RmMwTj3ZQnIs9If7VPah1mhVnKIC/00PofAQpuxsnwvIm2nCFUgr4GujrknxdVoOBP/BB3zJQJD849VVhqkvH7E6siPK/bPj64C20Rx1QYNPsorJYVh/4G+jIwILWsezwACWvplQ2PbD8TNUBu2JI8tmRoEQSF39rR2RjiwyNT3MEKVmLrxKhysmSqMgIT9i1roEqbOL5oQYFVBYZv5M/5aDM+6nevQ21LCqquJLElChr23ovxX3Mopt8Po7IfQQAzFQ==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

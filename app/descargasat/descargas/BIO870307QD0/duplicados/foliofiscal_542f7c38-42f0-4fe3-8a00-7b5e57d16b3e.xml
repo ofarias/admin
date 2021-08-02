@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Serie="B" Folio="3913" Fecha="2018-08-13T13:05:19" Sello="O+bvHBmP89Nx/1ighWn/I88JBDEQws/BsKFyJ6egv1HpOJS2weTMvqpEnbYU6on0UqdR++sf2zduvhrRjcjKwGw6f59NB4Dvmy7rpavmUWWUG37q5BY5uOtJftcuT7NJZh5gMUWWK0xYGXX7vjN0ZpdAPYiMkuYu2KtzAA6IvZs=" FormaPago="01" NoCertificado="00001000000305787396" Certificado="MIIEdzCCA1+gAwIBAgIUMDAwMDEwMDAwMDAzMDU3ODczOTYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAxMDcwMjE5MzBaFw0xOTAxMDcwMjE5MzBaMIHDMSMwIQYDVQQDExpDRVJWQU5EQSBZT0xBTkRBIFZFR0EgVkVHQTEjMCEGA1UEKRMaQ0VSVkFOREEgWU9MQU5EQSBWRUdBIFZFR0ExIzAhBgNVBAoTGkNFUlZBTkRBIFlPTEFOREEgVkVHQSBWRUdBMRYwFAYDVQQtEw1WRVZDNTQxMTIzSlBBMRswGQYDVQQFExJWRVZDNTQxMTIzTU1DR0dSMDIxHTAbBgNVBAsTFGxhbWVyY2VkZW5jdWF1dGl0bGFuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZhqRDYaZPMVAyK+hAUg6JzGvfhTE1jW8gmuVldXhff+Uup4cSQ/vChkYzNwY1D32yKVN/ZYX2Ja2RNqG9dplFu8Dq1Gj1TJBFKbBwiw3BPm7QmHBl8Jf48xPM/2EpyDrtW36dp6HDmjeuhbEcNBVAEda9HzFMaVtIRBL/kErSowIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAvt87wcJ7qfuH2XNiNFhRKfGocpXHPdojmRgRG9cSPCc+13MjI4PyaNbIecT/vJZbhNItoxxWBBKo6xZ9+vQqLUDkCwgGi7rxA2kLTcaPPSSMg5ackVngyUW1n2WZEIXhASs46tLlnD+BgBobE0zyC9BBjCybEQ4xcNfDvrbLW6E9crO8LdwqsQndfOgkxtLQbom4sFHGROQeAsW6GnUSUp6Llck09FymuT8Ov2hK7uIiot4UO+hhsI4uN0d+y5eXz4OKuxXxiIGGDZrTssm6JzIY1QrSdZ2lZdbEIXQ+LRwetYzdbzB5TOu/5N/aof8lgvXhk1Hqze0RcUPQu15zjw==" CondicionesDePago="CONTADO" SubTotal="910" Moneda="MXN" Total="1055.60" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="54800" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="VEVC541123JPA" Nombre="Cervanda Yolanda Vega Vega" RegimenFiscal="621" />
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA, S.A. DE C.V." UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="47131600" NoIdentificacion="EMIJ07" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ESCOBA DE MIJO 8 HILOS FRAMA" ValorUnitario="80" Importe="80.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.8" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="47131600" NoIdentificacion="EALT05" Cantidad="7" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ESCOBA DE CARROCERIA IDEAL" ValorUnitario="48" Importe="336.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="336" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="53.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="47131600" NoIdentificacion="EPER13" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ESCOBA NORMAL PERICO P-140" ValorUnitario="30" Importe="30.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.8" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27113000" NoIdentificacion="CEP14" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CEPILLO LECHUGILLA 9 MOTAS ESPECIAL" ValorUnitario="20" Importe="60.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9.6" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="47131501" NoIdentificacion="SJFR01" Cantidad="12" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FRANELA DE 60 X 1M" ValorUnitario="10.5" Importe="126.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="126" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="20.16" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="47131600" NoIdentificacion="MEM14" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MOPS FUNDA DE 60CM." ValorUnitario="30" Importe="30.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.8" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="47131600" NoIdentificacion="MEM10" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MOPS AMERICANO DE 60 CM" ValorUnitario="85" Importe="170.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="170" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.2" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="47131500" NoIdentificacion="EVBA07" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MICROFIBRA 1 X 52" ValorUnitario="39" Importe="78.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="78" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.48" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="145.60">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="145.60" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="542F7C38-42F0-4FE3-8A00-7B5E57D16B3E" FechaTimbrado="2018-08-13T13:05:20" RfcProvCertif="MAS0810247C0" SelloCFD="O+bvHBmP89Nx/1ighWn/I88JBDEQws/BsKFyJ6egv1HpOJS2weTMvqpEnbYU6on0UqdR++sf2zduvhrRjcjKwGw6f59NB4Dvmy7rpavmUWWUG37q5BY5uOtJftcuT7NJZh5gMUWWK0xYGXX7vjN0ZpdAPYiMkuYu2KtzAA6IvZs=" NoCertificadoSAT="00001000000404486074" SelloSAT="HZiIv53q2/mmgNAPOVvjne243Rmm3/J3q245deaKFBQwWwkG6YBDqgH2aoatRRbo5iiE279V60UfLijEYEstdEjVWHzy4MRrb4FO+eR7wVICB9xoohjumTMs3jIcIpQvCwcjPKC1hC7+zRukkOGQ5fgqMN5KiFWzK8lf2/Qm5vNwaeqkY25H6PPENsFUKqC8zMhefmWzw8jCXCSZ4UlL+Ag0xl7tkiR6JWd90hqULkCGLazeTfCFUbR8X3bxI5oNJ4RG5gCEttwTK+4AX12PSO3Vgy7sICWy9CcmhX0ZqsdyNEYaHTH2DgXvwe/+V+3uC3I7QV8v9JCvA6tVh7tulw==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

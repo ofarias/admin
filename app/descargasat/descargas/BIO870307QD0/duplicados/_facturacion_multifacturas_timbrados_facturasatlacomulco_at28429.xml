@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd " Version="3.3" Fecha="2018-02-22T07:51:17" Folio="28429" FormaPago="04" LugarExpedicion="50454" MetodoPago="PUE" Moneda="MXN" Serie="AT" SubTotal="194.83" TipoCambio="1" TipoDeComprobante="I" Total="226.00" Certificado="MIIEwDCCA6igAwIBAgIUMDAwMDEwMDAwMDAzMDMxNzgzNDAwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAzMDQxODE0MjhaFw0xODAzMDQxODE0MjhaMIIBCzEvMC0GA1UEAxMmUFVCTElDSURBRCBZIFBST01PQ0lPTkVTIE1BWlogU0EgREUgQ1YxLzAtBgNVBCkTJlBVQkxJQ0lEQUQgWSBQUk9NT0NJT05FUyBNQVpaIFNBIERFIENWMS8wLQYDVQQKEyZQVUJMSUNJREFEIFkgUFJPTU9DSU9ORVMgTUFaWiBTQSBERSBDVjElMCMGA1UELRMcUFBNMDcwMTA4SzQyIC8gU0VSSTY5MTAwNEJBODEeMBwGA1UEBRMVIC8gU0VSSTY5MTAwNE1NQ0dZUzA0MS8wLQYDVQQLEyZQVUJMSUNJREFEIFkgUFJPTU9DSU9ORVMgTUFaWiBTQSBERSBDVjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA5zmpRClrBJ5XduojdetMfr1BPLVBzcOTQM/wyZP+tx/Zi6Aw1/f0OoiR7L+en3erdCIZeGw7SZ5Wo8i22yy7utn5rod3LoepDvZ7EfOYGhwL2CKnPZK2JVceEbZgpgGHEqxngxmVwAPMQbDOqn7aNo9+QS4g+iTEH7ClxsHAIXcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBANSOtKBz7Yg4o9xe6hhT51y11BrYy/2k7Kc03ePI0A+17u5YsWcX3WVsDehsjl5TRvQ5ZbB/8SQPAljAu2QglXOqp/A6ZvyiDuM3WW66A6l6h3YquPZ9DQ/owS6JrP/XlCl3bSmBy8XAIAyD7ZZj3lrn2udRlRrG9fnFaDs3n4ieBUEzMT2YWch5UGHAatZgOKd3BHoz/2Ni8kx24hx3PZrEKVB0MP4FuzzDx+Rex59UKEtBG8YEg9yGeLZQgyDOph3IlE5+GnZSi8CGXnEAfd+YTR6oLDnY+JVHmrUlEgXlcMLIOtW9SpSdnH/1HioFqo6/SuZNnQotw35K6FkLuNI=" NoCertificado="00001000000303178340" Sello="I8WNeeF7/bMUEATGIvUZiltZVEBoT0k/ECkRbj/Y73cfoFcbJb/DUEAL2ynn57EFTa+VhQcpLiFH6QOefaojtG++3QpTgFzS9SRz8NPDLAu8lZGkPiJIp3L9wjR7yiPvPlkZ7gi0cbrp66pSdfxc79/HNLeEpMCoBo9hYNTxqks=">
+  <cfdi:Emisor Rfc="PPM070108K42" Nombre="PUBLICIDAD Y PROMOCIONES MAZZ S.A DE C.V" RegimenFiscal="601"/>
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA S,A DE C,V" UsoCFDI="G03"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1" Descripcion="CONSUMO DE ALIMENTOS Y BEBIDAS" ValorUnitario="194.83" Importe="194.83" ClaveProdServ="90101501" ClaveUnidad="E48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="194.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="31.17"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="31.17">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TasaOCuota="0.160000" Importe="31.17" TipoFactor="Tasa"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="aae8cf9f-0ef6-43e5-8ed3-61578c3a0979" FechaTimbrado="2018-02-22T07:53:18" RfcProvCertif="LSO1306189R5" SelloCFD="I8WNeeF7/bMUEATGIvUZiltZVEBoT0k/ECkRbj/Y73cfoFcbJb/DUEAL2ynn57EFTa+VhQcpLiFH6QOefaojtG++3QpTgFzS9SRz8NPDLAu8lZGkPiJIp3L9wjR7yiPvPlkZ7gi0cbrp66pSdfxc79/HNLeEpMCoBo9hYNTxqks=" NoCertificadoSAT="00001000000408254801" SelloSAT="IGF4tZ4ZvddMd+sUZ32HSmD8lUPA6NLI3CVJ+GL2Yr3mVqN3X27kpxXQQ7LO+9s2gAb1ivw2L+bssu0Gwxl0o3IFSndHQja6c7g2PjIz9q4KAJrKnmHRX68jS17gvPdaBwOT0xcPD00/1qVJiRqMmyWepQVG2a2iaVq60irwFKafL9PjcK9ti0ebTjvJw/0bi/OimtgwNpdeuvYFOI3rxf2KDLBDiWs3uBinxGWN3tZGa4DEkGxDTHqrUVJEWbk4vbpIByi4m2AonQDzuUrsKcZt/TqLWt0SuWq+sWY1to+C60cJ1e+myLT4ImC4+1NVqxPS4iwYamB9AJV64zxBxA=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

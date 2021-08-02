@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><cfdi:Comprobante Certificado="MIIEjTCCA3WgAwIBAgIUMDAwMDEwMDAwMDAzMDQ4ODU5MTIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA4MTMxNDIwMThaFw0xODA4MTMxNDIwMThaMIHZMSkwJwYDVQQDEyBBVVRPWk9ORSBERSBNRVhJQ08gUyBERSBSTCBERSBDVjEpMCcGA1UEKRMgQVVUT1pPTkUgREUgTUVYSUNPIFMgREUgUkwgREUgQ1YxKTAnBgNVBAoTIEFVVE9aT05FIERFIE1FWElDTyBTIERFIFJMIERFIENWMSUwIwYDVQQtExxBTUU5NzAxMDlHVzAgLyBXRVNQNjkxMDA1VVE5MR4wHAYDVQQFExUgLyBXRVNQNjkxMDA1SE5FQlBUMDYxDzANBgNVBAsTBk5PTUlOQTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA18W/UO8x/efhSXqWPLAr+MqPH8w/GcwP13Ac+dMzaTX/Cdbp9NJiFiJcrh+lH7IPgfokEfX3HgtzopXdy02LQ0RS0stL6EYfRRIR0hlz0EQHzHvWjMc0ix6Q+PBckFPQl5nqeEWGnmjkKwo2hO/8EOo0Yk0NUYpDrhlHGhhaB7cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAHR1GPpI1IMtNAfJibj5XxyXRjN034A4yBv411BIktttE/4APCkBb6iUnz70+qi0X8axfbaV7ura/TgLwowJ7jfKFxt5leW05SyLCJ8MsRu7ofvJCD9dchMsDGiWoqwVPE4Dp0ZIOHZTKL7jyuUeKmkrvaQ9JlY7kVLj4Tb/0PrWzMEE4uE0ZetpocOJ+5nF7ns0UPAxmcZeJey0gl4NuzGqjmVI2mz3Mw1s9J4md3gqLjLxHbMHvLpJ9F6B8O1LLL7+YkObNKmNZxstagaSx1ddjFOReJZ7FJJLpoj219clyZf8JVLlLs56A1aa1x/ypaMDOZlbSp7pcojvBBc8dWw=" Fecha="2018-02-09T12:18:20" Folio="488441" FormaPago="01" LugarExpedicion="54059" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000304885912" Sello="Sw9VP13KzQTdpKIL5C3E1cE6rFOO38kn3BywCAGWFYWBVGFgqQgXoJc9YuYC0VcOi63WPOplxVo8o/86GXn1f0Y1lE+ko7TErDD2SmAjX2rkXXuzdSfbGmRTllpM8DTVI67Cn3+oaF70a0kp0M9+jdIAWiA/lOoDWelmZxk9Mb4=" Serie="7218" SubTotal="129.14" TipoDeComprobante="I" Total="149.80" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:dvz="http://www.diverza.com/ns/addenda/diverza/1" xmlns:fm="http://facturame.mx/ns/addenda/1" xmlns:pago10="http://www.sat.gob.mx/Pagos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Nombre="AUTOZONE DE MEXICO S DE RL DE CV" RegimenFiscal="601" Rfc="AME970109GW0" />
+  <cfdi:Receptor Nombre="BIOTECSA SA DE CV" Rfc="BIO870307QD0" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1.000000" ClaveProdServ="27112700" ClaveUnidad="H87" Descripcion="880106   Extensiones" Importe="68.88" NoIdentificacion="763861" ValorUnitario="68.880000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="68.880000" Importe="11.02" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.000000" ClaveProdServ="27112700" ClaveUnidad="H87" Descripcion="880068 ADAPTADOR PARA DA" Importe="60.26" NoIdentificacion="763828" ValorUnitario="60.260000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="60.260000" Importe="9.64" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="20.66">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="20.66" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+      </cfdi:Traslados>
+    </cfdi:Impuestos>
+  <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="072d3cc4-71db-4f9a-998e-d7896721bc0e" RfcProvCertif="DIA031002LZ2" FechaTimbrado="2018-02-09T12:18:20" SelloCFD="Sw9VP13KzQTdpKIL5C3E1cE6rFOO38kn3BywCAGWFYWBVGFgqQgXoJc9YuYC0VcOi63WPOplxVo8o/86GXn1f0Y1lE+ko7TErDD2SmAjX2rkXXuzdSfbGmRTllpM8DTVI67Cn3+oaF70a0kp0M9+jdIAWiA/lOoDWelmZxk9Mb4=" NoCertificadoSAT="00001000000404614920" SelloSAT="n+CFoRJDBZW9GQPkR0f8xB6Qgv1ydKkd7Zu++JDd30JC6snHQOoIDKziN/3H1+X6sQUJdGEfjdjdfTc2tO4sZ0+HxluvU5z0mgwWljL4I0Nil5lKFqdYHT4jeBMeMnPtK5Mgt5yGAzmtqrKniEutoDIuArPfzgLh151qojcEeV+mJQ2eEJdIXh7gBgO27GGs+shF4FjzYYnI+vaey+PiyDC1fzfS/LPTbY98BNQQOHyqmR9fEJlIn88fZKTAD9kKKfsOQMm17UXwe5tT2xnhXoVeMeyOGUBVMEq8Itx63v8op2bN5QpTydue1dyAV0iMvX2/CaVXStaloAH1YbF1CQ==" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

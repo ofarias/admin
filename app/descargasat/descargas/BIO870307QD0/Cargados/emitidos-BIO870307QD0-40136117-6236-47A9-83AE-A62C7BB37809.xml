@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="C" folio="6110" fecha="2015-02-12T11:17:39" sello="C0/rry/RFaHHEV0r9Eq0lkSPHV3bp2ZqeqZZQdOWuALJVrbWQOZg6Nod11gwY9+Q6saPbYBLpmAfCtIpPogwUNNUEKRkAOlUdumAAJSVvp1Mu4++XO8X3s4uvtZBXZnQYg+N/eilatlP4lNeyOCryU8w5v9w5ydBVeq5xrElgf8=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302720035" certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDI3MjAwMzUwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMzAwMDI3MDFaFw0xODAxMzAwMDI3MDFaMIGvMRowGAYDVQQDExFCSU9URUNTQSBTQSBERSBDVjEaMBgGA1UEKRMRQklPVEVDU0EgU0EgREUgQ1YxGjAYBgNVBAoTEUJJT1RFQ1NBIFNBIERFIENWMSUwIwYDVQQtExxCSU84NzAzMDdRRDAgLyBUT1RINDcwMjE4S1VBMR4wHAYDVQQFExUgLyBUT1RINDcwMjE4SFBMUU5SMDQxEjAQBgNVBAsTCU5BVUNBTFBBTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsUszcA8TpHXYu+mcxASzNkHQQExYxMMA7F0PW3KBXSClmgnMBBW1+daQc9O4B8E52wKuywoMenB4XWRS1xrmoB+4fopfmAROBlAiYFeMer3qyINKJVRnmtxxPrUDSAy+t5ny4QaJ4Dif10qAKyiXRdqpeGZIE7mABYsq7kH53r8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAGfHDUdg2yMEES1la9Y1GMghrmteTcoAQJZyutYI88NtAkAsTGb1q6VV+Cy6b8Mt8xx8wdvY61oxvTQsUFKPyqgUkI+0uuKJk8KyYmfU79c9w02tvUhUSsJZ4FKZgzWGVG7rXTwCLLcSYLRon0Z2PQiMXYvcBbATopfvAE4Fhlofc+6WjPjazIB5t2z4mb8EeQvOvr1qE8m8JBmT2haz+OwlXIQ3twJy7G6mdACy/y41QyeJmhNYWOWfR4paftwgrTa3UYCn126jmjJG8+qh8tg2HcxRQn4bPFSfK0MZ6u5LoubjVQlDKoapCHFfuJ8fbPM6bJhkRmYai7EkQmfsuv4=" subTotal="7100.0000" TipoCambio="14.930900" Moneda="Dólares" total="8236.0000" tipoDeComprobante="ingreso" metodoDePago="PAGO VIA TRANSFERENCIA DE FONDOS" LugarExpedicion="Tlanepantla, Estado de Mexico" NumCtaPago="3616">
+  <cfdi:Emisor rfc="BIO870307QD0" nombre="BIOTECSA S.A DE C.V.">
+    <cfdi:DomicilioFiscal calle="M AVILA CAMACHO" noExterior="2900" noInterior="804" municipio="Tlanepantla" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:ExpedidoEn calle="Manuel Avila Camacho" noExterior="2900" noInterior="804" pais="Mexico" />
+    <cfdi:RegimenFiscal Regimen="Regimen General de Ley Persona Moral" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="HMJ920106HA5" nombre="HARINERA DE MAIZ DE JALISCO SA DE CV">
+    <cfdi:Domicilio calle="AV ACUEDUCTO CHAPALA GUADALAJARA KM 39.2" colonia="EJIDO TOLUQUILLA" municipio="TLAJOMULCO DE ZUÑIGA" pais="MEXICO" codigoPostal="45640" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="300.0000" unidad="KG" descripcion="BIOZYME GMA PLUS" valorUnitario="3.5500" importe="1065.0000" />
+    <cfdi:Concepto cantidad="1700.0000" unidad="KG" descripcion="BIOZYME GMA PLUS" valorUnitario="3.5500" importe="6035.0000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="1136.0000">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IEPS" tasa="0.0000" importe="0.0000" />
+      <cfdi:Traslado impuesto="IVA" tasa="0.0000" importe="0.0000" />
+      <cfdi:Traslado impuesto="IVA" tasa="16.0000" importe="1136.0000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="40136117-6236-47A9-83AE-A62C7BB37809" FechaTimbrado="2015-02-12T11:17:41" noCertificadoSAT="00001000000301160463" selloCFD="C0/rry/RFaHHEV0r9Eq0lkSPHV3bp2ZqeqZZQdOWuALJVrbWQOZg6Nod11gwY9+Q6saPbYBLpmAfCtIpPogwUNNUEKRkAOlUdumAAJSVvp1Mu4++XO8X3s4uvtZBXZnQYg+N/eilatlP4lNeyOCryU8w5v9w5ydBVeq5xrElgf8=" selloSAT="VshnJr69XoDNUrIxIN7yhgGKmO9ojL+FeoEMcriLLOOeA9eKuCkF5Vjgb9ziIZV56GF2n0KQn5xpxxRM2hbthgtDnXvGNuWWNGeShPst99F5QpNYNKnGU3+1wMxZhLOlt+dylXkonz2U5i6ImzJXWmPycY5kmD6tgUHl7ekunPI=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

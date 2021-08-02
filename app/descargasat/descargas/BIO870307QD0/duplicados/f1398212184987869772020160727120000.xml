@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/aerolineas http://www.sat.gob.mx/sitio_internet/cfd/aerolineas/aerolineas.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:aerolineas="http://www.sat.gob.mx/aerolineas" version="3.2" serie="F" folio="1398212184987" fecha="2016-08-01T15:02:58" sello="S30Tz4wdhMuqDQ7J4uLhYkgCnlYwowUPeTrZp2Whw2UE4tVGLisZOmKRbyAB61jXjHfGJcmChHGF+hFdzrZ+lGtv5MCKvDoLKp37O7LrSJDWkmCKueVpB5HanWOU7tSy580MsQLx5vLkCkjaHh92h9DLNEZwC6SFNwWrUKCmh4g=" formaDePago="Pago en una sola Exhibicion" noCertificado="00001000000300243643" certificado="MIIEfzCCA2egAwIBAgIUMDAwMDEwMDAwMDAzMDAyNDM2NDMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA2MDQyMDU5MDdaFw0xNzA2MDQyMDU5MDdaMIHLMSQwIgYDVQQDExtBRVJPVklBUyBERSBNRVhJQ08gU0EgREUgQ1YxJDAiBgNVBCkTG0FFUk9WSUFTIERFIE1FWElDTyBTQSBERSBDVjEkMCIGA1UEChMbQUVST1ZJQVMgREUgTUVYSUNPIFNBIERFIENWMSUwIwYDVQQtExxBTUU4ODA5MTJJODkgLyBIRVBTNjAxMTI0NjYxMR4wHAYDVQQFExUgLyBIRVBTNjAxMTI0SERGUlhMMDYxEDAOBgNVBAsTB1JFRk9STUEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMeBKFkR0z98i7/GQxlSbWqmw78EEvwgiG+8Xs6PSL20HmpfWEzMmB/cOlWA3vNqq0EY4BrGSWSBGBteq/khOPz6//xgwz4nINhSdGaI7zGou6rLhWRFr7OgyrRKjl1jeJgFUA0MDxSCZWktBXK30Cg8fLp2dlDlHSG5sjc0hD6VAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQAGuRNol+lUJp0tTPxafYsbmJKqRARV3gsHE6OdEv5OX5qnFTYsM+E0QEUiNwFtrFt3kDm353pGyjto1z2FJX6Q4EctkMJLwg7YpvAXlpzkQGLKjO9YfGeM8Jx9l20lvSuBMfwh2JmaKSoSKZGHMAgEMKLb/r8/I5BNp+9ETLZlnTiAeRT5jFTCgL2ocjvNoTCX7hXWnEV1TYiiW9v96ccM/Gc2TWK6pnAR8feoFKennScmHqRl+iRJtHAqjOZ3oRZFVlbFBJ/nqpqVfohz1OolWJ1OMd/tHf7mEmW4WdAYe4MGVVqbSuPTl6KbwiqF5Yl65FvObZPByTTMaRlVuAOn" subTotal="112.0000" TipoCambio="1.0000" Moneda="MXN" total="130.0000" tipoDeComprobante="ingreso" metodoDePago="04" LugarExpedicion="Mexico DF" NumCtaPago="***********2008">
+  <cfdi:Emisor rfc="AME880912I89" nombre="AEROVIAS DE MEXICO SA DE CV">
+    <cfdi:DomicilioFiscal calle="Paseo de la Reforma" noExterior="445" noInterior="A y B" colonia="Cuauhtemoc" municipio="Cuauhtemoc" estado="D.F." pais="Mexico" codigoPostal="06500" />
+    <cfdi:RegimenFiscal Regimen="General de Ley P. M." />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.0000" unidad="NA" noIdentificacion="1398212184987" descripcion="SVD" valorUnitario="112.0000" importe="112.0000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="18.0000">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.0000" importe="18.0000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <aerolineas:Aerolineas Version="1.0" TUA="0.0000">
+      <aerolineas:OtrosCargos TotalCargos="112.0000">
+        <aerolineas:Cargo CodigoCargo="SVD" Importe="112.00" />
+      </aerolineas:OtrosCargos>
+    </aerolineas:Aerolineas>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="2ea1c3a3-f4ea-44bc-ab55-1805e6adfab4" FechaTimbrado="2016-08-01T15:03:57" selloCFD="S30Tz4wdhMuqDQ7J4uLhYkgCnlYwowUPeTrZp2Whw2UE4tVGLisZOmKRbyAB61jXjHfGJcmChHGF+hFdzrZ+lGtv5MCKvDoLKp37O7LrSJDWkmCKueVpB5HanWOU7tSy580MsQLx5vLkCkjaHh92h9DLNEZwC6SFNwWrUKCmh4g=" noCertificadoSAT="00001000000300171326" selloSAT="V2SiGOnCigNChvECm70imZTsoUs51ew2hJCGHgD21A8n6674AxusCPDjXtslZxG6w2hNRIAiI/xrM0pLmYu3EVMX6o+zgmEYguyhVCu0FYeWyf7khfWF3QKvkKQ9+5pJTqw5n4eNmJW8EnWWwtgSGjYBkxpvfJm8G5/ASVpx7HQ=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

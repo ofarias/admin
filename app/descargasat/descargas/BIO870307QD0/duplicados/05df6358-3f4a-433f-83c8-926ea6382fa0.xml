@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="005001" fecha="2014-10-21T09:44:09" sello="MIJpyU9GFCod17krm0pBALKGUfUwXH3zP9MdDHRwxWUxouhGWG362z5scSdytUEV1KKhK5D6rSoKlgRPZZEexgx69UyxMabDEZIcSnRxFD9nPEAUURA4HvKgns5GGHZabZui7OFVUaThyPhWltcYVfWcuFXeAvA9oAwgmZWh7/E=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000201727288" certificado="MIIEZTCCA02gAwIBAgIUMDAwMDEwMDAwMDAyMDE3MjcyODgwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDgwOTIxMTY0OVoXDTE2MDgwOTIxMTY0OVowgaYxGDAWBgNVBAMTD05FWElSQSBTQSBERSBDVjEYMBYGA1UEKRMPTkVYSVJBIFNBIERFIENWMRgwFgYDVQQKEw9ORVhJUkEgU0EgREUgQ1YxJTAjBgNVBC0THENOTTk1MTIwOFQ5OCAvIEdBSE82OTA2MTBVQjkxHjAcBgNVBAUTFSAvIEdBSE82OTA2MTBIREZSUlMwMjEPMA0GA1UECxMGVU5JREFEMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHLgi/O/nryDt35ct6LotIYtFfiIPamxxgUnh0EskXLi6ErtUcLVUSHQ3SMBnyIZDYYVRchSs5Twh+1gjhhdjfFPNhq4ZRxduXvoI/4vqfeW4UhyYLBCYppFjkO+GvTWMMICHb8BkYfe4Uc6X9cmR9LwoHZf78FRDXfEGd+MuyOwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAjoYFry4K+YhEsvxgFG3LBw+PmKL+OZR3NkZgkj2JHTP5dKV0tJ3xPQ4SJiT2Ekt7IBthkiUFGHAqK1+ZawxieQpwijf9T7K8sJLidimck9ajPIRyNlBRK8brGOPU70EJVl9O9GrCe65UodDN1fe2R2FSbj8JymoZ0X+wYk2PO8E3cxuJ5XF88wMm7PX+ZQ53TXarFedVg3X7b4bSGdTATANA4wdXQwjHfNpCWXiqzvSoT4zvdtrLcekDeEERlA1gU5x82kYRlf0a5wpCRdOrJaTdYggugyjqUlKuPJ8EJRson64XDfUh/C4DR9C9PKEkXNbh8hIDPY+LQFt+PUS6xA==" subTotal="7030.00" TipoCambio="13.5357" Moneda="Dolar" total="8154.80" tipoDeComprobante="ingreso" metodoDePago="NO APLICA" LugarExpedicion="MEXICO, D.F.">
+  <cfdi:Emisor rfc="CNM951208T98" nombre="NEXIRA, S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="Ricardo Castro" noExterior="54" noInterior="Desp.301" colonia="Guadalupe Inn" localidad="México" municipio="Álvaro Obregón" estado="Distrito Federal" pais="México" codigoPostal="01020" />
+    <cfdi:RegimenFiscal Regimen="PERSONAS MORALES REGIMEN GENERAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="DESP. 804" colonia="FRACC. LOS PIRULES." localidad="TLALNEPANTLA" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1900.000" unidad="KGS" descripcion="INSTANTGUM BB PEDIMENTO 144313334001565 LOTE 4S 4912 ENTRADA 14-10-2014" valorUnitario="3.70" importe="7030.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="1124.80">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1124.80" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="05DF6358-3F4A-433F-83C8-926EA6382FA0" FechaTimbrado="2014-10-21T09:44:35" selloCFD="MIJpyU9GFCod17krm0pBALKGUfUwXH3zP9MdDHRwxWUxouhGWG362z5scSdytUEV1KKhK5D6rSoKlgRPZZEexgx69UyxMabDEZIcSnRxFD9nPEAUURA4HvKgns5GGHZabZui7OFVUaThyPhWltcYVfWcuFXeAvA9oAwgmZWh7/E=" noCertificadoSAT="00001000000203159375" selloSAT="J8JIZpN7AFXg8GyUD6v9W1K2AF1IJAUPvaat/dxiCsqop8e0WIogLAMwNDRWPN9dIQrjO6kqtXbrP8ZN55FMupk2YWwIU7bqsyjr52pFweY9I52vQm2DrvChLWLHkN9dbztxWXvgblGLKVdyhzK+dMGiik3j7i2HY3HBiQsHg0A=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

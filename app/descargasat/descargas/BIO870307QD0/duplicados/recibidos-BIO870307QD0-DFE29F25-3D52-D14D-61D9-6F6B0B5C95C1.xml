@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " serie="A" folio="12896" fecha="2015-02-05T14:04:26" sello="JsjJBjS9ueH/U4HabCQPywPikMFfvKF2VGs23jl2tfn7szfCYGcoqfIcDOU+0kydGRSZbjy7+suHsGSjOZ4qnp5CzxZSWTnr9ZcWoiU76bPB1N8PBQ+Y4QOn/c1Xad8kx4KT1/QLmVZx9mILomUtViXZQ9pBG/uqLgJNz8d2MHs=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000301156116" certificado="MIIEXTCCA0WgAwIBAgIUMDAwMDEwMDAwMDAzMDExNTYxMTYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEwMjgxOTM5MTFaFw0xNzEwMjgxOTM5MTFaMIGpMRkwFwYDVQQDExBTRUVTQ0FNIFNBIERFIENWMRkwFwYDVQQpExBTRUVTQ0FNIFNBIERFIENWMRkwFwYDVQQKExBTRUVTQ0FNIFNBIERFIENWMSUwIwYDVQQtExxTRUUxMDA0MTRNUzggLyBBQUNNNzEwNDI5SVE3MR4wHAYDVQQFExUgLyBBQUNNNzEwNDI5SERGTFNSMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAlEnsh8g3ZunzJsIv5WhQ/HqHh5BlMfJBhFwYj7JFsaSkSL79ox0VVc9z24qg47RA3npzmWvDszFer4DmmvUTdpbzqThKEPmQeucxw/LMRUTSuY+4sQx+iaQoo4GFLI/YMwwkPokQCIflOn1nWLz9Ee0rWPJnyJB4faK79pC2cykCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAADJyEKCUtdhm8Gt3l8Vn0J940cO+aHXxDxkB3KcyDdSdkWJL4fSFriCgqqlMjH5gWd3GUgQ44tV4Rk7rkSyM/j/HSN7L6tFfmGcR3vW4i4UwtJeyvf+Z94TDuLUqj+55cmKQXg3/GvxXlJ03ATJM6rNpGK35BWeET3e/EOPU/AqeWLf12O0wPxDQp3YmhwoJ9xDJ3taBh09Vetd8FuDYuqrwXspjx+G34oldajnvyTBpDoJdCfxsfJlEMGcx6HSw2CTFfeW32TA3hMgbzwndeJh4ksmScEsJwAQ6P7qS/GGEzldRK/W5iMtkCtZIrbKhjCPAJ2XQG2GSBpDbkD+9og=" subTotal="1197.000000" Moneda="MXP" total="1388.520000" metodoDePago="no aplica" tipoDeComprobante="ingreso" LugarExpedicion="Distrito Federal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="SEE100414MS8" nombre="SEESCAM SA DE CV">
+		<cfdi:DomicilioFiscal calle="Jose Antonio Torres" noExterior="826" noInterior="Piso 2 Int 9" colonia="Viaducto Piedad" localidad="MEXICO" municipio="Iztacalco" estado="Distrito Federal" pais="MEXICO" codigoPostal="08200" />
+		<cfdi:RegimenFiscal Regimen="PERSONAS MORALES REGIMEN GENERAL DE LEY" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+		<cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACCIONAMIENTO LOS PIRULES" localidad="TLALNEPANTLA DE BAZ" municipio="TLALNEPANTLA" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="Servicio" descripcion="SERVICIO DE MONTACARGAS PED.- 1619-5000662 2394 KG." valorUnitario="1197.000000" importe="1197.000000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="191.520000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="191.520000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2015-02-05T14:04:26" UUID="DFE29F25-3D52-D14D-61D9-6F6B0B5C95C1" noCertificadoSAT="00001000000203392777" selloCFD="JsjJBjS9ueH/U4HabCQPywPikMFfvKF2VGs23jl2tfn7szfCYGcoqfIcDOU+0kydGRSZbjy7+suHsGSjOZ4qnp5CzxZSWTnr9ZcWoiU76bPB1N8PBQ+Y4QOn/c1Xad8kx4KT1/QLmVZx9mILomUtViXZQ9pBG/uqLgJNz8d2MHs=" selloSAT="UbFfhI39jOdZ1NFZBIRbL/MDK5obhX40lnEXTezNjNfEAR9MvUXq2vzZCHHl0xVAZHlYDEuruVXxhCYt0TYPPRXCBIyI4xlU9VUv8nsLqoj4Wd2s9LRtRJz6nqUrrb4WlGAD6lQ8ua1ADVIrhcqe7bxLGfwT0c8kmGsN2cLHIxM=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" subTotal="516.38" total="599" Moneda="MXN" condicionesDePago="CONTADO" noCertificado="00001000000302187554" certificado="MIIEjDCCA3SgAwIBAgIUMDAwMDEwMDAwMDAzMDIxODc1NTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMDMxNjIyMDRaFw0xODAxMDMxNjIyMDRaMIHYMSkwJwYDVQQDEyBSRVNUQVVSQU5UIEJBUiBURU5FUklBUyBTQSBERSBDVjEpMCcGA1UEKRMgUkVTVEFVUkFOVCBCQVIgVEVORVJJQVMgU0EgREUgQ1YxKTAnBgNVBAoTIFJFU1RBVVJBTlQgQkFSIFRFTkVSSUFTIFNBIERFIENWMSUwIwYDVQQtExxSQlQwNTA1MTg3UUEgLyBBRU1INTcxMTExRDc1MR4wHAYDVQQFExUgLyBBRU1INTcxMTExSE5MUlJDMDExDjAMBgNVBAsTBVVOSUNPMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDtm9DXG1UX+eaG59tXfWyRfep0LFEFTYLrZAUIh2Auc4+GbbR0w1KkKKMJQtsrGPaxeIs9FKLlJTYFJXVvplRYDU5lPu6obNecTkezK0L+qR7dnFVrOefSyDw6RrOvjBwachpzX/RzcUmepVcdpqrGCZOYMbsueaGToxGNJpQ7bwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAz2NOU/HobPJn7K8lCuvZHX+GctIqdalcP65hziV/6uywpfbV3NKzM8mhDcx8UMsiCeIYiEYsht+XzjawEOV+ljI4+PxvlDQg1rh9zzZ0RTe+iJt/vUUZU72gPfyl8LveHPTwlFraxUUnX5aIm3yKa95anndDU5YDkOR//Q6dM3xfd1j4WeOoUiVPWWKB15RctQjEtsQ4CukzY1fYnwDYw6XyiWSBb/Mg6ocJ4/c77bhXJbCpymsAlijRuvVqF5AuxaVCg8wziGlGlV8QN1KYwLJFuhpfEockpBHUe7JXvhL+Lq21kIkTlECd9eiHm0MRWhNA3wzAgwKzqXQHyPOzDg==" metodoDePago="American Express, Efectivo" LugarExpedicion="MONTERREY NUEVO LEON" fecha="2015-12-12T14:24:52" tipoDeComprobante="ingreso" formaDePago="Pago en una sola exhibición" sello="V+GkguE52IIr25gRAG8Zd/Kw5Ts34XMmJvID8LlCWcag9LqRhVPDiWIvSR3ibxCbdDbt3hSsqan7YwpyN33HmBKIAoMxJTicr9lXlPUMmhMrFb2NKxWT/A1jYYBjh8Ius7ioIkX1EgKj7YRYHhxAQuuRUVHtHHDojmmIpIr3MLU=" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor rfc="RBT0505187QA" nombre="RESTAURANT BAR TENERIAS SA DE CV">
+    <cfdi:DomicilioFiscal calle="PASEO SANTA LUCIA" noExterior="SN LOC 4" colonia="CENTRO" localidad="MONTERREY" municipio="MONTERREY" estado="NUEVO LEÓN" pais="MEXICO" codigoPostal="64000" />
+    <cfdi:RegimenFiscal Regimen="RÉGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="LOS PIRULES" localidad="TLANEPANTLA" municipio="TLANEPANTLA" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" descripcion="CONSUMO DE ALIMENTOS" valorUnitario="516.38" importe="516.38" unidad="NO APLICA" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="82.62">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="82.62" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="AE51986F-7236-4166-B6E5-9335AA7A5435" FechaTimbrado="2015-12-12T14:39:58" selloCFD="V+GkguE52IIr25gRAG8Zd/Kw5Ts34XMmJvID8LlCWcag9LqRhVPDiWIvSR3ibxCbdDbt3hSsqan7YwpyN33HmBKIAoMxJTicr9lXlPUMmhMrFb2NKxWT/A1jYYBjh8Ius7ioIkX1EgKj7YRYHhxAQuuRUVHtHHDojmmIpIr3MLU=" noCertificadoSAT="00001000000202865018" selloSAT="PRFWwgHvHNay3fr8z5+umyUr8AA2LVRRounM7OWmdhOWwp2dPFFzYAdvrN79IJJrZy3xHx8lZx+TE9eZGrUbih8WF3xDyf8ObYIbZq10SXOaDO9Rdx2VFUEeSvy2+ys0hlsgln8QmRHNKtb+vCJ14Zgyic6CT2uOlN9+q3bp/Bk=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

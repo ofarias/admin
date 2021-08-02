@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="AP" folio="263752" fecha="2016-01-14T10:21:51" sello="SXM7LJt6zmZauENWYamo6gDU6xxIZfgUgQmQ8aR8OS2ESnyo62grQI1+B4CVXTL6+jYAsl3Bs9OERiEPkK5HOxDw4sxKBWDBLQdFVpOvpSzOOcABQk5OqRXE2OHNI5DFKkBujQUABYV2Chgu3oMr9DrdccKHFAzmafdBkf0zU84=" formaDePago="PAGO EN UNA SOLA EXHIBICIÓN" noCertificado="00001000000301268572" certificado="MIIEczCCA1ugAwIBAgIUMDAwMDEwMDAwMDAzMDEyNjg1NzIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMDkwMDI5NTVaFw0xNzExMDkwMDI5NTVaMIG/MR8wHQYDVQQDExZBVVRPUyBQVUxMTUFOIFNBIERFIENWMR8wHQYDVQQpExZBVVRPUyBQVUxMTUFOIFNBIERFIENWMR8wHQYDVQQKExZBVVRPUyBQVUxMTUFOIFNBIERFIENWMSUwIwYDVQQtExxBUFU2NDA5MzBLVjkgLyBNT0dGNTMwNDA3MlI1MR4wHAYDVQQFExUgLyBNT0dGNTMwNDA3SERGTlRSMDYxEzARBgNVBAsTCkFydGlsbGVyb3MwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALjh62ejoODclmd+YX9B5LQErnrWyiU75HivHy7ONX87mzvZQIdinmNSEXAEmtJKLMlQwStUM1vqu0S0iZhO0niKv4cWH4wHJvPzxBEw8fxrVmwrKf3V51OdY4tG+GhaV+T/TBfq1aaEMF6sCAU+NMa4Go8VKrqoSMu8kONH8RIjAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQBugDT7Ss4x63Gv1GkUb7C41/Vtrx92G6B/L2k9vYr/RwB5SXiz7I8SAZqkSBcwLi+5hY8EIJ5cSaUJcFDxN99NmQHfFJul0rY6PnKf3vQ/NGZXSH3PiQ74BuVsM7xj/GK8mceUuUKrsoUlFEavu5ClEt0DLfJsXJjSK7M8DTfLZvgeJczGXhvp66eBpbONfQ5l0GUt5IeSUaUY+NmyJ/4uhKEsazF1X25tl9TP1tcH2wzjDT68IFPnFjhECrKb55GkDOL3pd8djhHC+bGGi7mTQIirGEnvZf2Zg2kOJ+boJjQqm+qon33l19ZePWSeVs7GGl653ejIjBIU1jjKD2Mk" subTotal="272.40" TipoCambio="1" Moneda="MXN" total="316.00" tipoDeComprobante="ingreso" metodoDePago="EFECTIVO" LugarExpedicion="VENUSTIANO CARRANZA, DISTRITO FEDERAL">
+  <cfdi:Emisor rfc="APU640930KV9" nombre="AUTOS PULLMAN S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="ARTILLEROS" noExterior="123" colonia="7 DE JULIO" localidad="MEXICO" municipio="VENUSTIANO CARRANZA" estado="DISTRITO FEDERAL" pais="MÉXICO" codigoPostal="15390" />
+    <cfdi:ExpedidoEn calle="ARTILLEROS" noExterior="123" colonia="SIETE DE JULIO" municipio="VENUSTIANO CARRANZA" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="15390" />
+    <cfdi:RegimenFiscal Regimen="Persona Moral del Régimen de los Coordinados" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S. A. DE C. V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="LOS PIRULES" municipio="TLALNEPANTLA" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="SERVICIOS DE VIAJE ADO TEHUACAN-PUEBLA FOL. 020084514589 ASIENTO. 20 13/01/2016" valorUnitario="120.68" importe="120.68" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="SERVICIOS DE VIAJE ADO PUEBLA-MEXICO TAPO MXD FOL. 020084514590 ASIENTO. 20 13/01/2016" valorUnitario="151.72" importe="151.72" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="43.60">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="43.60" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="29028D55-4EC4-4CEF-8B77-3333F93F1DA8" FechaTimbrado="2016-01-14T10:22:51" selloCFD="SXM7LJt6zmZauENWYamo6gDU6xxIZfgUgQmQ8aR8OS2ESnyo62grQI1+B4CVXTL6+jYAsl3Bs9OERiEPkK5HOxDw4sxKBWDBLQdFVpOvpSzOOcABQk5OqRXE2OHNI5DFKkBujQUABYV2Chgu3oMr9DrdccKHFAzmafdBkf0zU84=" noCertificadoSAT="00001000000202865018" selloSAT="JrB8vWli3VWiPzugPPwF7PqLcLTfcv9W5jqtdOE2QzxDn2QlOPizXh3CBTTA/U3TfZuhbnmt4ULtB3FsCH1dPSFD29Ds0hrbkuO6ebv3lzuRW3tKpVeTCEfN7ydoEzMBwOOxBVfMQD+36AD6nOfG6sav4mA9/wd59bo/xteURvA=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,33 @@
+<cfdi:Comprobante LugarExpedicion="TLALNEPANTLA, EDO MEX" Moneda="MXN" NumCtaPago="NO IDENTIFICADO" TipoCambio="1.00" certificado="MIIEwzCCA6ugAwIBAgIUMDAwMDEwMDAwMDAzMDA5OTA3MDAwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEwMDQyMjU4MzBaFw0xNzEwMDQyMjU4MzBaMIIBDjE5MDcGA1UEAxMwVFJBTlNQT1JURVMgQ0FTVE9SRVMgREUgQkFKQSBDQUxJRk9STklBIFNBIERFIENWMTkwNwYDVQQpEzBUUkFOU1BPUlRFUyBDQVNUT1JFUyBERSBCQUpBIENBTElGT1JOSUEgU0EgREUgQ1YxOTA3BgNVBAoTMFRSQU5TUE9SVEVTIENBU1RPUkVTIERFIEJBSkEgQ0FMSUZPUk5JQSBTQSBERSBDVjElMCMGA1UELRMcVENCNzQwMTMwM0E0IC8gVklDSjc0MDUzMFJUNTEeMBwGA1UEBRMVIC8gVklDSjc0MDUzMEhKQ0xSTjA5MRQwEgYDVQQLEwtDT1JQT1JBVElWTzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuqYx8bW/aKWQIG4RTyj5TxJTrFAhfIBPJeunNtKy37C4w5g9ZauyvNS9sHReifpO3LH3RMknM0A9kSwHdHkiuik0l0tjTStCVde20ePePfu5Ps8ZaZAeOnN7vRDjf0RSW8Pf+77wjochQsV+8M+Yd2fhksB1f1TPQeU2r/AL1GcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBALjaO1Jd2COkKY322ZKNtW/kEqqLLfQ0jDaKspih3XUo3qEabFQxAGE/Y+xbfbLfCFeHbzgTqQsij2KAf20KOfDdpz7OzC7BbhwD3TCsUNC2gUnVPyWLSGR2yKV3hlXQh8h3SkF4HYYqJceQ/AdyzyKzmDoI4/WkRjtmX7p2ZVhNgjGoHpHivGpibybof7dx3pu51KHXY3frVSINwsPgVD/FhFILdrfD6TA/UXRhiQkRl2nlWUk5Ur9+ciOUtSRiUR8vYsY9heE+CNhmQoq1/2GlQ7+wKJAja/XlW6BC1QMS8L8E36X7psxw6sWekvoeMuD1QYxH1jx1QpcXR4N1NQE=" fecha="2016-11-15T11:15:05" folio="305851" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="99" noCertificado="00001000000300990700" sello="HklItsc/fyoZAZCN4ZEy04eJYY6Yei4PBRGpVbAu10mz4jv92HbPed2hARmGb+n5MR7TCM4axA8U/wLg72RSzt+qIginDOLUnJSr+IXT3WEmcBO+tkiuw8oonTZDMlxMZqKSaWIUvA6sRZNad5H1FMwSPkq/VAiRphk8Czm92bQ=" serie="MTP" subTotal="5864.62" tipoDeComprobante="ingreso" total="6587.10" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cfdi:Emisor nombre="TRANSPORTES CASTORES DE BAJA CALIFORNIA SA DE CV" rfc="TCB7401303A4">
+        <cfdi:DomicilioFiscal calle="BLVD. JOSE MA MORELOS" codigoPostal="37238" colonia="ALFARO" estado="GUANAJUATO" localidad="LEON" municipio="LEON" noExterior="2975" pais="MEXICO" />
+        <cfdi:RegimenFiscal Regimen="Regimen de los Coordinados" />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA, S.A. DE C.V." rfc="BIO870307QD0">
+        <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" codigoPostal="54040" colonia="DESPACHO 804 FRACC. LOS PIRULES" estado="ESTADO DE MEXICO" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" noExterior="2900" pais="MEXICO" />
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto cantidad="1.00" descripcion="Flete" importe="4330.46" unidad="SERVICIO" valorUnitario="4330.46" />
+        <cfdi:Concepto cantidad="1.00" descripcion="Seguro" importe="53.00" unidad="SERVICIO" valorUnitario="53.00" />
+        <cfdi:Concepto cantidad="1.00" descripcion="CAPUFE" importe="0.00" unidad="SERVICIO" valorUnitario="0.00" />
+        <cfdi:Concepto cantidad="1.00" descripcion="Recoleccion" importe="0.00" unidad="SERVICIO" valorUnitario="0.00" />
+        <cfdi:Concepto cantidad="1.00" descripcion="Entrega" importe="126.00" unidad="SERVICIO" valorUnitario="126.00" />
+        <cfdi:Concepto cantidad="1.00" descripcion="Maniobras" importe="289.00" unidad="SERVICIO" valorUnitario="289.00" />
+        <cfdi:Concepto cantidad="1.00" descripcion="CDP" importe="1066.16" unidad="SERVICIO" valorUnitario="1066.16" />
+        <cfdi:Concepto cantidad="1.00" descripcion="Ferry" importe="0.00" unidad="SERVICIO" valorUnitario="0.00" />
+        <cfdi:Concepto cantidad="1.00" descripcion="CITA" importe="0.00" unidad="SERVICIO" valorUnitario="0.00" />
+        <cfdi:Concepto cantidad="1.00" descripcion="Otros" importe="0.00" unidad="SERVICIO" valorUnitario="0.00" />
+        <cfdi:Concepto cantidad="1.00" descripcion="Otras Lineas" importe="0.00" unidad="SERVICIO" valorUnitario="0.00" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosRetenidos="215.86" totalImpuestosTrasladados="938.34">
+        <cfdi:Retenciones>
+            <cfdi:Retencion importe="215.86" impuesto="IVA" />
+        </cfdi:Retenciones>
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="938.34" impuesto="IVA" tasa="16.00" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2016-11-15T11:39:22" UUID="AA78CD61-71BC-484C-BDF8-1842C45C21AD" noCertificadoSAT="00001000000202864285" selloCFD="HklItsc/fyoZAZCN4ZEy04eJYY6Yei4PBRGpVbAu10mz4jv92HbPed2hARmGb+n5MR7TCM4axA8U/wLg72RSzt+qIginDOLUnJSr+IXT3WEmcBO+tkiuw8oonTZDMlxMZqKSaWIUvA6sRZNad5H1FMwSPkq/VAiRphk8Czm92bQ=" selloSAT="W3drLwMIwFmZvsXJjDK7aVWcBOARLAL9lwIFjgCsXRkcx1ptuir/ybGnR30lh7o6DHRObt5Bew1GVTSydau/oOKgunwfK8P6Am0oPKtpYmoJjJ29K7708oCVibd/MFTF6Nglm5npBIGeT/rwUzEhqegV9a7kEmzyDf8TXPsvQPk=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

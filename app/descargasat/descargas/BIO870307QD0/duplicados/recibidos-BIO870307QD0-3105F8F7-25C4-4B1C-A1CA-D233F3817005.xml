@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="FEPMTY" folio="6981" fecha="2015-01-07T09:01:07" sello="bpFP6SXXu9okSBRDoZYrjgXW/lgOThw7VnN3WSwqj/G4rT2O1b2OXEQ4s6Olv+GwYC40t793HOMtSDHFx4LFmRe4aDZykLNEqXDsp+fz2H2eeIJDDFYdLhYSBNQfkyI2PRghalvqi4NIRvg4Gf8kugUlwy8CKu13S5RGm/OX61A=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000202695416" certificado="MIIEeDCCA2CgAwIBAgIUMDAwMDEwMDAwMDAyMDI2OTU0MTYwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIyNjIyNTc1MloXDTE2MTIyNjIyNTc1MlowgbkxHjAcBgNVBAMTFUxPUyBTRU5ERVJPUyBTQSBERSBDVjEeMBwGA1UEKRMVTE9TIFNFTkRFUk9TIFNBIERFIENWMR4wHAYDVQQKExVMT1MgU0VOREVST1MgU0EgREUgQ1YxJTAjBgNVBC0THFNFTjczMDgyMkgxMCAvIE1BQUM3MjA4MDlMVTAxHjAcBgNVBAUTFSAvIE1BQUM3MjA4MDlNREZSWUwwMTEQMA4GA1UECxMHTUFUUklaIDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArrkdUlpRIB8X9YYweFQd+K9yBIr053crSp9AdbXYgAYB3kGvZxFg5LE+w+g5kFTxhuEM8dUXDJvxGPCHkLszyImUGToloLTlCW2FBdbEXf4umkYMXZDRiL+pT72PvzOv3o7qlUbPDB0scEJMrYgJEmUIlnpd/lwYf2f8+SFYgWkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAFsQmW1ZXIF1xaB13TLfN32s/5ZhO2Amvrj19HoBvvPKbOOhYlfznINheqGlKm7d+GAzdvqpRi3toi9Y5an1mRcJc7KlY4WXuFzlxpzVwf/6A9ijOgt9u3Wm8TK4+uAIK6PoUQcSb7EQIxMtKsxun5JEMakllPN3YRvS6aLO2IvtoPR8fhN0G5OG7DKG0BPodqknTjddKQAXQd69481j1n5NzOdOzYgUJypCy4ly7q46JNhxF1ba43ntqNTXfuINMwO4EazA7FQNU06WUWV94X0f3g/Fobaar3oH/oN6UmFUxkVOxYd7usgO+mD5rQKbQK6QFFNcPHkWjpk2zZauDB8=" condicionesDePago="INMEDIATO" subTotal="131.16" descuento="0.00" total="144.50" metodoDePago="EFECTIVO" tipoDeComprobante="ingreso" LugarExpedicion="MTYP">
+<cfdi:Emisor rfc="SEN730822H10" nombre="LOS SENDEROS S.A. DE C.V.">
+<cfdi:DomicilioFiscal calle="EJE CENTRAL LAZARO CARDENAS" noExterior="4907" noInterior="SALA 5" colonia="MAGDALENA DE LAS SALINAS" localidad="DISTRITO FEDERAL" municipio="GUSTAVO A. MADERO" estado="Distrito Federal" pais="Mexico" codigoPostal="07760" />
+<cfdi:ExpedidoEn calle="AVENIDA COLON PONIENTE" noExterior="855" colonia="CENTRO" localidad="MONTERREY" municipio="MONTERREY" estado="Nuevo Leon" pais="Mexico" codigoPostal="64000" />
+<cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales" />
+</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="PIRULES" localidad="MEXICO" referencia="null" municipio="TLALNEPANTLA" estado="EDO. DE MEX." pais="MEXICO" codigoPostal="54040" />
+</cfdi:Receptor>
+<cfdi:Conceptos>
+<cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="030746" descripcion="CHOCOLATE CARLOS V" valorUnitario="10.00" importe="10.00" />
+<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="040329" descripcion="PANQUECITOS" valorUnitario="18.00" importe="36.00" />
+<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="020788" descripcion="SANDWICH SENCILLO" valorUnitario="16.00" importe="32.00" />
+<cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="023201" descripcion="DANONE FRESABROZA 250GR" valorUnitario="13.00" importe="13.00" />
+<cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="012503" descripcion="GATORADE LIMONADA 500 ML" valorUnitario="20.00" importe="20.00" />
+<cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="012502" descripcion="GATORADE LIMA-LIMON 500 ML" valorUnitario="20.00" importe="20.00" />
+<cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="020174" descripcion="YOG LICU CIRU-PASA-NUEZ 250 GR" valorUnitario="13.50" importe="13.50" />
+</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="13.34">
+<cfdi:Traslados>
+<cfdi:Traslado impuesto="IVA" tasa="0.00" importe="0.00" />
+<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="2.76" />
+<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="2.76" />
+<cfdi:Traslado impuesto="IVA" tasa="0.00" importe="0.00" />
+<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="4.41" />
+<cfdi:Traslado impuesto="IEPS" tasa="8.00" importe="2.67" />
+<cfdi:Traslado impuesto="IEPS" tasa="8.00" importe="0.74" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="3105F8F7-25C4-4B1C-A1CA-D233F3817005" FechaTimbrado="2015-01-07T09:02:42" selloCFD="bpFP6SXXu9okSBRDoZYrjgXW/lgOThw7VnN3WSwqj/G4rT2O1b2OXEQ4s6Olv+GwYC40t793HOMtSDHFx4LFmRe4aDZykLNEqXDsp+fz2H2eeIJDDFYdLhYSBNQfkyI2PRghalvqi4NIRvg4Gf8kugUlwy8CKu13S5RGm/OX61A=" noCertificadoSAT="00001000000203082087" selloSAT="BBEfC3FgjkNuv3zI9+HZ7+q9K5n2ze0ZOLkXrBUjEhXwuQ6svS8IzgvI0Z8iH41j2n8qoiJ/N0bwaAoKPl3FDEREJaBvPXoFmVR5Q73qgwTnH+d/KqIfB7jOZX3sxrkmQKz7fqpI4O19DuHoUvB0nSs1rwM2/XqNh3/iqg0Ik8s=" /></cfdi:Complemento>
+</cfdi:Comprobante>

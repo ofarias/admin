@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="MEXCODI" folio="656533" fecha="2016-09-08T19:53:00" sello="vixS3a2dmFTo4p3dQBXYBX4J4k6CvCgdolJLppF55lQJYme7nZINiB+wuvghUKDHAA0Wpc0+1uHxKa0yFkyzd3Cv/E8iAnrK8WMPeYRxQH4U0K/HwK3FRkRp4ZjdquKIhOmReXvqz4Yx0lqQ/bU/REDKX8a+yDevWoePauRUUMA=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000301309421" certificado="MIIEvzCCA6egAwIBAgIUMDAwMDEwMDAwMDAzMDEzMDk0MjEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMTQxNjA1NTJaFw0xNzExMTQxNjA1NTJaMIIBCjExMC8GA1UEAxMoVU5JVEVEIFBBUkNFTCBTRVJWSUNFIERFIE1FWElDTyBTQSBERSBDVjExMC8GA1UEKRMoVU5JVEVEIFBBUkNFTCBTRVJWSUNFIERFIE1FWElDTyBTQSBERSBDVjExMC8GA1UEChMoVU5JVEVEIFBBUkNFTCBTRVJWSUNFIERFIE1FWElDTyBTQSBERSBDVjElMCMGA1UELRMcVVBTODkxMTIySFY4IC8gUk9MRjU3MTIyMEExMzEeMBwGA1UEBRMVIC8gUk9MRjU3MTIyMEhERlNSUjA3MSgwJgYDVQQLEx9VTklURUQgUEFSQ0VMIFNFUlZJQ0UgREUgTUVYSUNPMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDgZDgA6BPM8JnC2KA0HXe8eH3yppNdQ/BdKgu8sEnJBi38c9gVKe+YF6JsW7TeJvi1O1AEgEdzo6/sUt2i1D2tzVRA1MCWuvtQTda4WcCjgOiTCpF+NGAm/lFImlt/5Dc5Cxy/wzVfb5SOR7F7eI9rhsz21A1T6i09pFpGqplE4wIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEASxBVpKQBBg/ltjpGp14ssawRgzofiFxmh2IW/iPUQqinS89qRy4AhQrTmfM5SCWdmJ93VDGOiQ2JDJvcqdhNkNZZJleNnhlocT7bMM4+mWnLSX/dW7LNyYfC/SrHKk9ulJFXlgcKPaCHyA89/lrUpl33SUD5MXRaB/GAz1g3fK+baJCExr1q8l2J1C07fh5uZS0Il1My12wOHea7ep5cyXg7TBJkKrrrXaCzKXlcqUOUbmzjGfMn5RYOuWuZpN4arXaEpJHCg2kWo4YBdR3bsgawbM7aSxUCqi2G/X8UcWDxNd15Fv1JF2Y07meehfzQSp2CdWWxsZJZC4Nn4UtCfQ==" subTotal="125.56" descuento="0.00" TipoCambio="1.00" Moneda="MXN" total="141.01" tipoDeComprobante="ingreso" metodoDePago="01" LugarExpedicion="Mexico, Ciudad de México" NumCtaPago="N.A.">
+  <cfdi:Emisor rfc="UPS891122HV8" nombre="United Parcel Service de Mexico, S.A. de C.V.">
+    <cfdi:DomicilioFiscal calle="Eugenia" noExterior="189" colonia="Narvarte Oriente" referencia="IMEC215365" municipio="Benito Juarez" estado="Ciudad de México" pais="Mexico" codigoPostal="03020" />
+    <cfdi:ExpedidoEn calle="Eugenia" noExterior="189" colonia="Narvarte Oriente" referencia="IMEC215365" municipio="Benito Juarez" estado="Ciudad de México" pais="México" codigoPostal="03020" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY DE PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO 2900  IN" colonia="TLALNEPANTLA    54040" pais="Mexico" codigoPostal="99999" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="No Aplica" descripcion="IMPUESTOS ADUANALES" valorUnitario="29.00" importe="29.00" />
+    <cfdi:Concepto cantidad="1.00" unidad="No Aplica" descripcion="HONORARIOS" valorUnitario="96.56" importe="96.56" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="15.45">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="15.45" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="c74c1b2a-23cd-49fe-a305-646e419430e6" FechaTimbrado="2016-09-08T19:53:58" selloCFD="vixS3a2dmFTo4p3dQBXYBX4J4k6CvCgdolJLppF55lQJYme7nZINiB+wuvghUKDHAA0Wpc0+1uHxKa0yFkyzd3Cv/E8iAnrK8WMPeYRxQH4U0K/HwK3FRkRp4ZjdquKIhOmReXvqz4Yx0lqQ/bU/REDKX8a+yDevWoePauRUUMA=" noCertificadoSAT="00001000000300171326" selloSAT="SIUf4IsF3u68up6OjDV9CvD7wZ7aAEMHvciLUIT5F6Agh4vjS2jDeXwCHx5VzXEn1ZiONgvrr0qPIw7K3sQWj2Agn09tLirlSpCKkXAnZbgJmxH5Hj5d+ZVhS3PFIVHTpsWiti5cUKyLqvnmFTxbjqcuF7E5Zl6IeTrVX1XcPU0=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento><cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33MEXCODI656533">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>929838</ecfd:NroAprob>
+            <ecfd:AnoAprob>2014</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>MEXCODI</ecfd:Serie>
+            <ecfd:Folio>656533</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:NumeroInterno>0084919442</ecfd:NumeroInterno>
+            <ecfd:FechaEmis>2016-09-08T19:53:00</ecfd:FechaEmis>
+            <ecfd:FormaPago>PAGO EN UNA SOLA EXHIBICION</ecfd:FormaPago>
+            <ecfd:MedioPago>01</ecfd:MedioPago>
+            <ecfd:NumCtaPago>N.A.</ecfd:NumCtaPago>
+            <ecfd:TermPagoCdg>1</ecfd:TermPagoCdg>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>UPS891122HV8</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>United Parcel Service de Mexico, S.A. de C.V.</ecfd:NmbEmisor>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>Eugenia</ecfd:Calle>
+              <ecfd:NroExterior>189</ecfd:NroExterior>
+              <ecfd:Colonia>Narvarte Oriente</ecfd:Colonia>
+              <ecfd:Referencia>IMEC215365</ecfd:Referencia>
+              <ecfd:Municipio>Benito Juarez</ecfd:Municipio>
+              <ecfd:Estado>Ciudad de México</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>03020</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>Eugenia</ecfd:Calle>
+              <ecfd:NroExterior>189</ecfd:NroExterior>
+              <ecfd:Colonia>Narvarte Oriente</ecfd:Colonia>
+              <ecfd:Referencia>IMEC215365</ecfd:Referencia>
+              <ecfd:Municipio>Benito Juarez</ecfd:Municipio>
+              <ecfd:Estado>Ciudad de México</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>03020</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QD0</ecfd:RFCRecep>
+            <ecfd:NmbRecep>BIOTECSA S.A. DE C.V.</ecfd:NmbRecep>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>BLVD. MANUEL AVILA CAMACHO 2900  IN</ecfd:Calle>
+              <ecfd:Colonia>TLALNEPANTLA    54040</ecfd:Colonia>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>99999</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+            <ecfd:LugarRecep>
+              <ecfd:Calle>BLVD. MANUEL AVILA CAMACHO 2900  IN</ecfd:Calle>
+              <ecfd:Colonia>TLALNEPANTLA    54040</ecfd:Colonia>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>99999</ecfd:CodigoPostal>
+            </ecfd:LugarRecep>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:FctConv>1.00</ecfd:FctConv>
+            <ecfd:SubTotal>125.56</ecfd:SubTotal>
+            <ecfd:MntDcto>0</ecfd:MntDcto>
+            <ecfd:MntBase>0</ecfd:MntBase>
+            <ecfd:MntImp>15.45</ecfd:MntImp>
+            <ecfd:VlrPagar>141.01</ecfd:VlrPagar>
+            <ecfd:VlrPalabras>CIENTO CUARENTA Y UNO PESOS 01/100 M.N.</ecfd:VlrPalabras>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16.00</ecfd:TasaImp>
+            <ecfd:MontoImp>15.45</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>IMPUESTOS ADUANALES</ecfd:DscItem>
+          <ecfd:QtyItem>1.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>No Aplica</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>29.00</ecfd:PrcNetoItem>
+          <ecfd:MontoNetoItem>29.00</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>2</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>HONORARIOS</ecfd:DscItem>
+          <ecfd:QtyItem>1.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>No Aplica</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>96.56</ecfd:PrcNetoItem>
+          <ecfd:MontoNetoItem>96.56</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:TimeStamp>2016-09-08T19:53:42</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="CUENTA">7MX0406316</ecfd:campoString>
+        <ecfd:campoString name="PREFIJO" />
+        <ecfd:campoString name="FECHA_VENCI">2018-9-8</ecfd:campoString>
+        <ecfd:campoString name="FECHA_CORTE" />
+        <ecfd:campoString name="IMPRESORA" />
+        <ecfd:campoString name="GUIAAREA">1ZY2841F0495029367</ecfd:campoString>
+        <ecfd:campoString name="GUIA">Y2841FTTQNM</ecfd:campoString>
+        <ecfd:campoString name="FACTURANO">IMEC215365</ecfd:campoString>
+        <ecfd:campoString name="CONDEMBARQUE">P/P</ecfd:campoString>
+        <ecfd:campoString name="PEDIMENTO">37496087846</ecfd:campoString>
+        <ecfd:campoString name="NOPAQUETES">1</ecfd:campoString>
+        <ecfd:campoString name="PUERTOENTRADA">MEXICO CITY</ecfd:campoString>
+        <ecfd:campoString name="PESOREAL">0.5</ecfd:campoString>
+        <ecfd:campoString name="TIPOSERVICIO">WW UPS SA</ecfd:campoString>
+        <ecfd:campoString name="VALOREMBARQUE">10.00</ecfd:campoString>
+        <ecfd:campoString name="PESOFACTURA">0.5 ACT</ecfd:campoString>
+        <ecfd:campoString name="FECHAIMPOR">08SEP16</ecfd:campoString>
+        <ecfd:campoString name="REFERENCIAUPS">0084919442</ecfd:campoString>
+        <ecfd:campoString name="NOMBREIMPORTADOR">BIOTECSA S.A. DE C.V.</ecfd:campoString>
+        <ecfd:campoString name="DIR1IMPOR">BLVD. MANUEL AVILA CAMACHO 2900  IN</ecfd:campoString>
+        <ecfd:campoString name="DIR2IMPOR">TLALNEPANTLA    54040</ecfd:campoString>
+        <ecfd:campoString name="DIR3IMPOR">BIOTECSA</ecfd:campoString>
+        <ecfd:campoString name="NOMBRECONSIGNA">BLDV. MANUEL AVILA CAMACHO 2900</ecfd:campoString>
+        <ecfd:campoString name="DIR1CONSIG">OFICINA 804,</ecfd:campoString>
+        <ecfd:campoString name="DIR2CONSIG">TLALNEPANTLA    54040</ecfd:campoString>
+        <ecfd:campoString name="DIR3CONSIG" />
+        <ecfd:campoString name="NOMBREEMBAR">R PROFESSOR FRANCISCO RIBEIRO, 683</ecfd:campoString>
+        <ecfd:campoString name="DIR1EMBAR">BAIRRO BARIGUI</ecfd:campoString>
+        <ecfd:campoString name="DIR2EMBAR">ARAUCARIA    90010</ecfd:campoString>
+        <ecfd:campoString name="DIR3EMBAR" />
+        <ecfd:campoString name="EMAILCLIENTE">sincorreo@ups.com</ecfd:campoString>
+        <ecfd:campoString name="WMCREDITO">NO</ecfd:campoString>
+        <ecfd:campoString name="FORMATO">V32_COD_2014</ecfd:campoString>
+        <ecfd:campoString name="DescConcepto1" />
+        <ecfd:campoString name="DescConcepto2" />
+        <ecfd:campoString name="DescConcepto3" />
+        <ecfd:campoString name="DescConcepto4" />
+        <ecfd:campoString name="Publicidad_A1" />
+        <ecfd:campoString name="Publicidad_A2" />
+        <ecfd:campoString name="Publicidad_B1" />
+        <ecfd:campoString name="Publicidad_B2" />
+        <ecfd:campoString name="Publicidad_C1" />
+        <ecfd:campoString name="Publicidad_C2" />
+        <ecfd:campoString name="Publicidad_D1" />
+        <ecfd:campoString name="Publicidad_D2" />
+        <ecfd:campoString name="ImpuestoPers">IMPUESTO $ 141.01</ecfd:campoString>
+        <ecfd:campoString name="FletePers">FLETE    $ 0.00</ecfd:campoString>
+        <ecfd:campoString name="Adicional 1" />
+        <ecfd:campoString name="Adicional2" />
+        <ecfd:campoString name="RegimenFiscal">REGIMEN GENERAL DE LEY DE PERSONAS MORALES</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago">N.A.</ecfd:campoString>
+        <ecfd:campoString name="LugarDeExpedicion">Mexico, Ciudad de México</ecfd:campoString>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>1</ecfd:CustDetNroLin>
+          <ecfd:CustDetAFN_02>NOATRIBUIBLE</ecfd:CustDetAFN_02>
+        </ecfd:CustDetalle>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>2</ecfd:CustDetNroLin>
+          <ecfd:CustDetAFN_02>ATRIBUIBLE</ecfd:CustDetAFN_02>
+        </ecfd:CustDetalle>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

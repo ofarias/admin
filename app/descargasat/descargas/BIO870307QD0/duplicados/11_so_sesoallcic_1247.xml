@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd"
+ version="3.2"
+ serie="SESOALLCIC"
+ folio="1247"
+ fecha="2016-08-15T16:51:02"
+ sello="ASVaaKqY51tm+qvBfV+fynm/a9lhFVgC5WpGvWqY/wnwtkeka+97d2MVagEWG8Mq/MlIXczN6NCbaQ+HlY7TipoPgI+B8zDMNTqu/+fCs5unBacnd0JJoKU3ysEybAFTosHAle02SPFT5/pAMiYViN//3X3ADVI+A2wviRaw9Wc="
+ tipoDeComprobante="ingreso"
+ formaDePago="PAGO EN UNA SOLA EXHIBICION"
+ noCertificado="00001000000202050203"
+ certificado="MIIEbjCCA1agAwIBAgIUMDAwMDEwMDAwMDAyMDIwNTAyMDMwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTAwMTE1MjYwM1oXDTE2MTAwMTE1MjYwM1owga8xGzAZBgNVBAMTElNUQVIgSEFVUyBTQSBERSBDVjEbMBkGA1UEKRMSU1RBUiBIQVVTIFNBIERFIENWMRswGQYDVQQKExJTVEFSIEhBVVMgU0EgREUgQ1YxJTAjBgNVBC0THFNIQTk4MDkyNE5JNiAvIEJFR1Y1NjA3MTFEWTcxHjAcBgNVBAUTFSAvIEJFR1Y1NjA3MTFNTUNDRFIxNDEPMA0GA1UECxMGTUFUUklaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtVL3VBPuoZl8VwURIWda3J3SnADbg6Op2VQqzdsCaGDFODm9Pz4kC7XWLbIbjLkbqJS0o0vqo16KrsIrWEWJnASvo4LDC+oxGKEwtr/F2UCD7qPn1s6OWzWFDibQprDx93/qNORTUcHeOBZgBSBal5zsxfce+lly9x9cXMfDKVQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAh/1DA3F6DSVPTJQhiPBLtMITshCtEWO8Tvke/scNy1ugi3JxlA8oFPXAoNA0zbNm4Nl02IvY/gcyX+laI2tqFC1NaqcDyDHtD/uts1VW/RfO9qhz1sXa2lhk6ih582DHv7wH5MUC8UxSdf/rhx6BJn5sVV8DaFwEhOrxTj+U+JKtV3ekSyLZxf4STxt9wrMVu6wTPehnup0qi2bcvW/tqGroC2qISbcS5+zH6gbj4PNh9r3GUmseQqgrbpZDZBmOYZ3w+akKWTHkoK/r7ExPrtCqR92LpIgvyNflvy0symbvt7NdRDdIWlMRxjaBWTsc8A9iYsJYUmbAP6VxCSpT/w=="
+ subTotal="4173.28"
+ descuento="0.00"
+ TipoCambio="1.00000"
+ Moneda="MXN"
+ total="4841.00"
+ metodoDePago="03"
+ LugarExpedicion="Lerma, Edo Mexico"
+>
+<cfdi:Emisor rfc="SHA980924NI6" nombre="STAR HAUS S. A. DE C. V.">
+<cfdi:DomicilioFiscal calle="CARR MEXICO TOLUCA"
+ noExterior="KM 50.6"
+ colonia="LA ESTACION"
+ municipio="LERMA"
+ estado="ESTADO DE MEXICO"
+ pais="MEXICO"
+ codigoPostal="52000"/>
+<cfdi:ExpedidoEn calle="Carr. M&#0233;xico-Toluca km 50.6"
+ localidad="Colonia La Estaci&#0243;n"
+ municipio="Lerma"
+ estado="Edo Mexico"
+ pais="MEXICO"
+ codigoPostal="52000"/>
+<cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONA MORAL"/>
+</cfdi:Emisor>
+<cfdi:Receptor  rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+<cfdi:Domicilio
+ calle="BLVD MANUEL AVILA CAMACHO 2900"
+ noExterior="804 PIRULES MEXICO"
+ pais="MEXICO"
+ codigoPostal="54040"
+/>
+</cfdi:Receptor>
+<cfdi:Conceptos>
+<cfdi:Concepto cantidad="0.20" unidad="No aplica" descripcion="TEST BREVE REALIZAR" valorUnitario="850.00" importe="170.00"/>
+<cfdi:Concepto cantidad="1.72" unidad="No aplica" descripcion="SERVICIO A CON PAQUETE PLUS" valorUnitario="850.00" importe="1462.00"/>
+<cfdi:Concepto cantidad="1.00" unidad="No aplica" descripcion="LAVADO EXTERIOR DEL VEHICULO" valorUnitario="50.00" importe="50.00"/>
+<cfdi:Concepto cantidad="2937.80" unidad="No aplica" descripcion="PEQUE&#0209;O MATERIAL" valorUnitario="0.10" importe="293.78"/>
+<cfdi:Concepto cantidad="1.00" unidad="No aplica" descripcion="Seguro de taller" valorUnitario="100.00" importe="100.00"/>
+<cfdi:Concepto cantidad="7.00" unidad="EACH" descripcion="ACEITE PARA MOTOR" valorUnitario="225.00" importe="1575.00"/>
+<cfdi:Concepto cantidad="1.00" unidad="EACH" descripcion="TS ELEMENTO DEL FILTRO" valorUnitario="260.00" importe="260.00"/>
+<cfdi:Concepto cantidad="1.00" unidad="EACH" descripcion="LIMPIADOR" valorUnitario="62.50" importe="62.50"/>
+<cfdi:Concepto cantidad="1.00" unidad="EACH" descripcion="ADITIVO PARA COMBUSTIBLE" valorUnitario="200.00" importe="200.00"/>
+</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="667.72" >
+<cfdi:Traslados>
+<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="667.72"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" selloCFD="ASVaaKqY51tm+qvBfV+fynm/a9lhFVgC5WpGvWqY/wnwtkeka+97d2MVagEWG8Mq/MlIXczN6NCbaQ+HlY7TipoPgI+B8zDMNTqu/+fCs5unBacnd0JJoKU3ysEybAFTosHAle02SPFT5/pAMiYViN//3X3ADVI+A2wviRaw9Wc=" FechaTimbrado="2016-08-15T17:12:52" UUID="2E1ED574-CF1D-4787-A927-B33BD5CACBBE" noCertificadoSAT="00001000000202864530" selloSAT="jEljnnwGIb1J/VXu8DPqCPcpHRBVQYi+WNLAydXYsGNGf5Rqwo2wf+20Hu1PFxkqcqck2dvs/SAIeLBEO382Z53uVG3oZ/Fp+UZNlPyQ2PyBn9S9JKloIzGM/hYlor4ced4yOsmnDNMF6EiWj4m3w4b7OEY4nqq4Tz23uM3prb8="/>
+</cfdi:Complemento>
+</cfdi:Comprobante>
+ 

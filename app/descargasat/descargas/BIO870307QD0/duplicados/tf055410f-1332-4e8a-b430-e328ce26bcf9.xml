@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd " xmlns:implocal="http://www.sat.gob.mx/implocal" version="3.2" serie="F" folio="22615" fecha="2015-08-09T07:44:08" sello="tM/dkoGg44UngpiW0g0wC1oMMefdqgcqigOy96KZNy7BstxabPzEuL7B0B74sycW5Wl8kDfSlHL5FruIGQOz4EhFkFaQTnmgQrtzIV8JwO4jZx1ALBKiFF5ivA13W0r6iJhrQu1xPcU5v1f+c5ZKnzqZqdUnnx2FBtrsgZvmVWM=" formaDePago="Pago en una sola exhibicion" noCertificado="00001000000202529193" certificado="MIIEqTCCA5GgAwIBAgIUMDAwMDEwMDAwMDAyMDI1MjkxOTMwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIwNjE4MTAwMFoXDTE2MTIwNjE4MTAwMFowgeoxLzAtBgNVBAMTJk9QRVJBRE9SQSBERSBERVNBUlJPTExPUyBUQkNUIFNBIERFIENWMS8wLQYDVQQpEyZPUEVSQURPUkEgREUgREVTQVJST0xMT1MgVEJDVCBTQSBERSBDVjEvMC0GA1UEChMmT1BFUkFET1JBIERFIERFU0FSUk9MTE9TIFRCQ1QgU0EgREUgQ1YxJTAjBgNVBC0THE9EVDA4MDIxOE5QNSAvIENVTUY2NzA3MTZWRTcxHjAcBgNVBAUTFSAvIENVTUY2NzA3MTZIQ0hTTFIwOTEOMAwGA1UECxMFdW5pY2EwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL9f0i6aQDcngFiExgXIaY/PGOnfA0S3/5RSFhl5CJN+WgxWztdVmDRYhG6fTdmmTLphQb84uJOpbxo4+DMZrXIHRwkgwoQ8lM3nPKh4kzU0gwds0y7heOG68UitXbGSKr+QW/tTDAZ6VApxYCjoFtWO2BNHDj3VuoP08XRrOaO9AgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQBf/ZsmTdyn7s5zX3+w5wwCmxS9noy1gS4Tkww+BdJAtChUnUpI12urjxam0+RNh/4MgLE7ZWaBd07srKVPLWqPztZT8OonUtXCauxr3kW8nzE3fwjYPl35Z5wSUUpMNehP5UqT0VHlwrexrXbI/lvBH08UScUA0EIBfK9S9I4CmjaegzxjwZ+UL5tCBzUrjGB0av+2CJGGE12j3epI2TI0ohzp3L5KLTnGSrQKL8AVamPfQG9nyeXndhA3vod4HxzNMR+iFSOH64Uz3LFDHRPkDRAa9JUTiTXwjOXwzC2JZPi8V+OpdvXDhayZovd3dD84TkBUL3oEXiJ5M4rNmaSx" subTotal="850.00" descuento="0.00" TipoCambio="1" Moneda="MXN" total="1011.50" tipoDeComprobante="ingreso" metodoDePago="Tarjeta de Credito" LugarExpedicion="Mexico, CHIHUAHUA">
+  <cfdi:Emisor rfc="ODT080218NP5" nombre="Operadora de Desarrollos TBCT S.A de">
+    <cfdi:DomicilioFiscal calle="Periferico de la Juventud 5700-3" colonia="Col. Saucito" municipio="CHIHUAHUA" estado="CHIHUAHUA" pais="Mexico" codigoPostal="31114" />
+    <cfdi:ExpedidoEn calle="Periferico de la Juventud 5700-3" colonia="Col. Saucito" municipio="CHIHUAHUA" estado="CHIHUAHUA" pais="Mexico" codigoPostal="31114" />
+    <cfdi:RegimenFiscal Regimen="Regimen General de ley de Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO 2900-804" colonia="LOS PIRULES" municipio="TLALNEPANTLA" estado="EM" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="nada" noIdentificacion="6" descripcion="Room and Tax                       (  1)" valorUnitario="850.00" importe="850.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="136.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="136.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <implocal:ImpuestosLocales version="1.0" TotaldeRetenciones="0" TotaldeTraslados="25.50">
+      <implocal:TrasladosLocales ImpLocTrasladado="ISH" TasadeTraslado="3.00" Importe="25.50" />
+    </implocal:ImpuestosLocales>
+  <tfd:TimbreFiscalDigital version="1.0" UUID="f055410f-1332-4e8a-b430-e328ce26bcf9" FechaTimbrado="2015-08-09T08:44:12" selloCFD="tM/dkoGg44UngpiW0g0wC1oMMefdqgcqigOy96KZNy7BstxabPzEuL7B0B74sycW5Wl8kDfSlHL5FruIGQOz4EhFkFaQTnmgQrtzIV8JwO4jZx1ALBKiFF5ivA13W0r6iJhrQu1xPcU5v1f+c5ZKnzqZqdUnnx2FBtrsgZvmVWM=" noCertificadoSAT="00001000000300171326" selloSAT="C45U+wbKyfhw0OuPHMb5EZIvhbZCkUStCCbcOdIngufQKCXwfP0lFNxzIlPCQtWpssqwtrkgLr7sbsRoJ24srfHjvoZKGZD6JWmtDchVT1Maud5jTFBhmrjSLjc9cvSzTXIAsZAo7Tr4Zh1wNMoyynDq7ZoPNJ3d8jNglRP5UgA=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento>
+  <cfdi:Addenda xmlns:ecfd="http://www.southconsulting.com/schemas/strict" xsi:schemaLocation="http://www.southconsulting.com/schemas/strict http://www.southconsulting.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33F22615">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>48451</ecfd:NroAprob>
+            <ecfd:AnoAprob>2013</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>F</ecfd:Serie>
+            <ecfd:Folio>22615</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:FechaEmis>2015-08-09T07:44:08</ecfd:FechaEmis>
+            <ecfd:FormaPago>Pago en una sola exhibicion</ecfd:FormaPago>
+            <ecfd:MedioPago>Tarjeta de Credito</ecfd:MedioPago>
+            <ecfd:LugarExpedicion>Mexico, CHIHUAHUA</ecfd:LugarExpedicion>
+            <ecfd:TermPagoCdg>1</ecfd:TermPagoCdg>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>ODT080218NP5</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>Operadora de Desarrollos TBCT S.A de</ecfd:NmbEmisor>
+            <ecfd:CodigoExEmisor>
+              <ecfd:TpoCdgIntEmisor>INT</ecfd:TpoCdgIntEmisor>
+            </ecfd:CodigoExEmisor>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>Periferico de la Juventud 5700-3</ecfd:Calle>
+              <ecfd:Colonia>Col. Saucito</ecfd:Colonia>
+              <ecfd:Municipio>CHIHUAHUA</ecfd:Municipio>
+              <ecfd:Estado>CHIHUAHUA</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>31114</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>Periferico de la Juventud 5700-3</ecfd:Calle>
+              <ecfd:Colonia>Col. Saucito</ecfd:Colonia>
+              <ecfd:Municipio>CHIHUAHUA</ecfd:Municipio>
+              <ecfd:Estado>CHIHUAHUA</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>31114</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QD0</ecfd:RFCRecep>
+            <ecfd:NmbRecep>BIOTECSA SA DE CV</ecfd:NmbRecep>
+            <ecfd:CodigoExReceptor>
+              <ecfd:CdgIntRecep>1134748</ecfd:CdgIntRecep>
+            </ecfd:CodigoExReceptor>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>BLVD MANUEL AVILA CAMACHO 2900-804</ecfd:Calle>
+              <ecfd:Colonia>LOS PIRULES</ecfd:Colonia>
+              <ecfd:Municipio>TLALNEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>EM</ecfd:Estado>
+              <ecfd:Pais>MEXICO</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+            <ecfd:LugarRecep>
+              <ecfd:Calle>BLVD MANUEL AVILA CAMACHO 2900-804</ecfd:Calle>
+              <ecfd:Colonia>LOS PIRULES</ecfd:Colonia>
+              <ecfd:Municipio>TLALNEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>EM</ecfd:Estado>
+              <ecfd:Pais>MEXICO</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:LugarRecep>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:FctConv>1</ecfd:FctConv>
+            <ecfd:SubTotal>850.00</ecfd:SubTotal>
+            <ecfd:MntDcto>0.00</ecfd:MntDcto>
+            <ecfd:PctDcto>0.00</ecfd:PctDcto>
+            <ecfd:MntBase>850.00</ecfd:MntBase>
+            <ecfd:MntImp>136.00</ecfd:MntImp>
+            <ecfd:VlrPagar>1011.50</ecfd:VlrPagar>
+            <ecfd:VlrPalabras>UN MIL ONCE PESOS 50/100 M.N.</ecfd:VlrPalabras>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16.00</ecfd:TasaImp>
+            <ecfd:MontoImp>136.00</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:CdgItem>
+            <ecfd:TpoCodigo>EAN</ecfd:TpoCodigo>
+            <ecfd:VlrCodigo>6</ecfd:VlrCodigo>
+          </ecfd:CdgItem>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>Room and Tax                       (  1)</ecfd:DscItem>
+          <ecfd:QtyItem>1</ecfd:QtyItem>
+          <ecfd:PrcBrutoItem>986.00</ecfd:PrcBrutoItem>
+          <ecfd:PrcNetoItem>850.00</ecfd:PrcNetoItem>
+          <ecfd:ImpuestosDet>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16.00</ecfd:TasaImp>
+            <ecfd:MontoImp>136.00</ecfd:MontoImp>
+          </ecfd:ImpuestosDet>
+          <ecfd:MontoBrutoItem>986.00</ecfd:MontoBrutoItem>
+          <ecfd:MontoNetoItem>850.00</ecfd:MontoNetoItem>
+          <ecfd:MontoTotalItem>986.00</ecfd:MontoTotalItem>
+        </ecfd:Detalle>
+        <ecfd:TimeStamp>2015-08-09T07:42:17</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="pNombreVendedor" />
+        <ecfd:campoString name="EMail">rcuriel@biotecsa.com</ecfd:campoString>
+        <ecfd:campoString name="Printer">SI</ecfd:campoString>
+        <ecfd:campoString name="SI_ZZZ">UN MIL ONCE PESOS 50/100 M.N.</ecfd:campoString>
+        <ecfd:campoString name="SI_ZZZ1">UN MIL ONCE PESOS 50/100 M.N.</ecfd:campoString>
+        <ecfd:campoString name="tipopago1">Visa  (MXN) XXXXXXXXXXXX4322</ecfd:campoString>
+        <ecfd:campoString name="tipopago2" />
+        <ecfd:campoString name="tipopago3" />
+        <ecfd:campoString name="tipopago4" />
+        <ecfd:campoString name="NombreHuesped">Curiel, Rogelio</ecfd:campoString>
+        <ecfd:campoString name="habitacion">213</ecfd:campoString>
+        <ecfd:campoString name="checkin">08-08-15</ecfd:campoString>
+        <ecfd:campoString name="checkout">09-08-15</ecfd:campoString>
+        <ecfd:campoString name="pasaporte" />
+        <ecfd:campoString name="tipoimpuesto2" />
+        <ecfd:campoString name="tipodeimp">IVA</ecfd:campoString>
+        <ecfd:campoString name="banderatasacero">0</ecfd:campoString>
+        <ecfd:campoString name="banderaiva16">136.00</ecfd:campoString>
+        <ecfd:campoString name="edx_version">cfdi_opera_20120417</ecfd:campoString>
+        <ecfd:campoString name="Fuente">opera</ecfd:campoString>
+        <ecfd:campoString name="eFactu">3.14</ecfd:campoString>
+        <ecfd:campoString name="lugarexpedicion">Matriz</ecfd:campoString>
+        <ecfd:campoString name="MedioPago">Tarjeta de Credito</ecfd:campoString>
+        <ecfd:campoString name="RegimenFiscal">Regimen General de ley de Personas Morales</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago" />
+        <ecfd:campoString name="LugarDeExpedicion">Mexico, CHIHUAHUA</ecfd:campoString>
+        <ecfd:campoNumero name="TasaISH">3.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="TasaIVA">16.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="Propinas">0.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="PaidOuts">0.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="Otros">0.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="VlrPagarMasPropinas">1011.50</ecfd:campoNumero>
+        <ecfd:campoNumero name="MontoISH">25.50</ecfd:campoNumero>
+        <ecfd:campoNumero name="MontoIVA">136.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="pago1">1011.50</ecfd:campoNumero>
+        <ecfd:campoNumero name="pago2">0.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="pago3">0.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="pago4">0.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="folioopera">52705</ecfd:campoNumero>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>1</ecfd:CustDetNroLin>
+          <ecfd:CustDetNUE_01>98600</ecfd:CustDetNUE_01>
+        </ecfd:CustDetalle>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

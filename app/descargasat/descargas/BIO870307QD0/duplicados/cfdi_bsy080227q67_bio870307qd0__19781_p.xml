@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="19781" fecha="2015-09-09T17:06:49" sello="BtGazhLWPjpzgkjWIcvpaRZ+eLR2tv+d3G0GOkBH/8BCFBiAHM4i7ZrvMozHGqpI3uG9WwtsiV4IPzPvnRXE3oznmjGNnb3ar9FpmaToOkjdE3YZZKKJz1LfCvNbLgXL4R0wnXwfe+QIP2WdYHpvIfNvgOhoKaUgMgM20dlkjLA=" formaDePago="Pago en una sola Exhibicion" noCertificado="00001000000202718792" certificado="MIIEmTCCA4GgAwIBAgIUMDAwMDEwMDAwMDAyMDI3MTg3OTIwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDEwMzAxNDMxMloXDTE3MDEwMzAxNDMxMlowgdoxKzApBgNVBAMTIk5FT0dFTiBMQVRJTk9BTUVSSUNBIFMgQSBQIEkgREUgQ1YxKzApBgNVBCkTIk5FT0dFTiBMQVRJTk9BTUVSSUNBIFMgQSBQIEkgREUgQ1YxKzApBgNVBAoTIk5FT0dFTiBMQVRJTk9BTUVSSUNBIFMgQSBQIEkgREUgQ1YxJTAjBgNVBC0THEJTWTA4MDIyN1E2NyAvIE5PTU01NjEyMTFBTTkxHjAcBgNVBAUTFSAvIE5PTU01NjEyMTFIREZSTk4wMDEKMAgGA1UECxMBIDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwgzx0mE9ZD3koOudHildGrdDxhhp5AB+fXQPPRBqU8jmD8L02ByapdNA8c2z83WrRw/0MCKSeNSVtCoaI9h2QW6Pkj/tdDARKbC7DMYybnP7qGm4PLBYG31F3CHx6Rf2TTa3uoxRz+6fIVkhbe+bdWqJoaotAddN+nExcoc62Q0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEm8JPzLQCZaGMKG7U6ffHZh7BtCj0YkDlOcrcueFGvat+bREvFZZf6/akMhJ7bVmOkMtmhb4amwuKquokPIS32W0PFfGn/qrGTiaGfwj16AaFlOqfcTlQxpcAvUsgwIQosj2GaA8PNAAtbZEYahCWH6E9/O9fU3vvCiQN3xi09DJGSNhSsUt1Foi33ZdTtRm42oUK/tpHNCMd+WJkDMNErP38i++SfNDzNkfAXNZdlTEZ7qiPgOoxkRQaKVbUecQQbf6CR5Xqp0qiTH2/zF4ru4lZV/6W6ePVhIvvjqcZZaPmuJH/PAzrsH5ts8EJmQ52mnrDDlR7bZ45IMJPyPeOQ=" condicionesDePago="30 Dias" subTotal="7680.00" total="8908.80" metodoDePago="NO IDENTIFICADO" tipoDeComprobante="ingreso" Moneda="MXN" TipoCambio="1.00" LugarExpedicion="Mexico,D.F">
+  <cfdi:Emisor rfc="BSY080227Q67" nombre="NEOGEN LATINOAMERICA, S.A.P.I. DE C.V.">
+    <cfdi:DomicilioFiscal calle="PROLONGACION 5 DE MAYO No. 27" colonia="PARQUE INDUSTRIAL NAUCALPAN" municipio="NAUCALPAN DE JUAREZ" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="53489" />
+    <cfdi:RegimenFiscal Regimen="General de Ley P.M." />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="2" unidad="Pieza" noIdentificacion="9905" descripcion="MUESTREADORES DE SUPERFICIE ACCUPOINT ADVANCE" valorUnitario="3840.00" importe="7680.00">
+      <cfdi:InformacionAduanera numero="3018-5000607N63" fecha="2015-08-19" aduana="Aeropuerto Internacional de la Ciudad de Mexico" />
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="1228.80">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1228.80" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="2C750017-1310-4E49-A837-D915AF77ACE5" FechaTimbrado="2015-09-09T17:06:58" selloCFD="BtGazhLWPjpzgkjWIcvpaRZ+eLR2tv+d3G0GOkBH/8BCFBiAHM4i7ZrvMozHGqpI3uG9WwtsiV4IPzPvnRXE3oznmjGNnb3ar9FpmaToOkjdE3YZZKKJz1LfCvNbLgXL4R0wnXwfe+QIP2WdYHpvIfNvgOhoKaUgMgM20dlkjLA=" noCertificadoSAT="00001000000203312933" selloSAT="bEowuHKjbV1B21BIaxARTeQvTvEOvKm8hDAWC1gEDtoS4T4Ivro28Jk7d/hy7oo3lZJbeuKGD8HrPUYepLL3z7kDATzduvWTrj4nSFtWV0H0xUln4p1PoewSSWRiDjGsmQXK9cja5136NTUOo/wUq4h5bL1H6mFoHNgg020pcIo=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <lev1add:EDCINVOICE xsi:schemaLocation="http://www.edcinvoice.com/lev1add http://www.edcinvoice.com/lev1add/lev1add.xsd" xmlns:lev1add="http://www.edcinvoice.com/lev1add">[H0]|BIO870307QD0|900639|9.55||00001000000202718792|0|P|NEOGENV3.2||
+[H1]||19781||2015-09-09T17:06:49|||Pago en una sola Exhibicion|30 Dias||Factura|0||0||||||||09092015|GEISY GONZALEZ|||16||||Mexico,D.F|NO IDENTIFICADO|MXN|1.00|||||||||||Ocho Mil Novecientos Ocho Pesos 80/100|D00|P|||||||
+[H2]|NEOGEN LATINOAMERICA, S.A.P.I. DE C.V.|BSY080227Q67||PROLONGACION 5 DE MAYO No. 27|||PARQUE INDUSTRIAL NAUCALPAN|||NAUCALPAN DE JUAREZ|ESTADO DE MEXICO|Mexico|53489|General de Ley P.M.|||||X|||||****|
+[H3]|||||||||||||||||||||||||
+[H4]|BIOTECSA, S.A. DE C.V.|BIO870307QD0||BLVD. MANUEL AVILA CAMACHO 2900-804|||FRACC. LOS PIRULES|TLALNEPANTLA||TLALNEPANTLA|ESTADO DE MEXICO|Mexico|54040||(55) 53 70 12 10||||||||||
+[H5]|||||||||||||||||||||||||
+[D]|9905||MUESTREADORES DE SUPERFICIE ACCUPOINT ADVANCE||2|PIEZA||3840.00|0||0.00|||||||||||||7680.00|16|0.00|2|Aeropuerto Internacional de la Ciudad de Mexico|2015-08-19T00:00:00|3018-5000607N63|9905|9905||||7680.00|7680.00|1228.80|0.00|||||||||||||||||||||219878|16/04/2016||||||||||||
+[S]|7680.00|0.00|||||1228.80|.00|8908.80||1|16|||||||||||||||||||||||0.00|7680.00||||
+[CO]|||3.2|2015-09-09T17:06:49|ingreso|Pago en una sola Exhibicion|30 Dias|7680.00|1.00|MXN|8908.80|NO IDENTIFICADO|Mexico,D.F|BSY080227Q67|NEOGEN LATINOAMERICA, S.A.P.I. DE C.V.|PROLONGACION 5 DE MAYO No. 27|PARQUE INDUSTRIAL NAUCALPAN|NAUCALPAN DE JUAREZ|ESTADO DE MEXICO|Mexico|53489|General de Le|
+[CO]|y P.M.|BIO870307QD0|BIOTECSA, S.A. DE C.V.|BLVD. MANUEL AVILA CAMACHO 2900-804|FRACC. LOS PIRULES|TLALNEPANTLA|TLALNEPANTLA|ESTADO DE MEXICO|Mexico|54040|2|Pieza|9905|MUESTREADORES DE SUPERFICIE ACCUPOINT ADVANCE|3840.00|7680.00|3018-5000607N63|2015-08-19|Aeropuerto Internacional de la Ciudad d|
+[CO]|e Mexico|IVA|16.00|1228.80|1228.80|||
+[SE]|BtGazhLWPjpzgkjWIcvpaRZ+eLR2tv+d3G0GOkBH/8BCFBiAHM4i7ZrvMozHGqpI3uG9WwtsiV4IPzPvnRXE3oznmjGNnb3ar9FpmaToOkjdE3YZZKKJz1LfCvNbLgXL4R0wnXwfe+QIP2WdYHpvIfNvgOhoKaUgMgM20dlkjLA=|
+</lev1add:EDCINVOICE>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

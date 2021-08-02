@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd" serie="A" folio="711" fecha="2016-01-28T20:52:07" sello="HhUXhSL24B2BmMw4Wf8h0C8Y/tuE7wB8FgoRYWyQZSp3AnksZx8z9UzUJt2aF5T0RoX4/w7kvzxoa6wvebJ70d8yUtlxY6JMGz2IveYhJp0fsRpM4aaokmR/FxpK2A/UZhGstX8fcRD6O/yU9Dnq8xF6X3J929eIwV6JGTBLVEQ=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000301411797" certificado="MIIEejCCA2KgAwIBAgIUMDAwMDEwMDAwMDAzMDE0MTE3OTcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMjYwMjI2NDFaFw0xNzExMjYwMjI2NDFaMIHGMSkwJwYDVQQDEyBBTkEgSVNBQkVMIFNZTFZJQSBMRU9OIEtBVUZGTUFOTjEpMCcGA1UEKRMgQU5BIElTQUJFTCBTWUxWSUEgTEVPTiBLQVVGRk1BTk4xKTAnBgNVBAoTIEFOQSBJU0FCRUwgU1lMVklBIExFT04gS0FVRkZNQU5OMRYwFAYDVQQtEw1MRUtBNzEwNDAyODExMRswGQYDVQQFExJMRUtBNzEwNDAyTU9DTkZOMDQxDjAMBgNVBAsTBVVOSUNBMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmA/xutHb4XJsnWYvD17svjaiHzLYhCXysuCNmsXY4CHk8ggXKSKuAj5o5zIYxDLTewon0Drj0hiGTAV9hYVAKZoA3iN3Xz1DWnkU5+vUTprB8jv21M3gJv4kp2wjwLXy1sDTiixoons4liBzv6+PjwV5i2Ep13z7fxmdTdntnqwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEASynkxnVbfj9N18k6PozuzqJ4peiW5vZ7E5Sf7+tiJAzN2R1jYD6oRhZItCtBq+rttMsAV51dKUG8Opq3i5vc96ov8a7NmNndx8KLhxXXJ6kLXL3T59XeDihIr/ekEiBhJ6+tAB60IohOouw44YXZcRwL7e1iZUpKk9PRjSW64ghAtr6RWZImkNpTVY+azwQKaIYirjMwOOxYLpt0/WE1CVWwjuEWsmmCG4PujS+aguIBeep/3Wos2aUA7Sx2jW0rTIwkZZv1xBJJQG9cghb19CnTsgO2jc+C8QtWmYAsYt59HJt7NMA9NB6b8LMCl2QeLGd+Sg69Pe2F60wBkvRc8A==" condicionesDePago="Contado" subTotal="400.000000" Moneda="MXP" total="476.000000" metodoDePago="Efectivo" tipoDeComprobante="ingreso" LugarExpedicion="Oaxaca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:implocal="http://www.sat.gob.mx/implocal">
+<cfdi:Emisor rfc="LEKA710402811" nombre="LEON KAUFFMANN ANA ISABEL SYLVIA">
+		<cfdi:DomicilioFiscal calle="REFORMA" noExterior="405" referencia="ENTRE ABASOLO Y CONSTITUCION" colonia="CENTRO" localidad="OAXACA" municipio="OAXACA DE JUAREZ" estado="Oaxaca" pais="MEXICO" codigoPostal="68000" />
+		<cfdi:RegimenFiscal Regimen="PERSONA FISICA REGIMEN DE INCORPORACION" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+		<cfdi:Domicilio calle="BLVD.MANUEL AVILA CAMACHO" noExterior="2900-804" colonia="FRACC. LOS PIRULES" municipio="TLANEPANTLA" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="Servicio" descripcion="HOSPEDAJE 27 ENERO 2016" valorUnitario="400.000000" importe="400.000000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="64.000000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="64.000000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<implocal:ImpuestosLocales version="1.0" TotaldeRetenciones="0.00" TotaldeTraslados="12.00">
+			<implocal:TrasladosLocales ImpLocTrasladado="IMPUESTO SOBRE HOSPEDAJE" TasadeTraslado="3.00" Importe="12.00" />
+		</implocal:ImpuestosLocales>
+<tfd:TimbreFiscalDigital FechaTimbrado="2016-01-28T20:52:07" UUID="EFADB68D-E157-0F3B-1D5A-8EFB1CBAD385" noCertificadoSAT="00001000000203392777" selloCFD="HhUXhSL24B2BmMw4Wf8h0C8Y/tuE7wB8FgoRYWyQZSp3AnksZx8z9UzUJt2aF5T0RoX4/w7kvzxoa6wvebJ70d8yUtlxY6JMGz2IveYhJp0fsRpM4aaokmR/FxpK2A/UZhGstX8fcRD6O/yU9Dnq8xF6X3J929eIwV6JGTBLVEQ=" selloSAT="AC/G/dQTZJTmPHGJjnB9MOC44idhuxdwGOPqMJH19ZAnYmHcHqLXQM2xVz0MIFlmcWfW2HMSinVYfBm35IVR/gj4hi0aXnGwYLlr35UTN+jELjN3mNriYG/W1zQw54Qn8rpAS/+jNaQcjb+4CHW8QXMaNr2twXLglhcr3mpePdo=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

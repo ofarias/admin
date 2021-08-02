@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="C" folio="000327" fecha="2014-10-22T09:38:11" sello="EjWFrGwedkUk64Y+7gRZO1IhcmvkrJ4syTts5GIx5EGXiiA7hX/NfHkZ+D3Pa6gkQOJpgeYmi+tsLZMh+4adgoj4PGAfYJTR1zsp/VvHj30Hpl9xwUfdUtdMQVDfqTTvtStkwVgmYFgru1dxUdZ5qCEJJg4uamJtGBwz+wAO5sE=" tipoDeComprobante="ingreso" formaDePago="Pago En Una Sola Exhibicion" subTotal="944.06" descuento="0.00" TipoCambio="1.00" Moneda="Pesos" total="900.00" metodoDePago="Transferencia" LugarExpedicion="MIGUEL HIDALGO, DISTRITO FEDERAL" NumCtaPago="4750" noCertificado="00001000000200553169" certificado="MIIEbjCCA1agAwIBAgIUMDAwMDEwMDAwMDAyMDA1NTMxNjkwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDMxMzIyMjYzNVoXDTE2MDMxMzIyMjYzNVowga8xITAfBgNVBAMTGEZFUk5BTkRPIERBVklMQSBSRUJPTExBUjEhMB8GA1UEKRMYRkVSTkFORE8gREFWSUxBIFJFQk9MTEFSMSEwHwYDVQQKExhGRVJOQU5ETyBEQVZJTEEgUkVCT0xMQVIxFjAUBgNVBC0TDURBUkY2MzEwMTBLSjAxGzAZBgNVBAUTEkRBUkY2MzEwMTBIREZWQlIwMzEPMA0GA1UECxMGTk9UMjM1MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFUs2YgdiQD/IMHkeYYoeCmNoLaWSICL9xqNHipS96qMfYGMFH8/xLpEfNrRLmKNW9mFybdppbVJshdbpUEUq7PbXpYaCmLKpSB43CgQJmQgp1jSgtPHpfP7tmry1JsY8U3ed01QOCK4dPYtxhvtA2Zj/9xKwx9bOiEMLVYif6HwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAbH4hR2f9kcdPrj3goyhMGx+XBsCf1y+IzBqykKV5U0QGb9uEji8jrS9rZcYKvixIisMZl1u0LMBg84dJY0x7GXfRGhTWjJ05E4gL2Kxr817uB9Ma5ifrF1vV6qae/ZmRfyxrCW84yTj+3tt4pMznCFZroRMxjaypUM9/BPe4zf/dL//hPXxNRr+4fjkmsT1ryjQkKWpktv4uRgNTQTyhcBqAhI3JXqHnfqM3hAqZC8RzESLiXwfr7A7JgSku5gZjQ1xV0ggdZtd9Qjs/2W78qXgkUcwiBvpC2nWOYEu89m805zmLx+iYGDAL3ueWZwpakssmKp8o8oTN8B0AI0vsSQ==">
+     <cfdi:Emisor rfc="DARF631010KJ0" nombre="FERNANDO DAVILA REBOLLAR">
+          <cfdi:DomicilioFiscal calle="EMERSON" noExterior="243" noInterior="PISO 2" colonia="CHAPULTEPEC MORALES" municipio="MIGUEL HIDALGO" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="11570" />
+          <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS FISICAS CON ACTIVIDADES PROFESIONALES" />
+     </cfdi:Emisor>
+     <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, SA DE CV">
+          <cfdi:Domicilio calle="BLVD MANUEL A CAMACHO" noExterior="2900" noInterior="804" colonia="PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54040" />
+     </cfdi:Receptor>
+     <cfdi:Conceptos>
+          <cfdi:Concepto cantidad="1.00" unidad="SERV." descripcion="GASTOS Y HONORARIOS DE LA ESCRITURA QUE CONTIENE COTEJO DE DOCUMENTOS" valorUnitario="944.06" importe="944.06" />
+     </cfdi:Conceptos>
+     <cfdi:Impuestos totalImpuestosRetenidos="195.11" totalImpuestosTrasladados="151.05">
+          <cfdi:Retenciones>
+               <cfdi:Retencion impuesto="ISR" importe="94.41" />
+               <cfdi:Retencion impuesto="IVA" importe="100.70" />
+          </cfdi:Retenciones>
+          <cfdi:Traslados>
+               <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="151.05" />
+          </cfdi:Traslados>
+     </cfdi:Impuestos>
+  
+
+<cfdi:Complemento> <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" UUID="D44F72BE-31E2-E34B-B09B-AFB4848B9D6A" FechaTimbrado="2014-10-22T11:06:26" selloCFD="EjWFrGwedkUk64Y+7gRZO1IhcmvkrJ4syTts5GIx5EGXiiA7hX/NfHkZ+D3Pa6gkQOJpgeYmi+tsLZMh+4adgoj4PGAfYJTR1zsp/VvHj30Hpl9xwUfdUtdMQVDfqTTvtStkwVgmYFgru1dxUdZ5qCEJJg4uamJtGBwz+wAO5sE=" noCertificadoSAT="00001000000200011997" selloSAT="DP1s5A1CEu/r2g/Lr20tQ6FppmwLV4Fuvf1s3igDm+f7v3Aw0mTx6bK3h6pqe2ZHbDjqzf+t7swgthzAUipCKo1rS67ad3s/NkJv4ciLFG9Jkqb7Rt2VhoftCZMLCBJ0lLu2WrKUAlQyKztWAlOjHIQYf+LpVwqFPKraMxWus/k=" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

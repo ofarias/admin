@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="FMEMA" folio="733705" fecha="2015-08-31T15:51:23" formaDePago="Pago en una sola exhibición" condicionesDePago="Contado" subTotal="43.95" total="50.98" metodoDePago="Efectivo" tipoDeComprobante="ingreso" TipoCambio="0.0" Moneda="MN" LugarExpedicion="Estado De Mexico, México" noCertificado="00001000000201425365" certificado="MIIEjjCCA3agAwIBAgIUMDAwMDEwMDAwMDAyMDE0MjUzNjUwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDYyNjE0MjMwMloXDTE2MDYyNjE0MjMwMlowgc8xJjAkBgNVBAMTHUZFREVYIERFIE1FWElDTyBTIERFIFJMIERFIENWMSYwJAYDVQQpEx1GRURFWCBERSBNRVhJQ08gUyBERSBSTCBERSBDVjEmMCQGA1UEChMdRkVERVggREUgTUVYSUNPIFMgREUgUkwgREUgQ1YxJTAjBgNVBC0THEZETTk5MTEyNTlFMyAvIENBTUo2OTEyMDVDUjMxHjAcBgNVBAUTFSAvIENBTUo2OTEyMDVIREZNTE4wNzEOMAwGA1UECxMFVU5JQ08wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKxCW6qCA+rqVxwK2UzogwEGSlFHnvEgnllmyw2g5+LlcyerpO6a+r4z7RXA77ZS0YVaiiACpkLu0iHZORxIz8tUuhSn/PTcTs0S80hrjYCXPSvrqxBu1UvISfVTIV7Ok2YQOCmA+tASoqcqh6na8cprBiCdz9mHzqHlWhq/vEeFAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQBkX3n4VWBobBfb5C85Zs8pjmiSOMCyNux0EAiskhHXwnJ/FbYcySPI0oQTOVxCT20Fj8lbqwDDZyjCiC/VxnuY+VF9ciQB8mQxezQG4LxAv+NGX2pwTwAbQQHEaCoPvYoZULyCIrjuKEGkPFGJJfZPGe4pqhZ6MWPSs2nGElp7HqE3EimJUyo+/sQVSdaTx6BffaRLLVaB33HEMmwoL8vpUXZfVRieoyvacrS9Oezs8//pCsHRiQmTjEtuQxLqGiEGJgqltxO8txY5BMDK6B+jaR7axN64nVfDW9wh/u350JtZFDZkUC2YOTKX8Wh3rr8BM6UEwQ1HGSCIG0/Mt2/1" sello="DctNfbzMGwiLfs/tjD4W1Kt5RainKLOYQ+P9RY/Hkfyu+wyTnkOoVnXFAj1Ae/7QGlxhQGQ25RATV3fmt5QB/V5olPWvAmif5MqZ3AEwW/rhVz8asYbZbVJGjNQs9fr6kG4c1l37wduObEXgCrwWqTj1kZrB7BUoIRJu149gNZA=">
+  <cfdi:Emisor rfc="FDM9911259E3" nombre="FEDEX DE MEXICO S DE RL DE CV">
+    <cfdi:DomicilioFiscal calle="AV. VASCO DE QUIROGA" noExterior="2999" noInterior="1ER PISO" colonia="PEÑA BLANCA" municipio="SANTA FE" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="01210" />
+    <cfdi:ExpedidoEn calle="Av. Dr. Gustavo Baz Num. 2218, Centro Industrila Tlanepantla." localidad="PPEC" municipio="Tlalnepantla De Baz" estado="Estado De Mexico" pais="MX" codigoPostal="54000" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="M AVILA CAMACHO 2900 INT 804 COL PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="3" unidad="PC" descripcion="CAJA FEDEX 27 X 27 X 27" valorUnitario="14.65" importe="43.95" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="7.03">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="7.03" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="92DE6A16-441D-164E-BE4E-53B1B063EA3D" FechaTimbrado="2015-08-31T15:51:32" selloCFD="DctNfbzMGwiLfs/tjD4W1Kt5RainKLOYQ+P9RY/Hkfyu+wyTnkOoVnXFAj1Ae/7QGlxhQGQ25RATV3fmt5QB/V5olPWvAmif5MqZ3AEwW/rhVz8asYbZbVJGjNQs9fr6kG4c1l37wduObEXgCrwWqTj1kZrB7BUoIRJu149gNZA=" noCertificadoSAT="00001000000200011997" selloSAT="IzzR/882Zbf5Ax18EWW8Mxal7fvPREZ5ucVmf+0t6Bly1jq00zJcTljxqP+t/xR9XxRij+xxgdZ0rQeLNUbEiijR61BEA2om3Kdq5+cn5MIi7Ybl4ecz/rp4ezCFwhDPwdxRnXDRblYksCKo1MOlIJfSKLlhPu6AvRaGs3I7EP8=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

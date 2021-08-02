@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " version="3.2" folio="2044" fecha="2015-02-16T09:29:10" sello="NyaiRI8Om2LKtWmQ9Sw1hXfd2rAQPPdqti38Cl9K3Gxj4/viTGIEJ2cP7d78SUeQe4ob6y18sbINFjfl+J2vZi0fNLmiKpMAQ63yRRE8GY87ddKIPPdYPaxAmbudwPPc73+2lN470zkaX/9ZTqzh2NFvCTnGvcjdypTHoArxZW8=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000202754164" certificado="MIIEaDCCA1CgAwIBAgIUMDAwMDEwMDAwMDAyMDI3NTQxNjQwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDEwODE4MjM0MVoXDTE3MDEwODE4MjM0MVowgakxGTAXBgNVBAMTEERJU0hFRkUgU0EgREUgQ1YxGTAXBgNVBCkTEERJU0hFRkUgU0EgREUgQ1YxGTAXBgNVBAoTEERJU0hFRkUgU0EgREUgQ1YxJTAjBgNVBC0THERJUzEwMTAyMTdEOCAvIEhFT1Y4NTA3MjFNUDYxHjAcBgNVBAUTFSAvIEhFT1Y4NTA3MjFNREZSUlIwMDEPMA0GA1UECxMGbWF0cml6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnr5LbuRfIwSouSqizD96vtyj4ZdQb8SENKJtAtKp0zp9E9v4g/dqgj0lxuxsjA8tA3+qCDMtWZW5xs5zpFv8UAQGI7wJIL5b2crcb9IKfSqmXYwr4Pc9/fmJXgX0UUBiSQQoxXY6BUFYnfNjPrmbK6+ie76Ems+Kz/ocmZ1EjFwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAZ1KITLQiyrhg30kbaRj6thpqY/i0tClb+la/fsqGlsxpkVIxypibMXZQN3XSHyZm8hC6aHrcbweim/4BCWnJFF8xMvx82k4cHaNt4bdXH26vfrCvuyyoEKYKustlv/ow4WsCqTWBAUcgD8ZZo55iIRtjK0ZVlFUFMKVBhjVOD82dRc3cjQObYCL0VwlnYZHDtb1n2shFjhTzhFgOGC6DCk3fOW7s5cWxs6n+bXIyxpFW26Ot3ACZK1Kofe06dtfxzQpTioJotNgMJANkX1CqSyxf5rDl9lStnRXFSrTAxrW29wfcXrCeDqJ37IObhusp1FFP02Lz/bg4xbAS2Dui6A==" condicionesDePago="Contado" subTotal="2400" TipoCambio="1" Moneda="MN" total="2784" tipoDeComprobante="ingreso" metodoDePago="TRANS. ELEC. FONDOS|" LugarExpedicion="MEXCO" NumCtaPago="---------" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor rfc="DIS1010217D8" nombre="DISHEFE, S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="SAN MATEO" noExterior="7" colonia="EJIDAL SAN ISIDRO" municipio="CUAUTITLAN IZCALLI" estado="MEXICO" pais="México" codigoPostal="54700" />
+    <cfdi:ExpedidoEn calle="SAN MATEO" noExterior="7" colonia="EJIDAL SAN ISIDRO" municipio="CUAUTITLAN IZCALLI" estado="MEXCO" pais="MEXICO" codigoPostal="54700" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV ">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900 804" colonia="PIRULES" localidad="TLALNEPANTLA DE BAZ" municipio="TLALNEPANTLA DE BAZ" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" noIdentificacion="SERVICIO GENERAL" descripcion="IVA   16.00  0.00   REPARACION DE PATIN HIDRAULICO, CORRECCION DE FUGAS, ENDEREZADO DE ESTRUCTURA, NIVELADO, LUBRICADO, BUJES, PERNOS, SEGUROS SPIROL Y PINTADO." valorUnitario="1200" importe="1200" />
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" noIdentificacion="SERVICIO GENERAL" descripcion="IVA   16.00  0.00   REPARACION DE PATIN HIDRAULICO, CORRECCION DE FUGAS, ENDEREZADO DE ESTRUCTURA, NIVELADO, LUBRICADO, BUJES, PERNOS, SEGUROS SPIROL Y PINTADO." valorUnitario="1200" importe="1200" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="0" totalImpuestosTrasladados="384">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="192" />
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="192" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="175F7677-B38B-47C0-8BE1-7C332681F979" FechaTimbrado="2015-02-16T09:29:11" selloCFD="NyaiRI8Om2LKtWmQ9Sw1hXfd2rAQPPdqti38Cl9K3Gxj4/viTGIEJ2cP7d78SUeQe4ob6y18sbINFjfl+J2vZi0fNLmiKpMAQ63yRRE8GY87ddKIPPdYPaxAmbudwPPc73+2lN470zkaX/9ZTqzh2NFvCTnGvcjdypTHoArxZW8=" noCertificadoSAT="00001000000201345708" selloSAT="PDx32qG1AJKm1jUB3jtlG8MmD9+OBHDm0I2QCZ/F4Tx2lffiLPkrGmMqRHf3r9tSUq1jae8ICcy6Nj7Z/etyTrwdU8+qE/ueUdWTRGEKDx3T0A4N9d+z6aYKG0KOEkNGWFis8Mo1dZksNP4ns70vKyRpaCLT3ZgbivPWKAdF7cQ=" />
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <requestForPayment DeliveryDate="2015-02-16" contentVersion="1.3.1" documentStatus="ORIGINAL" documentStructureVersion="AMC7.1" type="SimpleInvoiceType">
+      <requestForPaymentIdentification>
+        <uniqueCreatorIdentification>2044</uniqueCreatorIdentification>
+        <NumCliente>SRITA. YARELI SILVA</NumCliente>
+        <Telefono>
+        </Telefono>
+        <DiasCredito>0</DiasCredito>
+      </requestForPaymentIdentification>
+      <AdditionalInformacion>
+        <orderIdentification>
+          <referenceIdentification type="ON">
+          </referenceIdentification>
+        </orderIdentification>
+      </AdditionalInformacion>
+      <specialInstruction>
+        <text>
+        </text>
+      </specialInstruction>
+    </requestForPayment>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

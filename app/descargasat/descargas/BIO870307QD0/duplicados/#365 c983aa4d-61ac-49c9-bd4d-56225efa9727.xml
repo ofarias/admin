@@ -1,0 +1,21 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="53100" MetodoPago="PUE" TipoDeComprobante="I" Total="327.12" Moneda="MXN" Certificado="MIIEdTCCA12gAwIBAgIUMDAwMDEwMDAwMDAzMDE3OTM1MTkwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMTUwNTQ5MTdaFw0xNzEyMTUwNTQ5MTdaMIHBMSEwHwYDVQQDExhHVVNUQVZPIENBU1RJTExPIFZJVkVST1MxITAfBgNVBCkTGEdVU1RBVk8gQ0FTVElMTE8gVklWRVJPUzEhMB8GA1UEChMYR1VTVEFWTyBDQVNUSUxMTyBWSVZFUk9TMRYwFAYDVQQtEw1DQVZHNzAwNjE2RUcwMRswGQYDVQQFExJDQVZHNzAwNjE2SERGU1ZTMDcxITAfBgNVBAsTGENBU1RJTExPIFZJVkVST1MgR1VTVEFWTzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwTyXGIxcpT7zzmXrCwT6FopM8YMDjTL/5Gh1A2ZbR58+hmSiRXQOSNrRKaNNpesDUqxYyCndQKiBP/33TsAS6NUhFfjCuNxiIzmzZY34ZzjiEeBeOobEe51t+2/dRLG76M3TE2CZ7DEMAZlLYb2QBTm9WiGYhavtALQubue2OvsCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADY56++p10IuJIXel7JhVZLHsOcnKhGJLpNMnQUJDH8gepio0/EX6wbYQv2IaPbplBRFrb1gKC4QpaHVn3U7MDQCsuLCRSZ8vbTfg1Me0EekCJOsTRPU3KIS2LddnYMnZt/Xv/SnX9qyvuZSBAUvVvYq7y7bu44hbqNhisiv713LTTiVqKlqJkQVuR2NCFZW/J9hRzrBVkEER3ueZ2hCqOLTJOaNrTYRKQPkNJxVcT5WkJ4phpGdkbKt3DvbxEn08a7u/3kwSuF/3C8eKxq63jhbq4FBPG5E6qlo9nNI7lQ6FLvJde1jNAuENBdcXpSYqNO8R7RtKOQ13lRqj2jNdNo=" SubTotal="282.00" CondicionesDePago="Contado" NoCertificado="00001000000301793519" FormaPago="01" Sello="JthjE6EtpeJtTlOY18SubnNBcGIcN6UlukxPSMWW4ppgTxHuqIxaKr+TCq5r79kEV4h+5D1T1PHMfqAaExrF/Vo6CGtFS0ho5JeTbmvbGFVgz0DHeL6oanksok9pjdYKKIeUnFHC0Y/JVkQ00aiJ0kvb3zla0psj0QsBMsw93IU=" Fecha="2017-12-14T21:22:29" Folio="365" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="CAVG700616EG0" Nombre="GUSTAVO CASTILLO VIVEROS" RegimenFiscal="612"></cfdi:Emisor>
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BOITECSA S.A. DE C.V." UsoCFDI="G03"></cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="49101602" Cantidad="1" ClaveUnidad="H87" Unidad="Pza" Descripcion="Canasta con emplayado" ValorUnitario="282.00" Importe="282.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="282.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.12"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="45.12">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.12"></cfdi:Traslado>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="C983AA4D-61AC-49C9-BD4D-56225EFA9727" FechaTimbrado="2017-12-14T21:27:56" RfcProvCertif="SAT970701NN3" SelloCFD="JthjE6EtpeJtTlOY18SubnNBcGIcN6UlukxPSMWW4ppgTxHuqIxaKr+TCq5r79kEV4h+5D1T1PHMfqAaExrF/Vo6CGtFS0ho5JeTbmvbGFVgz0DHeL6oanksok9pjdYKKIeUnFHC0Y/JVkQ00aiJ0kvb3zla0psj0QsBMsw93IU=" NoCertificadoSAT="00001000000403258748" SelloSAT="gI9Bc67chTKrLagvyyboO8a3WVPvGDrK3/qqqFxs+Sk8thLX9ztXehg/sGmCX+xaOLITzK26Lc6MpQKNhPkCqrMI/dw7Bavn97U1WsTTpOKsYpisOxGl2Z0LiaMAHxnf0Lk8Ylwr1DgGgGEMzDBcE0AtZ9ao8J3N0e/P52xpab9eF417h4PsQPZkLqPlB/9sK0+TE+5iUot1Zujx+DVPI9uhbKkBsl1MKS2s9MmJD4ssF9d4ZGwVaD0fGQKEuyBRe8W8SeZqBBK7eOWi48Nlm1o/u4ZtoV80CnIyZZG+WZOgM/mpEOJuEeaiNYD2hhJTm8FbnDYxc/AAe9HdMxsVbg==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

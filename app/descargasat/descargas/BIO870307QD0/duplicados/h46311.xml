@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:fa="http://www.itcomplements.com/cfd/v1" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/TimbreFiscalDigital ftp://ftp2.sat.gob.mx/asistencia_servicio_ftp/publicaciones/solcedi/TimbreFiscalDigital.xsd" version="3.2" serie="H" folio="46311" fecha="2015-06-17T15:28:19" sello="kYYE8n1ZQ5JQcGoBazirzCulqoiBLjeHSPdzgZG8DZrkU1nIpPav7KOXTCu+J3B0qMeIkRGGlkd1gh85/qlelPrlHvzckWYiMI+0uPIGVVfUiDzPWj55PD268r5R2icthpf0NAoY2R42b921OV2m26WVXH/rAISf1QnXUz58vDM=" noCertificado="00001000000202705969" certificado="MIIEfjCCA2agAwIBAgIUMDAwMDEwMDAwMDAyMDI3MDU5NjkwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIyOTA0MzQzNVoXDTE2MTIyOTA0MzQzNVowgb8xIDAeBgNVBAMTF0ZBUk1BQ0lBIFBBUklTIFNBIERFIENWMSAwHgYDVQQpExdGQVJNQUNJQSBQQVJJUyBTQSBERSBDVjEgMB4GA1UEChMXRkFSTUFDSUEgUEFSSVMgU0EgREUgQ1YxJTAjBgNVBC0THEZQQTg2MDkyMVNFMyAvIFBBQ1A0NDA2MjlVVzcxHjAcBgNVBAUTFSAvIFBBQ1A0NDA2MjlIVlpMUkQwMzEQMA4GA1UECxMHVGllbmRhczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsMt7OWaQh0Z64SUValMBQHhIKgLwBI1b7uwMvqZ+tJ+3RRCytV0+sOj7Xfm930o7BonUZTkNSjhMm/CQGfSo641JfRvwpIXrYNFjUdIwbxNQCa0335B4KT+arQWnjX0hByIBjHX82PawjmoJt8tMw88mXRQ+Ybhe3WxxBTPKuF8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAIu2Poi/tkxJVeOnlgzgRZG0Yc9F618pcYrf/T+MKOOlEqROwoiji2wzA+DdpfktwZw0VJeNDdh2sUP1mc6MUp2Q1IL2NWGtYRmtJy6fRlMlm29ndJLnVZjcYlmkK1WTiY4JzvO4rNhFb0QvbzfbjdCOPMDDoAy0dzMxoWQh+GHHdHpClMhwkKXgDosaltUD/RapHYGfiegH2vY2viC6ColHKpCepvo1tfjdhxq6//URZnnuHVA51FP0+yrwNniNFECjsFW6Np08w/tedOGCQHWsrfWCuysL9hSBdDqARWdKU5XE39YTsRaunZmvrcAsWXz4BOhtvLHp+3so4B7iGrw=" condicionesDePago="CONTADO" subTotal="560.34" descuento="0.00" motivoDescuento="Por pronto pago" total="650.00" tipoDeComprobante="ingreso" metodoDePago="TARJETA BANCARIA" Moneda="PESOS" TipoCambio="1.00" LugarExpedicion="MEXICO, D.F." NumCtaPago="4355" formaDePago="Pago en una sola exhibicion"><cfdi:Emisor rfc="FPA860921SE3" nombre="FARMACIA PARIS S.A. DE C.V.">
+		<cfdi:DomicilioFiscal calle="REPUBLICA DE EL SALVADOR" noExterior="95 97" colonia="CENTRO DE LA CIUDAD DE MEXICO" localidad="-" referencia="-" municipio="CUAUHTEMOC" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06080"/><cfdi:ExpedidoEn calle="REPUBLICA DE EL SALVADOR" noExterior="77" colonia="CENTRO DE LA CIUDAD DE MEXICO" municipio="CUAUHTEMOC" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06080"/><cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+	</cfdi:Emisor><cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+           <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC LOS PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54040"/>
+    </cfdi:Receptor><cfdi:Conceptos>
+    <cfdi:Concepto cantidad="    100           " unidad="PZA" noIdentificacion="979999000179" descripcion="BOT BIO 250 ML CRIS                                                                                                                                                " valorUnitario="        4.310345" importe="         431.03"/>
+<cfdi:Concepto cantidad="    100           " unidad="PIEZA" noIdentificacion="979999000100" descripcion="TAPA 40 BLANCA LINER PLATA                                                                                                                                         " valorUnitario="        1.293103" importe="         129.31"/>
+</cfdi:Conceptos><cfdi:Impuestos totalImpuestosTrasladados="89.66">
+		<cfdi:Traslados>
+		<cfdi:Traslado impuesto="IVA       " tasa="    16    " importe="           89.66   "/>
+</cfdi:Traslados>
+	</cfdi:Impuestos><cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2015-06-17T15:31:23" UUID="8DB83846-258E-4E01-8CF5-D0E16EE119A6" noCertificadoSAT="00001000000300494998" selloCFD="kYYE8n1ZQ5JQcGoBazirzCulqoiBLjeHSPdzgZG8DZrkU1nIpPav7KOXTCu+J3B0qMeIkRGGlkd1gh85/qlelPrlHvzckWYiMI+0uPIGVVfUiDzPWj55PD268r5R2icthpf0NAoY2R42b921OV2m26WVXH/rAISf1QnXUz58vDM=" selloSAT="hxTUUuUXqkKCriRMuvTflG0XqxoGbdzxUz6WutVPGX16/uZdULgm2mxcO/C2TLhdEKVRm2PFWPsOdBAKIwX3Kjdj9VZUIe5nnZxqFQMTmoXV0VVlFXVxJFjqljXgUvuZsYCLYo0l5AXgzmLqNZsoiAxznp5a1HZYn7dOSRmHMgI=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/></cfdi:Complemento><cfdi:Addenda>
+<fa:Datos xmlns:fa="http://www.itcomplements.com/cfd/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.itcomplements.com/cfd/v1 http://www.itcomplements.com/cfd/v1/fav1.xsd" version="1.0" tipoDocumento="Factura" mail="administracion@biotecsa.com" printer="" fechaFactura="17 de JUNIO del 2015" ordenCompra="" fechaOrdenCompra="" noContraRecibo="" fechaContraRecibo="" glnComprador="" glnVendedor="" glnEntregado="" totalPartidas="" moneda="" tipoCambio="" cantidadConLetra="(SEISCIENTOS CINCUENTA PESOS 00/100 M.N.)" status="1" totalMx="" ivaMx="" importe="560.34" noProveedor="" noCliente="" nota="" cliente="BIO870307QD0" it16="$560.34" tit16="$89.66" tt16="$650.00" tt0="$0.00" tte="$0.00" dt="024-934062 17/06/15">
+	<fa:Detalle>      
+	</fa:Detalle>
+	<fa:hfd version="1.0">~|0|Z0 Xi
+~K1="Arial" n 14
+~K2="Tahoma" 8
+~K3="Arial" n 8
+
+~&lt;P'=1'
+~&gt;
+
+~H|0|
+~[90
+~#|e+|@2 Jr
+.
+~]
+
+~&lt;Z100
+~&gt;
+
+~#
+~[5 35 10 
+~#
+~[5
+~#D "logofp.jpg";
+~]
+~#
+~[35
+~#|e+|M35.35 Jv50 Jc @1
+FARMACIA PARIS S.A. DE C.V.
+~#|e+|M35.35 Jv50 Jc @?
+REPUBLICA DE EL SALVADOR 95 97
+
+COL. CENTRO DE LA CIUDAD DE MEXICO  
+
+DELEG. CUAUHTEMOC, C.P. 06080
+
+MEXICO D.F.
+
+RFC: FPA860921SE3
+
+TEL: 5709-5000
+
+Regimen:  REGIMEN GENERAL DE LEY PERSONAS MORALES
+~]
+
+~#
+~[10
+~#|e+|M15.1.35 Jv50 Jr @=
+Pagina @p de @P
+~#|e+ 15.5 glrdug|M35.35 Jv50 Jc @2
+Factura
+~#|e+|M20.20
+~#
+~[5 5
+~#
+~[5
+
+~#|e+ 15.1 glrdug| M35.35 Jv50 Jc @2
+H
+~]
+~#
+~[5
+~#|e+ 15.1 glrdug| M35.35 Jv50 Jc @2
+46311
+~]
+~]
+~#|e+|M20.20
+~#|e+ 15.1 glrdug|M35.35 Jv50 Jc @2
+2015-06-17T15:28:19
+~#|e+|M35.35 Jv50 Jl @2
+Ticket: 024-934062 17/06/15
+~]
+~]
+
+~&lt;Z20
+~&gt;
+
+~[25 1 25
+
+~#
+~[25
+~#|e+ 15.1 f4.15 glug d0|M30.30 Jv50 Jl @3
+FACTURADO A:
+~#|e+ 15.1 gdrg u0|M300.250 Jv10 Jl @2
+Nombre		: BIOTECSA SA DE CV
+            
+Dirección	: BLVD MANUEL AVILA CAMACHO 2900 804 FRACC LOS PIRULES
+		
+		
+		TLALNEPANTLA DE BAZ,  ESTADO DE MEXICO, MEXICO
+		
+C. P.		: 54040 
+		
+R. F. C.	: BIO870307QD0 			
+
+
+~]
+~#
+~[1
+~]
+~#
+~[25
+~#|e+ 15.1 f4.15 glug d0|M30.30 Jv50 Jl @3
+EXPEDIDO EN:
+~#|e+ 15.1 gdrg u0|M300.250 Jv10 Jl @2           
+
+Dirección: REPUBLICA DE EL SALVADOR 77 , CENTRO DE LA CIUDAD DE MEXICO,
+
+
+           CUAUHTEMOC, DISTRITO FEDERAL, MEXICO
+
+           C.P. 06080 
+ 
+           Lugar y Fecha de Expedición: MEXICO, D.F. a 17 de JUNIO del 2015
+~]
+~]
+
+~&lt;Z20
+~&gt;
+
+~[25 25 25 25
+~#|e+ 15.1 glg f4.15|M35.35 Jv50 Jc @2
+@3Folio Fiscal: 8DB83846-258E-4E01-8CF5-D0E16EE119A6
+~#|e+ 15.1 f4.15|M35.35 Jv50 Jc @2
+No Certificado SAT: 00001000000300494998
+~#|e+ 15.1 f4.15|M35.35 Jv50 Jc @2
+Número de Certificado:  00001000000202705969
+~#|e+ 15.1 gug f4.15|M35.35 Jv50 Jc @2
+Fecha y Hora de Certificación: 2015-06-17T15:31:23
+~]
+~[25 25 25 25
+~#|e+ 15.1 gdg f4.15|M30.30 Jv50 Jc @2
+Metodo de Pago:  TARJETA BANCARIA
+~#|e+ 15.1 f4.15|M30.30 Jv50 Jc @2
+Número de Cuenta de Pago:  4355
+~#|e+ 15.1 f4.15|M30.30 Jv50 Jc @2
+Moneda: PESOS
+~#|e+ 15.1 grg f4.15|M30.30 Jv50 Jc @2
+Tipo de Cambio: 1.00
+~]
+
+~&lt;Z20
+~&gt;
+
+~[7 7 40 12 10 10
+~#|e+15.1 gldg | M35.35 @2 Jv50 Jc
+Cantidad
+~#|e+15.1 | M35.35 @2 Jv50 Jc
+Unidad
+~#|e+15.1 | M35.35 @2 Jv50 Jc
+Descripción
+~#|e+15.1 | M35.35 @2 Jv50 Jc
+Articulo
+~#|e+15.1 | M35.35 @2 Jv50 Jc
+Precio Unitario
+~#|e+15.1 gurg | M35.35 @2 Jv50 Jc
+Importe
+~]
+
+~&gt;
+
+~[  7 7 40 12 10 10
+~#  Jr @? |r40|
+100
+~#  Jc @?
+PZA
+~#  Jl @? |l80|
+BOT BIO 250 ML CRIS                                                                                                                                                
+~#  Jl @? |l20|
+979999000179
+~#  Jr @? |r20|
+4.310345
+~#  Jr @? |r20|
+431.03
+~]
+~[  7 7 40 12 10 10
+~#  Jr @? |r40|
+100
+~#  Jc @?
+PIEZA
+~#  Jl @? |l80|
+TAPA 40 BLANCA LINER PLATA                                                                                                                                         
+~#  Jl @? |l20|
+979999000100
+~#  Jr @? |r20|
+1.293103
+~#  Jr @? |r20|
+129.31
+~]
+
+~&lt;Z20
+~&gt;
+
+~[90
+~#|e+ 15.1 f4.15 gdrulg |M35.35 Jv50 Jl @2
+@4CADENA ORIGINAL DEL COMPLEMENTO DE CERTIFICACION DIGITAL DEL SAT
+
+||1.0|8DB83846-258E-4E01-8CF5-D0E16EE119A6|2015-06-17T15:31:23|kYYE8n1ZQ5JQcGoBazirzCulqoiBLjeHSPdzgZG8DZrkU1nIpPav7KOXTCu+J3B0qMeIkRGGlkd1gh85/qlelPrlHvzckWYiMI+0uPIGVVfUiDzPWj55PD268r5R2icthpf0NAoY2R42b921OV2m26WVXH/rAISf1QnXUz58vDM=|00001000000300494998||
+~]
+
+~[1
+~#|e+|
+~#|e+ 15.1 f4.15 gdrulg |M35.35 Jv50 Jl @2
+@4SELLO DIGITAL DEL CFDI
+
+kYYE8n1ZQ5JQcGoBazirzCulqoiBLjeHSPdzgZG8DZrkU1nIpPav7KOXTCu+J3B0qMeIkRGGlkd1gh85/qlelPrlHvzckWYiMI+0uPIGVVfUiDzPWj55PD268r5R2icthpf0NAoY2R42b921OV2m26WVXH/rAISf1QnXUz58vDM=
+~#|e+ 15.1 f4.15 gdrulg |M35.35 Jv50 Jl @2
+@4SELLO SAT
+
+hxTUUuUXqkKCriRMuvTflG0XqxoGbdzxUz6WutVPGX16/uZdULgm2mxcO/C2TLhdEKVRm2PFWPsOdBAKIwX3Kjdj9VZUIe5nnZxqFQMTmoXV0VVlFXVxJFjqljXgUvuZsYCLYo0l5AXgzmLqNZsoiAxznp5a1HZYn7dOSRmHMgI=
+~#@3 Jc
+
+~]
+
+
+~F|0|
+~[90
+
+~#|e+ 15.1  gdrlug |M35.35 Jv50 Jl @?
+Importe Tasa 16%: $560.34  Impuesto Tasa 16%: $89.66   Total Tasa 16%: $650.00   Total Tasa 0%: $0.00   Total Tasa Exenta: $0.00 
+~]
+
+~&lt;Z20
+~&gt;
+
+
+~[20 15 1 10 1 10
+~#
+~[20
+~#D "8DB83846-258E-4E01-8CF5-D0E16EE119A6.bmp";
+~]
+~#
+~[25
+~#|e+ 15.1 f4.15 gludrg |M35.35 Jv50 Jl @3
+PAGO EN UNA SOLA EXHIBICION
+~#|e+|M40.40
+~#|e+ 15.1 f4.15 gulg d0|M35.35 Jv50 Jl @2
+Cantidad con Letra:
+~#|e+ 15.1 gdrg u0|M70.70 Jv10 Jl @?
+(SEISCIENTOS CINCUENTA PESOS 00/100 M.N.)
+~#|e+|M20.20
+~#|e+ 15.1 f4.15 gulg d0|M35.35 Jv50 Jl @2
+Observaciones:
+~#|e+ 15.1 gdrg u0|M70.70 Jv10 Jl @?
+
+~#|e+|M20.20
+~#|e+ 15.1 gdrulg |M60.60 Jv50 Jc @2
+Cve Cliente:    BIO870307QD0
+administracion@biotecsa.com
+
+~]
+~#
+~[1
+~]
+
+~#
+~[10
+~#|e+|M40.40
+~#|e+ 15.1 gdrulg |M60.60 Jv50 Jc @2
+SUMA
+~#|e+|M30.30
+~#|e+ 15.1 gdrulg |M60.60 Jv50 Jc @2
+DESCUENTO
+~#|e+|M30.30
+~#|e+ 15.1 gdrulg |M60.60 Jv50 Jc @2
+SUB-TOTAL
+~#|e+|M30.30
+~#|e+ 15.1 gdrulg |M60.60 Jv50 Jc @2
+I.V.A.  16%
+~#|e+|M30.30
+~#|e+ 15.1 gdrulg |M60.60 Jv50 Jc @2
+TOTAL
+~#|e+|M30.30
+~]
+
+~#
+~[1
+~]
+
+~#
+~[10
+~#|e+|M40.40
+~#|e+ 15.1 gdrulg|M60.60 Jv50 Jc @2
+$560.34
+~#|e+|M30.30
+~#|e+ 15.1 gdrulg|M60.60 Jv50 Jc @2
+$0.00
+~#|e+|M30.30
+~#|e+ 15.1 gdrulg|M60.60 Jv50 Jc @2
+$560.34
+~#|e+|M30.30
+~#|e+ 15.1 gdrulg|M60.60 Jv50 Jc @2
+$89.66
+~#|e+|M30.30
+~#|e+ 15.1 gdrulg|M60.60 Jv50 Jc @2
+$650.00
+~#|e+|M30.30
+~]
+~]
+
+~&lt;Z20
+~&gt;
+
+~[90
+~#|e+|M35.35 Jv50 Jc @+
+ESTE DOCUMENTO ES UNA REPRESENTACION IMPRESA DE UN CFDI
+~]
+
+~&gt;
+
+</fa:hfd>
+	<fa:CadenaOriginal>
+	||3.2|2015-06-17T15:28:19|ingreso|Pago en una sola exhibicion|CONTADO|560.34|0.00|1.00|PESOS|650.00|TARJETA BANCARIA|MEXICO, D.F.|4355|FPA860921SE3|FARMACIA PARIS S.A. DE C.V.|REPUBLICA DE EL SALVADOR|95 97|CENTRO DE LA CIUDAD DE MEXICO|-|-|CUAUHTEMOC|DISTRITO FEDERAL|MEXICO|06080|REPUBLICA DE EL SALVADOR|77|CENTRO DE LA CIUDAD DE MEXICO|CUAUHTEMOC|DISTRITO FEDERAL|MEXICO|06080|REGIMEN GENERAL DE LEY PERSONAS MORALES|BIO870307QD0|BIOTECSA SA DE CV|BLVD MANUEL AVILA CAMACHO|2900|804|FRACC LOS PIRULES|TLALNEPANTLA DE BAZ|ESTADO DE MEXICO|MEXICO|54040|100|PZA|979999000179|BOT BIO 250 ML CRIS|4.310345|431.03|100|PIEZA|979999000100|TAPA 40 BLANCA LINER PLATA|1.293103|129.31|IVA|16|89.66|89.66||</fa:CadenaOriginal>
+	<fa:AddendaComercial>
+		<fa:EntregadoEn nombre="" calle="" noExterior="" noInterior="" colonia="" localidad="" referencia="" municipio="" estado="" pais="" codigoPostal="" telefono=""/>
+		<fa:Detalle2 linea="" descripcion="" backorder="0" cantidad="" pUnitario="" total="" embarquefecha="" numero="" fecha="" aduana=""/>  
+
+	</fa:AddendaComercial>
+</fa:Datos>
+</cfdi:Addenda></cfdi:Comprobante>

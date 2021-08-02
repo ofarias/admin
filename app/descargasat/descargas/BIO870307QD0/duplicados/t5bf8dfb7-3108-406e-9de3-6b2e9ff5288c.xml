@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="FJNTS" folio="12094" fecha="2017-09-29T01:58:56" sello="bAgp8VJpX8ZvHeboUB/FFPnEfD+6IWohIcwEcsOsTQxN6vLgiqs9j7CuJyj3WY4f/tUbyux8cWClclTk/RRl9+JokcnRBBxZhz9MUJcHowBbDMAkPhXv3X7UuV4oHgJpRIiN31GcCpv7DM5O3GgjkieKVOphTPBNlh2H0RU7tf8=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000301989743" certificado="MIIEhjCCA26gAwIBAgIUMDAwMDEwMDAwMDAzMDE5ODk3NDMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjMxNzI0MjlaFw0xNzEyMjMxNzI0MjlaMIHSMSYwJAYDVQQDEx1FTEVDVFJPTklDQSBBVElaQVBBTiBTQSBERSBDVjEmMCQGA1UEKRMdRUxFQ1RST05JQ0EgQVRJWkFQQU4gU0EgREUgQ1YxJjAkBgNVBAoTHUVMRUNUUk9OSUNBIEFUSVpBUEFOIFNBIERFIENWMSUwIwYDVQQtExxFQVQwMzExMDMzNDggLyBHT0NBNDkwNTA2VE43MR4wHAYDVQQFExUgLyBHT0NBNDkwNTA2SEFTTlNSMDgxETAPBgNVBAsTCEFUSVpBUEFOMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaIMlqft4dwLZlCGn7rq9pl70X0Og41m0cUbbH9j3LubMt1A2NLRwwnTSW/6hl11YUaMsJqZPPwYJdwLLF1CktFodGkQbQc6ib+cDoovKVN2WSerKLUpxvxKbpN0w5MStoAHogHvvNYDPHoRdndJGyHpcxEQFzh8yTc3uWkSvV4QIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAUZ27V648RG9J9cUy/G8ND8QDW25XHJkoQB1AA1EnCX+potxW9cRjTrbKJ/DqiTd8kbCf9n8PUES0Ycfk4lXZYiWuHbzwu6IJ1iLfZEwKw+ZQ7KyhiVqQh4Kot6UhcrHXrPMPiKcyGs7zi2+EmfdMQSYlTovcvQ2RtHGmWzr7XCpSY+kzJBwRcLW3BLQm8aNst3FQIOc5aN7Cnj4Lg81sFe1aXefpeOR8qHvpIWpKYTbxXQb28cpsgyvALTdCZ1VV/MIcCJzl0L+0Q9VL06fo/b7rT+6wzpjbvQ8svC7qPkwB7G6Yz9dosobMIi71GCGD2GXhQCF9kjBJv/yErhgtWA==" subTotal="3431.030000" descuento="0.000000" Moneda="MXN" total="3980.000000" tipoDeComprobante="ingreso" metodoDePago="04" LugarExpedicion="ATIZAPAN DE ZARAGOZA, Estado de Mexico" NumCtaPago="8297">
+  <cfdi:Emisor rfc="EAT031103348" nombre="ELECTRONICA ATIZAPAN S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="AVENIDA HIDALGO" noExterior="NO. 22" colonia="ATIZAPAN CENTRO" localidad="ATIZAPAN" referencia="12094" municipio="ATIZAPAN" estado="MEX" pais="Mexico" codigoPostal="52971" />
+    <cfdi:ExpedidoEn calle="AVENIDA DE LOS JINETES" noExterior="NO. 155" colonia="LAS ARBOLEDAS" localidad="ATIZAPAN DE ZARAGOZA" municipio="ATIZAPAN DE ZARAGOZA" estado="MEX" pais="Mexico" codigoPostal="52950" />
+    <cfdi:RegimenFiscal Regimen="Regimen Fiscal de Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900-804" colonia="FRACC LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="MEX" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="20.000000" unidad="Pieza" descripcion="ALARMA DE HUMO CON ZUMBADOR" valorUnitario="171.550000" importe="3431.030000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="0.000000" totalImpuestosTrasladados="548.970000">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="IVA" importe="0.000000" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.000000" importe="548.970000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="5bf8dfb7-3108-406e-9de3-6b2e9ff5288c" FechaTimbrado="2017-09-29T14:00:29" selloCFD="bAgp8VJpX8ZvHeboUB/FFPnEfD+6IWohIcwEcsOsTQxN6vLgiqs9j7CuJyj3WY4f/tUbyux8cWClclTk/RRl9+JokcnRBBxZhz9MUJcHowBbDMAkPhXv3X7UuV4oHgJpRIiN31GcCpv7DM5O3GgjkieKVOphTPBNlh2H0RU7tf8=" noCertificadoSAT="00001000000405999912" selloSAT="l3VyDOkSIL2Z9KvbS0BizWeePbXJ2Cg+S36RjBxwlN049+l+Kta4vEzHJHuT36jlDpgGDIiidrEwxDZY44+L98FNikdlzkre2zFQDm7URskwo9t/QnqvPMl88Aju5eNLtNObMl5sHNJjWt9BusTMQUSbMbsgOp+2udguVTbDVibcZ2NmkBqls42kcy5fv+F+bTvK7lD5Z/Bir6oq7x0gcIdF28tjFndke+O/dQxyx68mIEKErdb1d8UYGKQgBMIjpiFujvTTdeBWnSDPJoauRVZyvtg4EGa23H2F6wceNfI1Qnz5K5ixTLg2G1FbVYUHy80moUKPLfZTqdTKYzQs2Q==" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento><cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33FJNTS12094">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>1</ecfd:NroAprob>
+            <ecfd:AnoAprob>1900</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>FJNTS</ecfd:Serie>
+            <ecfd:Folio>12094</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:FechaEmis>2017-09-29T01:58:56</ecfd:FechaEmis>
+            <ecfd:FormaPago>PAGO EN UNA SOLA EXHIBICION</ecfd:FormaPago>
+            <ecfd:MedioPago>04</ecfd:MedioPago>
+            <ecfd:LugarExpedicion>ATIZAPAN DE ZARAGOZA, Estado de Mexico</ecfd:LugarExpedicion>
+            <ecfd:NumCtaPago>8297</ecfd:NumCtaPago>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>EAT031103348</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>ELECTRONICA ATIZAPAN S.A. DE C.V.</ecfd:NmbEmisor>
+            <ecfd:Sucursal>STEREN CLASICA JINETES ARBOLEDAS</ecfd:Sucursal>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>AVENIDA HIDALGO</ecfd:Calle>
+              <ecfd:NroExterior>NO. 22</ecfd:NroExterior>
+              <ecfd:Colonia>ATIZAPAN CENTRO</ecfd:Colonia>
+              <ecfd:Localidad>ATIZAPAN</ecfd:Localidad>
+              <ecfd:Referencia>12094</ecfd:Referencia>
+              <ecfd:Municipio>ATIZAPAN</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>52971</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>AVENIDA DE LOS JINETES</ecfd:Calle>
+              <ecfd:NroExterior>NO. 155</ecfd:NroExterior>
+              <ecfd:Colonia>LAS ARBOLEDAS</ecfd:Colonia>
+              <ecfd:Localidad>ATIZAPAN DE ZARAGOZA</ecfd:Localidad>
+              <ecfd:Municipio>ATIZAPAN DE ZARAGOZA</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>52950</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QD0</ecfd:RFCRecep>
+            <ecfd:NmbRecep>BIOTECSA SA DE CV</ecfd:NmbRecep>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>BLVD. MANUEL AVILA CAMACHO</ecfd:Calle>
+              <ecfd:NroExterior>2900-804</ecfd:NroExterior>
+              <ecfd:Colonia>FRACC LOS PIRULES</ecfd:Colonia>
+              <ecfd:Localidad>TLALNEPANTLA</ecfd:Localidad>
+              <ecfd:Municipio>TLALNEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>MX</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+            <ecfd:LugarRecep>
+              <ecfd:Calle>BLVD. MANUEL AVILA CAMACHO</ecfd:Calle>
+              <ecfd:NroExterior>2900-804</ecfd:NroExterior>
+              <ecfd:Colonia>FRACC LOS PIRULES</ecfd:Colonia>
+              <ecfd:Localidad>TLALNEPANTLA</ecfd:Localidad>
+              <ecfd:Referencia>BIOTECSA SA DE CV</ecfd:Referencia>
+              <ecfd:Municipio>TLALNEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>MX</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:LugarRecep>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:SubTotal>3431.03</ecfd:SubTotal>
+            <ecfd:MntDcto>0</ecfd:MntDcto>
+            <ecfd:MntBase>3431.03</ecfd:MntBase>
+            <ecfd:MntImp>548.97</ecfd:MntImp>
+            <ecfd:MntRet>0</ecfd:MntRet>
+            <ecfd:VlrPagar>3980</ecfd:VlrPagar>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16</ecfd:TasaImp>
+            <ecfd:MontoImp>548.97</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+          <ecfd:ExRetenciones>
+            <ecfd:TipoRet>IVA</ecfd:TipoRet>
+            <ecfd:TasaRet>0</ecfd:TasaRet>
+            <ecfd:MontoRet>0</ecfd:MontoRet>
+          </ecfd:ExRetenciones>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>ALARMA DE HUMO CON ZUMBADOR</ecfd:DscItem>
+          <ecfd:QtyItem>20</ecfd:QtyItem>
+          <ecfd:UnmdItem>Pieza</ecfd:UnmdItem>
+          <ecfd:PrcBrutoItem>171.55</ecfd:PrcBrutoItem>
+          <ecfd:PrcNetoItem>171.55</ecfd:PrcNetoItem>
+          <ecfd:MontoBrutoItem>3431.03</ecfd:MontoBrutoItem>
+          <ecfd:MontoNetoItem>3431.03</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:Referencia>
+          <ecfd:NroLinRef>1</ecfd:NroLinRef>
+          <ecfd:ECB01>Material</ecfd:ECB01>
+          <ecfd:ECB02>NumSerie</ecfd:ECB02>
+          <ecfd:ECB04>Observaciones</ecfd:ECB04>
+          <ecfd:ECB05>RenglonNot</ecfd:ECB05>
+          <ecfd:ECB06>aRecepcion</ecfd:ECB06>
+        </ecfd:Referencia>
+        <ecfd:TimeStamp>2017-09-29T13:52:27</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="Leyenda1" />
+        <ecfd:campoString name="Formato">2</ecfd:campoString>
+        <ecfd:campoString name="SubTotalFact" />
+        <ecfd:campoString name="TextoLibre1" />
+        <ecfd:campoString name="TextoLibre2" />
+        <ecfd:campoString name="DLLs" />
+        <ecfd:campoString name="Pesos" />
+        <ecfd:campoString name="FolioFactura" />
+        <ecfd:campoString name="CorreoElecEmisor">jinetesarboledas@steren.com.mx</ecfd:campoString>
+        <ecfd:campoString name="OrdenCompra" />
+        <ecfd:campoString name="Transporte">Cliente Recoge</ecfd:campoString>
+        <ecfd:campoString name="TOTIMP">548.97</ecfd:campoString>
+        <ecfd:campoString name="TOTRET">0</ecfd:campoString>
+        <ecfd:campoString name="TOTDESCUENTO">0</ecfd:campoString>
+        <ecfd:campoString name="TASAIMP">16</ecfd:campoString>
+        <ecfd:campoString name="NumControl" />
+        <ecfd:campoString name="Vendedor">SERGIO</ecfd:campoString>
+        <ecfd:campoString name="NoCliente">1572</ecfd:campoString>
+        <ecfd:campoString name="Remision">12112</ecfd:campoString>
+        <ecfd:campoString name="CorreoElec">administracion@biotecsa.com</ecfd:campoString>
+        <ecfd:campoString name="RefBanco1" />
+        <ecfd:campoString name="RefBanCuenta1" />
+        <ecfd:campoString name="RefBanClave1" />
+        <ecfd:campoString name="RefBanco2" />
+        <ecfd:campoString name="RefBanClave2" />
+        <ecfd:campoString name="RefBanCuenta2" />
+        <ecfd:campoString name="RefBanco3" />
+        <ecfd:campoString name="RefBanClave3" />
+        <ecfd:campoString name="RefBanCuenta3" />
+        <ecfd:campoString name="Leyenda2" />
+        <ecfd:campoString name="Leyenda3" />
+        <ecfd:campoString name="TASARET">0</ecfd:campoString>
+        <ecfd:campoString name="TOTRET">0</ecfd:campoString>
+        <ecfd:campoString name="EmisorRI" />
+        <ecfd:campoString name="ReceptorRI" />
+        <ecfd:campoString name="FechaEntrega" />
+        <ecfd:campoString name="NumProveedor" />
+        <ecfd:campoString name="FolioOrdenCompra" />
+        <ecfd:campoString name="TipoProveedorEKT" />
+        <ecfd:campoString name="Observaciones" />
+        <ecfd:campoString name="NombreSolicitante" />
+        <ecfd:campoString name="PaternoSolicitante" />
+        <ecfd:campoString name="MaternoSolicitante" />
+        <ecfd:campoString name="CorreoSolicitante" />
+        <ecfd:campoString name="Produccion" />
+        <ecfd:campoString name="ProcesoId" />
+        <ecfd:campoString name="PorcentajeDescuento" />
+        <ecfd:campoString name="PorcentajeMerma" />
+        <ecfd:campoString name="PorcentajeDescuentoPromo" />
+        <ecfd:campoString name="TotalDescuento" />
+        <ecfd:campoString name="TotalMerma" />
+        <ecfd:campoString name="Descuento" />
+        <ecfd:campoString name="FolioSolicitudNotaCredito" />
+        <ecfd:campoString name="NSAP">500456</ecfd:campoString>
+        <ecfd:campoString name="EmailNew" />
+        <ecfd:campoString name="ExchengeRate" />
+        <ecfd:campoString name="PoNnumber" />
+        <ecfd:campoString name="Costumercode" />
+        <ecfd:campoString name="RegimenFiscal">Regimen Fiscal de Personas Morales</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago">8297</ecfd:campoString>
+        <ecfd:campoString name="LugarDeExpedicion">ATIZAPAN DE ZARAGOZA, Estado de Mexico</ecfd:campoString>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>1</ecfd:CustDetNroLin>
+          <ecfd:CustDetAFN_01>ALA-HUM</ecfd:CustDetAFN_01>
+          <ecfd:CustDetAFN_02>04</ecfd:CustDetAFN_02>
+        </ecfd:CustDetalle>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

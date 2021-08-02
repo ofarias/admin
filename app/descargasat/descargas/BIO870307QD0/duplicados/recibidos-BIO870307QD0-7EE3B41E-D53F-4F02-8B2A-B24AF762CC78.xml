@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="MRY" folio="14186475" fecha="2016-06-15T16:41:22" sello="coqELOYpNXK+b0LJyBHY/olD6/pi8OWO8s50O/fn4LjgSUTyGKLxkFZ/WY6uWDxc/UKUTigsQ+L6PDPUbWgLac6wbfI40vS75oCQPPqBeCxO6U5wYPxDqlfVTUNGBOUC2R/hXUEojC3xi96QA8bhX/OKinhQLxIaaabLdgqolb4=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000202331350" certificado="MIIEsTCCA5mgAwIBAgIUMDAwMDEwMDAwMDAyMDIzMzEzNTAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTExMzAwMTcwMVoXDTE2MTExMzAwMTcwMVowgfIxMTAvBgNVBAMTKFNFUlZJQ0lPUyBHQVNPTElORVJPUyBERSBNRVhJQ08gU0EgREUgQ1YxMTAvBgNVBCkTKFNFUlZJQ0lPUyBHQVNPTElORVJPUyBERSBNRVhJQ08gU0EgREUgQ1YxMTAvBgNVBAoTKFNFUlZJQ0lPUyBHQVNPTElORVJPUyBERSBNRVhJQ08gU0EgREUgQ1YxJTAjBgNVBC0THFNHTTk1MDcxNERDMiAvIFBFUE82MTAyMDNBRTIxHjAcBgNVBAUTFSAvIFBFUE82MTAyMDNIVFNSUlMwNjEQMA4GA1UECxMHU0VHQU1FWDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzPQuzLx3fEomcO+bvjwGeFGBubC163p7DIswebe80mVEV+Y9iJCpX7Wig1RWsGiGBV+Yxq4PIl8JBfpI7iDTWhUtDvKQQ3SL78iR9xZXdUNdex8UnBXiBoQXDO1G2+9HCqSj9hIyBlp6O50jC9uTDzx5wMFlIgvibGEf63lurJkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAKiPPD8VyVxOLF9mPEtoogYqVC4pKUOmOvoUPxbHDwfK3zubq/pHyLevZcGC+CRY6DUPLcgMOtkQJBMz1JdEKXZG/4JzRyx6w6+rY4O2ps4ysC2+Y5a7NA+0awRBbEs6guolDY28zl9MpZa0f0abU8nKbJayn7Fe+gs1H/nTl2AhpwJ8CH/9t5ytc7uAFJXS17kn7jAE7o9C0Ot6w1Q4bHkjqFPODL+RiDxS6fno/qeKxo3bmOacqREMOv7i9CyAR6Bwjnfyn4H7isuU0mpLOdeXs57mCcGNBuR3gf6XuGmccSUTOXGVKJmDWBG5iSkXRN3T0LyHr6G+VurycxK2+Wk=" subTotal="130.180000" total="150.330000" tipoDeComprobante="ingreso" metodoDePago="Tarjeta de débito" LugarExpedicion="Monterrey, Nuevo León" NumCtaPago="4322">
+  <cfdi:Emisor rfc="SGM950714DC2" nombre="SERVICIOS GASOLINEROS DE MEXICO SA DE CV">
+    <cfdi:DomicilioFiscal calle="Edison Nte" noExterior="1301" colonia="Talleres" municipio="Monterrey" estado="Nuevo León" pais="México" codigoPostal="64480" />
+    <cfdi:RegimenFiscal Regimen="No aplica" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="#2900-804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA" estado="Estado de México" pais="México" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="11.42" unidad="L" descripcion="MAGNA (LT)" valorUnitario="11.395462" importe="130.136177" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="20.150000">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="20.150000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="7ee3b41e-d53f-4f02-8b2a-b24af762cc78" FechaTimbrado="2016-06-15T16:41:24" selloCFD="coqELOYpNXK+b0LJyBHY/olD6/pi8OWO8s50O/fn4LjgSUTyGKLxkFZ/WY6uWDxc/UKUTigsQ+L6PDPUbWgLac6wbfI40vS75oCQPPqBeCxO6U5wYPxDqlfVTUNGBOUC2R/hXUEojC3xi96QA8bhX/OKinhQLxIaaabLdgqolb4=" noCertificadoSAT="00001000000202693892" selloSAT="NqI9mHJ2anWvPvEj4iI2Df4EtO97tIhBmtUWBC80J5IfB1Dm9YmKfXIx3RjS0RUjyfQ2qCEHOaeAK/K2tyQuMq6Ks0zgczLfiCNcLSz4dVq6mljmY2YAy8XafFaUJZ5ZE6lVXADXkIFxt/dSPvYIEyBJBgfJc3mB5b+u3xlxaps=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

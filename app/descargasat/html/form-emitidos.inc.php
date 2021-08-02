@@ -70,4 +70,5 @@ $anios = range(date('Y')-5, date('Y'));
     </select>
   </div>
   <button type="submit" class="btn btn-primary">Buscar</button>
+  <!-- &nbsp;&nbsp;&nbsp;Seleccionar todo: <input type="checkbox" class="btn btn-info select">-->
 </form>

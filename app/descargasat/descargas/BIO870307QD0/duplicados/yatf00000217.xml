@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<cfdi:Comprobante version="3.2" fecha="2014-09-02T14:45:37" tipoDeComprobante="ingreso" formaDePago="PAGO EN UNA SOLA EXHIBICION" condicionesDePago="Contado" subTotal="440.00" TipoCambio="1.00000" Moneda="MXN" total="510.400000" metodoDePago="EFECTIVO" LugarExpedicion="TECOMAN,COLIMA" NumCtaPago="No identificado" certificado="MIIEfTCCA2WgAwIBAgIUMDAwMDEwMDAwMDAzMDMyNTI2OTcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAzMTAxNDE4MjZaFw0xODAzMTAxNDE4MjZaMIHJMSowKAYDVQQDEyFDSFJJU1RJQU4gQUxFSkFORFJPIExPUEVaIEVTQ09CQVIxKjAoBgNVBCkTIUNIUklTVElBTiBBTEVKQU5EUk8gTE9QRVogRVNDT0JBUjEqMCgGA1UEChMhQ0hSSVNUSUFOIEFMRUpBTkRSTyBMT1BFWiBFU0NPQkFSMRYwFAYDVQQtEw1MT0VDOTExMDMxRDE5MRswGQYDVQQFExJMT0VDOTExMDMxSENNUFNIMDQxDjAMBgNVBAsTBVVOSUNBMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCQ492embKEWDd7vO5olHJ2Hkkk/BYdaAboUAWk1MoTGwqZDAhQPw7fIumovZ3OYY06p5Y2I0Rfef/uTLfJ/xGLJRh2PDYjhJgs24FP7kMUuMurC13ATOnUznmYBNJyf/9Zz3+9DzO9sFGCG76XBeYe8nQeCO5EPruxcKQBiI4R9QIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAYBq6lLpA0lfGfWDuW6GU//DztqecQQgY4ZH5rZYPiqQXh3579YAWHJM4ZHtosX69q549HatEHM2KGwWgiI+aUYWl7ABwnT5zyQHeRZxhcInx/GJiCeuigDNbqbZNT/gftxuP22fvoSDKi6NAD2Xtj1DfKIpZfk521dybrKqmLpboSLCfWixD7SMXbyfbQfcriKtGmWYUAHCwov2iJCxtBATIdEl4s3TjMmsnlaVZGrqBBL4GdpUwS3snbhUwgK2t1JzuP64N4VyD56Z1n3xa+s848VA43gWREfm6sroJsQGfuVWOAUcPGQWWCzAfMpXz198QF4j3modT4pPBkoE8Tg==" folio="217" noCertificado="00001000000303252697" sello="gVd51VanZnh1LqtMqyAxGel8VK9zC1cgHPdiShJYwVNOg9IVjrwbn/E5ZmmG7J9nNFGzSdeBLSDMRXcjTXX39pDL0Ao6LpQhmWTQAoErJ5JXM5pVsZlWdgwZDX12R8IEmeiMqUGPAVOyJmZHZnuZV/UtQG4e+XA3pjnSiILb7eY=" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor rfc="LOEC911031D19" nombre="CHRISTIAN ALEJANDRO LOPEZ ESCOBAR">
+        <cfdi:DomicilioFiscal calle="AV. PEDRO TORRES ORTIZ" noExterior="78-a" colonia="UNION" municipio="TECOMAN" estado="COLIMA" pais="MEXICO" codigoPostal="28130" />
+        <cfdi:RegimenFiscal Regimen="PERSONA FISICA CON ACTIVIDAD EMPRESARIAL" />
+    </cfdi:Emisor>
+    <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+        <cfdi:Domicilio calle="Blvd. Manuel Avila Camacho" noExterior="2900-804" colonia="Fracc: Los Pirules" municipio="Tlalnepantla" estado="Edo. De México" pais="México" codigoPostal="54040" />
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto cantidad="1.000" unidad="PZ" noIdentificacion="CONSUMO" descripcion="CONSUMO" valorUnitario="440.000" importe="440.00" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="70.40">
+        <cfdi:Traslados>
+            <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="70.40" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2014-09-02T15:45:58" UUID="487BE34B-C2E5-429D-82B4-22E705A07D97" noCertificadoSAT="00001000000203352843" selloCFD="gVd51VanZnh1LqtMqyAxGel8VK9zC1cgHPdiShJYwVNOg9IVjrwbn/E5ZmmG7J9nNFGzSdeBLSDMRXcjTXX39pDL0Ao6LpQhmWTQAoErJ5JXM5pVsZlWdgwZDX12R8IEmeiMqUGPAVOyJmZHZnuZV/UtQG4e+XA3pjnSiILb7eY=" selloSAT="ZUMrHbDThHJkt0ypUPW5PAgxKqjkiwBBB+UZd7DQoenWBRCA+c2dO/2irPblT9tBdDgTa2hxPSRGHxQskQQaDUlX3W6p2K+6jZnArZZz++sC8FpXuxhy7yvRxFwZEMOQSIrbDuL/Qnu8t6jWGP3Sr9Mryuzvm88PIatP28fMfXw=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/timbrefiscaldigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

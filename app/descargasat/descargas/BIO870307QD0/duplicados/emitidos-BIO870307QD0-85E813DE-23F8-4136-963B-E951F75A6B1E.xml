@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:nomina="http://www.sat.gob.mx/nomina" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/nomina http://www.sat.gob.mx/sitio_internet/cfd/nomina/nomina11.xsd" version="3.2" serie="NOMINA" folio="1530" fecha="2015-07-31T11:23:32" sello="Wn32Ss4Ce1wGmrWU2t9VRbpQJ7NgeiW6Dla6NJJbPtIuoGJ/pcazlP4jTRFcP3gWCV9M6yT3gYu73pZnN+uSvN5s+/e8bUKm5hjWn+4y25V/G9Ug7Sn8+JLXlA+mY+PmobFidMdGQOP3Ve8a+E5UC0oJFq0EwLNxX5LXDffF5DA=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302350628" certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDIzNTA2MjgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMTAyMzM4MjdaFw0xODAxMTAyMzM4MjdaMIGvMRowGAYDVQQDExFCSU9URUNTQSBTQSBERSBDVjEaMBgGA1UEKRMRQklPVEVDU0EgU0EgREUgQ1YxGjAYBgNVBAoTEUJJT1RFQ1NBIFNBIERFIENWMSUwIwYDVQQtExxCSU84NzAzMDdRRDAgLyBUT1RINDcwMjE4S1VBMR4wHAYDVQQFExUgLyBUT1RINDcwMjE4SFBMUU5SMDQxEjAQBgNVBAsTCU5BVUNBTFBBTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsBMBohzkflDRJ8xRQBCGqnRB8oVG+zbrsxiceijIEkSNXAhCIrRBKCzxYqNWu4FV/thzUN45bAMOGqzR2XBwXAnJgTv2sKoPsxkAqJe9/61+AKHKhvYFyTXQCYRLqeU4ws7UF/TajZyteHQyd9VhWD1Y6aOqvZb2tdMmuI/Pv3UCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEmboZgwm6i1c+Ds2z/M2Fdp0fVb/KWmLa1bSVxVIxdq96H12NzmWvTGRkxS78LpEsVFsHFzkaMpfRFICXyQ6Fwxt0+vGzCCCrLpvcbuEVKIIvgLToQXbL00fpCugWhbiEIMgQBv0p6ua9o2KiZPCvK4T/QaXQovJvxqPTJJo8H7DGFUyn9bwT/9zqDFe4xBXZ9lstT+tXBnmwqzdDs+/myn9odD3UpDmm5DDDmqPCbRJ4ahJQYQKnmFoO2aI1E9ioMvAQJagvjWnSiSwPGjqrbXDptW+mP3vVCeQmrE+JOrSJlf3Y93RZRFZ6kpSIO/pHnJLtC8yGqt01qTsgpLnds=" subTotal="97448.41" descuento="3511.17" motivoDescuento="Deducciones nómina" TipoCambio="1.00" Moneda="Pesos" total="66673.35" tipoDeComprobante="egreso" metodoDePago="Transferencia" LugarExpedicion="Tlalnepantla de Baz, Estado de Mexico" NumCtaPago="1140530395">
+  <cfdi:Emisor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:DomicilioFiscal calle="Blvd. Manuel Avila Camacho" noExterior="2900" municipio="Tlalnepantla de Baz" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:ExpedidoEn calle="Blvd. Manuel Avila Camacho" noExterior="2900" municipio="Tlalnepantla de Baz" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:RegimenFiscal Regimen="LEY GENERAL DE PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="CULR7403014T4" nombre="ROGELIO CURIEL LOPEZ">
+    <cfdi:Domicilio pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000000" unidad="Servicio" descripcion="Pago de Nómina" valorUnitario="97448.41" importe="97448.41" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="27263.89">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="ISR" importe="27263.89" />
+    </cfdi:Retenciones>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <nomina:Nomina Version="1.1" RegistroPatronal="C53-20744-10-0" NumEmpleado="4" CURP="CULR740301HDFRPG00" TipoRegimen="2" NumSeguridadSocial="11937104377" FechaPago="2015-07-31" FechaInicialPago="2015-07-18" FechaFinalPago="2015-07-31" NumDiasPagados="14.000000" Departamento="VENTAS" Banco="012" FechaInicioRelLaboral="1999-02-08" Puesto="GERENTE DE VENTAS" PeriodicidadPago="CATORCENAL" SalarioBaseCotApor="1752.50" SalarioDiarioIntegrado="1752.50">
+      <nomina:Percepciones TotalGravado="96527.36" TotalExento="921.05">
+        <nomina:Percepcion TipoPercepcion="001" Clave="P001" Concepto="SUELDO" ImporteGravado="23026.36" ImporteExento="0.00" />
+        <nomina:Percepcion TipoPercepcion="016" Clave="P002" Concepto="BONO" ImporteGravado="73501.00" ImporteExento="0.00" />
+        <nomina:Percepcion TipoPercepcion="005" Clave="P006" Concepto="FONDO AHORRO PATRON" ImporteGravado="0.00" ImporteExento="921.05" />
+      </nomina:Percepciones>
+      <nomina:Deducciones TotalGravado="30775.06" TotalExento="0">
+        <nomina:Deduccion TipoDeduccion="002" Clave="D001" Concepto="ISR" ImporteGravado="27263.89" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="001" Clave="D002" Concepto="IMSS" ImporteGravado="669.07" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D005" Concepto="FONDO AHORRO PATRON" ImporteGravado="921.05" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D011" Concepto="FONDO AHORRO TRABAJADOR" ImporteGravado="921.05" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D109" Concepto="CAJA DE AHORRO" ImporteGravado="1000.00" ImporteExento="0.00" />
+      </nomina:Deducciones>
+    </nomina:Nomina>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="Wn32Ss4Ce1wGmrWU2t9VRbpQJ7NgeiW6Dla6NJJbPtIuoGJ/pcazlP4jTRFcP3gWCV9M6yT3gYu73pZnN+uSvN5s+/e8bUKm5hjWn+4y25V/G9Ug7Sn8+JLXlA+mY+PmobFidMdGQOP3Ve8a+E5UC0oJFq0EwLNxX5LXDffF5DA=" FechaTimbrado="2015-07-31T11:25:53" UUID="85e813de-23f8-4136-963b-e951f75a6b1e" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="KVj1mmpIm7F8udQMBmPHqiYI/94qUpI21I9zfwxUDmBCktq4dZX4y1tUE64S0IvMvKyzVacazIpNdzSs9yj1xtT9I3j9+wMgQTEallhttty6XjOv+GDsnpopyUteAYHPBZd2QbQLk7e2rM6BHlrBNKgHXKjMrc5z0EQzN2nkeK0=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tipoDeComprobante="ingreso" metodoDePago="TARJETA" total="420.50" TipoCambio="1.0000" Moneda="MXN" LugarExpedicion="México, DISTRITO FEDERAL" MontoFolioFiscalOrig="0.00" fecha="2015-05-14T16:51:14" sello="OjJGrMMKCU6ulX+76m9IoPqPKVrwqP9xruZBc/Y3uqgAVlvCfPx/UjCktHTMR/FVtZNRVACX6RP4Gp2H3DhMOM4i0rsUaeEmQvxJnTV2dDsCBBF1HbH9ZHUq1Px3OMVh5TGr1Qi/fTPZJgYGmClCLae+7dCz1gt9izXB7f2rLd0=" folio="4609" version="3.2" serie="VALLEDORAD" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="507.00" descuento="144.50" noCertificado="00001000000202340930" certificado="MIIEcTCCA1mgAwIBAgIUMDAwMDEwMDAwMDAyMDIzNDA5MzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTExMzIyMjY0OFoXDTE2MTExMzIyMjY0OFowgbIxHDAaBgNVBAMTE1BSQURPUyBUR0kgU0EgREUgQ1YxHDAaBgNVBCkTE1BSQURPUyBUR0kgU0EgREUgQ1YxHDAaBgNVBAoTE1BSQURPUyBUR0kgU0EgREUgQ1YxJTAjBgNVBC0THFBURzA5MTIwOE5ENiAvIFRPQVI2MDEyMjgxSjcxHjAcBgNVBAUTFSAvIFRPQVI2MDEyMjhIREZSTEwwMTEPMA0GA1UECxMGVU5JREFEMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDF8kbafqHy3uzScdVjUpZFwwJ+L9QPzi3Eoxeb4FEEFqQAtDiTgTV7AHzkxVejcDevGEBSnBXXlKdRH0UuiQUKmm5RJgaPYMMOUbdcC1B3rGaLB/6rvSrc6v/WwxhBFHTmntp6sUyJ2yd+txpD+KT6yGCq8JAZlaRLlq8/jYNNbwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAQZtM23W5JoQhP/sjyGv9xWUhQDkdY4552VdrcJvf94Flbt30McaTtgZ+bb1J9u2OHkZ/w2sf3WqPBD/MZ+/CwLJ0AzdVI7NKqd3m9sdTuzmKXcq8wbRm5CHhfr6PWYYXoGOv5/T2fZGQHlNWY4b/RvHzjhgMXXhosxCaaVUSOVN4xAkZ1fJpKpHWauKY2UE8PXh6PrddexmXcOL20CtLaSxxVw5KdNf9i+zHtwLC+SuiNDMM7XxiOHr4zqK7+cVKC8K7gCTkzq3z5cAe+vBiPhnO7h+aT/IhQBD3eAPS1UPP1T01Ma2iMSGmGUV9e4seyuX8QeAsFJpMifTYgcM4PQ==" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="PRADOS TGI S.A. DE C.V." rfc="PTG091208ND6">
+    <cfdi:DomicilioFiscal calle="Descartes" noExterior="54" noInterior="1er Piso" colonia="Nueva Anzures" municipio="Miguel Hidalgo" estado="DISTRITO FEDERAL" pais="México" codigoPostal="11590" />
+    <cfdi:ExpedidoEn calle="Autopista Mexico, Qro" noExterior="3130" noInterior="Local 201" colonia="Valle Dorado" municipio="Tlalnepantla de Baz" estado="ESTADO DE MEXICO" pais="México" codigoPostal="54020" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="México" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="Barril Clara 20oz" valorUnitario="55.91" importe="55.91" cantidad="1.00" unidad="EA" />
+    <cfdi:Concepto descripcion="Hamb c/ queso" valorUnitario="105.91" importe="105.91" cantidad="1.00" unidad="EA" />
+    <cfdi:Concepto descripcion="Barril Clara 20oz" valorUnitario="55.91" importe="55.91" cantidad="1.00" unidad="EA" />
+    <cfdi:Concepto descripcion="Hamb Fridays" valorUnitario="124.87" importe="124.87" cantidad="1.00" unidad="EA" />
+    <cfdi:Concepto descripcion="Soda Lata" valorUnitario="33.49" importe="33.49" cantidad="1.00" unidad="EA" />
+    <cfdi:Concepto descripcion="Bacon Cheese Burger" valorUnitario="130.91" importe="130.91" cantidad="1.00" unidad="EA" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="58.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="58.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="cb0c03e5-ac13-4be0-ad4f-c3b45beebef0" FechaTimbrado="2015-05-14T16:54:36" selloCFD="OjJGrMMKCU6ulX+76m9IoPqPKVrwqP9xruZBc/Y3uqgAVlvCfPx/UjCktHTMR/FVtZNRVACX6RP4Gp2H3DhMOM4i0rsUaeEmQvxJnTV2dDsCBBF1HbH9ZHUq1Px3OMVh5TGr1Qi/fTPZJgYGmClCLae+7dCz1gt9izXB7f2rLd0=" noCertificadoSAT="00001000000300171326" selloSAT="SHrj7c7lbw7Ta20FZSje8HVvbFXcIdxnE9z2MP1TrWUMI8IRJXnuKvaSozKpiRgAUnQ8mncd7M5H8MGqaEEWzogtiRhBApkOYw7pEEij6P/5Vb6FVduhwrBn+iO3L9Ods7bVJoqIGk2X7y+36o2Sck+KDuFGzXZteSqOLLuMj+A=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

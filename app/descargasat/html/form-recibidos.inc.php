@@ -14,7 +14,7 @@ $meses = array(
 	'12'=>'Diciembre'
 );
 $dias = range(1, 31);
-$anios = range(date('Y')-4, date('Y'));
+$anios = range(date('Y')-6, date('Y'));
 ?>
 <form class="form-inline" method="POST" id="recibidos-form">
   <input type="hidden" name="accion" value="buscar-recibidos" />
@@ -46,4 +46,5 @@ $anios = range(date('Y')-4, date('Y'));
     </select>
   </div>
   <button type="submit" class="btn btn-primary">Buscar</button>
+  <!--&nbsp;&nbsp;&nbsp;Seleccionar todo: <input type="checkbox" class="btn btn-info select">-->
 </form>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:nomina="http://www.sat.gob.mx/nomina" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/nomina http://www.sat.gob.mx/sitio_internet/cfd/nomina/nomina11.xsd" version="3.2" serie="NOMINA" folio="1022" fecha="2015-01-30T12:16:44" sello="MouUyJvegYCkdtWQpPGFpR6fCJAeoaa9Q2TW9xsYRue1q1wc+hSRNiEHNo7xMCcmlQgGvipL3LUOb6gUm/98f0T+gC5oMEvGfHOAfs6Divm0V/vi4wzSOk53zIb1PAqReYCsbSBG2brvBkgHZBlwB+Ymk13gc/Zm/sfSr1hSmwI=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302350628" certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDIzNTA2MjgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMTAyMzM4MjdaFw0xODAxMTAyMzM4MjdaMIGvMRowGAYDVQQDExFCSU9URUNTQSBTQSBERSBDVjEaMBgGA1UEKRMRQklPVEVDU0EgU0EgREUgQ1YxGjAYBgNVBAoTEUJJT1RFQ1NBIFNBIERFIENWMSUwIwYDVQQtExxCSU84NzAzMDdRRDAgLyBUT1RINDcwMjE4S1VBMR4wHAYDVQQFExUgLyBUT1RINDcwMjE4SFBMUU5SMDQxEjAQBgNVBAsTCU5BVUNBTFBBTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsBMBohzkflDRJ8xRQBCGqnRB8oVG+zbrsxiceijIEkSNXAhCIrRBKCzxYqNWu4FV/thzUN45bAMOGqzR2XBwXAnJgTv2sKoPsxkAqJe9/61+AKHKhvYFyTXQCYRLqeU4ws7UF/TajZyteHQyd9VhWD1Y6aOqvZb2tdMmuI/Pv3UCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEmboZgwm6i1c+Ds2z/M2Fdp0fVb/KWmLa1bSVxVIxdq96H12NzmWvTGRkxS78LpEsVFsHFzkaMpfRFICXyQ6Fwxt0+vGzCCCrLpvcbuEVKIIvgLToQXbL00fpCugWhbiEIMgQBv0p6ua9o2KiZPCvK4T/QaXQovJvxqPTJJo8H7DGFUyn9bwT/9zqDFe4xBXZ9lstT+tXBnmwqzdDs+/myn9odD3UpDmm5DDDmqPCbRJ4ahJQYQKnmFoO2aI1E9ioMvAQJagvjWnSiSwPGjqrbXDptW+mP3vVCeQmrE+JOrSJlf3Y93RZRFZ6kpSIO/pHnJLtC8yGqt01qTsgpLnds=" subTotal="7162.85" descuento="1550.12" motivoDescuento="Deducciones nómina" TipoCambio="1.00" Moneda="Pesos" total="4809.04" tipoDeComprobante="egreso" metodoDePago="Transferencia" LugarExpedicion="Tlalnepantla de Baz, Estado de Mexico" NumCtaPago="2912447398">
+  <cfdi:Emisor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:DomicilioFiscal calle="Blvd. Manuel Avila Camacho" noExterior="2900" municipio="Tlalnepantla de Baz" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:ExpedidoEn calle="Blvd. Manuel Avila Camacho" noExterior="2900" municipio="Tlalnepantla de Baz" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:RegimenFiscal Regimen="LEY GENERAL DE PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="SAME780801AE6" nombre="EDUARDO FRANCISCO SANCHEZ MARTINEZ">
+    <cfdi:Domicilio pais="Mexico" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000000" unidad="Servicio" descripcion="Pago de Nómina" valorUnitario="7162.85" importe="7162.85" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="803.69">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="ISR" importe="803.69" />
+    </cfdi:Retenciones>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <nomina:Nomina Version="1.1" RegistroPatronal="C53-20744-10-0" NumEmpleado="29" CURP="SAME780801HDFNRD04" TipoRegimen="2" NumSeguridadSocial="01007804741" FechaPago="2015-01-30" FechaInicialPago="2015-01-17" FechaFinalPago="2015-01-30" NumDiasPagados="14.000000" Departamento="EMBARQ" Banco="012" FechaInicioRelLaboral="2015-01-03" Puesto="CHOFER" PeriodicidadPago="CATORCENAL" SalarioBaseCotApor="438.71" SalarioDiarioIntegrado="438.71">
+      <nomina:Percepciones TotalGravado="6153.88" TotalExento="1008.97">
+        <nomina:Percepcion TipoPercepcion="001" Clave="P001" Concepto="SUELDO" ImporteGravado="2878.40" ImporteExento="0.00" />
+        <nomina:Percepcion TipoPercepcion="016" Clave="P002" Concepto="BONO" ImporteGravado="2734.48" ImporteExento="0.00" />
+        <nomina:Percepcion TipoPercepcion="005" Clave="P006" Concepto="FONDO AHORRO PATRON" ImporteGravado="0.00" ImporteExento="201.49" />
+        <nomina:Percepcion TipoPercepcion="029" Clave="P014" Concepto="DESPENSA" ImporteGravado="0.00" ImporteExento="807.48" />
+        <nomina:Percepcion TipoPercepcion="016" Clave="P020" Concepto="GRATIFICACION EXTRAORDINARIA" ImporteGravado="400.00" ImporteExento="0.00" />
+        <nomina:Percepcion TipoPercepcion="016" Clave="P022" Concepto="GRATIFICACION" ImporteGravado="141.00" ImporteExento="0.00" />
+      </nomina:Percepciones>
+      <nomina:Deducciones TotalGravado="2353.81" TotalExento="0">
+        <nomina:Deduccion TipoDeduccion="002" Clave="D001" Concepto="ISR" ImporteGravado="803.69" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="001" Clave="D002" Concepto="IMSS" ImporteGravado="158.66" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D005" Concepto="FONDO AHORRO PATRON" ImporteGravado="201.49" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D006" Concepto="ALIMENTACION" ImporteGravado="140.20" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D011" Concepto="FONDO AHORRO TRABAJADOR" ImporteGravado="201.49" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="010" Clave="D094" Concepto="CREDITO INFONAVIT" ImporteGravado="698.28" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D109" Concepto="CAJA DE AHORRO" ImporteGravado="150.00" ImporteExento="0.00" />
+      </nomina:Deducciones>
+    </nomina:Nomina>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="9D1839F8-5F9A-4CFB-8C3B-EA51838B4362" FechaTimbrado="2015-01-30T12:16:46" noCertificadoSAT="00001000000301160463" selloCFD="MouUyJvegYCkdtWQpPGFpR6fCJAeoaa9Q2TW9xsYRue1q1wc+hSRNiEHNo7xMCcmlQgGvipL3LUOb6gUm/98f0T+gC5oMEvGfHOAfs6Divm0V/vi4wzSOk53zIb1PAqReYCsbSBG2brvBkgHZBlwB+Ymk13gc/Zm/sfSr1hSmwI=" selloSAT="2e0kooBcEiMAHlvDzUVBWpswjuM/EEGAFBGeLdvP7t3ThFOewaIC9xHKAb0v3VHZAKBemPlPA3bADYvqdgQgbHkMDDQ+L53GC/KYNhNRaNg7p0L3PcUPoUF4PP6ZyQ5eh+b9fiXolmkI97Ua78TYiH2spNOGC0cbViaxyXCxJsE=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

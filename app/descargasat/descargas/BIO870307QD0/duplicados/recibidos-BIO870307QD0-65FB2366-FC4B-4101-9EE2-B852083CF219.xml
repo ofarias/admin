@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tipoDeComprobante="ingreso" metodoDePago="Tarjeta de Crédito" total="2110.000000" Moneda="MXN" LugarExpedicion="Cuautitlan, Estado de Mexico" NumCtaPago="8071" fecha="2015-10-07T12:07:53" sello="C904QWlnL+aBq8CFIZrI5vmIgy/1s2QNYpt3FaI4VH+24KIhmnw5ck1UA5F1GZ9j8AEo4DSpUpMepmJKgHb867PvX0jQk6NgRZ8Vje9z82hugnMjFAqQ0PnqqUv4JaQazaa8KZszAkcpu6gHAUjYnMIMh+6LmTeHk52kkUnEV20=" folio="126095" version="3.2" serie="FRR" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="1818.960000" descuento="0.000000" noCertificado="00001000000301990434" certificado="MIIEljCCA36gAwIBAgIUMDAwMDEwMDAwMDAzMDE5OTA0MzQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjMxNzM0MzZaFw0xNzEyMjMxNzM0MzZaMIHiMSowKAYDVQQDEyFFTEVDVFJPTklDQSBST01FUk8gUlVCSU8gU0EgREUgQ1YxKjAoBgNVBCkTIUVMRUNUUk9OSUNBIFJPTUVSTyBSVUJJTyBTQSBERSBDVjEqMCgGA1UEChMhRUxFQ1RST05JQ0EgUk9NRVJPIFJVQklPIFNBIERFIENWMSUwIwYDVQQtExxFUlIwOTA2MTlSUTUgLyBHT0NBNDkwNTA2VE43MR4wHAYDVQQFExUgLyBHT0NBNDkwNTA2SEFTTlNSMDgxFTATBgNVBAsTDFJPTUVSTyBSVUJJTzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAlHFDyE7OVIVYbP0SZ9cM56v+maCPQBcYzLN7g78tmoIGGgnL6+nnyAnuC44HUXRAZDFDgAKGkvq1Kz3xKqsQdipi2OOcHhfr7t6laexBqS9lK8LZqP6QjoHEG3YwN9+eLZjbUKjx2pxWWCMGqVvu4/GPu2LR6dgLX8o+81gO9VkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAG3SdTNG20X9khux5+3LfEvFx98ajsMPVAKPe4Ei/dl72d/D4PV3Nr+SU6hhX3D9ZGg8brKL2irWvXeYGEYr1mKUMjBEfOm13QcyEuaXqerE/Bs1PXToWS+JPOK6P981g/e3UBrmdmEqlKCweCPlDQDFlrX/OcNFHKdH1msXnu8wexwYjuS0kIHXNDkv57ayzCVoOL+QVANH1avEGe5H8b95y93gI1U+O0QljXTbj+hsnP/KrkP2uIQeot1hTH6gMWKpanX76A0s2LE/8AFj2Y7KOKX8EVBVUTmW0rc+DU06VqVw4VUra0kq2fmTPbnNJbExrpUcbsEEm4UfMfqDAGI=" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="Electronica Romero Rubio S.A de C.V." rfc="ERR090619RQ5">
+    <cfdi:DomicilioFiscal calle="Av. 20 de Noviembre" noExterior="125" colonia="Cuautitlan Centro" localidad="Cuautitlan" referencia="126095" municipio="Cuautitlan" estado="MEX" pais="Mexico" codigoPostal="54800" />
+    <cfdi:ExpedidoEn calle="Av. 20 de Noviembre" noExterior="125" colonia="Cuautitlan Centro" localidad="Cuautitlan" municipio="Cuautitlan" estado="MEX" pais="Mexico" codigoPostal="54800" />
+    <cfdi:RegimenFiscal Regimen="Regimen Fiscal de Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA, S.A. DE C.V." rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO" noExterior="2900-804" colonia="FRACC LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="MEX" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="SIRENA DE TONO CONSTANTE 90DB 5.5 12V" valorUnitario="171.550000" importe="514.650000" cantidad="3.000000" unidad="Pieza" />
+    <cfdi:Concepto descripcion="CARGADOR INTELIGENTE P/BATERIA SELLADA D" valorUnitario="387.930000" importe="387.930000" cantidad="1.000000" unidad="Pieza" />
+    <cfdi:Concepto descripcion="BATERIA RECARGABLE SELLADA ACIDO-PLOMO 1" valorUnitario="396.550000" importe="396.550000" cantidad="1.000000" unidad="Pieza" />
+    <cfdi:Concepto descripcion="INTERRUPTOR DE EMERGENCIA P/SIST DE SEGU" valorUnitario="33.620000" importe="100.860000" cantidad="3.000000" unidad="Pieza" />
+    <cfdi:Concepto descripcion="GABINETE DE PLASTICO NEGRO C/TAPA 223X14" valorUnitario="171.550000" importe="171.550000" cantidad="1.000000" unidad="Pieza" />
+    <cfdi:Concepto descripcion="BATERIA DE LITIO 6V P/FOTOGRAFIA" valorUnitario="241.380000" importe="241.380000" cantidad="1.000000" unidad="Pieza" />
+    <cfdi:Concepto descripcion="THERMOFIT NEGRO 1/8 3.2MM" valorUnitario="6.040000" importe="6.040000" cantidad="1.000000" unidad="Pieza" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="291.040000" totalImpuestosRetenidos="0.000000">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="IVA" importe="0.000000" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.000000" importe="291.040000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="65fb2366-fc4b-4101-9ee2-b852083cf219" FechaTimbrado="2015-10-07T12:18:04" selloCFD="C904QWlnL+aBq8CFIZrI5vmIgy/1s2QNYpt3FaI4VH+24KIhmnw5ck1UA5F1GZ9j8AEo4DSpUpMepmJKgHb867PvX0jQk6NgRZ8Vje9z82hugnMjFAqQ0PnqqUv4JaQazaa8KZszAkcpu6gHAUjYnMIMh+6LmTeHk52kkUnEV20=" noCertificadoSAT="00001000000300171326" selloSAT="EgJDGXQv90BnkL/s9SQL1kyCLYsPqsfaCbfFNBld8i++d8j/NM98+Rd7qTKZ4oS9d2q7861oNockN1jT8klVos3QU4A5qBq0qY2nLTt5Y+EKKa0qugog4Hr8C0RG6wKcaxseicqyV70FFx9BcKBVMmmeBuhwJl9orDDfsi97cD8=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

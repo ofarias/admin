@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfdi:Comprobante xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" NumCtaPago="4750" LugarExpedicion="ECATEPEC, ESTADO DE MEXICO" tipoDeComprobante="ingreso" metodoDePago="TRANSFERENCIA" total="24638.40" Moneda="M.N." TipoCambio="1.00" descuento="0.00" subTotal="21240.00" certificado="MIIEgDCCA2igAwIBAgIUMDAwMDEwMDAwMDAyMDIyODAyNjcwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEwNjE2MjA0N1oXDTE2MTEwNjE2MjA0N1owgcExITAfBgNVBAMTGFBMQVNUQU5LIENFTlRSTyBTQSBERSBDVjEhMB8GA1UEKRMYUExBU1RBTksgQ0VOVFJPIFNBIERFIENWMSEwHwYDVQQKExhQTEFTVEFOSyBDRU5UUk8gU0EgREUgQ1YxJTAjBgNVBC0THFBDRTkxMDMxNVRXMCAvIEZVWkU0NTA5MTY2NjYxHjAcBgNVBAUTFSAvIEZVWkU0NTA5MTZIQ0xOUk4wMTEPMA0GA1UECxMGTUVYSUNPMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCeNBr9s3sYnDneXc1sw2Pjbvg5hUFcSL1of4/M93TAaSdW1TwhoPrkY2eXZXyqp7rxQWMr67WGKWxhWwmLIkCh47bqutOuKxPad6uCvxEwAy+hchWVQpYguzWqrhx7eDmAH3X2ElloXDQitP4VvrqG/xtBCVlPPaG5FxMV74zFcwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAj7NAljeSauWmsKhQtfnib23F1T93bVndCmSTCUKFKOQG9kVmAel3YBDFn4q9RGMpNTZlH5qqraoX4ZkEZ5U0htumDhXZMLHMs8xb2Vu4fLt/ZOtOeXXH2Xo1zKycRJ6hFPFasBI7oaB/gHYxZ0INksY6iG8muw6T1g8YHvHeWLAbDaggegV1emiTw9LBH+GebsgzqkHotd2mvuRa8j5HkV6xV8ouckgHv9sJfN2CUNDwZzpSYc2MwbvEn19EWOTSpvZcWlHvsXFX1heUm+E7H/Wty0pagoqcHdVcpDvOYFjrPSyzOWCJKzelJ/uh+Clzz5FjHxCLBcFPpdyrCr5fhg==" noCertificado="00001000000202280267" formaDePago="Pago en una sola exhibición" sello="BXSTz5wlg2E4PBD9SuH4cM4U3HinbmNyGeaTsMXeaiP/Heq+6/25+x6EFVGyHXigp6J4TzRz76mvgulLZK4eIaDDrvq1XLB4MqmYXsmJTafFegN4tp3mrZjXLDmGvTkQWPvDzg8uHaP6SHB1v4HpTSTLgxonTDBMwJ6DGunTelI=" fecha="2015-08-27T16:33:16" folio="4405" serie="F" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor nombre="PLASTANK CENTRO S.A. DE C.V." rfc="PCE910315TW0">
+        <cfdi:DomicilioFiscal codigoPostal="55320" pais="MEXICO" estado="ESTADO DE MEXICO" municipio="ECATEPEC" colonia="ESFUERZO NACIONAL" noExterior="57" calle="PLOMO" />
+        <cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales" />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA S.A DE C.V." rfc="BIO870307QD0">
+        <cfdi:Domicilio codigoPostal="54040" pais="MEXICO" estado="EDO. DE MEXICO" municipio="TLANEPANTLA" colonia="FRACC, LOS PIRULES" noInterior="804" noExterior="2900" calle="BLVD. MANUEL AVILA CAMACHO" />
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="21240.00" valorUnitario="354.00" descripcion="TAMBOR DE PLASTICO 200 LTS TAI-55" unidad="PIEZA" cantidad="60.00" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="3398.40">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="3398.40" tasa="16.00" impuesto="IVA" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2015-08-27T16:38:21" UUID="8b2b7c20-b491-4b25-811f-e31620e9860f" noCertificadoSAT="00001000000300171291" selloCFD="BXSTz5wlg2E4PBD9SuH4cM4U3HinbmNyGeaTsMXeaiP/Heq+6/25+x6EFVGyHXigp6J4TzRz76mvgulLZK4eIaDDrvq1XLB4MqmYXsmJTafFegN4tp3mrZjXLDmGvTkQWPvDzg8uHaP6SHB1v4HpTSTLgxonTDBMwJ6DGunTelI=" selloSAT="hcVctyCo8JM47urOfb9ma/3hV+yxaPwOajz+eJCUx+UTOzL+7AmJfdYbwFWYsMJ7MXzqP2fBItUQVNv8YYOMtuCXnA8xbnJCfb6RVPPcZQnG0FZuzxt+pp6NHO8G5UmRq8kF3bgkZefZmK6BuR0KPDXJmPKBICRJpRF7f2GowEQ=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

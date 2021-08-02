@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante Version="3.3" NoCertificado="00001000000305663498" Certificado="MIIEcTCCA1mgAwIBAgIUMDAwMDEwMDAwMDAzMDU2NjM0OTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDEyMTAxNTQwMDVaFw0xODEyMTAxNTQwMDVaMIG9MSAwHgYDVQQDExdBQkMgQUVST0xJTkVBUyBTQSBERSBDVjEgMB4GA1UEKRMXQUJDIEFFUk9MSU5FQVMgU0EgREUgQ1YxIDAeBgNVBAoTF0FCQyBBRVJPTElORUFTIFNBIERFIENWMSUwIwYDVQQtExxBQUUwNTAzMDlGTTAgLyBCRU1MNjIwNTAxMUYyMR4wHAYDVQQFExUgLyBCRU1MNjIwNTAxSERGUlJTMDcxDjAMBgNVBAsTBUNhcmdhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDh2a4rl4EXT2A1B/D4mxZFrzin0Hak87q32SjvjZkHqMhoEl3CWdCHUsk9hmLtVYi77gH+ILbXBm1DAIX1sLgE2ezWxYEZ8GCZD1Wq5sTQDzJR4E230nMCO0X7dIwGO73QtYm66r7BDXRfhvOfotGh4jpviZNBnAWWeGpWbxWGewIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAlFIrX90l7kCdm6FRYXA9e8gAE5L/lGDucfBis8LWaDvcXT/UDeCwiyf3jWiNaB7zPsjMXohGxGZyiDnFlrbescGuix4eElqJQAYjXnNFP662Vl0IhlsNDaQvWl8nzbzhay8oqNzM53MNkDtV5ocOY4L6z9G93R1X5xxvbDgQdrt9Qh6WwQ0UzM8PutjWVlueq1REC4vgvNLZETe/6LB4/eZIR4Y8DXNFhAPEXfOPn6cRiis3m5gC7EyxgGIDsbhA3euxmBea4X05t/7CQNNVDShGXvSjaTTtUUu0zTXKxJiKG2d7jVpsVXI8XBM+SEdrg/YaeIMVdOEc2rE/4c0P7w==" Sello="cTF3mL6cJ7UVkRc/Vtxw+ASEODxQMVBwM6Y9zrd4yKqmM2PJlHL57M7R/liJ6GUDEbI9brk26YBRh4T1/ajt7cQprIqazaQ54s/Sc+Zrc3cZ2KAY5Oj49xZydpg+Mgl6YUWrabwnZiOh7aiAwOV2AnYY2+CKwFAVHu0JF36w5lU=" Folio="8158393" Fecha="2018-09-06T00:00:00" FormaPago="04" CondicionesDePago="Contado" SubTotal="7576.14" Descuento="1237.41" Moneda="MXN" TipoCambio="1" Total="6992.60" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="54040" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/aerolineas http://www.sat.gob.mx/sitio_internet/cfd/aerolineas/aerolineas.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="AAE050309FM0" Nombre="ABC Aerolíneas S.A. de C.V" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA SA DE CV " UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78111500" NoIdentificacion="CDSK5X" Cantidad="1" ClaveUnidad="E48" Unidad="1" Descripcion="Servicio Aéreo Ciudad de México(MEX) - Monterrey(MTY) IVA Tasa 16%" ValorUnitario="2020.68" Importe="2020.68" Descuento="1010.34">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1010.34" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="161.65" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78111500" NoIdentificacion="CDSK5X" Cantidad="1" ClaveUnidad="E48" Unidad="1" Descripcion="Servicio Aéreo Monterrey(MTY) - Ciudad de México(MEX) IVA Tasa 16%" ValorUnitario="3027.58" Importe="3027.58" Descuento="227.07">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2800.51" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="448.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78111500" NoIdentificacion="CDSK5X" Cantidad="1" ClaveUnidad="E48" Unidad="1" Descripcion="Cargo por Combustible(YR) IVA Tasa 16%" ValorUnitario="275.88" Importe="275.88">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="275.88" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="44.14" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78111500" NoIdentificacion="CDSK5X" Cantidad="1" ClaveUnidad="E48" Unidad="1" Descripcion="TUA (XV)" ValorUnitario="1896.00" Importe="1896.00" />
+    <cfdi:Concepto ClaveProdServ="78111500" NoIdentificacion="CDSK5X" Cantidad="1" ClaveUnidad="E48" Unidad="1" Descripcion="Seguro de Viaje(ATLS)" ValorUnitario="356.00" Importe="356.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="653.87">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="653.87" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital Version="1.1" UUID="2B25F3BE-8837-4762-BC42-CC4526AF2023" FechaTimbrado="2018-09-06T19:56:03" RfcProvCertif="BUZ021107UG0" SelloCFD="cTF3mL6cJ7UVkRc/Vtxw+ASEODxQMVBwM6Y9zrd4yKqmM2PJlHL57M7R/liJ6GUDEbI9brk26YBRh4T1/ajt7cQprIqazaQ54s/Sc+Zrc3cZ2KAY5Oj49xZydpg+Mgl6YUWrabwnZiOh7aiAwOV2AnYY2+CKwFAVHu0JF36w5lU=" NoCertificadoSAT="00001000000404347791" SelloSAT="Dd/dkg1PY3/w2+LXkw/1aiXdauHkzXJsW3NI7jlJXSBt4+cpH9dGYmCOxiOdM6ExKhlJC6hPw3FR3SYZYV4UnnN0hxUlc333Xp3+WgCFHLOGg9agktRd8xxK0+0wpFW4+5OCvDh+r8bX3aqls3UAFQVJY5SQGQ90oyeICnN5E0lWs/2p+dAy60rGk9LFZFV+2ChkxmUmX30HYed11k/jaV4VX2L1MAfjlqXGXyvDfSiMD6KOzjMYuWXEpogj7IvYkIXDj5LkE9DeVlue9CnIk3ZAjHTRrTkdHuLL55WDyijni2shHBhHVpcSZWMQffWgeUnVe06Tu7XsrhHGIy68bg==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+    <aerolineas:Aerolineas Version="1.0" TUA="1896.00" xmlns:aerolineas="http://www.sat.gob.mx/aerolineas">
+      <aerolineas:OtrosCargos TotalCargos="0.00">
+        <aerolineas:Cargo CodigoCargo="0" Importe="0.00" />
+      </aerolineas:OtrosCargos>
+    </aerolineas:Aerolineas>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

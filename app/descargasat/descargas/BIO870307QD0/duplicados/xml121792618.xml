@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" Moneda="MXN" metodoDePago="03" LugarExpedicion="Estado de Mexico" version="3.2" NumCtaPago="NO IDENTIFICADO" fecha="2017-08-21T16:01:03" sello="hixIszJodZcJBhq6Cc/Rh8G6QdVdGgTvqjy35WMC5eUR28TW83Y//hVllegBXDkbuaPUbcc/dMMEy/antl2LInEu3Tq8DIa0M+YKCWC76bJOcmOpbqcOIRwCEYT4OH2xkVClrLy3rlMIsMJhtlAZJ22GPrUCwc7natsQkIsOP78=" formaDePago="Pago en una sola exhibición" tipoDeComprobante="ingreso" noCertificado="00001000000302073391" certificado="MIIEWjCCA0KgAwIBAgIUMDAwMDEwMDAwMDAzMDIwNzMzOTEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjcxNzE5NDBaFw0xNzEyMjcxNzE5NDBaMIGmMR4wHAYDVQQDExVDQVJNRU4gR09NRVogU0FMRElWQVIxHjAcBgNVBCkTFUNBUk1FTiBHT01FWiBTQUxESVZBUjEeMBwGA1UEChMVQ0FSTUVOIEdPTUVaIFNBTERJVkFSMRYwFAYDVQQtEw1HT1NDNDgwNzEySEQ5MRswGQYDVQQFExJHT1NDNDgwNzEyTURGTUxSMDMxDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAivaSnoQ5i5W5IkcYgP3v2eccWZkuaHotN5EDpBU+PDpE8/33BlUG/b+13vYLulO9NGD0ENsNApXCguw8Kny3g6AVnC9p/saSmoJwQRW1VnBqray//FaGbS4E4yYIBicHEGBB8kCV9jajHDAlifBXZ4HzVlLsfY57Eojk1cDWuc0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAKDDdp4wOLvgokk/U3u86tLsbSTn1m0TBvsQYAu5R3y5O4hnjqrX7sMJ5Vonaq50wz2cCCvBMEMsDU3F+8SWJ1ZSPKXXIzhwyWIGR1HB4wzg98jLNzhm8K3RkgzfyhBocRjnSogjWJmfbiVh44nVgRvaJg3dwyuBwHU5haG7EdQpSIv4Womk00EfZfdsyhMpbWNqLsdMYqsTBuN7emd8aIBuONN0GIjFpzsNi4tDzlgp1A5Rh0Ch7qG1cFEpODfh7VNvrBjygx8vqn6k+Z4bfjnhLFICn4x8Q5HOyaynHSHyee4YRohZQWslUSklwuL28ZST0yuES1VvNL1hrFXqGcY=" condicionesDePago="CONTADO" subTotal="3512.930000" total="4074.998800" folio="4041">
+	<cfdi:Emisor rfc="GOSC480712HD9" nombre="CARMEN GOMEZ SALDIVAR">
+		<cfdi:DomicilioFiscal calle="PIRULES" noExterior="36" colonia="SAN ISIDRO" localidad="CUAUTITLAN IZCALLI" municipio="CUAUTITLAN IZCALLI" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54730" />
+		<cfdi:RegimenFiscal Regimen="PERSONA FISICA CON ACTIVIDAD EMPRESARIAL Y PROFESIONAL"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. de C.V.">
+		<cfdi:Domicilio calle="BULEVAR MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACCIONAMIENTO LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="SERVICIO" descripcion="AFINACION DE MOTOR" valorUnitario="1551.720000" importe="1551.720000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="SERVICIO" descripcion="cambio de aceite al motor" valorUnitario="603.450000" importe="603.450000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="SERVICIO" descripcion="SERVICIO DE LAVADO Y ENGRASADO" valorUnitario="668.100000" importe="668.100000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="SERVICIO" descripcion="REVISION DE BALATAS DE LAS 4 RUEDAS" valorUnitario="344.830000" importe="344.830000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PIEZA" descripcion="CORREGIR FALLA DE MOTOR MAP" valorUnitario="344.830000" importe="344.830000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="562.068800">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="562.068800" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2017-08-21T16:01:04" UUID="D8114D9A-86B3-11E7-A5FA-00155D014009" noCertificadoSAT="00001000000403557578" selloSAT="NWwg0bcFcPVsCVLueZGgCVRk5Oibu3rmDtY5vQijwQs4vJKSTd+99LQzDT2sWMF4F6Rtb2Q5rL0j50qmN84N7pZyxSzy5NQbeLaCwVMTyYucVtLgHo5geq63kinW/lyARUgmEuSTfxy5n9NvqWzgaV7gIVAMOEoCEtrCGUZGEvvvkbDyq0AgGrPoZcDcLnvKbRewrsPwvDL7Or+6+kuVw/q9YGpqT258x0DB/IBH9/09aola+o1i2WRfsDyaqnwkvYVydBt5GVqaKcJ/EhPHvY7EJPfw1DXsFHDkeD+m0Y7oFZ7/X7kj2IpQ6X19UpHGCc9JYn7rH4FUj/HkfSMFZw==" selloCFD="hixIszJodZcJBhq6Cc/Rh8G6QdVdGgTvqjy35WMC5eUR28TW83Y//hVllegBXDkbuaPUbcc/dMMEy/antl2LInEu3Tq8DIa0M+YKCWC76bJOcmOpbqcOIRwCEYT4OH2xkVClrLy3rlMIsMJhtlAZJ22GPrUCwc7natsQkIsOP78=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

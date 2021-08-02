@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="141" fecha="2017-06-21T15:11:01" sello="B5+u1TGP8KCrSBu49VNN+tYF3CnAKbEEQVscREdMK0w2s22644XLTEhFLoEeVijhCVvEuksREzn1+u7HHLjcDTsEVC8W5SNatchkYY49fC8XBY+IecvgO7pod4VCfzWPl70PXQ6iILpUZg/2YkoQ3EfT42/Brc72NJUaY32j7ec=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302155137" certificado="MIIEcjCCA1qgAwIBAgIUMDAwMDEwMDAwMDAzMDIxNTUxMzcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMDIxNjMzMjRaFw0xODAxMDIxNjMzMjRaMIG+MSIwIAYDVQQDExlJU1JBRUwgQ0FTVElMTE8gSEVSTkFOREVaMSIwIAYDVQQpExlJU1JBRUwgQ0FTVElMTE8gSEVSTkFOREVaMSIwIAYDVQQKExlJU1JBRUwgQ0FTVElMTE8gSEVSTkFOREVaMRYwFAYDVQQtEw1DQUhJODAxMDE2OFA5MRswGQYDVQQFExJDQUhJODAxMDE2SERGU1JTMDMxGzAZBgNVBAsTEkNVQVVUSVRMQU4gSVpDQUxMSTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzAqCHzaiOgyc3rXmfgG00wCf72s4+2id2UiFVQainqHqRK3QOuwZQe43wZDLDVYvSAf4CPUwiM+Ps4bMkxN+lUYozTD0Y+6t2yFAJ/CicpDfi/aRmlBqQQCAFf6HKnNHkMAoPPgExauogKHG6QOuxJ8M8Sk5LScr+TKhbVpOLVkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAHeu6vkehsVOUZk64FBl4CkoEkzapli1uTfDKFFPQwx6MGl7jCdImPl4Nbbu3zYlTNl5cYaUMQs9BGv1JPa5dYX/f1pC3iyrLmgmbk8UZVTBncm0Lm8qJLGVInv0NfIz4e/4rQZrGroiFwc++olSz+nHbNWtAQTISihdKruiDE/pW33Cz/jRUahE5QSow4F6dIoGenr+0lmHxW6xKG/jhae9PMUmV1NATzyLgHoQ9d/ymLOr0EzON+giRu06Di7SmWNzN5DfJ20HGGwBv578WoFOEsaPf3jkdqB0qa+Ew48wYzuwG6ruH1QjdnlL5bq3vQcL7yzwoU4JcGHH0ZVX3Yg=" subTotal="1344.83" descuento="0.00" TipoCambio="1.00" Moneda="Pesos" total="1560.00" tipoDeComprobante="ingreso" metodoDePago="01" LugarExpedicion="CUAUTITLAN IZCALLI, ESTADO DE MEXICO" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor rfc="CAHI8010168P9" nombre="ISRAEL CASTILLO HERNANDEZ">
+    <cfdi:DomicilioFiscal calle="CANCER" noExterior="141" colonia="VALLE DE LA HACIENDA" municipio="CUAUTITLAN IZCALLI" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54715" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACCIONAMIENTO PIRULES" municipio="CUAUTITLAN IZCALLI" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="4" unidad="PIEZA" descripcion="ANGULO DE ALUMINIO 1 X 1 1/4" valorUnitario="336.21" importe="1344.83" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="215.17">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="215.17" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="008166CC-34A9-4833-A0C6-E6C0A327BA24" FechaTimbrado="2017-06-21T15:11:22" noCertificadoSAT="00001000000306850881" selloCFD="B5+u1TGP8KCrSBu49VNN+tYF3CnAKbEEQVscREdMK0w2s22644XLTEhFLoEeVijhCVvEuksREzn1+u7HHLjcDTsEVC8W5SNatchkYY49fC8XBY+IecvgO7pod4VCfzWPl70PXQ6iILpUZg/2YkoQ3EfT42/Brc72NJUaY32j7ec=" selloSAT="ef8+19PSSOiq1ih+kUX0XLqgloSeP3eIl78tKEXMAexhBu6C8hfqusz3bkoQyhVZY4e6kPzIXFqIVvTCpsNkWN4RATdQ86fghoNR7tNp8FcW0Dq/hZ1HV+rm5bNfEVmYDFU1dn3I5uJlE/TKAjeQsvZ19gbpAlHj9OP/tY15rJo=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

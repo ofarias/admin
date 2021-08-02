@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " version="3.2" folio="27736" fecha="2015-06-12T08:58:32" sello="RsvItw1slG91lZR6LUYhkIOhL38dSngozLLJOCYm35uk0y07iFzhN8JDdNan9T5xzslOPfEO9ccj0gR5IED4hzIexuOUUISBy0Vaj8KdLh5uPJuhf7JH1em32bnfG6j4TYWPhto7IoGALMAOsLRfp9iy9TvQDVZY8qVpUJI3Jcg=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000301196083" certificado="MIIEWjCCA0KgAwIBAgIUMDAwMDEwMDAwMDAzMDExOTYwODMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEwMzEyMTUxMzhaFw0xNzEwMzEyMTUxMzhaMIGmMR4wHAYDVQQDExVOSUxBIFZBWlFVRVogQ0FTVElMTE8xHjAcBgNVBCkTFU5JTEEgVkFaUVVFWiBDQVNUSUxMTzEeMBwGA1UEChMVTklMQSBWQVpRVUVaIENBU1RJTExPMRYwFAYDVQQtEw1WQUNOMzkxMDMxUkQwMRswGQYDVQQFExJWQUNOMzkxMDMxTVRMWlNMMDYxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAq3RmusEu5z6YrgWjE2pegoN2p7z5ENtFPKsH7i33lvJxfCAJlVdDgg+5Bj94B+66nav69GJzcBuffpYDJ4owQSb7/fD6g9c8z6r798kN8pN2zxrPC4FRoXl6c5q03XA68yvgZr8/APSfY+paaaQzbw82DANNN1jKW+BYzPwXvQkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAAaVZkP58ZO7qfMatKsoUx0yn/zYPItmv+kqw9tJfWl3STwFqAmj5cEv7hGSX0XTK63dKdKcw2MhaiykxjEmHuKnYJhtlZ5Ia5JYAXjtwp0ao+v9thwQGRt2TMZ/2pjssQaWu8cYNfeiD49F4X5diXbOyB6pAgdqJ593X5bNi7q5hkAc5qA+ed1An21m9isU1ozbdnGWWkVHxfPXZKxTFKpXfTXm3GndHlokf7PFK/64I6PZxUk+m/Rtkwgxh1R8v9WAdpa3aOnUgAnUSSh1D5YJEbHxmQhHhEiUmnVQS7/KlhRBs7lD1zmjyu5Ti/7cAS+GHsM1tO6LCrSn7fy6LDI=" subTotal="172.41" TipoCambio="1.00" Moneda="MXN" total="200.00" tipoDeComprobante="ingreso" metodoDePago="TARJETA DE CREDITO" LugarExpedicion="ENT. AUT. Y CARR. FED. MEX.-PUE. S/N COL. LOS ANGELES&#xA;SAN MARTIN TEXMELUCAN, PUEBLA, C.P. 74080 " NumCtaPago="4322">
+  <cfdi:Emisor rfc="VACN391031RD0" nombre="NILA VAZQUEZ CASTILLO">
+    <cfdi:DomicilioFiscal calle="ENT. AUT. Y CARR. FED. MEX.-PUE." noExterior="S/N" colonia="LOS ANGELES" localidad="SAN MARTIN" municipio="TEXMELUCAN" estado="PUEBLA" pais="MEXICO" codigoPostal="74080" />
+    <cfdi:ExpedidoEn calle="ENT. AUT. Y CARR. FED. MEX.-PUE." noExterior="S/N" colonia="LOS ANGELES" localidad="SAN MARTIN TEXMELUCAN" estado="PUEBLA" pais="MEXICO" codigoPostal="74080" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN FISCAL GENERAL CON ACTIVIDAD EMPRESARIAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVR. MANUEL AVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA" codigoPostal="54040" estado="ESTADO DE MEXICO" pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="1" noIdentificacion="CONSUMO" descripcion="CONSUMO CONSUMO" valorUnitario="172.41" importe="172.41" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="27.59">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="27.59" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="14CF6000-1F3B-436D-A408-1D4A770E2C10" noCertificadoSAT="00001000000301205071" FechaTimbrado="2015-06-12T09:01:18" selloCFD="RsvItw1slG91lZR6LUYhkIOhL38dSngozLLJOCYm35uk0y07iFzhN8JDdNan9T5xzslOPfEO9ccj0gR5IED4hzIexuOUUISBy0Vaj8KdLh5uPJuhf7JH1em32bnfG6j4TYWPhto7IoGALMAOsLRfp9iy9TvQDVZY8qVpUJI3Jcg=" selloSAT="eUpKL56qWy4sEn3rXH1xG6r3+y86KToXuApoPamIVnAlHSViKoZEbfBpB65EaDGsepfNG2UVeVMQAHoefei12VYUXb9yqnP0mwKZUARqHdMLB66aRVuSbdYPqBclV7ew690MXY9y0h9bHZJtn5+lxKldI7lDysmqvjmNHYi2VxI=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

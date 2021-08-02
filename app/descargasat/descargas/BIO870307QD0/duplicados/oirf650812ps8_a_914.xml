@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="A" folio="914" fecha="2017-04-06T17:59:05" sello="a7JEEm91kEDsXmCV7weXjl8/QMMgWky7tcajq85VVeiG6GOac3dmEAxSJ02T0/svJV3L3C3Nds8xnlPV8xeIMgdcyjn89yDm2JqQOnVusgVfFcQILnG5ftz8yifoDDjSqrinaOROXWo1xrf1nracGvPa3dpJF0OtlWW/CjClRr8=" formaDePago="PAGO EN UNA SOLA EXHIBICIÓN" noCertificado="00001000000302029818" certificado="MIIEdTCCA12gAwIBAgIUMDAwMDEwMDAwMDAzMDIwMjk4MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjQxOTI1NThaFw0xNzEyMjQxOTI1NThaMIHBMSgwJgYDVQQDEx9GT1JUSU5PIERBVklEIE9SVElHT1pBIFJFU0VORElaMSgwJgYDVQQpEx9GT1JUSU5PIERBVklEIE9SVElHT1pBIFJFU0VORElaMSgwJgYDVQQKEx9GT1JUSU5PIERBVklEIE9SVElHT1pBIFJFU0VORElaMRYwFAYDVQQtEw1PSVJGNjUwODEyUFM4MRswGQYDVQQFExJPSVJGNjUwODEySFZaUlNSMDAxDDAKBgNVBAsTA1NBVDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAkHH11j/ogd2F9T6hLnluE9Y+xW6jT2xa4UWFKZTUUi3s3iGL0//fHNIO7qujfibrwcRb7tG5KMFhJ/Wl+aXPrbA010EpZZqIfpoICTuOmeZME3X0dAJ+EIEC8P2YMFSOiEWqn7vs+y9zRhhzmlZb/l7Hqs4115DqgNo2jSWsr8ECAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBABWrHLSH7b2uzOWWseHv55OeYfqzVDE5F1fgBMV3ZZ/iJqgJvsn9s6IQpJCRS38qRapTbq8np3rgeip2DPdriteUi42t8jDI3y7bvsrOtYR34RrDi2FrEwBbegPf0qRHTfN7uX/vDQJ4MMV7dg/Ej9odnVfFAj33ulvmIUOqR1P5nMWyNVed+JHxd47aNIu7n7MDPbPdFNMKusCnMSZqFr/oFu+adoSzff0FGvw3DuJO+23HV99rLx097ckmzE0q2+WyP+1dr00Gq8vvALOvgApOf6Ot6bBvO+UBi6aYjkq+aAxv4sTCZnsjC+Q2R0Y+/KRwFaaUh/C9z2M+nrCrzrs=" subTotal="1500.00" TipoCambio="1" Moneda="PESOS" total="1740.00" tipoDeComprobante="ingreso" metodoDePago="03" LugarExpedicion="TEZIUTLAN, PUEBLA" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor rfc="OIRF650812PS8" nombre="FORTINO DAVID ORTIGOZA RESENDIZ">
+    <cfdi:DomicilioFiscal calle="AV HERIBERTO JARA" noExterior="53-5" colonia="JARDINES DE TEZIUTLAN" municipio="TEZIUTLAN" estado="PUEBLA" pais="MEXICO" codigoPostal="73815" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN INTERMEDIO DE LAS PERSONAS FISICAS CON ACTIVIDADES EMPRESARIALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL ÁVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" municipio="TLANEPANTLA" estado="EDO. DE MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000000" unidad="1" descripcion="FUNDA EN LONA COLOR AZUL REY PARA CAMIONETA CON NUMERO DE PLACAS KU60245" valorUnitario="1500.000000" importe="1500.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="240.000000">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="240.000000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="53A72437-534A-4AED-9D77-5EC760A3B69D" selloCFD="a7JEEm91kEDsXmCV7weXjl8/QMMgWky7tcajq85VVeiG6GOac3dmEAxSJ02T0/svJV3L3C3Nds8xnlPV8xeIMgdcyjn89yDm2JqQOnVusgVfFcQILnG5ftz8yifoDDjSqrinaOROXWo1xrf1nracGvPa3dpJF0OtlWW/CjClRr8=" noCertificadoSAT="00001000000301100488" FechaTimbrado="2017-04-06T17:42:59" selloSAT="NfCq4y38emuOjBN2ukBihe4VsOQZ/yBAShhCG8iWlJX22081pD39amYVIYVue1x04GP3UO3MmxBi1L6yJ/5BRQEU1nIi2FH0IF/KVRaMirHWs+zAdAi/h2P79wZDqReOO4H46Gu02xk3VWi713DsLZwn6n8qLlBVDUYxk9rWVV8=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

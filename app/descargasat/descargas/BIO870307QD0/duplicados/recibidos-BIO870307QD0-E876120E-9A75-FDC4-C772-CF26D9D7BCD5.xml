@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " serie="A" folio="935" fecha="2015-04-20T17:25:58" sello="GLj5XiIW1b/BfY0/wjP6AMjtvYEf2l9u6j7HPSXGeDGo+wVfjqXpQO3HMer/yNQFK4l36v07k+l9T6yrk5Z8kRSY0yc2HITKMOVUSJadxpAeWBTKKCEageRn49+EQg1IRoHOYN7ni9YSsMa12MM3pWmGmnkSdjw0l65lLm5eqHM=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000301590021" certificado="MIIEbDCCA1SgAwIBAgIUMDAwMDEwMDAwMDAzMDE1OTAwMjEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMDYyMDIxMzVaFw0xNzEyMDYyMDIxMzVaMIG4MSQwIgYDVQQDExtKVUxJTyBDRVNBUiBNT05USUVMIFNBTEFaQVIxJDAiBgNVBCkTG0pVTElPIENFU0FSIE1PTlRJRUwgU0FMQVpBUjEkMCIGA1UEChMbSlVMSU8gQ0VTQVIgTU9OVElFTCBTQUxBWkFSMRYwFAYDVQQtEw1NT1NKNzMxMDIxVjE4MRswGQYDVQQFExJNT1NKNzMxMDIxSE1DTkxMMDgxDzANBgNVBAsTBk1FWElDTzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAk91feHhhIEV0E0IBnlenRsLo3kNgEEvjsrI6QrcXH60bk+N00HSK0WUg8OJL18i0Q9ILaWjqFD0bd/D6NTngrYM94vV3gOoj7e1N5RBisDzhfMD9iwjl8Xk0AYuH5FbIsO41nUzQAoR5lI5NaaqRnAFcAfcPSYIcsL6KQZHH4p0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAMxgUtVwmpaoXLfcpcdBPxEFsDGZaIHuFrjT+yHV/ejKanDC+p410p6/kWrRguBfPC9lLKA+hMCUdrgtUto3xPwC4+bb9hP2KYcjlQk7TVrChfNdNf7nszioGAbV3U3C+OMj1X2aDTH+1H1JSpJp9Y2WrB5t5OKpnzjlYYbyJ4TnpJIbENQVx5tMn/xvXpN6Xv0rMeUpzur+QjUoCAVIAmlvkhrLW8G+vpkbV/6aquKaCLq4RweFko9oDJlJ5Lh2AG4P8vtVVZKDUzIwWVrRPcX6oEdixIIMwdWOaRGVQVw8KlBZ1m7vwW7XDTwRup6UzwYRtbQm8Y0mujHye/2u4pQ=" subTotal="119.820000" Moneda="MXP" total="138.991200" metodoDePago="EFECTIVO" tipoDeComprobante="ingreso" LugarExpedicion="Estado de Mexico" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="MOSJ731021V18" nombre="JULIO CESAR MONTIEL SALAZAR">
+		<cfdi:DomicilioFiscal calle="LIBRAMIENTO JORGE JIMENEZ CANTU" noExterior="S/N" colonia="SAN MARTIN" localidad="ATLACOMULCO" municipio="ATLACOMULCO" estado="Estado de Mexico" pais="MEXICO" codigoPostal="50450" />
+		<cfdi:RegimenFiscal Regimen="REGIMEN DE LAS PERSONAS FISICAS CON ACTIVIDAD EMPRESARIAL Y PROFESIONAL" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A DE. C.V">
+		<cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900" colonia="FRACCIONAMIENTO LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA DE BAZ" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="N/A" descripcion="CONSUMO DE ALIMENTOS" valorUnitario="119.820000" importe="119.820000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="19.171200">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="19.171200" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2015-04-20T17:25:58" UUID="E876120E-9A75-FDC4-C772-CF26D9D7BCD5" noCertificadoSAT="00001000000203392777" selloCFD="GLj5XiIW1b/BfY0/wjP6AMjtvYEf2l9u6j7HPSXGeDGo+wVfjqXpQO3HMer/yNQFK4l36v07k+l9T6yrk5Z8kRSY0yc2HITKMOVUSJadxpAeWBTKKCEageRn49+EQg1IRoHOYN7ni9YSsMa12MM3pWmGmnkSdjw0l65lLm5eqHM=" selloSAT="JpoLVWDhYU8Svb8Ikol86dTkvCQVXa3V/+C9FUDvuiF+lRkY9AIxiPAOMGBrXwfRps3ImeCi+m17oVDsN5f3bdJNnfMeoLtrxYGGujv8U64+P4ygFOrWiWswn4X2hrigCZnA+yx91VDJ6WzyED0tG7Yst51YxBVnG0OZOCvFvj8=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

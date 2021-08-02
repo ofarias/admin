@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="DMEX" folio="521070" fecha="2015-04-24T09:10:17" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="205.17" descuento="0.00" Moneda="MXN" total="238.00" metodoDePago="EFECTIVO" tipoDeComprobante="ingreso" LugarExpedicion="MÉXICO DF" noCertificado="00001000000202714146" certificado="MIIEjjCCA3agAwIBAgIUMDAwMDEwMDAwMDAyMDI3MTQxNDYwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDEwMjE4NDIzNVoXDTE3MDEwMjE4NDIzNVowgc8xJDAiBgNVBAMTG0RITCBFWFBSRVNTIE1FWElDTyBTQSBERSBDVjEkMCIGA1UEKRMbREhMIEVYUFJFU1MgTUVYSUNPIFNBIERFIENWMSQwIgYDVQQKExtESEwgRVhQUkVTUyBNRVhJQ08gU0EgREUgQ1YxJTAjBgNVBC0THERFTTg4MDExNTJFOSAvIFJJVk02NzEyMTJLWTYxHjAcBgNVBAUTFSAvIFJJVk02NzEyMTJITU5aWlIwNTEUMBIGA1UECxMLREhMIEV4cHJlc3MwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKByyeRgeBJGqtepaNASFiYcLXmj57My86AMK5ye5rvbAt8hhdgkQTMidDTeygNdpS6b3V0nyiPVC/qo4BYIphPfoE5zsd05aFf9bVzcSdyaQ6YZriX73lZHpccqu+PpCJRjMmo2IN5np9tL3+paUwAobfF3AbqWjxh3piKZ8hdbAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQCEfrURMP2QveWP41BTlxzeghxQdGY68uGJ5UMjjJ8QmKd/oohhFFo8NtOt6f9DpIf96lqWjSR4D36uHS1vqsWHlhElUcilPwjPD2X+X8jbznKX0lkFOK5vZrJmm/9Dt0kXebHb1allLPkW+IdPyMriiFPlsQgMJ3SFmp+WlnWaLH4NfSn5gEKIeeFPLrIcyMM+3LkgWCviIMcv0UWlLMpXviMzSzLc7XEqnpwg5zxlIgxrJMSFRv85IZg3kVPnfFgbcCB1FMJATn5HCPmKZ3P3VHalak6I8dO1xp6TgQXzfgfApz5cA4L9qb/AnN4HJHhtqJOprXjPQUFbNbXSEapS" sello="P+TMQs3qPT9qXlAj9XItrasVJHs4URhC8krF1JwKhEiRdWPyhgMiiZZktpeBGPbOoQfVxtcmfD9mWPrTrViQtbVsnDk7ta7kfXR4eKQ4KDlmrJEi+LuUQ4VRKpc9Sro15s3D6ohnCI+2RN3nJ2TVCHhH5CIXCgD7BMgKBKNootg=">
+  <cfdi:Emisor rfc="DEM8801152E9" nombre="DHL EXPRESS MEXICO S.A DE C.V.">
+    <cfdi:DomicilioFiscal calle="AV.FUERZA AEREA MEXICANA" noExterior="540" colonia="FEDERAL" municipio="VENUSTIANO CARRANZA" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="15700" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" municipio="TLANEPANTLA" estado="ESTADO DE MÉXICO" pais="MÉXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="SERVICIOS" descripcion="REVALIDACION" valorUnitario="205.17" importe="205.17" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="32.83">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="32.83" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  
+
+<cfdi:Complemento> <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" UUID="D1E5BD75-6615-F34F-8D24-F4EBD9CC269C" FechaTimbrado="2015-04-24T09:10:30" selloCFD="P+TMQs3qPT9qXlAj9XItrasVJHs4URhC8krF1JwKhEiRdWPyhgMiiZZktpeBGPbOoQfVxtcmfD9mWPrTrViQtbVsnDk7ta7kfXR4eKQ4KDlmrJEi+LuUQ4VRKpc9Sro15s3D6ohnCI+2RN3nJ2TVCHhH5CIXCgD7BMgKBKNootg=" noCertificadoSAT="00001000000200011997" selloSAT="oRgtxa3fYwrgCdF0h11rZKCqSnB5431vMTmzDOokRlRMz9gGtzTDmlkxZtozycJXzWp+FOVz2hPJS9rrIpXkNLf5rc1RIyzxXRLfaJUSwtthLZwcZlxy9+NtsZ2Ivuy+Xt/WJ2QG3HdrVegdwvGW15NSmSdG7FEQhy/vieGS2gw=" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

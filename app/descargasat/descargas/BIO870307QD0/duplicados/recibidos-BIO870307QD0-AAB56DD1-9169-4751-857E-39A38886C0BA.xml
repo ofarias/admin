@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:aerolineas="http://www.sat.gob.mx/aerolineas" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="México, D.F." Moneda="MXN" NumCtaPago="2008" TipoCambio="1.000000" certificado="MIIEdzCCA1+gAwIBAgIUMDAwMDEwMDAwMDAyMDI2OTcwOTEwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIyNzE1NTcyMVoXDTE2MTIyNzE1NTcyMVowgbgxHjAcBgNVBAMTFUFNRVJJQ0FOIEFJUkxJTkVTIElOQzEeMBwGA1UEKRMVQU1FUklDQU4gQUlSTElORVMgSU5DMR4wHAYDVQQKExVBTUVSSUNBTiBBSVJMSU5FUyBJTkMxJTAjBgNVBC0THEFBSTU4MDQxNEdBOSAvIFBBTU03NzAzMzA3VDIxHjAcBgNVBAUTFSAvIFBBTU03NzAzMzBNREZSTk4wMDEPMA0GA1UECxMGTUFUUklaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDv5zi24RRL7IxnJakGCep5ToZwPEnAunvWZh0m9znuEhO0J1ig/yGShyMMWE8DyGTZBJBXmWOuxLSoKwxKsd5/mZ1pucTvBhQ2Vyiy+LVL4X9+DtUt+6uc9LliTimI//NvBXDNMofS4fT2uCHv5CP+9DGV6xS7ZEnpN0+ufRLozwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAKwLlpjiBD0e3bMSFDYa6ed3BipuL30jGFJTnkJhX2l1DOIyBkyoa4fSip7X8CNks4y2npp3Xc2ceRmtV9DbhnwFTBvK9E/drkvrbtsKrD+vlX5+6XiE6X24sJ5UBhy250CYdhyQssg6sR9xwZuSpv0AU548+FovJy2ELCrahklqCIi1J/oUnDDXO3omrtYUBlwJWiYxzTDyiXaZdfBPvMNvHIsM6y6ShTkb7eSVaXorjR3eCWaKTIOkiWXYqbKr+7KYgKSFNe3oZNzjn1s2QmSg/Mg8x6B7NF5m90prZoyezNeuZGsQSwjjD9dQfFfrWLO6h/7Z1JK8GWZFdMYArMA==" fecha="2015-09-02T14:03:58" folio="0012308291582" formaDePago="Pago en una sola exhibición" metodoDePago="Tarjeta American Express" noCertificado="00001000000202697091" sello="peLD3km8KtgGZpTiHYuI96ejGoFj7KJ9zjRZKjtYc4GDaOZ5hYvmTZKEWH4/vj5kZ7gEfIW32BOjgMajL3vpW0kj4sgJY4tYTbi1P9dpnd0P9pv0SKMvFDs3wTho1TY8cx34osglGpLnIFicFhBks56ZhgEn3tM7ZKpdkYaOfB0=" subTotal="2910.000000" tipoDeComprobante="ingreso" total="2910.000000" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/aerolineas http://www.sat.gob.mx/sitio_internet/cfd/aerolineas/aerolineas.xsd">
+    <cfdi:Emisor nombre="AMERICAN AIRLINES, INC." rfc="AAI580414GA9">
+        <cfdi:DomicilioFiscal calle="REFORMA" codigoPostal="06600" estado="Distrito Federal" municipio="CUAUHTEMOC" noExterior="300" noInterior="2º PISO" pais="México" />
+        <cfdi:ExpedidoEn pais="MEXICO, DF" />
+        <cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales" />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+        <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" codigoPostal="54040" colonia="FRACC LOS PIRULES" estado="ESTADO DE MEXICO" localidad="TLALNEPANTLA" municipio="ESTADO DE MEXICO" noExterior="2900" noInterior="804" pais="MX" />
+    </cfdi:Receptor>
+    
+    
+<cfdi:Conceptos>
+        <cfdi:Concepto cantidad="1.0000" descripcion="Tarifa del boleto comprado el día 13/08/15" importe="2123.000000" noIdentificacion="0012308291582" unidad="No aplica" valorUnitario="2123.000000" />
+        <cfdi:Concepto cantidad="1.0000" descripcion="US" importe="289.000000" unidad="No aplica" valorUnitario="289.000000" />
+        <cfdi:Concepto cantidad="1.0000" descripcion="UK" importe="332.000000" unidad="No aplica" valorUnitario="332.000000" />
+        <cfdi:Concepto cantidad="1.0000" descripcion="AY" importe="92.000000" unidad="No aplica" valorUnitario="92.000000" />
+        <cfdi:Concepto cantidad="1.0000" descripcion="XF" importe="74.000000" unidad="No aplica" valorUnitario="74.000000" />
+    </cfdi:Conceptos><cfdi:Impuestos /><cfdi:Complemento>
+        <aerolineas:Aerolineas TUA="0.000000" Version="1.0">
+            <aerolineas:OtrosCargos TotalCargos="787.000000">
+                <aerolineas:Cargo CodigoCargo="US" Importe="289.000000" />
+                <aerolineas:Cargo CodigoCargo="UK" Importe="332.000000" />
+                <aerolineas:Cargo CodigoCargo="AY" Importe="92.000000" />
+                <aerolineas:Cargo CodigoCargo="XF" Importe="74.000000" />
+            </aerolineas:OtrosCargos>
+        </aerolineas:Aerolineas>
+    <tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="AAB56DD1-9169-4751-857E-39A38886C0BA" FechaTimbrado="2015-09-02T14:04:36" selloCFD="peLD3km8KtgGZpTiHYuI96ejGoFj7KJ9zjRZKjtYc4GDaOZ5hYvmTZKEWH4/vj5kZ7gEfIW32BOjgMajL3vpW0kj4sgJY4tYTbi1P9dpnd0P9pv0SKMvFDs3wTho1TY8cx34osglGpLnIFicFhBks56ZhgEn3tM7ZKpdkYaOfB0=" noCertificadoSAT="00001000000202639096" selloSAT="H1BXkHFpkJooROewMhYHG90kkd3fh4tEsxFRu0ajXePQCvb1pgB2UYMT95PmPlr3qNFHrxRGxCYImSeux7vrusq3tL2Ksc+LC5JO4WO3INXBP6pSmfF1PJZFFLaL+vM+1XbGnFrXCYfFGauebKae09JWod3yWpus7i+HNVTXy2s=" /></cfdi:Complemento></cfdi:Comprobante>
