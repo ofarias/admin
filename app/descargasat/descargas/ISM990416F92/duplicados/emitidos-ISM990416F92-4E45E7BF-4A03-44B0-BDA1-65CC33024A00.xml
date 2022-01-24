@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CondicionesDePago="Transf. a 60 dias FF" Fecha="2021-12-13T23:15:17" Folio="2100979" FormaPago="99" LugarExpedicion="11520" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000502627974" Sello="UK0urNUx0tz9SWz9oyXO+ZgGFolAZ5uGOlD0ayNKl4BkpDr0j2NXDLWSk+olAYSamzEirPJ2t0xQ1jeFlqLxP8cN8+00Rk43PS8pMNVmu8ekl6JCwQCYK6taPqJ0m1GdI4RdtnG2dhkNcjqw3ykeSbmp+rpBsu5djkqSgFzH1ak4+k7J1vR/djuu1F1MDhSNuDkzxrhWWhYnj06ki2r8RXlgNoh2Sc29/NSsSYQLKbdpTtBhss6+ZO3lmxGlOfi3mNxViIs7RPg6sfiatA8o/EnJYUpwDoCk+8K+0MdEj3h1d1kpQJ+/VCdgdtuxa6pfMQxv4O5D1kwzr2b9YglD8w==" Serie="MX-0-FACT+A-2021-" SubTotal="1308091.24" TipoDeComprobante="I" Total="1517385.84" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Nombre="IN STORE DE MEXICO SA DE CV" RegimenFiscal="601" Rfc="ISM990416F92" />
+  <cfdi:Receptor Nombre="SANTA CLARA MERCANTIL DE PACHUCA S DE RL DE CV" Rfc="SCM850529GZ7" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA WALMART C1 - 04/01/2022 a 17/01/2022" Importe="5078.00" Unidad="Unidad de servicio" ValorUnitario="5078.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5078.00" Importe="812.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA WALMART C2 - 18/01/2022 a 31/01/2022" Importe="5078.00" Unidad="Unidad de servicio" ValorUnitario="5078.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5078.00" Importe="812.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA WALMART C1 - 04/01/2022 a 17/01/2022" Importe="19042.50" Unidad="Unidad de servicio" ValorUnitario="19042.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19042.50" Importe="3046.8000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA WALMART C2 - 18/01/2022 a 31/01/2022" Importe="19042.50" Unidad="Unidad de servicio" ValorUnitario="19042.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19042.50" Importe="3046.8000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA WALMART C1 - 04/01/2022 a 17/01/2022" Importe="2539.00" Unidad="Unidad de servicio" ValorUnitario="2539.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2539.00" Importe="406.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA WALMART C2 - 18/01/2022 a 31/01/2022" Importe="2539.00" Unidad="Unidad de servicio" ValorUnitario="2539.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2539.00" Importe="406.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA WALMART C1 - 04/01/2022 a 17/01/2022" Importe="106638.00" Unidad="Unidad de servicio" ValorUnitario="106638.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="106638.00" Importe="17062.0800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA WALMART C2 - 18/01/2022 a 31/01/2022" Importe="106638.00" Unidad="Unidad de servicio" ValorUnitario="106638.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="106638.00" Importe="17062.0800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C1 - 04/01/2022 a 17/01/2022" Importe="16503.50" Unidad="Unidad de servicio" ValorUnitario="16503.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="16503.50" Importe="2640.5600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C2 - 18/01/2022 a 31/01/2022" Importe="16503.50" Unidad="Unidad de servicio" ValorUnitario="16503.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="16503.50" Importe="2640.5600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C1 - 04/01/2022 a 17/01/2022" Importe="2539.00" Unidad="Unidad de servicio" ValorUnitario="2539.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2539.00" Importe="406.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C2 - 18/01/2022 a 31/01/2022" Importe="2539.00" Unidad="Unidad de servicio" ValorUnitario="2539.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2539.00" Importe="406.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C1 - 04/01/2022 a 17/01/2022" Importe="25390.00" Unidad="Unidad de servicio" ValorUnitario="25390.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25390.00" Importe="4062.4000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C2 - 18/01/2022 a 31/01/2022" Importe="25390.00" Unidad="Unidad de servicio" ValorUnitario="25390.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25390.00" Importe="4062.4000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C1 - 04/01/2022 a 17/01/2022" Importe="7617.00" Unidad="Unidad de servicio" ValorUnitario="7617.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7617.00" Importe="1218.7200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C2 - 18/01/2022 a 31/01/2022" Importe="7617.00" Unidad="Unidad de servicio" ValorUnitario="7617.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7617.00" Importe="1218.7200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C1 - 04/01/2022 a 17/01/2022" Importe="5078.00" Unidad="Unidad de servicio" ValorUnitario="5078.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5078.00" Importe="812.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C2 - 18/01/2022 a 31/01/2022" Importe="5078.00" Unidad="Unidad de servicio" ValorUnitario="5078.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5078.00" Importe="812.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C1 - 04/01/2022 a 17/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C2 - 18/01/2022 a 31/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C1 - 04/01/2022 a 17/01/2022" Importe="17264.00" Unidad="Unidad de servicio" ValorUnitario="17264.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17264.00" Importe="2762.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C2 - 18/01/2022 a 31/01/2022" Importe="17264.00" Unidad="Unidad de servicio" ValorUnitario="17264.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17264.00" Importe="2762.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C1 - 04/01/2022 a 17/01/2022" Importe="176956.00" Unidad="Unidad de servicio" ValorUnitario="176956.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="176956.00" Importe="28312.9600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C2 - 18/01/2022 a 31/01/2022" Importe="176956.00" Unidad="Unidad de servicio" ValorUnitario="176956.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="176956.00" Importe="28312.9600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C1 - 04/01/2022 a 17/01/2022" Importe="34528.00" Unidad="Unidad de servicio" ValorUnitario="34528.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="34528.00" Importe="5524.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C2 - 18/01/2022 a 31/01/2022" Importe="34528.00" Unidad="Unidad de servicio" ValorUnitario="34528.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="34528.00" Importe="5524.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C1 - 04/01/2022 a 17/01/2022" Importe="17264.00" Unidad="Unidad de servicio" ValorUnitario="17264.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17264.00" Importe="2762.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C2 - 18/01/2022 a 31/01/2022" Importe="17264.00" Unidad="Unidad de servicio" ValorUnitario="17264.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17264.00" Importe="2762.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C1 - 04/01/2022 a 17/01/2022" Importe="34528.00" Unidad="Unidad de servicio" ValorUnitario="34528.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="34528.00" Importe="5524.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C2 - 18/01/2022 a 31/01/2022" Importe="34528.00" Unidad="Unidad de servicio" ValorUnitario="34528.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="34528.00" Importe="5524.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C1 - 04/01/2022 a 17/01/2022" Importe="19422.00" Unidad="Unidad de servicio" ValorUnitario="19422.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19422.00" Importe="3107.5200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C2 - 18/01/2022 a 31/01/2022" Importe="19422.00" Unidad="Unidad de servicio" ValorUnitario="19422.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19422.00" Importe="3107.5200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C1 - 04/01/2022 a 17/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C2 - 18/01/2022 a 31/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C1 - 04/01/2022 a 17/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C2 - 18/01/2022 a 31/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C1 - 04/01/2022 a 17/01/2022" Importe="10790.00" Unidad="Unidad de servicio" ValorUnitario="10790.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10790.00" Importe="1726.4000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C2 - 18/01/2022 a 31/01/2022" Importe="10790.00" Unidad="Unidad de servicio" ValorUnitario="10790.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10790.00" Importe="1726.4000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C1 - 04/01/2022 a 17/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C2 - 18/01/2022 a 31/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C1 - 04/01/2022 a 17/01/2022" Importe="8632.00" Unidad="Unidad de servicio" ValorUnitario="8632.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8632.00" Importe="1381.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C2 - 18/01/2022 a 31/01/2022" Importe="8632.00" Unidad="Unidad de servicio" ValorUnitario="8632.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8632.00" Importe="1381.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C1 - 04/01/2022 a 17/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C2 - 18/01/2022 a 31/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C1 - 04/01/2022 a 17/01/2022" Importe="19422.00" Unidad="Unidad de servicio" ValorUnitario="19422.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19422.00" Importe="3107.5200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C2 - 18/01/2022 a 31/01/2022" Importe="19422.00" Unidad="Unidad de servicio" ValorUnitario="19422.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19422.00" Importe="3107.5200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C1 - 04/01/2022 a 17/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C2 - 18/01/2022 a 31/01/2022" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C1 - 04/01/2022 a 17/01/2022" Importe="23643.54" Unidad="Unidad de servicio" ValorUnitario="23643.54">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="23643.54" Importe="3782.9664" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C2 - 18/01/2022 a 31/01/2022" Importe="23643.50" Unidad="Unidad de servicio" ValorUnitario="23643.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="23643.50" Importe="3782.9600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="2004.60" Unidad="Unidad de servicio" ValorUnitario="2004.60">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2004.60" Importe="320.7360" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="6013.80" Unidad="Unidad de servicio" ValorUnitario="6013.80">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6013.80" Importe="962.2080" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="1002.30" Unidad="Unidad de servicio" ValorUnitario="1002.30">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1002.30" Importe="160.3680" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="32353.96" Unidad="Unidad de servicio" ValorUnitario="32353.96">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="32353.96" Importe="5176.6336" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="5011.50" Unidad="Unidad de servicio" ValorUnitario="5011.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5011.50" Importe="801.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="1002.30" Unidad="Unidad de servicio" ValorUnitario="1002.30">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1002.30" Importe="160.3680" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="8018.40" Unidad="Unidad de servicio" ValorUnitario="8018.40">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8018.40" Importe="1282.9440" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="2338.70" Unidad="Unidad de servicio" ValorUnitario="2338.70">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2338.70" Importe="374.1920" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="1670.50" Unidad="Unidad de servicio" ValorUnitario="1670.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1670.50" Importe="267.2800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="1266.76" Unidad="Unidad de servicio" ValorUnitario="1266.76">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1266.76" Importe="202.6816" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="2850.21" Unidad="Unidad de servicio" ValorUnitario="2850.21">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2850.21" Importe="456.0336" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="27235.34" Unidad="Unidad de servicio" ValorUnitario="27235.34">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27235.34" Importe="4357.6544" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="5700.42" Unidad="Unidad de servicio" ValorUnitario="5700.42">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5700.42" Importe="912.0672" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="3166.90" Unidad="Unidad de servicio" ValorUnitario="3166.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3166.90" Importe="506.7040" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="5383.73" Unidad="Unidad de servicio" ValorUnitario="5383.73">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5383.73" Importe="861.3968" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="3166.90" Unidad="Unidad de servicio" ValorUnitario="3166.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3166.90" Importe="506.7040" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="1266.76" Unidad="Unidad de servicio" ValorUnitario="1266.76">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1266.76" Importe="202.6816" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="1266.76" Unidad="Unidad de servicio" ValorUnitario="1266.76">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1266.76" Importe="202.6816" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="1900.14" Unidad="Unidad de servicio" ValorUnitario="1900.14">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1900.14" Importe="304.0224" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="1266.76" Unidad="Unidad de servicio" ValorUnitario="1266.76">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1266.76" Importe="202.6816" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="1583.45" Unidad="Unidad de servicio" ValorUnitario="1583.45">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1583.45" Importe="253.3520" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="1266.76" Unidad="Unidad de servicio" ValorUnitario="1266.76">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1266.76" Importe="202.6816" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="3166.90" Unidad="Unidad de servicio" ValorUnitario="3166.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3166.90" Importe="506.7040" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="1266.76" Unidad="Unidad de servicio" ValorUnitario="1266.76">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1266.76" Importe="202.6816" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="3483.59" Unidad="Unidad de servicio" ValorUnitario="3483.59">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3483.59" Importe="557.3744" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="209294.60">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="209294.5984" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="4E45E7BF-4A03-44B0-BDA1-65CC33024A00" FechaTimbrado="2021-12-13T23:15:29" SelloCFD="UK0urNUx0tz9SWz9oyXO+ZgGFolAZ5uGOlD0ayNKl4BkpDr0j2NXDLWSk+olAYSamzEirPJ2t0xQ1jeFlqLxP8cN8+00Rk43PS8pMNVmu8ekl6JCwQCYK6taPqJ0m1GdI4RdtnG2dhkNcjqw3ykeSbmp+rpBsu5djkqSgFzH1ak4+k7J1vR/djuu1F1MDhSNuDkzxrhWWhYnj06ki2r8RXlgNoh2Sc29/NSsSYQLKbdpTtBhss6+ZO3lmxGlOfi3mNxViIs7RPg6sfiatA8o/EnJYUpwDoCk+8K+0MdEj3h1d1kpQJ+/VCdgdtuxa6pfMQxv4O5D1kwzr2b9YglD8w==" NoCertificadoSAT="00001000000505600468" SelloSAT="Of9ZYZkrPGft4Jr+0ojXpbPzXM0+yhInoPfSDcAP6ep4p5Maa+XkK4EiGPh3XFfEYvQSn6o4pWQk5Bgmjv18PM8V9PiiqiodS708vwAMuaTiCRpxUzeL/sFEKAPlx12vUzvqG+hr1ObOVtMIqUZx6B8vfAeSatiRe07x+GlBo0nnyXIpoWJNr6uZ1cszfIlA59UD0ee459yhOBzzSkhZtsoCeNT3LKW6/NmsH0w+oaP3fHEhkuK2z3SQScmqZr8E4nEOSPU5782TnTuRiY/XivDRgVUmE8LCusKfaHdhCDVy4/XoGdvOKOuUL0bJprcs2ghKNyNsUUWCKMVyOLlcbg==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Certificado="MIIEnzCCA4egAwIBAgIUMDAwMDEwMDAwMDAzMDY1MzM2MjMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMjUxNjEyNTZaFw0xOTAzMjUxNjEyNTZaMIHrMS8wLQYDVQQDEyZMSUJSQU1JRU5UTyBFTEVWQURPIERFIFBVRUJMQSBTQSBERSBDVjEvMC0GA1UEKRMmTElCUkFNSUVOVE8gRUxFVkFETyBERSBQVUVCTEEgU0EgREUgQ1YxLzAtBgNVBAoTJkxJQlJBTUlFTlRPIEVMRVZBRE8gREUgUFVFQkxBIFNBIERFIENWMSUwIwYDVQQtExxMRVAxNDA4MTg0UjEgLyBGQVZQNzQxMDIzNFc0MR4wHAYDVQQFExUgLyBGQVZQNzQxMDIzSERGQkxEMDQxDzANBgNVBAsTBk1FWElDTzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAl45OQ62AfHiqw3ZPX9sZ+fGXuwGE5CDZ1RAHrOh+ZqOh2hfZmn9/K4748/zz0N0UvRDH7zylF3+q2XTm81FZruVB2xdmHqixwXUPfcsZYZunsMju+l9Y5NpET/jp3fBrdDfeHpOM22GcHc7tKk3BGOEXsyXmre6m/PMgou4f+2kCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAH8DZ2K+qMlXg1ikouzNGgwywJK1bBccI75fLjFvJDNghYlYr92bpAmxCYsO4qIyF5s1qcM07vcYQTyfcKZ16p+ZaL6+v4SXPPCHqyG1zQBRfw6qHdGrC6dSzPpmSitI9chkuyxP0KE4a+1/c97+AHukqe/25W1zoT/Kwaj8BNzeOHWmm/LdVQLbiWr82g+B1qzRYVNNc9ua/vzysulKx/Brz1HQJf7MioF7J4WOizcF2rBQiNduu7+79zwVsbPbtWGn8eYFRGT2qG9pA2DIPWa/WcOyFLLo6KEbuKff0Hjos6iouD/LV9R25nqKHa/RzM2ZmkWgk6RAMZBzr042V2c=" Fecha="2019-02-26T16:29:34" Folio="7223422" FormaPago="01" LugarExpedicion="05120" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000306533623" Sello="amJOi8jYZt1YlpDe6LCy8hVSpQS/MOckQgaynUrhwbSNMxxL4HwIHUBBCsLQhAS/F1D0RWT0hogZA/pg6Sfi5TCeiKvX/lwWjmvfKEZawaCmrg80kHn0kOhPS6cUs9Z1ELqaW+u5XFZWd0GaIUZzK00MzJhXWxEXcLrYu7m9j6U=" SubTotal="34.48" TipoDeComprobante="I" Total="40.00" Version="3.3">
+  <cfdi:Emisor Nombre="LIBRAMIENTO ELEVADO DE PUEBLA SA DE CV" RegimenFiscal="601" Rfc="LEP1408184R1" />
+  <cfdi:Receptor Nombre="SISTEMAS AMBIENTALES Y TECNOLOGIA DEL AGUA S.A DE C.V." Rfc="SAT140411JV7" UsoCFDI="P01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="95111603" ClaveUnidad="A9" Descripcion="PEAJE EFECTIVO XLC02021707084" Importe="34.48" Unidad="N/A" ValorUnitario="34.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="34.48" Importe="5.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="5.52">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="5.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" FechaTimbrado="2019-02-26T16:30:58" NoCertificadoSAT="00001000000306850881" RfcProvCertif="PFE140312IW8" SelloCFD="amJOi8jYZt1YlpDe6LCy8hVSpQS/MOckQgaynUrhwbSNMxxL4HwIHUBBCsLQhAS/F1D0RWT0hogZA/pg6Sfi5TCeiKvX/lwWjmvfKEZawaCmrg80kHn0kOhPS6cUs9Z1ELqaW+u5XFZWd0GaIUZzK00MzJhXWxEXcLrYu7m9j6U=" SelloSAT="jd67w+q+4FL7f1SlrkRkwb9PBDgtm3uxZnxyqub75hlPbWYG923FdBkz/GJwEMWdDeuI+eYWAvM4/ELtBKE00TZEYlyMaT/D9kdsBqgMiAfeo9YVsqh/gzJs5Nl78Pp2ARf9QzLFxsadRxVGiCU5xAvcFPzUk2qtKb4lWkRZH1c=" UUID="5b48b971-843a-4ca9-8d8b-8c7a6fc90271" Version="1.1" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

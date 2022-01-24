@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CondicionesDePago="Transf. a 60 dias FF" Fecha="2021-10-19T11:12:21" Folio="2100683" FormaPago="99" LugarExpedicion="11520" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000502627974" Sello="a/emCC86D29RNzDTFQKFABu6fyayfTFyR9lj2FygA3/6tTMNqnMIu5HRwJSO6Rs8B0MpewxR+Od5yWE2TABSODroL/JFGtHUuvS6AT9lcNdCtaECmo/OgYKv1r2bPeC6T15/BJHPS2IS+EMbgdVHdMjVT+kfh04lu3HRbNgS8I9aXLz4gV0yzkBPJnH2gvo8SSW6GPhzkpZOg/rVoJTEFfFDtNJeyOgWBCYxcgjmTMrFQE4k3gAre6OyZeb5ozAcay+GwUOn3IOULclrnk5ftH36BmhovVaQLglWxmuzYrGvAwzpjxth/GhaSjHGUh7yI8V5aMKWfOnjVyAuym4WNw==" Serie="MX-0-FACT+A-2021-" SubTotal="1137969.05" TipoDeComprobante="I" Total="1320044.10" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Nombre="IN STORE DE MEXICO SA DE CV" RegimenFiscal="601" Rfc="ISM990416F92" />
+  <cfdi:Receptor Nombre="SANTA CLARA MERCANTIL DE PACHUCA S DE RL DE CV" Rfc="SCM850529GZ7" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C19 - 07/09/2021 a 20/09/2021" Importe="17773.00" Unidad="Unidad de servicio" ValorUnitario="17773.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17773.00" Importe="2843.6800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C20 - 21/09/2021 a 04/10/2021" Importe="17773.00" Unidad="Unidad de servicio" ValorUnitario="17773.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17773.00" Importe="2843.6800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C19 - 07/09/2021 a 20/09/2021" Importe="2539.00" Unidad="Unidad de servicio" ValorUnitario="2539.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2539.00" Importe="406.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C20 - 21/09/2021 a 04/10/2021" Importe="2539.00" Unidad="Unidad de servicio" ValorUnitario="2539.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2539.00" Importe="406.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA LA COMER C19 - 07/09/2021 a 20/09/2021" Importe="2539.00" Unidad="Unidad de servicio" ValorUnitario="2539.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2539.00" Importe="406.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA LA COMER C20 - 21/09/2021 a 04/10/2021" Importe="2539.00" Unidad="Unidad de servicio" ValorUnitario="2539.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2539.00" Importe="406.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C19 - 07/09/2021 a 20/09/2021" Importe="19042.50" Unidad="Unidad de servicio" ValorUnitario="19042.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19042.50" Importe="3046.8000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C20 - 21/09/2021 a 04/10/2021" Importe="19042.50" Unidad="Unidad de servicio" ValorUnitario="19042.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19042.50" Importe="3046.8000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C19 - 07/09/2021 a 20/09/2021" Importe="49634.00" Unidad="Unidad de servicio" ValorUnitario="49634.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="49634.00" Importe="7941.4400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C20 - 21/09/2021 a 04/10/2021" Importe="49634.00" Unidad="Unidad de servicio" ValorUnitario="49634.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="49634.00" Importe="7941.4400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C19 - 07/09/2021 a 20/09/2021" Importe="8632.00" Unidad="Unidad de servicio" ValorUnitario="8632.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8632.00" Importe="1381.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C20 - 21/09/2021 a 04/10/2021" Importe="8632.00" Unidad="Unidad de servicio" ValorUnitario="8632.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8632.00" Importe="1381.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C19 - 07/09/2021 a 20/09/2021" Importe="25896.00" Unidad="Unidad de servicio" ValorUnitario="25896.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25896.00" Importe="4143.3600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C20 - 21/09/2021 a 04/10/2021" Importe="25896.00" Unidad="Unidad de servicio" ValorUnitario="25896.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25896.00" Importe="4143.3600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C19 - 07/09/2021 a 20/09/2021" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C20 - 21/09/2021 a 04/10/2021" Importe="6474.00" Unidad="Unidad de servicio" ValorUnitario="6474.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.00" Importe="1035.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C19 - 07/09/2021 a 20/09/2021" Importe="69056.00" Unidad="Unidad de servicio" ValorUnitario="69056.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="69056.00" Importe="11048.9600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C20 - 21/09/2021 a 04/10/2021" Importe="69056.00" Unidad="Unidad de servicio" ValorUnitario="69056.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="69056.00" Importe="11048.9600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C19 - 07/09/2021 a 20/09/2021" Importe="4316.00" Unidad="Unidad de servicio" ValorUnitario="4316.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4316.00" Importe="690.5600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C20 - 21/09/2021 a 04/10/2021" Importe="4316.00" Unidad="Unidad de servicio" ValorUnitario="4316.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4316.00" Importe="690.5600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C19 - 07/09/2021 a 20/09/2021" Importe="25896.00" Unidad="Unidad de servicio" ValorUnitario="25896.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25896.00" Importe="4143.3600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C20 - 21/09/2021 a 04/10/2021" Importe="25896.00" Unidad="Unidad de servicio" ValorUnitario="25896.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25896.00" Importe="4143.3600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C19 - 07/09/2021 a 20/09/2021" Importe="2158.00" Unidad="Unidad de servicio" ValorUnitario="2158.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2158.00" Importe="345.2800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C20 - 21/09/2021 a 04/10/2021" Importe="2158.00" Unidad="Unidad de servicio" ValorUnitario="2158.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2158.00" Importe="345.2800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C19 - 07/09/2021 a 20/09/2021" Importe="88478.00" Unidad="Unidad de servicio" ValorUnitario="88478.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="88478.00" Importe="14156.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C20 - 21/09/2021 a 04/10/2021" Importe="88478.00" Unidad="Unidad de servicio" ValorUnitario="88478.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="88478.00" Importe="14156.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C19 - 07/09/2021 a 20/09/2021" Importe="17264.00" Unidad="Unidad de servicio" ValorUnitario="17264.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17264.00" Importe="2762.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C20 - 21/09/2021 a 04/10/2021" Importe="17264.00" Unidad="Unidad de servicio" ValorUnitario="17264.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17264.00" Importe="2762.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C19 - 07/09/2021 a 20/09/2021" Importe="4316.00" Unidad="Unidad de servicio" ValorUnitario="4316.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4316.00" Importe="690.5600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C20 - 21/09/2021 a 04/10/2021" Importe="4316.00" Unidad="Unidad de servicio" ValorUnitario="4316.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4316.00" Importe="690.5600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C19 - 07/09/2021 a 20/09/2021" Importe="21580.00" Unidad="Unidad de servicio" ValorUnitario="21580.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="21580.00" Importe="3452.8000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C20 - 21/09/2021 a 04/10/2021" Importe="21580.00" Unidad="Unidad de servicio" ValorUnitario="21580.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="21580.00" Importe="3452.8000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C19 - 07/09/2021 a 20/09/2021" Importe="33007.00" Unidad="Unidad de servicio" ValorUnitario="33007.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="33007.00" Importe="5281.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C20 - 21/09/2021 a 04/10/2021" Importe="33007.00" Unidad="Unidad de servicio" ValorUnitario="33007.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="33007.00" Importe="5281.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C19 - 07/09/2021 a 20/09/2021" Importe="2539.00" Unidad="Unidad de servicio" ValorUnitario="2539.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2539.00" Importe="406.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C20 - 21/09/2021 a 04/10/2021" Importe="2539.00" Unidad="Unidad de servicio" ValorUnitario="2539.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2539.00" Importe="406.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C19 - 07/09/2021 a 20/09/2021" Importe="5078.00" Unidad="Unidad de servicio" ValorUnitario="5078.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5078.00" Importe="812.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C20 - 21/09/2021 a 04/10/2021" Importe="5078.00" Unidad="Unidad de servicio" ValorUnitario="5078.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5078.00" Importe="812.4800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C19 - 07/09/2021 a 20/09/2021" Importe="53319.00" Unidad="Unidad de servicio" ValorUnitario="53319.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="53319.00" Importe="8531.0400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA SORIANA C20 - 21/09/2021 a 04/10/2021" Importe="53319.00" Unidad="Unidad de servicio" ValorUnitario="53319.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="53319.00" Importe="8531.0400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C19 - 07/09/2021 a 20/09/2021" Importe="33007.00" Unidad="Unidad de servicio" ValorUnitario="33007.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="33007.00" Importe="5281.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C20 - 21/09/2021 a 04/10/2021" Importe="33007.00" Unidad="Unidad de servicio" ValorUnitario="33007.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="33007.00" Importe="5281.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C19 - 07/09/2021 a 20/09/2021" Importe="7617.00" Unidad="Unidad de servicio" ValorUnitario="7617.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7617.00" Importe="1218.7200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA CHEDRAUI C20 - 21/09/2021 a 04/10/2021" Importe="7617.00" Unidad="Unidad de servicio" ValorUnitario="7617.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7617.00" Importe="1218.7200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA LA COMER C19 - 07/09/2021 a 20/09/2021" Importe="3808.50" Unidad="Unidad de servicio" ValorUnitario="3808.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3808.50" Importe="609.3600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA LA COMER C20 - 21/09/2021 a 04/10/2021" Importe="3808.50" Unidad="Unidad de servicio" ValorUnitario="3808.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3808.50" Importe="609.3600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA LA COMER C19 - 07/09/2021 a 20/09/2021" Importe="10569.88" Unidad="Unidad de servicio" ValorUnitario="10569.88">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10569.88" Importe="1691.1808" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="PLUMA LA COMER C20 - 21/09/2021 a 04/10/2021" Importe="10156.00" Unidad="Unidad de servicio" ValorUnitario="10156.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10156.00" Importe="1624.9600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="5011.50" Unidad="Unidad de servicio" ValorUnitario="5011.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5011.50" Importe="801.8400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="1002.30" Unidad="Unidad de servicio" ValorUnitario="1002.30">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1002.30" Importe="160.3680" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="808.38" Unidad="Unidad de servicio" ValorUnitario="808.38">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="808.38" Importe="129.3408" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="5550.42" Unidad="Unidad de servicio" ValorUnitario="5550.42">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5550.42" Importe="888.0672" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="7600.56" Unidad="Unidad de servicio" ValorUnitario="7600.56">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7600.56" Importe="1216.0896" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="1583.45" Unidad="Unidad de servicio" ValorUnitario="1583.45">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1583.45" Importe="253.3520" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="4433.66" Unidad="Unidad de servicio" ValorUnitario="4433.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4433.66" Importe="709.3856" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="1266.76" Unidad="Unidad de servicio" ValorUnitario="1266.76">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1266.76" Importe="202.6816" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="11400.84" Unidad="Unidad de servicio" ValorUnitario="11400.84">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11400.84" Importe="1824.1344" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="950.07" Unidad="Unidad de servicio" ValorUnitario="950.07">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="950.07" Importe="152.0112" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="4433.66" Unidad="Unidad de servicio" ValorUnitario="4433.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4433.66" Importe="709.3856" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="316.69" Unidad="Unidad de servicio" ValorUnitario="316.69">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="316.69" Importe="50.6704" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="13934.36" Unidad="Unidad de servicio" ValorUnitario="13934.36">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13934.36" Importe="2229.4976" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="2850.21" Unidad="Unidad de servicio" ValorUnitario="2850.21">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2850.21" Importe="456.0336" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="950.07" Unidad="Unidad de servicio" ValorUnitario="950.07">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="950.07" Importe="152.0112" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="3800.28" Unidad="Unidad de servicio" ValorUnitario="3800.28">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3800.28" Importe="608.0448" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="9354.80" Unidad="Unidad de servicio" ValorUnitario="9354.80">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9354.80" Importe="1496.7680" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="1002.30" Unidad="Unidad de servicio" ValorUnitario="1002.30">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1002.30" Importe="160.3680" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="1746.04" Unidad="Unidad de servicio" ValorUnitario="1746.04">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1746.04" Importe="279.3664" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="15174.68" Unidad="Unidad de servicio" ValorUnitario="15174.68">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15174.68" Importe="2427.9488" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="9107.14" Unidad="Unidad de servicio" ValorUnitario="9107.14">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9107.14" Importe="1457.1424" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="2338.70" Unidad="Unidad de servicio" ValorUnitario="2338.70">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2338.70" Importe="374.1920" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="1541.22" Unidad="Unidad de servicio" ValorUnitario="1541.22">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1541.22" Importe="246.5952" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="3147.08" Unidad="Unidad de servicio" ValorUnitario="3147.08">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3147.08" Importe="503.5328" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="182075.05">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="182075.0480" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="678C50BF-D96A-4277-9D25-3EFA48FAA753" FechaTimbrado="2021-10-19T11:12:31" SelloCFD="a/emCC86D29RNzDTFQKFABu6fyayfTFyR9lj2FygA3/6tTMNqnMIu5HRwJSO6Rs8B0MpewxR+Od5yWE2TABSODroL/JFGtHUuvS6AT9lcNdCtaECmo/OgYKv1r2bPeC6T15/BJHPS2IS+EMbgdVHdMjVT+kfh04lu3HRbNgS8I9aXLz4gV0yzkBPJnH2gvo8SSW6GPhzkpZOg/rVoJTEFfFDtNJeyOgWBCYxcgjmTMrFQE4k3gAre6OyZeb5ozAcay+GwUOn3IOULclrnk5ftH36BmhovVaQLglWxmuzYrGvAwzpjxth/GhaSjHGUh7yI8V5aMKWfOnjVyAuym4WNw==" NoCertificadoSAT="00001000000505600468" SelloSAT="CajJsVU2h+gkEgE9QrOuUGhLBwRjojH9M9SIBeRD3zgVZTQCVJBlz9g36EGXwd4rkgAAxxsQrTGOks4STTf63FhmgTjaRPtAO839DVx2XSKJJSXqFCCz9N7X3e/AlaC+m2azIKWVi4O4RZJH38Q2P2dgufcvdRRh0aVTKB2yIE3CC2ZOUnAYeOKOjzRcQIFNuOZQHjrC/FAWBi76mnOEcCMMpFpOilKJSdlyM6x2KdRlPTs3sPyiswMaSZQuHpeGMUFKpLJbVug94hnIOp54qkIEMEE72lOc8Zn1nqwlkHdAypNLw0BTaktAXmEEjXmE7WfEhVynovuBdcSeurffKw==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

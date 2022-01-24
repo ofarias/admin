@@ -1,0 +1,21 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="14030" MetodoPago="PUE" TipoDeComprobante="I" Total="232.00" Moneda="MXN" Certificado="MIIE1jCCA76gAwIBAgIUMDAwMDEwMDAwMDAzMDYzMDYxMDQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMDkyMjA4MjFaFw0xOTAzMDkyMjA5MDFaMIHLMR4wHAYDVQQDExVIRUNUT1IgQ0VESUxMTyBSRU5ET04xHjAcBgNVBCkTFUhFQ1RPUiBDRURJTExPIFJFTkRPTjEeMBwGA1UEChMVSEVDVE9SIENFRElMTE8gUkVORE9OMQswCQYDVQQGEwJNWDEnMCUGCSqGSIb3DQEJARYYY2VzaWV4dGludG9yQGhvdG1haWwuY29tMRYwFAYDVQQtEw1DRVJINTQxMTExR0M2MRswGQYDVQQFExJDRVJINTQxMTExSERGRE5DMDkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAInV00XeMf08MTWB/XRUhhkToHo6n7+ak3FnI5puvJ94UyqaaOElYtUIhMktrI1UmVjyjQDPL8bFTj+BjVL/x8Boxeh58JNuyYcvcwgVEWcgIRSBZEM50w4hdfgcGEmDFFfFEpyuAowqFPYm21PDcpP+hbcJQ9BjJmoDYMbCKTvdAgMBAAGjdDByMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgPYMBEGCWCGSAGG+EIBAQQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDBAYIKwYBBQUHAwIwIwYDVR0RBBwwGoEYY2VzaWV4dGludG9yQGhvdG1haWwuY29tMA0GCSqGSIb3DQEBBQUAA4IBAQAi59FWQnPfweGA7mvks3FkuTuuy7kg5lJVVRIP6NFU6yvRHOeX6bPoNrbxpZMGPq3V35Lsc10VfJE3scPJcmWl6stZE/H5tHjmYVekJzicM62LY4EB4vTBKEMy57cBKGXZmPIV8uwgRttS1hBdGTe9LBUOvBXboujbFU9Strt0g8tBxRLdD+K/Eh2D63g/f1MsbexRryrpddJDpVPp1uhk1lCFnslQ/CKVRP9SyfPxeWY20wW0Tv+2+vrrS46lneTTd8/yZ9GfP73apPpcfTchJf3cOue7Vr4b4ZkifdG25azTyx4HUo7w6Ab7fMKgRoxXdLw2CDbxZDce0NWFLTsH" SubTotal="200.00" NoCertificado="00001000000306306104" FormaPago="01" Sello="cDwWADksrfDEWZdBzS0N5vvWGRjZDO22TH9gZbsUJWBUwk1ZY0Do3YBNKFDoJfe46Wp0OADdEMI5hJJ3FeM1khoUyp5cy2r1EIaIOxhq2jM6d0afx0vhFG8p8P06A62NyDPKL96RWjYWzlIJH3OJFi9+oNVReTGgo71/MovOIKc=" Fecha="2018-01-18T17:40:23" Folio="2027" Serie="HCR" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="CERH541111GC6" Nombre="HECTOR CEDILLO RENDON" RegimenFiscal="621"></cfdi:Emisor>
+  <cfdi:Receptor Rfc="MABL7705259U7" Nombre="MARIA DE LA LUZ MARTA BENITES" UsoCFDI="P01"></cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="46191601" Cantidad="1" ClaveUnidad="ACT" Unidad="SERVICIO" Descripcion="MANTENIMIENTO DE EXTINTOR A BASE DE POLVO QUIMICO SECO TIPO ABC DE 4.5 KG. DE CAPACIDAD" ValorUnitario="200.00" Importe="200.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="200.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="32.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="32.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="32.00"></cfdi:Traslado>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="D934D95C-CFB1-4EBF-90FE-DE777C8838ED" FechaTimbrado="2018-01-18T17:47:06" RfcProvCertif="SAT970701NN3" SelloCFD="cDwWADksrfDEWZdBzS0N5vvWGRjZDO22TH9gZbsUJWBUwk1ZY0Do3YBNKFDoJfe46Wp0OADdEMI5hJJ3FeM1khoUyp5cy2r1EIaIOxhq2jM6d0afx0vhFG8p8P06A62NyDPKL96RWjYWzlIJH3OJFi9+oNVReTGgo71/MovOIKc=" NoCertificadoSAT="00001000000403258748" SelloSAT="R2yUW+XPA5jwURlqlyFvhMViQDVT5B28rinUAh04DYAqId/uwT1xJT84Y9qpGLPCJA/TZtMTHKTFv5BKnkydl7RphRCEfXt5AVMO0dNYJ+ZNaqNsslSEN4nhKP/89J1gv1B9DKdOSFrjcjvWEzTRiqWDcdlotGtNq5fhDNLvV4MSc8a85CwxZkGOrJ75VilVev84kC1DomWGYJd5dMqfZdEwpn1yqm/mADrzJ9YlgskwPgCNIJBJvnxd1Ou65cUysi95WQpHiLSsvCbxCncsHYJNeXAbmvvfhkEwcb6yfXcW5LQCwx6X0PP8UsjIpiKgfCeVzrERBFDs4wLopmYzxQ==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:catCFDI="http://www.sat.gob.mx/sitio_internet/cfd/catalogos" xmlns:tdCFDI="http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Folio="885329" Fecha="2021-08-14T11:09:13" Sello="TOCBq6JY6cfjjiTUUyMtjMpGV8ZRwf/bPdzfTEdoXiod6UIy//8I49+CtXfbdLuMR+k/ED5twt9xSnrGs+nWen1fc6nIJ9Xnjw2QT4mGHtZnp2uPQPDwdZasS85cbldnDf4o7LqLqujY28CO8DtdrF/eZQ0uioT1ghaCSLhV3BDQtNNMwkTiQ60vK1JF8RujbdFJa8bhqOHdW3QSudKYVntRQCoMnq+upSedN/GBItlbkP0M+h5rYNKSuxStFBMqIbkbmgf/dJE7XhmPdwsZ/Wb1zmKkH6Jm1AN7+1CAJI4/Uov6j4RXqO6kiXPsFv77j0zfDI8ZkkdRjdQwh2d9ZQ==" FormaPago="03" NoCertificado="00001000000502039253" Certificado="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" CondicionesDePago="Contado" SubTotal="50216.08" Descuento="19353.09" Moneda="MXN" TipoCambio="1" Total="35801.07" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="91910">
+  <cfdi:Emisor Rfc="DTA9601235Z9" Nombre="DISTRIBUIDORA TAMEX S.A.P.I. DE C.V." RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="CRJ121011HI3" Nombre="CONSTRUCTORA Y REMODELACIONES JABA SA DE CV" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31161618" NoIdentificacion="191-BR14300" Cantidad="30.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="BARRAS ROSCADAS GALV DE 3.05 MT 1/4 ATR-1/4-120" ValorUnitario="34.540600" Importe="1036.218000" Descuento="232.009210">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="804.208790" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="128.673406" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="191-TH14" Cantidad="200.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="TUERCA HEXAGONAL 6.5MM 1/4 TUER-14" ValorUnitario="0.293000" Importe="58.600000" Descuento="13.120540">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="45.479460" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.276714" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161807" NoIdentificacion="191-RPL14" Cantidad="300.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="RONDANA PLANA GALVANIZADA 1/4" ValorUnitario="0.170400" Importe="51.120000" Descuento="11.445768">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="39.674232" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.347877" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161700" NoIdentificacion="191-TH38" Cantidad="300.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="TUERCA HEXAGONAL 9.5MM. 3/8 CAT. TH38" ValorUnitario="0.598600" Importe="179.580000" Descuento="40.207962">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="139.372038" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="22.299526" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161807" NoIdentificacion="191-RPL38" Cantidad="300.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="RONDANA PLANA 3/8 1 1/2 X 2 CAT. RPL38" ValorUnitario="0.372500" Importe="111.750000" Descuento="25.020825">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="86.729175" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.876668" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121311" NoIdentificacion="191-CLIP12" Cantidad="50.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CLIPS PARA CONDUIT 13MM." ValorUnitario="4.440400" Importe="222.020000" Descuento="49.710278">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="172.309722" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.569556" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121311" NoIdentificacion="191-CLIP100" Cantidad="48.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CLIP PARA CONDUIT DE 1" ValorUnitario="5.942300" Importe="285.230400" Descuento="63.863087">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="221.367313" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="35.418770" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31162414" NoIdentificacion="191-CP200" Cantidad="30.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="ABRAZADERA COLGADOR TIPO PERA 2X5/16" ValorUnitario="10.056200" Importe="301.686000" Descuento="67.547495">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="234.138505" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="37.462161" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="30102300" NoIdentificacion="191-USC4X4" Cantidad="10.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="PERFIL UNICANAL GALV. SOLIDO 4X4X3.05MTS CAL. 14" ValorUnitario="435.516900" Importe="4355.169000" Descuento="975.122339">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3380.046661" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="540.807466" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="30102300" NoIdentificacion="191-USC4X2" Cantidad="4.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="PERFIL UNICANAL GALV. SOLIDO 4X2X3.05MTS CAL.14" ValorUnitario="306.297600" Importe="1225.190400" Descuento="274.320131">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="950.870269" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="152.139243" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31162414" NoIdentificacion="191-AU114" Cantidad="20.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="ABRAZADERA UNICANAL PARED GRUESA 1 1/4 PLG" ValorUnitario="6.562600" Importe="131.252000" Descuento="29.387323">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="101.864677" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.298348" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40171600" NoIdentificacion="060-TPDG13-SC" Cantidad="18.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="TUBO CONDUIT PARED DELGADA 1/2 SIN COPLE" ValorUnitario="149.700000" Importe="2694.600000" Descuento="1266.462000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1428.138000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="228.502080" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31163100" NoIdentificacion="191-CPD12" Cantidad="20.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="COPLES TIPO AMERICANO DE 1/2 13MM." ValorUnitario="5.403600" Importe="108.072000" Descuento="24.197321">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="83.874679" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.419949" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31163100" NoIdentificacion="191-CCL12" Cantidad="20.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CONECTOR TIPO AMERICANO DE 1/2" ValorUnitario="5.697400" Importe="113.948000" Descuento="25.512957">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="88.435043" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="14.149607" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121309" NoIdentificacion="064-FS-1" Cantidad="2.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CAJA RECTANGULAR FS-1 (1/2 )" ValorUnitario="166.146300" Importe="332.292600" Descuento="74.400313">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="257.892287" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="41.262766" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31162414" NoIdentificacion="191-UT12" Cantidad="15.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="ABRAZADERA TIPO UNA INDUSTRIAL PARED GRUESA 1/2 X1/4" ValorUnitario="1.093800" Importe="16.407000" Descuento="3.673527">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12.733473" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.037356" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40173600" NoIdentificacion="191-RE3412" Cantidad="13.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="REDUCCION 3/4 1/2 ZINC" ValorUnitario="6.709600" Importe="87.224800" Descuento="19.529633">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="67.695167" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.831227" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40173600" NoIdentificacion="191-RE10034" Cantidad="10.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="REDUCCION 1 - 3/4 ZINC" ValorUnitario="9.860300" Importe="98.603000" Descuento="22.077212">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="76.525788" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.244126" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121309" NoIdentificacion="191-RE114100" Cantidad="10.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="REDUCCION 1 1/4-1 ZINC" ValorUnitario="18.626800" Importe="186.268000" Descuento="41.705405">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="144.562595" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="23.130015" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121400" NoIdentificacion="091-259" Cantidad="4.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CAJA CUAD 4 11/16P 2 1/8P PR KO 1 1/4P" ValorUnitario="53.316100" Importe="213.264400" Descuento="47.749899">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="165.514501" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="26.482320" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121400" NoIdentificacion="091-233" Cantidad="2.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CAJA CUAD 4P 2 1/8P DE PROF KO 1P" ValorUnitario="39.975400" Importe="79.950800" Descuento="17.900984">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="62.049816" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9.927971" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121300" NoIdentificacion="091-191" Cantidad="40.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CAJA CUADRADA DE 4 Y 11/2 DE PROF. PARA TUBO DE 3/4 CAT. 191 RACO" ValorUnitario="30.942400" Importe="1237.696000" Descuento="277.120134">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="960.575866" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="153.692139" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121309" NoIdentificacion="064-LB-67CG" Cantidad="1.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CONDULET LB-67 (2) C/TAPA Y EMPAQUE INTEGRAL CAT.LB-67 CG" ValorUnitario="1103.692300" Importe="1103.692300" Descuento="247.116706">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="856.575594" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="137.052095" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121309" NoIdentificacion="064-LB-27CG" Cantidad="12.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CONDULET LB-27 (3/4) C/TAPA Y EMPAQUE INTEGRAL CAT.LB-27 CG" ValorUnitario="279.874000" Importe="3358.488000" Descuento="751.965463">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2606.522537" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="417.043606" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121309" NoIdentificacion="064-LB-37CG" Cantidad="4.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CONDULET LB-37 (1PULG ) C/TAPA Y EMPAQUE INTEGRAL CAT.LB-37 CG" ValorUnitario="450.960700" Importe="1803.842800" Descuento="403.880403">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1399.962397" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="223.993984" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40172100" NoIdentificacion="060-CDPGG13" Cantidad="6.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CODO CONDUIT PARED GRUESA GALV. 1/2" ValorUnitario="58.600000" Importe="351.600000" Descuento="165.252000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="186.348000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="29.815680" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40172100" NoIdentificacion="060-CDPGG19" Cantidad="20.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CODO CONDUIT PARED GRUESA GALV. 3/4" ValorUnitario="80.500000" Importe="1610.000000" Descuento="756.700000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="853.300000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="136.528000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40171600" NoIdentificacion="060-TPGG25" Cantidad="4.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="TUBO CONDUIT PARED GRUESA GALV. 1PLG CON COPLE" ValorUnitario="489.300000" Importe="1957.200000" Descuento="919.884000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1037.316000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="165.970560" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39131720" NoIdentificacion="060-TPGG32" Cantidad="10.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="TUBO CONDUIT PARED GRUESA GALV. 1 1/4 CON COPLE" ValorUnitario="661.900000" Importe="6619.000000" Descuento="3110.930000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3508.070000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="561.291200" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39131720" NoIdentificacion="060-TPGG51" Cantidad="15.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="TUBO CONDUIT PARED GRUESA GALV. 2 CON COPLE" ValorUnitario="1178.200000" Importe="17673.000000" Descuento="8306.310000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9366.690000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1498.670400" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121434" NoIdentificacion="060-CPPGG51" Cantidad="5.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="COPLE CONDUIT PARED GRUESA GALV. 2" ValorUnitario="88.000000" Importe="440.000000" Descuento="206.800000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="233.200000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="37.312000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40183110" NoIdentificacion="060-CPPGG32" Cantidad="8.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="COPLE CONDUIT PARED GRUESA GALV. 1 1/4" ValorUnitario="68.700000" Importe="549.600000" Descuento="258.312000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="291.288000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="46.606080" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40183110" NoIdentificacion="060-CPPGG25" Cantidad="6.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="COPLE CONDUIT PARED GRUESA GALV. 1" ValorUnitario="31.900000" Importe="191.400000" Descuento="89.958000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="101.442000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.230720" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40183110" NoIdentificacion="060-CPPGG25" Cantidad="15.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="COPLE CONDUIT PARED GRUESA GALV. 1" ValorUnitario="31.900000" Importe="478.500000" Descuento="224.895000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="253.605000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="40.576800" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40183110" NoIdentificacion="060-CPPGG19" Cantidad="20.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="COPLE CONDUIT PARED GRUESA GALV. 3/4" ValorUnitario="19.400000" Importe="388.000000" Descuento="182.360000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="205.640000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="32.902400" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121434" NoIdentificacion="191-CT200" Cantidad="4.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CONTRATUERCA CUERDA NPS DE 2 PLG 51MM 16X" ValorUnitario="6.872800" Importe="27.491200" Descuento="6.155280">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="21.335920" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.413747" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161716" NoIdentificacion="191-CT114" Cantidad="8.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CONTRATUERCA CUERDA NPS DE 1 1/4 32MM. 14X" ValorUnitario="4.473000" Importe="35.784000" Descuento="8.012038">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27.771962" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.443514" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121311" NoIdentificacion="191-MT114" Cantidad="8.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="MONITOR CUERDA NPS ZAMAK (ZINC FUNDIDO A PRESION)DIAM 32MM 1 1/4" ValorUnitario="8.195100" Importe="65.560800" Descuento="14.679063">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="50.881737" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.141078" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161716" NoIdentificacion="191-CT100" Cantidad="8.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="CONTRATUERCA CUERDA NPS DE 1 25MM. 13X" ValorUnitario="2.497700" Importe="19.981600" Descuento="4.473880">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15.507720" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.481235" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121311" NoIdentificacion="191-MT100" Cantidad="8.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="MONITOR CUERDA NPS ZAMAK (ZINC FUNDIDO A PRESION) DIAM. 25MM 1 PLG" ValorUnitario="6.595300" Importe="52.762400" Descuento="11.813501">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="40.948899" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.551824" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121311" NoIdentificacion="191-MT34" Cantidad="35.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="MONITOR CUERDA NPS ZAMAK ZINC FUNDIDO A PRESION DIAM. 19MM 3/4" ValorUnitario="4.162900" Importe="145.701500" Descuento="32.622566">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="113.078934" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="18.092629" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121311" NoIdentificacion="191-MT12" Cantidad="15.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="MONITOR CUERDA NPS ZAMAK (ZIN FUNDIDO A PRESION) DIAM. 13MM 1/2" ValorUnitario="2.971100" Importe="44.566500" Descuento="9.978439">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="34.588061" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.534090" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31162414" NoIdentificacion="191-AU34" Cantidad="20.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="ABRAZADERA UNICANAL PARED GRUESA 3/4 PLG," ValorUnitario="5.338300" Importe="106.766000" Descuento="23.904907">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="82.861093" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.257775" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31162414" NoIdentificacion="191-AU200" Cantidad="8.000000" ClaveUnidad="H87" Unidad="pza" Descripcion="ABRAZADERA UNICANAL PARED GRUESA 2 PLG" ValorUnitario="8.374700" Importe="66.997600" Descuento="15.000763">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="51.996837" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.319494" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="4938.08">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4938.08" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="19DEC440-762E-4316-9DF6-9D2F75DF7576" FechaTimbrado="2021-08-14T13:09:21" SelloCFD="TOCBq6JY6cfjjiTUUyMtjMpGV8ZRwf/bPdzfTEdoXiod6UIy//8I49+CtXfbdLuMR+k/ED5twt9xSnrGs+nWen1fc6nIJ9Xnjw2QT4mGHtZnp2uPQPDwdZasS85cbldnDf4o7LqLqujY28CO8DtdrF/eZQ0uioT1ghaCSLhV3BDQtNNMwkTiQ60vK1JF8RujbdFJa8bhqOHdW3QSudKYVntRQCoMnq+upSedN/GBItlbkP0M+h5rYNKSuxStFBMqIbkbmgf/dJE7XhmPdwsZ/Wb1zmKkH6Jm1AN7+1CAJI4/Uov6j4RXqO6kiXPsFv77j0zfDI8ZkkdRjdQwh2d9ZQ==" NoCertificadoSAT="00001000000505600468" SelloSAT="ps6RwQDW535/eEvQnSq8q5+ys/AtCMjqgXEJbGo3RXdMhEAb3mwa201xISbB3Q1IAdPWpeHEb3A1aIPbLWWaalKMXoeFg7VMOQQlLfwdz0Rx6zR9m9WyiTptbd7HeTIb5GPuorTOfEZ2twzA1Sjm3NMs+k6y8CYJ9k7Zh+mWLvMroOaX+P6XyXIcYREIKTKYX5Y47CkcaMTFSGIhitWruvD/4HA2la15IZ9O7fnucrnEv4EN5F565ULXDQQVScbU4dwrA8/zEk9kij/PLZLufnNgevhzkZrzfNITkcqQ5DSHhgQyMc1i3xJuEA7M/PtVkCQtHcgg1eu2AWEAX2Lr0Q==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

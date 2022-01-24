@@ -1,0 +1,43 @@
+<cfdi:Comprobante LugarExpedicion="PUEBLA PUEBLA" certificado="MIIEdTCCA12gAwIBAgIUMDAwMDEwMDAwMDAyMDI5Nzk2NTAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDIwNjE4NDIzMloXDTE3MDIwNjE4NDIzMlowgbYxHjAcBgNVBAMTFVRPTlkgVElFTkRBUyBTQSBERSBDVjEeMBwGA1UEKRMVVE9OWSBUSUVOREFTIFNBIERFIENWMR4wHAYDVQQKExVUT05ZIFRJRU5EQVMgU0EgREUgQ1YxJTAjBgNVBC0THFRUSTk2MTIwMklNMSAvIEhFWlA0MjA1MTBUNjkxHjAcBgNVBAUTFSAvIEhFWlA0MjA1MTBIWlNSVkQwNDENMAsGA1UECxMEVE9OWTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAngJhGUQRy9gTVsoUJ0pdvVhVHH4u9WLpAjROoLcxLGvaGqG/UqnZPpEBNA3qJKY6wAlP/Ajpo4lkM+6pEVDRcb6eytR4WmkDNAhj2s984trJb8/3IOgKeIOuNRmqPyVFjNhurhPN6HXbYd3w1AVR71u5Yk31GZVAyZqHLXPoVm8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAI2Nn9MWmjs0XbBnVILQL205jKPKGkCnRVM6WZcN4f6OPFjdtKNc2d+nhik4yMmWYIvBGwK7u6o2s3uiI1Kc1TZfjNYKEemC9EQV9U70ZamtUv8jMKVAh7ZYf1sJN2BwFX1r3BRP+AuiMLWFpoPLNaMCCVAqZnkxIBJFUkBA+zRjNE2bRvT5sQml78Y19fv4Bcj86ycuosNIsl7r9n2yclHm0MqaxYf/q+YQMhB0Ke90UVW6Uf3NU3QJnKkRicJhGZMRoY+YvX3dA+N88m+6xmzZIigcTdWCq/4xzsy2aPjFJNZcl33dj5jnVmKY5soHzYEw/CpVp9zo968Yf4ZSOMc=" descuento="0.00" fecha="2017-01-12T10:39:08" folio="029800" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="01" noCertificado="00001000000202979650" sello="L2EO0sSMK+tXrp+F4QUh5BszcdP6Mrv++gWLsUyxo0OBJJfNP8Sp8uXM4NuEaK6iiP2CFsVXRsmx0rYXJF5kAEm8jDdor/KJW6Ddo2ix3rsfIZkUMGVgZerQNGw07Hp9P976xI5yrSdeJkcGLcapGE2c+jjhBnvwNW7MhQLXesI=" serie="FPZ" subTotal="307.30" tipoDeComprobante="ingreso" total="356.47" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cfdi:Emisor nombre="TONY TIENDAS S.A. DE C.V." rfc="TTI961202IM1">
+        <cfdi:DomicilioFiscal calle="AV.URANO" codigoPostal="94299" colonia="FRACC.JARDINES DE MOCAMBO" estado="VERACRUZ" localidad="BOCA DEL RIO" municipio="BOCA DEL RIO" noExterior="585" noInterior="B" pais="MEXICO" referencia="ENTRE CERRADA CESAR LUNA BAUZA Y CALZ.EJ. MEXICANO" />
+        <cfdi:ExpedidoEn calle="AV 9 SUR" codigoPostal="72490" colonia="EX HACIENDA SAN BARTOLO COATEPEC" estado="PUEBLA" localidad="PUEBLA" municipio="PUEBLA" noExterior="11302" noInterior="LOC 24 Y25" pais="MEXICO" />
+        <cfdi:RegimenFiscal Regimen="RÉGIMEN GENERAL DE LEY DE P.M." />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="MALDONADO ALQUISIRA ROCIO MARGARITA" rfc="MAAR691117728">
+        <cfdi:Domicilio calle="PROLONGACION IGNACIO ZARAGOZA" codigoPostal="72920" colonia="PARQUE INDUSTRIAL RESURRECCION" estado="PUEBLA" localidad="PUEBLA" municipio="PUEBLA" noExterior="10428" noInterior="65" pais="MEXICO" />
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto cantidad="1" descripcion="PAPEL BOND 50K OFI BCO        C/500H DUPLICAD" importe="64.22" noIdentificacion="00330072" unidad="PIEZA" valorUnitario="64.22" />
+        <cfdi:Concepto cantidad="50" descripcion="PAPEL BOND 63X84C CUADRO-7           ESTRELLA" importe="68.50" noIdentificacion="01690010" unidad="PIEZA" valorUnitario="1.37" />
+        <cfdi:Concepto cantidad="10" descripcion="CARTULINA IRIS 50X65C NEGRO                 ." importe="38.40" noIdentificacion="02080030" unidad="PIEZA" valorUnitario="3.84" />
+        <cfdi:Concepto cantidad="1" descripcion="BOLIGRAFO P/MED STICK NEGRO   CJA/12 KMETRICO" importe="21.98" noIdentificacion="00250256" unidad="PIEZA" valorUnitario="21.98" />
+        <cfdi:Concepto cantidad="1" descripcion="BOLIGRAFO P/FINO STICK NEG PLUS C/12 PRECISIO" importe="26.98" noIdentificacion="00730637" unidad="PIEZA" valorUnitario="26.98" />
+        <cfdi:Concepto cantidad="1" descripcion="GOMA DE BORRAR MIGAJON MED    CJA/40  PELIKAN" importe="49.30" noIdentificacion="02380136" unidad="PIEZA" valorUnitario="49.30" />
+        <cfdi:Concepto cantidad="2" descripcion="BOLSA CARTON CH 14X22C8C              MINIONS" importe="13.72" noIdentificacion="02941048" unidad="PIEZA" valorUnitario="6.86" />
+        <cfdi:Concepto cantidad="1" descripcion="BOLSA CARTON CH   14X22X8C           H. KITTY" importe="6.86" noIdentificacion="02940549" unidad="PIEZA" valorUnitario="6.86" />
+        <cfdi:Concepto cantidad="1" descripcion="BOLSA CARTON CH 14X22X8C JUVENIL     GRANMARK" importe="5.24" noIdentificacion="02941027" unidad="PIEZA" valorUnitario="5.24" />
+        <cfdi:Concepto cantidad="1" descripcion="BOLSA CARTON CH   14X22X8C  INFANTIL GRANMARK" importe="5.24" noIdentificacion="02940571" unidad="PIEZA" valorUnitario="5.24" />
+        <cfdi:Concepto cantidad="1" descripcion="BOLSA CARTON CH 14X22X8C             AVENGERS" importe="6.86" noIdentificacion="02941039" unidad="PIEZA" valorUnitario="6.86" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="49.17">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="49.17" impuesto="IVA" tasa="16.00" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <!--<cfdi:Addenda>
+      <bovadd:BOVEDAFISCAL xmlns:bovadd="http://kontender.mx/namespace/boveda" xmlns:kon="http://kontender.mx/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kontender.mx/namespace/boveda http://kontender.mx/namespace/boveda/BOVEDAFISCAL.xsd http://kontender.mx/namespace http://kontender.mx/namespace/AddendaK.xsd">
+        <bovadd:ImporteLetra importe="TRESCIENTOS CINCUENTA Y SEIS PESOS 47/100 M.N." />
+        <bovadd:metodosPago metodosPagoSAT="01 EFECTIVO" />
+        <bovadd:BovedaFiscal numeroCliente="271001654" razonSocialCliente="MALDONADO ALQUISIRA ROCIO MARGARITA" correoEmisor="ty-cfdi-emitidos@facturacion-tony.com.mx" correoReceptor="dequimex@yahoo.com.mx" almacen="282" tipo="Factura" condicion="CONTADO" />
+        <bovadd:NombreComercial Nombre="MALDONADO ALQUISIRA ROCIO MARGARITA" />
+        <bovadd:ClaveTipoFolio clave="FAM" />
+        <bovadd:TR transaccion="MJHGMA" />
+        <bovadd:OrdenCompra folio="" />
+        <bovadd:NotaDeVenta folio="" />
+      </bovadd:BOVEDAFISCAL>
+    </cfdi:Addenda>-->
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2017-01-12T12:33:30" UUID="8FEE1A5A-AD12-4888-9FEB-94E664C4F687" noCertificadoSAT="00001000000202864285" selloCFD="L2EO0sSMK+tXrp+F4QUh5BszcdP6Mrv++gWLsUyxo0OBJJfNP8Sp8uXM4NuEaK6iiP2CFsVXRsmx0rYXJF5kAEm8jDdor/KJW6Ddo2ix3rsfIZkUMGVgZerQNGw07Hp9P976xI5yrSdeJkcGLcapGE2c+jjhBnvwNW7MhQLXesI=" selloSAT="Aa7yCg0PgKUUjWAORjQBYWJU+XHB9JkyxDNaLbccpHHA7+Q4roYRkrIictaOfSs3ANBnDKX/i5w6IoF0YRB4lSw2EHFjacdYpwmlQIZno6xCCpd7QqKb7ydF5gXRHbVFbVABYWYGO2D6BOboQCL/DTJRsW7pmkafDLxJgN8Ie54=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd  " Version="3.3" Folio="6828" Fecha="2019-07-11T02:59:48" Sello="vYT/lzktRho5/rUAE/PmxOqWJzU2x1dn3n68WVNh4q/nA2BLBWBwKSkL+ULNrLZL65HYO7m78zCm5zJRFE0iAKW5Dv5okK8Usr7disKTHAi/Ym562qE/p/gGQ2mx7RZQQ5iIwrUW4eXHmITMgpt8F19O7ibegsk7Q/AC4C+PfbdubzfXbhDflYl+qbxmPJeptwLHk1Z7IYGptxT2zHFyGfhRAFZkTRyAwWliIv3LQThG8HxXO8WVs1gyUKqfRy0FLwri0TgBG/+XwOKt0JipKLG2MYioyUIJwhtjNqr1V1sJXovdZE0nw/7xDxRa+nVYKRdGgJaq832hjHu/Agn41A==" FormaPago="99" NoCertificado="00001000000402403482" Certificado="MIIG1DCCBLygAwIBAgIUMDAwMDEwMDAwMDA0MDI0MDM0ODIwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTYwNTA1MTgzOTU4WhcNMjAwNTA1MTgzOTU4WjCCAXMxSTBHBgNVBAMTQFdPTFRFUlMgS0xVV0VSIEhFQUxUSCBQUk9GRVNTSU9OQUwgQU5EIEVEVUNBVElPTiBNRVhJQ08gU0EgREUgQ1YxSTBHBgNVBCkTQFdPTFRFUlMgS0xVV0VSIEhFQUxUSCBQUk9GRVNTSU9OQUwgQU5EIEVEVUNBVElPTiBNRVhJQ08gU0EgREUgQ1YxSTBHBgNVBAoTQFdPTFRFUlMgS0xVV0VSIEhFQUxUSCBQUk9GRVNTSU9OQUwgQU5EIEVEVUNBVElPTiBNRVhJQ08gU0EgREUgQ1YxJTAjBgNVBC0THFdLSDA3MDkxMEE0OSAvIFRFTUo3MzAzMjY3SDQxHjAcBgNVBAUTFSAvIFRFTUo3MzAzMjZIREZSWEwwNTFJMEcGA1UECxNAV09MVEVSUyBLTFVXRVIgSEVBTFRIIFBST0ZFU1NJT05BTCBBTkQgRURVQ0FUSU9OIE1FWElDTyBTQSBERSBDVjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANnPXrdBtuJjPYK/9Xfn9maDwSzF+RF9h1Q2mc+KWtR9ITZ3gIEa5yhtP0rw7pXcbJ0lNxq/gm9r4+BnfcgFFYg/tacMGxH87sq9CazgWFbEMMhD9kTsbWqidydNmBvdQXvmWarWVJpzCoZzZQ80rR7CigdWAF64EZ1CyDllF7JBWp8BTX/9S8BlUFCHIuDRk/+10MCQgTAj5PBeB6ls3J7rjSw8C4/AVSyj0f5oj7xZxu7/Rr+FWQFi0jmJm6vriau1y0KBrByEvH5s26eIEgubmFw5iKY7ONbaTx5Oanq4GKNrUuW263JDNbW5VKEzGsTR9UE6MVIrcTAD/dsKWTsCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAF1LU5JhrE5VLpjKTtdIbc46DSbYlkTFvmGW/cwGdwtPwgnn2C/lNTNwBhKfZZ5Y0m07Q6Jsq33iBv6owxEGK+4BSCbGXNTG6NF7X1nl1vnHg6QbMOWhKlm0pBM9DiDe3I/DJB3/qsX77RjsiMGPmJ79ebPpKKIbYnZ5YeVsC0bsvqhYcL8WdGdufpIRSZ05b/+79EO5lKH6kKhXxGy/wcT5oR72XtkfHeIP2E1APX0HBzwGNBUcXlOpNLToAwGl2MScSCnSL8pqLdZCUk1FgD8sT1+ygy4zx9d+bub26N1E69SN6zd3KPnljSuoCGrpOo27/6CzVMxA7v0pcRBaQYaEzPdqMg+64agCPhFQSfIsRiAKLEmougOHIjSCNz3q32CbyLmrsX/fQRycLA29gDxqH2ZiMEjM8ZNYqVE7j9Xt4m5tvWmHvk3NsuGucxr99wMBLgM5O8Uh1+hvQa8fvWZRp7EztkTATtDXIdIqgVJN2mb54klOsoSPMHZPLnrWZSnAOHj7OO1YB9bEVkPoyGXgohDuuNWf0moN+Fgo9rtEQi2a+2ha7ly09bv1eXhRuHTL2YEMogp6AkMq5fLO0sFC54rqJ7cWwlfMG4HIb1koAGkSMRX58jwoOvFFn4jfQ6WznkOY0bdXvaw5IVZ6zhY02mZuMqQ/BAJ2uZ5NnCx3" CondicionesDePago="120 DAYS NET" SubTotal="765050" Descuento="344272.50" Moneda="MXN" TipoCambio="1" Total="420777.50" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="03810">
+  <cfdi:Emisor Rfc="WKH070910A49" Nombre="WOLTERS KLUWER HEALTH PROFESSIONAL AND EDUCATION MEXICO SA DE CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="MABL7705259U7" Nombre="MARTA BENITEZ MARIA DE LA LUZ - HORUS" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416781669" Cantidad="20" ClaveUnidad="H87" Unidad="Pieza" Descripcion="KNMN DGNOSTC MCRBLOGC 7E SLP" ValorUnitario="2000.00" Importe="40000.00" Descuento="18000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="40000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004744" Cantidad="30" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MEM FISIOLOGIA" ValorUnitario="394.00" Importe="11820.00" Descuento="5319.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11820" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788415840893" Cantidad="6" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FSPTLG RNL FNDMNTS 4E" ValorUnitario="851.00" Importe="5106.00" Descuento="2297.70">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5106" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004683" Cantidad="35" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TEM FARMACOLOGIA 6E" ValorUnitario="442.00" Importe="15470.00" Descuento="6961.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15470" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417033651" Cantidad="15" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FISIOLOGIA MEDICA 5E" ValorUnitario="1470.00" Importe="22050.00" Descuento="9922.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="22050" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004195" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="EL LIBRO DE LA UCI 4E" ValorUnitario="1260.00" Importe="12600.00" Descuento="5670.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12600" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416353712" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CRDLG. BSS FSPTLGCS CRDPTS 6E" ValorUnitario="824.00" Importe="8240.00" Descuento="3708.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8240" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417033286" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="AVOID COMMON ERRORS IN ER 2E" ValorUnitario="1339.00" Importe="13390.00" Descuento="6025.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13390" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004720" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="AN ATLS D MAGNS Y CSS CLI 4E" ValorUnitario="1166.00" Importe="4664.00" Descuento="2098.80">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4664" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416353682" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="AVERY NEONATOLOGIA 7E" ValorUnitario="3255.00" Importe="6510.00" Descuento="2929.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6510" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417370930" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="GUIA PRAC DE PROC LASER" ValorUnitario="900.00" Importe="3600.00" Descuento="1620.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3600" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004171" Cantidad="20" ClaveUnidad="H87" Unidad="Pieza" Descripcion="INTRODUCCION AL DIAGNOSTICO PO" ValorUnitario="824.00" Importe="16480.00" Descuento="7416.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="16480" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416353644" Cantidad="60" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ROHEN. ATLAS ANAT HUMANA MEM" ValorUnitario="525.00" Importe="31500.00" Descuento="14175.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31500" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416781201" Cantidad="15" ClaveUnidad="H87" Unidad="Pieza" Descripcion="INTRND RTTR. MDCN INTRN 6E" ValorUnitario="828.00" Importe="12420.00" Descuento="5589.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12420" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417033033" Cantidad="5" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FSPTLGÍ PLMNR. FNDMNTS 9E SLP" ValorUnitario="750.00" Importe="3750.00" Descuento="1687.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3750" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416654505" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="RUBIN. PATOLOGIA 7E SLP" ValorUnitario="1539.00" Importe="15390.00" Descuento="6925.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15390" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004096" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="NTRCON N L SLD Y N L NFR 11E" ValorUnitario="999.00" Importe="9990.00" Descuento="4495.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9990" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417033385" Cantidad="15" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CLEVELAND CLN INTEN REV PED 5E" ValorUnitario="1350.00" Importe="20250.00" Descuento="9112.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="20250" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417370459" Cantidad="6" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FUNDMNTS MED FAMILIAR 7E" ValorUnitario="900.00" Importe="5400.00" Descuento="2430.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5400" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417033644" Cantidad="20" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TRSTRNS RNLS HDRLCTRL 8E SLP" ValorUnitario="840.00" Importe="16800.00" Descuento="7560.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="16800" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417370367" Cantidad="60" ClaveUnidad="H87" Unidad="Pieza" Descripcion="SRT FISIOLOGIA 7E" ValorUnitario="480.00" Importe="28800.00" Descuento="12960.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="28800" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004751" Cantidad="30" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MEM MICROBIOLOGIA" ValorUnitario="394.00" Importe="11820.00" Descuento="5319.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11820" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416353477" Cantidad="70" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ANATOMIA 8E SERIE RT" ValorUnitario="404.00" Importe="28280.00" Descuento="12726.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="28280" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788415840633" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="INMUNOLOGIA 2E" ValorUnitario="860.00" Importe="8600.00" Descuento="3870.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8600" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416781805" Cantidad="50" ClaveUnidad="H87" Unidad="Pieza" Descripcion="LIR: BIOQUIMICA 7E" ValorUnitario="929.00" Importe="46450.00" Descuento="20902.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="46450" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416781461" Cantidad="5" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CASOS CLINICOS DE ANATOMIA" ValorUnitario="550.00" Importe="2750.00" Descuento="1237.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2750" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004614" Cantidad="50" ClaveUnidad="H87" Unidad="Pieza" Descripcion="EMBRIOLOGIA 6E" ValorUnitario="425.00" Importe="21250.00" Descuento="9562.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="21250" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004836" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MDCN D RGNCS BSD N VDNC" ValorUnitario="489.00" Importe="978.00" Descuento="440.10">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="978" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788496921276" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="DRUGS IN PREGNANCY 8E SPANISH" ValorUnitario="2251.00" Importe="9004.00" Descuento="4051.80">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9004" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416781508" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="L NTRVST N PSQTRI 4E" ValorUnitario="612.00" Importe="2448.00" Descuento="1101.60">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2448" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417033361" Cantidad="5" ClaveUnidad="H87" Unidad="Pieza" Descripcion="NEUROL CLINICA 2E" ValorUnitario="1574.00" Importe="7870.00" Descuento="3541.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7870" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416781676" Cantidad="30" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BTS GI D XPLRCON FIS 12E SLP" ValorUnitario="1666.00" Importe="49980.00" Descuento="22491.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="49980" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416353699" Cantidad="12" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BRSH FNDMNTS ANSTSIA CLNC" ValorUnitario="1613.00" Importe="19356.00" Descuento="8710.20">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19356" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788415684015" Cantidad="8" ClaveUnidad="H87" Unidad="Pieza" Descripcion="NOVAK GINECOLOGIA 15E" ValorUnitario="2441.00" Importe="19528.00" Descuento="8787.60">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19528" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788415419587" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PEDIATRIA PARA ESTUD MED 3E" ValorUnitario="1048.00" Importe="4192.00" Descuento="1886.40">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4192" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417033897" Cantidad="20" ClaveUnidad="H87" Unidad="Pieza" Descripcion="LIR. NEUROCIENCIA 2E SLP" ValorUnitario="799.00" Importe="15980.00" Descuento="7191.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15980" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788415840787" Cantidad="50" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BARR EL SISTEMA NERV HUM 10E" ValorUnitario="726.00" Importe="36300.00" Descuento="16335.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="36300" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004775" Cantidad="5" ClaveUnidad="H87" Unidad="Pieza" Descripcion="GI CLINC D HPRTNSON 11E" ValorUnitario="1364.00" Importe="6820.00" Descuento="3069.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6820" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004072" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="GU CLIN ENF PED" ValorUnitario="551.00" Importe="2204.00" Descuento="991.80">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2204" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004621" Cantidad="60" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TMS CLV BQIMC BLG MLCLR 6E" ValorUnitario="438.00" Importe="26280.00" Descuento="11826.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="26280" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416654697" Cantidad="30" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MEM INMUNOLOGIA 1E" ValorUnitario="463.00" Importe="13890.00" Descuento="6250.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13890" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416353767" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MED INTERNA PERLAS Y SECRETOS" ValorUnitario="600.00" Importe="6000.00" Descuento="2700.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788415419426" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="METODOS DE INVESTIGACION" ValorUnitario="807.00" Importe="8070.00" Descuento="3631.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8070" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004676" Cantidad="40" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TM BLGI CLLR HSTLGI 7E" ValorUnitario="442.00" Importe="17680.00" Descuento="7956.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17680" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417033156" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CLR ATLS&amp;TXT F HSTLGY 7" ValorUnitario="999.00" Importe="3996.00" Descuento="1798.20">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3996" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004737" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MEM BIOQUIMICA" ValorUnitario="442.00" Importe="4420.00" Descuento="1989.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4420" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004690" Cantidad="20" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TEM NEUROANATOMIA 5E" ValorUnitario="425.00" Importe="8500.00" Descuento="3825.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8500" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417370091" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ORTHOPAEDIC NEUROLOGY 2E" ValorUnitario="578.00" Importe="5780.00" Descuento="2601.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5780" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004324" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MDCN DL DLR COM DGNSTCR Y T" ValorUnitario="1197.00" Importe="2394.00" Descuento="1077.30">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2394" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004164" Cantidad="50" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PORTH'S FISIOPATOLOGIA 9E" ValorUnitario="1400.00" Importe="70000.00" Descuento="31500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="70000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="CD76A420-873C-1E4E-9A42-39B8345379B4" FechaTimbrado="2019-07-11T02:59:49" RfcProvCertif="SCD110105654" SelloCFD="vYT/lzktRho5/rUAE/PmxOqWJzU2x1dn3n68WVNh4q/nA2BLBWBwKSkL+ULNrLZL65HYO7m78zCm5zJRFE0iAKW5Dv5okK8Usr7disKTHAi/Ym562qE/p/gGQ2mx7RZQQ5iIwrUW4eXHmITMgpt8F19O7ibegsk7Q/AC4C+PfbdubzfXbhDflYl+qbxmPJeptwLHk1Z7IYGptxT2zHFyGfhRAFZkTRyAwWliIv3LQThG8HxXO8WVs1gyUKqfRy0FLwri0TgBG/+XwOKt0JipKLG2MYioyUIJwhtjNqr1V1sJXovdZE0nw/7xDxRa+nVYKRdGgJaq832hjHu/Agn41A==" NoCertificadoSAT="00001000000401041203" SelloSAT="FRSMlCXleW1xP47OVgkCjp24Tj88wqUzI7vg3ZO4dqzW5HO1c+ykomT91sCltmRlW82mVffV4m0GZyOJK0v8Bo/YZfrlWy+0z1MXT5uohfq7EK/PYkIZuQIdlvpkqHo50lEaX0O/Vk4l1Me8kUvAObF43bxPGJLtdxWwihGNK3uv2df3W3lq0pjce4tI/u0xzRBOX+JAVKhBd91v5eStv8kLzdcXR4QXyQBiKCMRKkOcPdjOfl/EPTitKeEPQBBo4LndFUSmgYvDUn/OOvCXdXGAoRz78fQeuy5vMZEjw9oVxtj7uHZ/na1F0JcvB+xCkmfQsm7VR3fZM6zosNCrVg==" />
+</cfdi:Complemento></cfdi:Comprobante>

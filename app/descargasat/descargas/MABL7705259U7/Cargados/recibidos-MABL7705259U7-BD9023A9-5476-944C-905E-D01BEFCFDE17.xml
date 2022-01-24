@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd  " Version="3.3" Folio="8972" Fecha="2020-12-15T02:58:34" Sello="nn9G5ze4hPlFsmevNc5+Bs2SnT8LwvkOZFYDmQj6dThVUs9f05RbAy4EinPyY4QFqtLJIaI2qIGkSxVzBiB7KnAdW0TYQK6Mvfdqs2EdydTBDM/RRaZ70qRQDGnIuWugYGqDbwNgUs7/RwEGp8vmd2u6+Npng3qCN7DXNlW+UuRSCt0CepgLFngHyXlS6tL2qJar3YRkp0yxrNAwHw0Qjz15YlCGJFVhJiJi/IqUAM0Oik879SyRnxgto0GFwIbUI1hUCq25ScSsGTp8RsX/k2wpDjiNH31VxfaslJuADfYu/2Q+cvuJV7PVrkBamcZedMuzW1QWU4KI59PnoN9h4w==" FormaPago="99" NoCertificado="00001000000503805451" Certificado="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" CondicionesDePago="150 DAYS NET" SubTotal="828547" Descuento="414273.50" Moneda="MXN" TipoCambio="1" Total="414273.50" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="03810">
+  <cfdi:Emisor Rfc="WKH070910A49" Nombre="WOLTERS KLUWER HEALTH PROFESSIONAL AND EDUCATION MEXICO SA DE CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="MABL7705259U7" Nombre="MA DE LA LUZ MARTA BENITEZ (HORUS)" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949723" Cantidad="15" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FUND FISIOPATOL 5E" ValorUnitario="1357.00" Importe="20355.00" Descuento="10177.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="20355" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417602857" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="OFTALM PEDIATR 2E" ValorUnitario="800.00" Importe="8000.00" Descuento="4000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416781904" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CLIN ANES PROCED MGH 9E" ValorUnitario="1138.00" Importe="11380.00" Descuento="5690.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11380" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416353774" Cantidad="5" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ATLAS DE ANATOMIA HUMANA 1E" ValorUnitario="788.00" Importe="3940.00" Descuento="1970.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3940" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417602512" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MOORE FUND ANAT ORIEN CLIN 6E" ValorUnitario="800.00" Importe="8000.00" Descuento="4000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417370848" Cantidad="15" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MNL D NDCRNLGÍ Y MTBLM 5E" ValorUnitario="1200.00" Importe="18000.00" Descuento="9000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="18000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949280" Cantidad="6" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TM OTORRINO CIR CAB CUE PLAS" ValorUnitario="2400.00" Importe="14400.00" Descuento="7200.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="14400" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004195" Cantidad="20" ClaveUnidad="H87" Unidad="Pieza" Descripcion="EL LIBRO DE LA UCI 4E" ValorUnitario="1323.00" Importe="26460.00" Descuento="13230.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="26460" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949341" Cantidad="20" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FUND ULTRASON ANAT" ValorUnitario="800.00" Importe="16000.00" Descuento="8000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="16000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949129" Cantidad="5" ClaveUnidad="H87" Unidad="Pieza" Descripcion="RANG FRACTUR NINOS 4E" ValorUnitario="850.00" Importe="4250.00" Descuento="2125.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4250" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416353859" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ENFRMRI FACL. PRCDMNTS N 2E" ValorUnitario="651.00" Importe="6510.00" Descuento="3255.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6510" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417602109" Cantidad="100" ClaveUnidad="H87" Unidad="Pieza" Descripcion="SNLL NRNTMI CLINC 8E SLP" ValorUnitario="850.00" Importe="85000.00" Descuento="42500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="85000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416654000" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="WST FSLGI RSPRTR FNDMNT 10E" ValorUnitario="736.00" Importe="7360.00" Descuento="3680.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7360" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949877" Cantidad="20" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ENDOCRIN GIN CLIN ESTERIL 9E" ValorUnitario="2990.00" Importe="59800.00" Descuento="29900.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="59800" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417602925" Cantidad="15" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MED CIR PIE TOBILLO BOLS" ValorUnitario="525.00" Importe="7875.00" Descuento="3937.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7875" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004720" Cantidad="5" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ATLAS CASOS DIAGNOST IMAG 4E" ValorUnitario="1224.00" Importe="6120.00" Descuento="3060.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6120" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949860" Cantidad="15" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MEDICINA URGENCIAS 1E" ValorUnitario="500.00" Importe="7500.00" Descuento="3750.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7500" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417033057" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="KPLN Y SDCK. PSQTRÍ CLÍNC: 4E" ValorUnitario="1499.00" Importe="14990.00" Descuento="7495.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="14990" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417033903" Cantidad="15" ClaveUnidad="H87" Unidad="Pieza" Descripcion="WASH MAN CRITICAL CARE 3E" ValorUnitario="840.00" Importe="12600.00" Descuento="6300.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12600" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004928" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MANUAL DE DIALISIS 5E" ValorUnitario="1208.00" Importe="12080.00" Descuento="6040.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12080" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949006" Cantidad="200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MAN WASH TER MED 36E" ValorUnitario="859.00" Importe="171800.00" Descuento="85900.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="171800" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416781461" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CASOS CLINICOS DE ANATOMIA" ValorUnitario="578.00" Importe="2312.00" Descuento="1156.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2312" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004614" Cantidad="20" ClaveUnidad="H87" Unidad="Pieza" Descripcion="EMBRIOLOGIA 6E" ValorUnitario="446.00" Importe="8920.00" Descuento="4460.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8920" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417602567" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="LIR. MICROBIOL 4E" ValorUnitario="1049.00" Importe="10490.00" Descuento="5245.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10490" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416353781" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CIRUGIA ORTOPEDICA DE BOLSILLO" ValorUnitario="709.00" Importe="7090.00" Descuento="3545.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7090" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417602611" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BEREK NOVAK GINECO 16E" ValorUnitario="2441.00" Importe="24410.00" Descuento="12205.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="24410" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416781492" Cantidad="15" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MNL D DGNOSTCS D NFRMR 15E" ValorUnitario="717.00" Importe="10755.00" Descuento="5377.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10755" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949457" Cantidad="20" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MATS ENFER 5E" ValorUnitario="469.00" Importe="9380.00" Descuento="4690.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9380" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949822" Cantidad="60" ClaveUnidad="H87" Unidad="Pieza" Descripcion="INTROD DIAGNOST IMAG 5E" ValorUnitario="860.00" Importe="51600.00" Descuento="25800.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="51600" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788416004911" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MNL WASH REUMATOLOGIA 2E" ValorUnitario="860.00" Importe="8600.00" Descuento="4300.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8600" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417033743" Cantidad="30" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CIRUGIA DE BOLSILLO 2E" ValorUnitario="519.00" Importe="15570.00" Descuento="7785.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15570" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949730" Cantidad="20" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MAN WASH ENFERM INFECCIOS 3E" ValorUnitario="900.00" Importe="18000.00" Descuento="9000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="18000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949853" Cantidad="15" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MAN TERAP CANCER INMUNOTER 2E" ValorUnitario="700.00" Importe="10500.00" Descuento="5250.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10500" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949211" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="NEUROC PSIQUIATR 3E" ValorUnitario="900.00" Importe="9000.00" Descuento="4500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949020" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PATTERSON ENF ALERG 8E" ValorUnitario="1500.00" Importe="6000.00" Descuento="3000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949938" Cantidad="15" ClaveUnidad="H87" Unidad="Pieza" Descripcion="EPIDEMIOL CLIN 6E" ValorUnitario="800.00" Importe="12000.00" Descuento="6000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417949334" Cantidad="10" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TE LINDE GINECOL QUIR 12E" ValorUnitario="2900.00" Importe="29000.00" Descuento="14500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="29000" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55101500" NoIdentificacion="9788417602338" Cantidad="50" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MANUAL MED CARDIOVASC 5E" ValorUnitario="1450.00" Importe="72500.00" Descuento="36250.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="72500" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="BD9023A9-5476-944C-905E-D01BEFCFDE17" FechaTimbrado="2020-12-15T02:58:37" RfcProvCertif="SCD110105654" SelloCFD="nn9G5ze4hPlFsmevNc5+Bs2SnT8LwvkOZFYDmQj6dThVUs9f05RbAy4EinPyY4QFqtLJIaI2qIGkSxVzBiB7KnAdW0TYQK6Mvfdqs2EdydTBDM/RRaZ70qRQDGnIuWugYGqDbwNgUs7/RwEGp8vmd2u6+Npng3qCN7DXNlW+UuRSCt0CepgLFngHyXlS6tL2qJar3YRkp0yxrNAwHw0Qjz15YlCGJFVhJiJi/IqUAM0Oik879SyRnxgto0GFwIbUI1hUCq25ScSsGTp8RsX/k2wpDjiNH31VxfaslJuADfYu/2Q+cvuJV7PVrkBamcZedMuzW1QWU4KI59PnoN9h4w==" NoCertificadoSAT="00001000000502000436" SelloSAT="GMe9vI+j7sMrActUStKVW8h6tyv0F/vAYtoL6G8g/s+fJGZ3iGW8blRQiViK1iaYjPolWzuEIAna6Q4QFYWLp/MJI5vKmWzNi7wpFl0JHh80GGYVAlp4KmUWW36ERLgX6RDYhXbd0GbPfcG7qlePkZYlsNj7JTCM8qGmk/OHinrPbWr1/y9A79idNFdQEWxfnGgTt/un2ymVwtU3VWZR56Uk4UqMO7GPCHyH9rq2+rZyp4mTXjrkkYFJpmkxyomKyzau4UvA7uBBlwwKH0cFj2gLuZR9Ge+EyGVXpEm14rrCsp8zWyTXYYlpJNFaDl2ExgjmXV3sigaoDQx1+x5aDg==" />
+</cfdi:Complemento></cfdi:Comprobante>

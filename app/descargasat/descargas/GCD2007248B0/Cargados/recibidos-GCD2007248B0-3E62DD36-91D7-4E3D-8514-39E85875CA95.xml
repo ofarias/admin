@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:cartaporte="http://www.sat.gob.mx/CartaPorte" xmlns:cce11="http://www.sat.gob.mx/ComercioExterior11" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:pago10="http://www.sat.gob.mx/Pagos" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" Descuento="0.00" Fecha="2021-11-30T12:44:25" Folio="14041605" FormaPago="01" LugarExpedicion="04920" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000411627096" Sello="J7YRHqQS5OcCjA6tbRHIN3y/Rd0n/ZWoD3i3ZPK7UXUwhxDM8BMr5Em/csqdIFk/tbloRGKol/kLMJfzB1Z+xg6zfAXIQLxvbsLJN1skcVV5Y46HHvzue9KbBXJZ0+MGJhNj2A+oVlkhc00pIWReH/QE7D3a8vvqnyldk/Cn42kkMJIbw+phIVnWvsDOnK9YmXrnc2dwskkaUVq/VYvC3gpkqiDemp4VC1CcCewuIlatapCUg3pgc+78at7Rm97PoON3FrvsQbuXaq27yaIh3lrupZog37k2WXjQbXa7YljNa8FYsKVuBhFW3+wo7vS7tUyjk/Gme6wOo/0tYx9ZAQ==" Serie="C" SubTotal="488.79" TipoCambio="1" TipoDeComprobante="I" Total="567.00" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd http://www.sat.gob.mx/Pagos http://www.sat.gob.mx/sitio_internet/cfd/Pagos/Pagos10.xsd http://www.sat.gob.mx/ComercioExterior11 http://www.sat.gob.mx/sitio_internet/cfd/ComercioExterior11/ComercioExterior11.xsd http://www.sat.gob.mx/CartaPorte http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte.xsd">
+<cfdi:Emisor Nombre="COMERCIAL CITY FRESKO S DE RL DE CV" RegimenFiscal="601" Rfc="CCF121101KQ4" />
+<cfdi:Receptor Nombre="GAME CENTER DISTRIBUTION SA DE CV" Rfc="GCD2007248B0" UsoCFDI="G03" />
+<cfdi:Conceptos>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="53131608" ClaveUnidad="H87" Descripcion="JABON ESCUDO 225 ML" Descuento="0.00" Importe="25.00" NoIdentificacion="7501943490598" Unidad="pza" ValorUnitario="25.00">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="25.00" Importe="4.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="47131604" ClaveUnidad="H87" Descripcion="ESCOBA JOSELYN 1 PZA" Descuento="0.00" Importe="62.758621" NoIdentificacion="7502221427145" Unidad="pza" ValorUnitario="62.758621">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="62.758621" Importe="10.041379" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="42201707" ClaveUnidad="H87" Descripcion="GEL GARNIER 600 GRS" Descuento="0.00" Importe="55.603448" NoIdentificacion="7506078976962" Unidad="pza" ValorUnitario="55.603448">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="55.603448" Importe="8.896552" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="53131627" ClaveUnidad="H87" Descripcion="LIMPIADOR PINOL 3.78 LT" Descuento="0.00" Importe="57.758621" NoIdentificacion="7501025462161" Unidad="pza" ValorUnitario="57.758621">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="57.758621" Importe="9.241379" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="52121602" ClaveUnidad="H87" Descripcion="SERVILLETAS PETALO 420 PZA" Descuento="0.00" Importe="35.431034" NoIdentificacion="7506425600397" Unidad="pza" ValorUnitario="35.431034">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="35.431034" Importe="5.668966" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="12161902" ClaveUnidad="H87" Descripcion="DETERGENTE FOCA 2 KG" Descuento="0.00" Importe="56.034483" NoIdentificacion="7501026026539" Unidad="pza" ValorUnitario="56.034483">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="56.034483" Importe="8.965517" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="53131608" ClaveUnidad="H87" Descripcion="JABON DIAL 800 ML" Descuento="0.00" Importe="47.758621" NoIdentificacion="7501199423159" Unidad="pza" ValorUnitario="47.758621">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="47.758621" Importe="7.641379" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="01010101" ClaveUnidad="H87" Descripcion="DETERGENTE AXION 640 ML" Descuento="0.00" Importe="21.465517" NoIdentificacion="7509546663357" Unidad="pza" ValorUnitario="21.465517">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="21.465517" Importe="3.434483" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="14111618" ClaveUnidad="H87" Descripcion="PAPEL REGIO 9 PZA" Descuento="0.00" Importe="33.189655" NoIdentificacion="7501036623988" Unidad="pza" ValorUnitario="33.189655">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="33.189655" Importe="5.310345" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="53131608" ClaveUnidad="H87" Descripcion="JABON ZEST 220 ML" Descuento="0.00" Importe="21.465517" NoIdentificacion="7506306211902" Unidad="pza" ValorUnitario="21.465517">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="21.465517" Importe="3.434483" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="53131627" ClaveUnidad="H87" Descripcion="LIMPIADOR FABULOSO 2 LT" Descuento="0.00" Importe="26.810345" NoIdentificacion="7501035905344" Unidad="pza" ValorUnitario="26.810345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="26.810345" Importe="4.289655" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="53131627" ClaveUnidad="H87" Descripcion="LIMPIADOR SANYTOL 1 LT" Descuento="0.00" Importe="45.517241" NoIdentificacion="3045206312202" Unidad="pza" ValorUnitario="45.517241">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="45.517241" Importe="7.282759" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos TotalImpuestosTrasladados="78.21">
+<cfdi:Traslados>
+<cfdi:Traslado Importe="78.206897" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="3E62DD36-91D7-4E3D-8514-39E85875CA95" FechaTimbrado="2021-11-30T12:45:58" SelloCFD="J7YRHqQS5OcCjA6tbRHIN3y/Rd0n/ZWoD3i3ZPK7UXUwhxDM8BMr5Em/csqdIFk/tbloRGKol/kLMJfzB1Z+xg6zfAXIQLxvbsLJN1skcVV5Y46HHvzue9KbBXJZ0+MGJhNj2A+oVlkhc00pIWReH/QE7D3a8vvqnyldk/Cn42kkMJIbw+phIVnWvsDOnK9YmXrnc2dwskkaUVq/VYvC3gpkqiDemp4VC1CcCewuIlatapCUg3pgc+78at7Rm97PoON3FrvsQbuXaq27yaIh3lrupZog37k2WXjQbXa7YljNa8FYsKVuBhFW3+wo7vS7tUyjk/Gme6wOo/0tYx9ZAQ==" NoCertificadoSAT="00001000000505600468" SelloSAT="eg0pTp8prrnD/TXwg2E57yXtDN+zQYXvzWq7+KTW+eQ3AfztlBzq0qjOzm1oiVpxGV/eO6Fx9d8hYk719S9w7lOYyp8wM2flIUCGlwEvE8B/kYX1kPUQLQusx42r2cS9N0r5Auu4ouoAcu0HKPT575hLxMtn/xdqyfYsN2IncS/mAr9SJDqFgi/mJSevoS05hCkPf9pC/38zeYyrZWe8Dng7HQA2xnZ5WiZh0UNsidMzBxckaS3NMkUOHL7PvUFiUek0y68FUGW5QnA7ZvHkq071hPf/lJT01EY0MPouChwVpnMbn0xpAZZLAsNf9+E6BYaRfxOsps8LWGy8KqXXzw==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

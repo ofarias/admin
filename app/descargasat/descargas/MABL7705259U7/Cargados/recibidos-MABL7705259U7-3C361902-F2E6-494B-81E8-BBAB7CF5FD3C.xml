@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CondicionesDePago="120 DIAS" Descuento="45018" Fecha="2019-06-03T13:58:37" Folio="153076" FormaPago="99" LugarExpedicion="01376" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000406263079" Sello="QduA63Fs0Dfp4dEIHVRvZwVTR0pmydLTlIuGai6Jq65949DIRA16ccsgacL8h2rPYyRjSAIGR4JqyMYfZE/fAHF+MuhZGBBZLWvnohggXag1izWXnDdXSfOUWejqNP6j81alAxkIOmWXKZRcNotLmpC60ZbbFxRWgQtBXgJM6fXgJ1LoXGJKaNiVJlKrAD3jz+eOF8HEsZPpROrlIrcZaQ7EHcWNMU0QAh79yktW9YFqduTNUu9uwA7m8Erio3PVq0blozCrABhhs/oDlS8XASobfdBEhR+XfJjwYqGMzex6TKocyhibw28BnY1WhvAaheiZGQBe9RaU9EBg6lUvgg==" Serie="DF" SubTotal="100040" TipoCambio="1" TipoDeComprobante="I" Total="55022" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:Emisor Nombre="McGraw-Hill Interamericana Editores S.A. de C.V." RegimenFiscal="601" Rfc="MHI960111PB8" />
+    <cfdi:Receptor Nombre="MARTA BENITEZ MA. DE LA LUZ LIBRERIA HORUS" Rfc="MABL7705259U7" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="4" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="ALCARAZ RAFAEL /EL EMPRENDEDOR DE EXITO/05/2015" Descuento="669.60" Importe="1488.00" NoIdentificacion="9786071512789" Unidad="PIEZA" ValorUnitario="372.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="818.40" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="ALVAREZ MARIO /INTRODUCCION AL DERECHO/03/2015" Descuento="677.70" Importe="1506.00" NoIdentificacion="9786071512727" Unidad="PIEZA" ValorUnitario="502.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="828.30" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="AYRES FRANK /CALCULO/05/2010" Descuento="594.00" Importe="1320.00" NoIdentificacion="9786071503572" Unidad="PIEZA" ValorUnitario="440.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="726.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="10" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="BACA GABRIEL /EVALUACION DE PROYECTOS/08/2016" Descuento="2070.00" Importe="4600.00" NoIdentificacion="9786071513748" Unidad="PIEZA" ValorUnitario="460.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="2530.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="BACA URBINA GABRI/INGENIERIA ECONOMICA/06/2015" Descuento="417.60" Importe="928.00" NoIdentificacion="9786071512444" Unidad="PIEZA" ValorUnitario="464.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="510.40" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="BEER FERDINAND /MECANICA VECTORIAL PARA INGENIEROS ESTATICA/11/2017" Descuento="749.25" Importe="1665.00" NoIdentificacion="9781456255275" Unidad="PIEZA" ValorUnitario="555.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="915.75" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="BREALEY RICHARD /PRINCIPIOS DE FINANZAS CORPORATIVAS/11/2015" Descuento="247.05" Importe="549.00" NoIdentificacion="9786071513120" Unidad="PIEZA" ValorUnitario="549.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="301.95" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="CHAPRA STEVEN /METODOS NUMERICOS PARA INGENIEROS/07/2015" Descuento="715.50" Importe="1590.00" NoIdentificacion="9786071512949" Unidad="PIEZA" ValorUnitario="530.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="874.50" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="CHIAVENATO IDALBE/PLANEACION ESTRATEGICA/03/2017" Descuento="204.75" Importe="455.00" NoIdentificacion="9781456263140" Unidad="PIEZA" ValorUnitario="455.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="250.25" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="CHIAVENATO IDALBE/COMPORTAMIENTO ORGANIZACIONAL/03/2017" Descuento="396.00" Importe="880.00" NoIdentificacion="9781456256616" Unidad="PIEZA" ValorUnitario="440.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="484.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="CUELLAR JUAN /MATEMATICAS I/05/2018" Descuento="226.80" Importe="504.00" NoIdentificacion="9781456263119" Unidad="PIEZA" ValorUnitario="252.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="277.20" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="CUELLAR JUAN /FISICA I/02/2013" Descuento="207.90" Importe="462.00" NoIdentificacion="9786071508911" Unidad="PIEZA" ValorUnitario="231.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="254.10" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="CUELLAR JUAN /GEOMETRIA ANALITICA/01/2012" Descuento="130.05" Importe="289.00" NoIdentificacion="9786071507037" Unidad="PIEZA" ValorUnitario="289.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="158.95" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="CUELLAR JUAN /GEOMETRIA ANALITICA/01/2012" Descuento="130.05" Importe="289.00" NoIdentificacion="9786071507037" Unidad="PIEZA" ValorUnitario="289.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="158.95" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="DE LA TORRE FRANC/TALLER DE LECTURA Y REDACCION I/03/2019" Descuento="340.20" Importe="756.00" NoIdentificacion="9781456269593" Unidad="PIEZA" ValorUnitario="252.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="415.80" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="DE LA TORRE FRANC/TALLER DE LECTURA Y REDACCION II/03/2018" Descuento="340.20" Importe="756.00" NoIdentificacion="9786071514172" Unidad="PIEZA" ValorUnitario="252.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="415.80" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="7" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="DIAZ REYNOL /DESARROLLO SUSTENTABLE UNA OPORTUNIDAD PARA LA VIDA/03/2015" Descuento="932.40" Importe="2072.00" NoIdentificacion="9786071512796" Unidad="PIEZA" ValorUnitario="296.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1139.60" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="DICAPRIO, N.S. /TEORIAS DE LA PERSONALIDAD 2/E/02/1989" Descuento="501.30" Importe="1114.00" NoIdentificacion="9789684517363" Unidad="PIEZA" ValorUnitario="557.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="612.70" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="DORNBUSCH RUDIGER/MACROECONOMIA/12/2015" Descuento="243.90" Importe="542.00" NoIdentificacion="9786071512680" Unidad="PIEZA" ValorUnitario="542.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="298.10" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="DORNBUSCH RUDIGER/MACROECONOMIA/12/2015" Descuento="487.80" Importe="1084.00" NoIdentificacion="9786071512680" Unidad="PIEZA" ValorUnitario="542.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="596.20" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="DORNBUSCH RUDIGER/MACROECONOMIA/12/2015" Descuento="487.80" Importe="1084.00" NoIdentificacion="9786071512680" Unidad="PIEZA" ValorUnitario="542.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="596.20" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="ESCOBAR ALICIA /ECOLOGIA Y MEDIO AMBIENTE ENFOQUE POR COMPETENCIAS/02/2013" Descuento="321.30" Importe="714.00" NoIdentificacion="9786071510662" Unidad="PIEZA" ValorUnitario="238.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="392.70" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="ESCOBAR GUSTAVO /ETICA INTRODUCCION A SU PROBLEMATICA Y SU HISTORIA/07/2013" Descuento="278.10" Importe="618.00" NoIdentificacion="9786071508935" Unidad="PIEZA" ValorUnitario="309.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="339.90" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="FERNANDEZ CARLOS /LA COMUNICACION HUMANA EN EL MUNDO CONTEMPORANEO/03/2008" Descuento="225.90" Importe="502.00" NoIdentificacion="9789701066423" Unidad="PIEZA" ValorUnitario="502.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="276.10" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="FISCHER LAURA /INTRODUCCION A LA INVESTIGACION DE MERCADOS/04/2016" Descuento="378.00" Importe="840.00" NoIdentificacion="9786071513946" Unidad="PIEZA" ValorUnitario="280.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="462.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="6" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="GALLO GABRIEL /DISENO ESTRUCTURAL DE CASAS HABITACION/03/2011" Descuento="1071.90" Importe="2382.00" NoIdentificacion="9786071505323" Unidad="PIEZA" ValorUnitario="397.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1310.10" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="GARCIA ALONSO /PSICOLOGIA/02/2012" Descuento="175.05" Importe="389.00" NoIdentificacion="9786071506870" Unidad="PIEZA" ValorUnitario="389.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="213.95" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="4" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="GORDILLO DANIELA /NUTRICION MOLECULAR/01/2015" Descuento="1240.20" Importe="2756.00" NoIdentificacion="9786071512710" Unidad="PIEZA" ValorUnitario="689.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1515.80" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="HAYT WILLIAM /TEORIA ELECTROMAGNETICA/08/2012" Descuento="734.40" Importe="1632.00" NoIdentificacion="9786071507839" Unidad="PIEZA" ValorUnitario="544.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="897.60" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="HERNANDEZ ROBERTO/FUNDAMENTOS DE INVESTIGACION/01/2016" Descuento="297.00" Importe="660.00" NoIdentificacion="9786071513953" Unidad="PIEZA" ValorUnitario="330.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="363.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="HILL CHARLES /NEGOCIOS INTERNACIONALES COMO COMPETIR EN EL MERCADO GLOBAL/10/2015" Descuento="731.70" Importe="1626.00" NoIdentificacion="9786071512901" Unidad="PIEZA" ValorUnitario="542.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="894.30" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="LABIN SICURELLO /DIRECCION DE MARKETING GESTION ESTRATEGICA Y OPERATIVA/02/2008" Descuento="244.80" Importe="544.00" NoIdentificacion="9789701067109" Unidad="PIEZA" ValorUnitario="544.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="299.20" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="LABIN SICURELLO /DIRECCION DE MARKETING GESTION ESTRATEGICA Y OPERATIVA/02/2008" Descuento="244.80" Importe="544.00" NoIdentificacion="9789701067109" Unidad="PIEZA" ValorUnitario="544.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="299.20" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="13" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="LIND DOUGLAS /ESTADISTICA APLICADA A LOS NEGOCIOS Y LA ECONOMIA/16/2015" Descuento="3305.25" Importe="7345.00" NoIdentificacion="9786071513038" Unidad="PIEZA" ValorUnitario="565.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="4039.75" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="MADRAZO ARMANDO /NUTRICION Y GASTROENTEROLOGIA PEDIATRICA/02/2016" Descuento="510.30" Importe="1134.00" NoIdentificacion="9786071513694" Unidad="PIEZA" ValorUnitario="567.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="623.70" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="MENDEZ NAHUM /GASTROENTEROLOGIA/03/2017" Descuento="828.45" Importe="1841.00" NoIdentificacion="9781456260248" Unidad="PIEZA" ValorUnitario="1841.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1012.55" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="MENDEZ RICARDO /DERECHO LABORAL UN ENFOQUE PRACTICO/02/2014" Descuento="275.40" Importe="612.00" NoIdentificacion="9781456223823" Unidad="PIEZA" ValorUnitario="306.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="336.60" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="15" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="PAPALIA DIANE /DESARROLLO HUMANO/13/2016" Descuento="3476.25" Importe="7725.00" NoIdentificacion="9781456255701" Unidad="PIEZA" ValorUnitario="515.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="4248.75" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="10" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="RAMIREZ PADILLA /CONTABILIDAD ADMINISTRATIVA UN ENFOQUE ESTRATEGICO/09/2013" Descuento="1926.00" Importe="4280.00" NoIdentificacion="9786071508454" Unidad="PIEZA" ValorUnitario="428.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="2354.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="RIOS JORGE /LA PRACTICA DEL DERECHO NOTARIAL/09/2016" Descuento="442.80" Importe="984.00" NoIdentificacion="9786071513823" Unidad="PIEZA" ValorUnitario="492.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="541.20" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="RIOS JORGE /LA PRACTICA DEL DERECHO NOTARIAL/09/2016" Descuento="221.40" Importe="492.00" NoIdentificacion="9786071513823" Unidad="PIEZA" ValorUnitario="492.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="270.60" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="RODRIGUEZ LEOPOLD/ANALISIS DE ESTADOS FINANCIEROS UN ENFOQUE EN LA TOMA DE/01/2012" Descuento="178.65" Importe="397.00" NoIdentificacion="9786071507396" Unidad="PIEZA" ValorUnitario="397.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="218.35" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="RODRIGUEZ MARTINO/TEORIA FAMILIAR SISTEMICA MURRAY BOWEN/01/2016" Descuento="153.00" Importe="340.00" NoIdentificacion="9788448194895" Unidad="PIEZA" ValorUnitario="340.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="187.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="20" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="RODWELL VICTOR /HARPER BIOQUIMICA ILUSTRADA/31/2019" Descuento="13707.00" Importe="30460.00" NoIdentificacion="9781456267384" Unidad="PIEZA" ValorUnitario="1523.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="16753.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="5" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="SKINNER HARRY /DIAGNOSTICO Y TRATAMIENTO ORTOPEDIA/05/2014" Descuento="1300.50" Importe="2890.00" NoIdentificacion="9786071512031" Unidad="PIEZA" ValorUnitario="578.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1589.50" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="TELLEZ JULIO /DERECHO INFORMATICO/04/2009" Descuento="225.90" Importe="502.00" NoIdentificacion="9789701069646" Unidad="PIEZA" ValorUnitario="502.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="276.10" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="TELLEZ JULIO /DERECHO INFORMATICO/04/2009" Descuento="225.90" Importe="502.00" NoIdentificacion="9789701069646" Unidad="PIEZA" ValorUnitario="502.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="276.10" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="WALTERS BRENDA /NOTAS DE GINECOLOGIA Y OBSTETRICIA/02/2012" Descuento="397.80" Importe="884.00" NoIdentificacion="9786071507921" Unidad="PIEZA" ValorUnitario="442.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="486.20" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="4" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="ZILL DENNIS /MATEMATICAS 1 CALCULO DIFERENCIAL/02/2015" Descuento="520.20" Importe="1156.00" NoIdentificacion="9786071512734" Unidad="PIEZA" ValorUnitario="289.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="635.80" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="4" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="ZILL DENNIS /MATEMATICAS AVANZADAS PARA INGENIERIA/04/2012" Descuento="610.20" Importe="1356.00" NoIdentificacion="9786071507723" Unidad="PIEZA" ValorUnitario="339.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="745.80" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="0">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="0.00" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    
+<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="3C361902-F2E6-494B-81E8-BBAB7CF5FD3C" FechaTimbrado="2019-06-03T14:01:26" SelloCFD="QduA63Fs0Dfp4dEIHVRvZwVTR0pmydLTlIuGai6Jq65949DIRA16ccsgacL8h2rPYyRjSAIGR4JqyMYfZE/fAHF+MuhZGBBZLWvnohggXag1izWXnDdXSfOUWejqNP6j81alAxkIOmWXKZRcNotLmpC60ZbbFxRWgQtBXgJM6fXgJ1LoXGJKaNiVJlKrAD3jz+eOF8HEsZPpROrlIrcZaQ7EHcWNMU0QAh79yktW9YFqduTNUu9uwA7m8Erio3PVq0blozCrABhhs/oDlS8XASobfdBEhR+XfJjwYqGMzex6TKocyhibw28BnY1WhvAaheiZGQBe9RaU9EBg6lUvgg==" NoCertificadoSAT="00001000000404477432" SelloSAT="UPbNjCJfv12SPoE7/ZMsIuCddgE/DwIReCz+fIYAgcRd0acG5/HIasYS/9RGktNd5uOSoHTohudIyiSC16DvMfivbQlRTnwAtoozjopSaKMhlSGynHebUkrUkoL5AECbaBpzVbct9+EWchtDyvkND4TyW3m0PzhRLcfUKlW58srT0s5/1/ioVqsi5FP0E7kpjI+mqh7hvbAL1prP7lUuD2FjzUJ8S8HBvf3KFrGRb6YPLF1a4Yd4AYzJQoTxNGmHDsZZnyulaPcVQHA/MGHJPwpTMaP/a9kWw6zkxkzXjaxchVnoc2paL/jmRv1NftADVFEyY4OCZh0s2Dcs7+4/jQ==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

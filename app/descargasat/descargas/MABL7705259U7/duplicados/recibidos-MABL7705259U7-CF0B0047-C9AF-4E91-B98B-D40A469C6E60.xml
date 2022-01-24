@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:pago10="http://www.sat.gob.mx/Pagos" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CondicionesDePago="120 DIAS" Descuento="48811.27" Fecha="2018-03-20T15:55:39" Folio="136368" FormaPago="99" LugarExpedicion="01376" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000406263079" Sello="gFJge6eFzZkTxomU5uP6R/3mfM/JgekxnPtD5oMeEI7PuCE5s8eQEhLhiusKIwaW2cP8GFmTQT0s3VNLENmwQZcC4tOpn13/JJhJap6u4I3rfLeDCNHqHP3j3EBr9dMAHHkutzUK7OgiAqKwMqKqJuVHZ5HqhM0B8OakpOYH5S/FcceIoQ9rDdn6kb6Iv/h1wVPZkFU3MlXTTkv8+/qmBg9I5Gm/m8W6tm8Zz43oPEOf8Vjeg0rGSRS3TuKVGnuZLa8d5U+PY4ifeWzi7WYltXinWs9xKWpNhU13ZdJNdq+0PzwS8dvww7bMSqmXzbHrRwR2ghvIelnmtVH405VTag==" Serie="DF" SubTotal="122028.18" TipoCambio="1" TipoDeComprobante="I" Total="73216.91" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:Emisor Nombre="McGraw-Hill Interamericana Editores S.A. de C.V." RegimenFiscal="601" Rfc="MHI960111PB8" />
+    <cfdi:Receptor Nombre="MARTA BENITEZ MA. DE LA LUZ LIBRERIA HORUS" Rfc="MABL7705259U7" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="AFIFI, ADEL K. /NEUROANATOMIA FUNCIONAL TEXTO Y ATLAS/02/2006" Descuento="339.55" Importe="848.88" NoIdentificacion="9789701055045" Unidad="PIEZA" ValorUnitario="848.88">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="509.33" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="ARCHUNDIA ABEL /CIRUGIA 1 EDUCACION QUIRURGICA/06/2017" Descuento="418.40" Importe="1046.00" NoIdentificacion="9786071514110" Unidad="PIEZA" ValorUnitario="1046.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="627.60" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="ARENAS GUZMAN /MICOLOGIA MEDICA ILUSTRADA/05/2014" Descuento="399.60" Importe="999.00" NoIdentificacion="9786071511256" Unidad="PIEZA" ValorUnitario="999.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="599.40" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="10" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="ARENAS ROBERTO /DERMATOLOGIA ATLAS, DIAGNOSTICO Y TRATAMIENTO/06/2015" Descuento="5832.00" Importe="14580.00" NoIdentificacion="9786071512697" Unidad="PIEZA" ValorUnitario="1458.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="8748.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="ARISTIL CHERY /MANUAL DE FARMACOLOGIA/06/2013" Descuento="213.60" Importe="534.00" NoIdentificacion="9786071509116" Unidad="PIEZA" ValorUnitario="534.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="320.40" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="4" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="BALDERAS PEDRERO /ADMINISTRACION DE LOS SERVICIOS DE ENFERMERIA/07/2015" Descuento="737.60" Importe="1844.00" NoIdentificacion="9786071512413" Unidad="PIEZA" ValorUnitario="461.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1106.40" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="BECERRIL MARCO /PARASITOLOGIA MEDICA/04/2014" Descuento="258.52" Importe="646.30" NoIdentificacion="9786071511508" Unidad="PIEZA" ValorUnitario="646.30">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="387.78" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="BONIFAZ TRUJILLO /MICOLOGIA MEDICA BASICA/05/2015" Descuento="414.80" Importe="1037.00" NoIdentificacion="9786071512703" Unidad="PIEZA" ValorUnitario="1037.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="622.20" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="4" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="BRUNTON LAURENCE /GOODMAN AND GILMA'S PHARMACOLOGICAL BASIS OF THERAPEUTICS/13/2017" Descuento="6798.40" Importe="16996.00" NoIdentificacion="9781259584732" Unidad="PIEZA" ValorUnitario="4249.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="10197.60" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="CAMPOS /ANTROPOLOGIA MEDICA/01/2016" Descuento="384.00" Importe="960.00" NoIdentificacion="9786070280740" Unidad="PIEZA" ValorUnitario="480.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="576.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="CARROLL /MICROBIOLOGIA MEDICA/27/2016" Descuento="479.60" Importe="1199.00" NoIdentificacion="9786071513700" Unidad="PIEZA" ValorUnitario="1199.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="719.40" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="CLINE DAVID /TINTINALLLI MANUAL DE MEDICINA DE URGENCIAS/07/2013" Descuento="376.40" Importe="941.00" NoIdentificacion="9786071509840" Unidad="PIEZA" ValorUnitario="941.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="564.60" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="ELIZONDO MONTEMAY/TERAPIA NUTRICIA MEDICA EN GINECOLOGIA Y OBSTETRICIA/01/2010" Descuento="240.40" Importe="601.00" NoIdentificacion="9786071504470" Unidad="PIEZA" ValorUnitario="601.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="360.60" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="10" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="FORTOUL TERESA /HISTOLOGIA Y BIOLOGIA CELULAR/03/2017" Descuento="2944.00" Importe="7360.00" NoIdentificacion="9786071514080" Unidad="PIEZA" ValorUnitario="736.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="4416.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="FUSTER VALENTIN /HURT'S THE HEART TWO VOLUMEN SET/14/2017" Descuento="4345.60" Importe="10864.00" NoIdentificacion="9780071843249" Unidad="PIEZA" ValorUnitario="5432.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="6518.40" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="GRAUE /OFTALMOLOGIA EN LA PRACTICA DE LA MEDICINA GENERAL/04/2014" Descuento="998.40" Importe="2496.00" NoIdentificacion="9786070252211" Unidad="PIEZA" ValorUnitario="1248.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1497.60" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="HAMES DAVID /BIOS. NOTAS INSTANTANEAS DE BIOQUIMICA/04/2014" Descuento="146.40" Importe="366.00" NoIdentificacion="9781456223786" Unidad="PIEZA" ValorUnitario="366.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="219.60" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="5" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="HERNANDEZ SAMPIER/METODOLOGIA DE LA INVESTIGACION/06/2014" Descuento="966.00" Importe="2415.00" NoIdentificacion="9781456223960" Unidad="PIEZA" ValorUnitario="483.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1449.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="5" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="HOFFMAN /WILLIAMS GINECOLOGIA/03/2017" Descuento="3522.00" Importe="8805.00" NoIdentificacion="9781456256647" Unidad="PIEZA" ValorUnitario="1761.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="5283.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="10" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="KARP GERALD /BIOLOGIA CELULAR Y MOLECULAR/07/2014" Descuento="7196.00" Importe="17990.00" NoIdentificacion="9786071511379" Unidad="PIEZA" ValorUnitario="1799.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="10794.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="KATZUNG /FARMACOLOGIA BASICA Y CLINICA/13/2016" Descuento="1264.40" Importe="3161.00" NoIdentificacion="9786071513670" Unidad="PIEZA" ValorUnitario="1580.50">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1896.60" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="MADRAZO /NUTRICION Y GASTROENTEROLOGIA PEDIATRICA/02/2016" Descuento="424.00" Importe="1060.00" NoIdentificacion="9786071513694" Unidad="PIEZA" ValorUnitario="530.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="636.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="MCKEE TRUDY /BIOQUIMICA. LAS BASES MOLECULARES DE LA VIDA/05/2014" Descuento="1552.80" Importe="3882.00" NoIdentificacion="9786071511270" Unidad="PIEZA" ValorUnitario="1294.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="2329.20" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="MUNOZ MIRIAM /TABLAS DE USO PRACTICO DE LOS ALIMENTOS DE MAYOR CONSUMO/03/2013" Descuento="988.80" Importe="2472.00" NoIdentificacion="9786071509697" Unidad="PIEZA" ValorUnitario="824.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1483.20" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="OWEN JUDITH /KUBY INMUNOLOGIA/07/2014" Descuento="640.00" Importe="1600.00" NoIdentificacion="9786071511263" Unidad="PIEZA" ValorUnitario="800.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="960.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="10" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="PEATE IAN /ANATOMIA Y FISIOLOGIA PARA ENFERMERAS/01/2012" Descuento="2684.00" Importe="6710.00" NoIdentificacion="9786071507624" Unidad="PIEZA" ValorUnitario="671.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="4026.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="SEPULVEDA SAAVEDR/TEXTO ATLAS DE HISTOLOGIA BIOLOGIA CELULAR Y TISULAR/02/2014" Descuento="409.60" Importe="1024.00" NoIdentificacion="9786071511287" Unidad="PIEZA" ValorUnitario="1024.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="614.40" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="SEPULVEDA SAAVEDR/INSTRUCTIVO LABO HISTOLIGIA BIOLOGIA CELULAR Y TISULAR/06/2014" Descuento="195.60" Importe="489.00" NoIdentificacion="9786071511492" Unidad="PIEZA" ValorUnitario="489.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="293.40" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="TRESGUERRES JESUS/FISIOLOGIA HUMANA/04/2010" Descuento="1558.80" Importe="3897.00" NoIdentificacion="9786071503497" Unidad="PIEZA" ValorUnitario="1299.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="2338.20" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="5" ClaveProdServ="55101500" ClaveUnidad="H87" Descripcion="WOLFF KLAUS /FITZPATRICK ATLAS DE DERMATOLOGIA CLINICA/07/2014" Descuento="2082.00" Importe="5205.00" NoIdentificacion="9786071512048" Unidad="PIEZA" ValorUnitario="1041.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="3123.00" Importe="0" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="0">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="0.00" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa" />
+            <cfdi:Traslado Importe="0.00" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Exento" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    
+<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="CF0B0047-C9AF-4E91-B98B-D40A469C6E60" FechaTimbrado="2018-03-20T15:57:10" SelloCFD="gFJge6eFzZkTxomU5uP6R/3mfM/JgekxnPtD5oMeEI7PuCE5s8eQEhLhiusKIwaW2cP8GFmTQT0s3VNLENmwQZcC4tOpn13/JJhJap6u4I3rfLeDCNHqHP3j3EBr9dMAHHkutzUK7OgiAqKwMqKqJuVHZ5HqhM0B8OakpOYH5S/FcceIoQ9rDdn6kb6Iv/h1wVPZkFU3MlXTTkv8+/qmBg9I5Gm/m8W6tm8Zz43oPEOf8Vjeg0rGSRS3TuKVGnuZLa8d5U+PY4ifeWzi7WYltXinWs9xKWpNhU13ZdJNdq+0PzwS8dvww7bMSqmXzbHrRwR2ghvIelnmtVH405VTag==" NoCertificadoSAT="00001000000404477432" SelloSAT="HRFpBdZCXMOuvXzAmNtmSlSHdRhLRyOdb4fIv6yuNsdIyApoeCu9yccp8YVY4XWyNw1a4KIuWDVTIJZtQ/Q3jU0pgparl+3wpdx8rfr2sJvdjouX0PquRD2050Ui00PrB787tlQkcUXJqM0ihzfB9yLt60FNI56DOD+o7GTht0aeN4cKFEHUijM/5U9yJD+3XaK4zXPpAJmpoKtfjKczp+nyrhVOgaO1HEgsRkO1g+9vRB2EYcudhC5Jh8VQ2aYir1IenAt5DosZbHdNJSFS3aqjQzXc1lX76VSVoW72yG+W7Lf2zj+/XO69OesPzHRNdg+smJOcx13lomrPIqQ0zg==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

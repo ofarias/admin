@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:cce11="http://www.sat.gob.mx/ComercioExterior11" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:pago10="http://www.sat.gob.mx/Pagos" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIGQjCCBCqgAwIBAgIUMDAwMDEwMDAwMDA0MTE2MjcwOTYwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTgwNzI1MTUwODAwWhcNMjIwNzI1MTUwODAwWjCB4jEsMCoGA1UEAxMjQ09NRVJDSUFMIENJVFkgRlJFU0tPIFMgREUgUkwgREUgQ1YxLDAqBgNVBCkTI0NPTUVSQ0lBTCBDSVRZIEZSRVNLTyBTIERFIFJMIERFIENWMSwwKgYDVQQKEyNDT01FUkNJQUwgQ0lUWSBGUkVTS08gUyBERSBSTCBERSBDVjElMCMGA1UELRMcQ0NGMTIxMTAxS1E0IC8gTUFQRTcyMDIyOFZEMjEeMBwGA1UEBRMVIC8gTUFQRTcyMDIyOEhERlJSTDA4MQ8wDQYDVQQLEwZGSVNDQUwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCRn6lP85o0As54sJ7yFdNBgCg9v3AYp+scKYxa4LOdGvrE4yMaY4OzmcmDI/zGLpvPXuyRzbI3KEWlrn4h1AltExoulEismGSFXizZ2AoGCsTOom8sR+h79FZF/OVcskgptDGs/5nMyAJk7p91v3R/Z2EBNrxo+sSs6Z1vSNbAvXwgYprk8W1GRcrpPyQe1CRpBIYGrX2ESBIj49QdhiUpIcA+DcICUuQUPZ1+T3UVjgvA+KTChnC/shHG/svP8TLWtfzqDyqyMmBciR6CCTDJRiUbgf1lmjo6fxyB+l+1aeCBLZSoxnNmrblDWwIDK5NOXHNrvz4E2vwJCl3yHRcLAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBCwUAA4ICAQCZTl2r1ZANClic2PVMJ74qp7rwJpEPX3o4wLmDsWRhjbT/f2BTNOcwIZG1bPFWZfV3Jpdsdm/pBn5Ewze+ZijecBFI1grUzjwwgmui8jX/uulrEO+O/+M3tJ11XpKRiPFKRE4RG8dvIhBLlLzk7moEmiaOzsHwTZ4qBPM9bG1RDnzCwUS1aJyCTYkGfJfbc0dhXFPYB+CH0Dwd6KgQADFsr0ZvKmwRqBAc0CrsG00V/QakcrsrGazPqBD7kHYlS/YmWqoNKOSdbtZtC2RAW+0+TGrFl/5qdwsTN6DuNNELX/vu9LjoN8T8FMi1ZIaMEk/0SYCBPNWzLh/tANEvV1f//k3l7+J2eDL5vwLKf5LgCJif3qgGB47DGELCnWO/vJUK1OESJXgVOAlRDMrFvSr2UCe9MmQRHVmrwFRWkwdzgP437e6eIYpu5q67n4nSuV7fzS32biOJ+fNQHB6jRQjY/BlYR5I+pZg4P6mjYHUAq4OiTSzfr6YB+7kX4/jpKtH7DIzJxoRSTJH1wAgMS6uja0sDWzI0n7J2lYeiIroJwsj7GJqT2kYtrQ/JZB/y2QSRH1ja9RPsh5s7f0k0ETcwT/+wxtC5TSZvGy9p+ZOvLtkYVZ9XoVsSXtk1aoT9NBFM0VjvWie80hpd+vVGy/i6L9LeFv+b7ox3mObUTKmeUA==" Descuento="9.26" Fecha="2021-10-29T17:11:59" Folio="13808950" FormaPago="01" LugarExpedicion="04920" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000411627096" Sello="aW+94wKmgrnv10c1Z2ZJBOTupSEBVB0197Q5yY+KsmQrCSWTamkFlPphazzIQsWEkvgO7BXagdvc50hmujjoBLVWYE/S419j41QtaVPwDAx4sz8u/6zbYs8y26anQ55sKSBA1ogiDisFNLWNuEZ7I0i42/hUWvCEV1yMSnAbHuoM5l8Uu+qRCu6XwHtzFpIyh/8a8nGAH3sFLQwzTdSrn/mfFxtN0oMfFTbsSqxegjwySlbGelkehVGhGbIWX71p+IsgkBX7pHJgVnbMS4K3wvG35XWPHEayq3ogIFdyUu1BbcAcBrg5p4XtrIWSnROW98V2pvDUAg+5apfiogZgmw==" Serie="C" SubTotal="763.77" TipoCambio="1" TipoDeComprobante="I" Total="864.20" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd http://www.sat.gob.mx/Pagos http://www.sat.gob.mx/sitio_internet/cfd/Pagos/Pagos10.xsd http://www.sat.gob.mx/ComercioExterior11 http://www.sat.gob.mx/sitio_internet/cfd/ComercioExterior11/ComercioExterior11.xsd">
+<cfdi:Emisor Nombre="COMERCIAL CITY FRESKO S DE RL DE CV" RegimenFiscal="601" Rfc="CCF121101KQ4" />
+<cfdi:Receptor Nombre="NDF NDF NDF" Rfc="SORA8707159F5" UsoCFDI="G03" />
+<cfdi:Conceptos>
+<cfdi:Concepto Cantidad="4" ClaveProdServ="50304900" ClaveUnidad="H87" Descripcion="NECTAR BOING 354 ML" Descuento="0.00" Importe="43.60" NoIdentificacion="0019836103816" Unidad="pza" ValorUnitario="10.90" />
+<cfdi:Concepto Cantidad="2" ClaveProdServ="50181909" ClaveUnidad="H87" Descripcion="GALLETAS RITZ 308 GRS" Descuento="9.26" Importe="60.000001" NoIdentificacion="7622210827951" Unidad="pza" ValorUnitario="30.00">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="50.740741" Importe="4.059259" Impuesto="003" TasaOCuota="0.080000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="50202306" ClaveUnidad="H87" Descripcion="REFRESCO COCA COLA 600 ML" Descuento="0.00" Importe="41.896552" NoIdentificacion="7501055307043" Unidad="pza" ValorUnitario="41.896552">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="41.896552" Importe="6.703448" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="8" ClaveProdServ="12161902" ClaveUnidad="H87" Descripcion="DETERGENTE SALVO 1 KG" Descuento="0.00" Importe="303.448276" NoIdentificacion="7506195169995" Unidad="pza" ValorUnitario="37.931035">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="303.448276" Importe="48.551724" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="2" ClaveProdServ="14111618" ClaveUnidad="H87" Descripcion="PAPEL REGIO 6 PZA" Descuento="0.00" Importe="138.62069" NoIdentificacion="7501036622455" Unidad="pza" ValorUnitario="69.310345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="138.62069" Importe="22.17931" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="2" ClaveProdServ="14111618" ClaveUnidad="H87" Descripcion="PAPEL REGIO 8 PZA" Descuento="0.00" Importe="94.655172" NoIdentificacion="7501036622851" Unidad="pza" ValorUnitario="47.327586">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="94.655172" Importe="15.144828" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="2" ClaveProdServ="11151500" ClaveUnidad="H87" Descripcion="FIBRA SCOTCH BRITE 1 PZA" Descuento="0.00" Importe="63.448276" NoIdentificacion="7501023100072" Unidad="pza" ValorUnitario="31.724138">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="63.448276" Importe="10.151724" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="11151500" ClaveUnidad="H87" Descripcion="FIBRA SCOTCH BRITE 1 PZA" Descuento="0.00" Importe="18.103448" NoIdentificacion="7501023100027" Unidad="pza" ValorUnitario="18.103448">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="18.103448" Importe="2.896552" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos TotalImpuestosTrasladados="109.69">
+<cfdi:Traslados>
+<cfdi:Traslado Importe="105.627586" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+<cfdi:Traslado Importe="4.059259" Impuesto="003" TasaOCuota="0.080000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="ABEE279E-7185-46DC-B6CE-62280AF30A88" FechaTimbrado="2021-10-29T17:14:05" SelloCFD="aW+94wKmgrnv10c1Z2ZJBOTupSEBVB0197Q5yY+KsmQrCSWTamkFlPphazzIQsWEkvgO7BXagdvc50hmujjoBLVWYE/S419j41QtaVPwDAx4sz8u/6zbYs8y26anQ55sKSBA1ogiDisFNLWNuEZ7I0i42/hUWvCEV1yMSnAbHuoM5l8Uu+qRCu6XwHtzFpIyh/8a8nGAH3sFLQwzTdSrn/mfFxtN0oMfFTbsSqxegjwySlbGelkehVGhGbIWX71p+IsgkBX7pHJgVnbMS4K3wvG35XWPHEayq3ogIFdyUu1BbcAcBrg5p4XtrIWSnROW98V2pvDUAg+5apfiogZgmw==" NoCertificadoSAT="00001000000505600468" SelloSAT="JXsIcqDs+HanImBFkb8PFcmGi0tQsM8fzTUYmNqxd8s0lnc4VjyzSiW+BtZ9V6EXO+ncuRP0vaUaL9FKPBtmZIQDs9e2txIiRiewLVypawsPfeJLysgIZekgocRmYmvO6di0BnB8zYDh12fMYwclP23udqACMltgTZ+4le/+uiwE8s1aNUKSlR7oVdoD3x5vd0Ta1BCc1wpTWHMyMPkn0FrLFd3tagn7AeBUykq2AZtSDdZqFXLHkWHG//NWPCnhYZun5z+DU7VKCFV/F5VWR5fqjymomvcv57yTjxDuhH9jofi/cQBknmw3v83AALe3tb0rkd4/RVGEnrBhOOqwkw==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

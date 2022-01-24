@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:cce11="http://www.sat.gob.mx/ComercioExterior11" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:pago10="http://www.sat.gob.mx/Pagos" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" Descuento="0.00" Fecha="2021-09-12T23:30:20" Folio="13481990" FormaPago="04" LugarExpedicion="53140" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000411627096" Sello="AC6pqWAiZWVuX3q5BdW47Z+K9W4SKhsRRB2C3I1nGyhxjB0KUI4WzGmThaivID2b0MqmQOQAsXOCrpsgkWuhz0gg0QvKKk5fhQScTh/TlzHzCg/X+WbEsyzZBmbuk99kNwD0Fh+uOL4DhWvqLq4PnAMd3OP7yaHGBtsWtlS9XWkMY030hvXQwJvmMNMdzXb2MeoePgmAjeqbhGcaA6jzPXQ1rK6lpm2zZqInKL+KXqzV4XFIvQ5u53GMVrBpkUzGmQKxgrSpJSA1A7oT7YiFSDefQg2Nwogy4fvO9AL+ZiusUiNR08Ltq9L3FdH1tLg2WM9rk04gNW8EEQTV00HHmg==" Serie="C" SubTotal="1146.42" TipoCambio="1" TipoDeComprobante="I" Total="1319.29" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd http://www.sat.gob.mx/Pagos http://www.sat.gob.mx/sitio_internet/cfd/Pagos/Pagos10.xsd http://www.sat.gob.mx/ComercioExterior11 http://www.sat.gob.mx/sitio_internet/cfd/ComercioExterior11/ComercioExterior11.xsd">
+<cfdi:Emisor Nombre="COMERCIAL CITY FRESKO S DE RL DE CV" RegimenFiscal="601" Rfc="CCF121101KQ4" />
+<cfdi:Receptor Nombre="BIOTECSA SA DE CV" Rfc="BIO870307QD0" UsoCFDI="G03" />
+<cfdi:Conceptos>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="01010101" ClaveUnidad="XNA" Descripcion="ESTACIONAMIENTO" Descuento="0.00" Importe="4.310345" NoIdentificacion="0000070862195" Unidad="pza" ValorUnitario="4.310345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="4.310345" Importe="0.689655" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="01010101" ClaveUnidad="H87" Descripcion="MASCARILLA NIVEA 1 PZA" Descuento="0.00" Importe="53.448276" NoIdentificacion="4005900787712" Unidad="pza" ValorUnitario="53.448276">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="53.448276" Importe="8.551724" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="11101719" ClaveUnidad="H87" Descripcion="ZINC ESSENTIAL 1 PZA" Descuento="0.00" Importe="120.689655" NoIdentificacion="7503006073656" Unidad="pza" ValorUnitario="120.689655">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="120.689655" Importe="19.310345" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="50202301" ClaveUnidad="H87" Descripcion="AGUA NIVEA 400 ML" Descuento="0.00" Importe="103.275862" NoIdentificacion="4005900629746" Unidad="pza" ValorUnitario="103.275862">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="103.275862" Importe="16.524138" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="01010101" ClaveUnidad="H87" Descripcion="HIDROCREMA PANTENE 300 ML" Descuento="0.00" Importe="44.827586" NoIdentificacion="7501001170080" Unidad="pza" ValorUnitario="44.827586">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="44.827586" Importe="7.172414" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="42312311" ClaveUnidad="H87" Descripcion="DESINFECTANTE CLORALEX 400 ML" Descuento="0.00" Importe="68.275862" NoIdentificacion="7501025406165" Unidad="pza" ValorUnitario="68.275862">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="68.275862" Importe="10.924138" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="95121517" ClaveUnidad="H87" Descripcion="CREMA NIVEA 50 ML" Descuento="0.00" Importe="189.482759" NoIdentificacion="4005808186044" Unidad="pza" ValorUnitario="189.482759">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="189.482759" Importe="30.317241" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="95121517" ClaveUnidad="H87" Descripcion="CREMA NIVEA 50 ML" Descuento="0.00" Importe="189.482759" NoIdentificacion="4005808200092" Unidad="pza" ValorUnitario="189.482759">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="189.482759" Importe="30.317241" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="95121517" ClaveUnidad="H87" Descripcion="CREMA LUBRIDERM 400 ML" Descuento="0.00" Importe="88.793103" NoIdentificacion="7702031280323" Unidad="pza" ValorUnitario="88.793103">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="88.793103" Importe="14.206897" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="51191905" ClaveUnidad="H87" Descripcion="VITAMINA FARMACOM 1 PZA" Descuento="0.00" Importe="65.99" NoIdentificacion="7501258209625" Unidad="pza" ValorUnitario="65.99" />
+<cfdi:Concepto Cantidad="1" ClaveProdServ="52151641" ClaveUnidad="H87" Descripcion="CREMA NIVEA 15 ML" Descuento="0.00" Importe="189.482759" NoIdentificacion="4005808179732" Unidad="pza" ValorUnitario="189.482759">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="189.482759" Importe="30.317241" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="10224902" ClaveUnidad="H87" Descripcion="SHAMPOO PANTENE 200 ML" Descuento="0.00" Importe="28.362069" NoIdentificacion="7501001170288" Unidad="pza" ValorUnitario="28.362069">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="28.362069" Importe="4.537931" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos TotalImpuestosTrasladados="172.87">
+<cfdi:Traslados>
+<cfdi:Traslado Importe="172.868966" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="B43CAA36-2AA1-4EAC-BD61-04F2D7D673D1" FechaTimbrado="2021-09-12T23:30:52" SelloCFD="AC6pqWAiZWVuX3q5BdW47Z+K9W4SKhsRRB2C3I1nGyhxjB0KUI4WzGmThaivID2b0MqmQOQAsXOCrpsgkWuhz0gg0QvKKk5fhQScTh/TlzHzCg/X+WbEsyzZBmbuk99kNwD0Fh+uOL4DhWvqLq4PnAMd3OP7yaHGBtsWtlS9XWkMY030hvXQwJvmMNMdzXb2MeoePgmAjeqbhGcaA6jzPXQ1rK6lpm2zZqInKL+KXqzV4XFIvQ5u53GMVrBpkUzGmQKxgrSpJSA1A7oT7YiFSDefQg2Nwogy4fvO9AL+ZiusUiNR08Ltq9L3FdH1tLg2WM9rk04gNW8EEQTV00HHmg==" NoCertificadoSAT="00001000000505600468" SelloSAT="HBWDw2Sdnza3fRTdy7pIUx78BM5L8IfgGleExKmn04CwuEqhaW5jyo+fa11Ao8wxi75gGleErsglR/sxKeH/UB8UbQ3CSe+a3BkCXYy8DCftPC9uvmyi0BXZr/jBgkjrenXB4+5ufZg1eYwBGNLAt/uOvJ5Fin1crd1pAWXWdLlP0h8P8dvFmLuvq7TkfhxNPQBqe51wXFoZ7nR9FNSofOq8UCqjlRSYWcql3t9qp2Jpnl6s2NoxQ88YsKw8fTEp5tSRyJbWhiuRYsVt51rkl6a9SH/4HgpYAAvm0rCKC+6ZwcIRrM8JPyx0IUB6ySNEc75Xr4fcqwF4/slQVXkS+w==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>
