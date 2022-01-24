@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante Certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDQzMDY2NzUwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA1MzAxNzM0MzNaFw0xODA1MzAxNzM0MzNaMIHVMScwJQYDVQQDEx5UQUNBIElOVEVSTkFUSU9OQUwgQUlSTElORVMgU0ExJzAlBgNVBCkTHlRBQ0EgSU5URVJOQVRJT05BTCBBSVJMSU5FUyBTQTEnMCUGA1UEChMeVEFDQSBJTlRFUk5BVElPTkFMIEFJUkxJTkVTIFNBMSUwIwYDVQQtExxUSUE0NDA4MTdEOEEgLyBNT0hKNDgwOTIxNVYwMR4wHAYDVQQFExUgLyBNT0hKNDgwOTIxSERGWVJSMDYxETAPBgNVBAsTCEZBQ1RVUkFTMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCdAw7I7ncId1uUfQm6D4fyAVDqqWyOtZNGjcoDqiFTkJDiqazYbEpi0lvJNYOusruETOCdZSPITlc94FyZA7bZtizM7QKdKbeQcZPvDt1vI3UcclBeuLD1u9ykx4r0EkLSiHb3H7hv+ldpHluyyf3lf90DBwDFiI1tP7M6TpIZMQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAbN30NMZ//Z5Hq+j1af2yHcJaq9ysn/apdTKdhRBmXyyEK1W8r33XaD3sfdFuvNnTjKgGFuPKtdFiqjQP7z05adoTSBbI07yM/K9VG3yzCvV9XfbwRPKAgQkRbVbnRsShTfJwukTTVUYotpkdD7er7bGYISk/oC/67hn+uIfPQ9hBMcVEdp7UN9eJkStuLTLvso0TeUMtIYX/Yi7ZdRx12PRmsecUvlpHQQ5Ahth/3DvRLQ7wuS4bbyB69njyWDvo7ybhWqOVN4HKwcG0HmIR7Fkg7gmR5Xmfjq/5zHeLdauc01lLiqERr7utKRG0ndzKS5rtyF0i01PNFjIdFGltIQ==" Fecha="2018-03-12T10:43:55" Folio="1342481276204" FormaPago="99" LugarExpedicion="06500" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000304306675" Sello="N2CyEazibCEqLm+QRc3A/i826CzxVTDH3ba69cEvXy/v2t6R9n34s0h/O5maicxGUI3kweV9pW1Uh6MmlNf1qPxFNWITMKB8sl6RkfNO8T7WOUD4u4NVJm56sPDxtSsnwxKMyq14N+1e9cYgXuX3ZUkz8Dhyy7x+Pwsq1ZTM+sM=" SubTotal="7027.00" TipoDeComprobante="I" Total="7225.16" Version="3.3" xmlns:aerolineas="http://www.sat.gob.mx/aerolineas" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:pago10="http://www.sat.gob.mx/Pagos" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/aerolineas http://www.sat.gob.mx/sitio_internet/cfd/aerolineas/aerolineas.xsd">
+    <cfdi:Emisor Nombre="TACA INTERNATIONAL AIRLINES S.A" RegimenFiscal="601" Rfc="TIA440817D8A"/>
+    <cfdi:Receptor Nombre="BIOTECSA S.A. DE C.V." Rfc="BIO870307QD0" UsoCFDI="G03"/>
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="78111500" ClaveUnidad="E48" Descripcion="Tarifa del boleto comprado el día 02/03/18" Importe="4954.00" NoIdentificacion="1342481276204" Unidad="No aplica" ValorUnitario="4954.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1238.50" Importe="198.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+                    <cfdi:Traslado Base="3715.50" Importe="0.00" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="78111500" ClaveUnidad="E48" Descripcion="B1" Importe="509" NoIdentificacion="1342481276204" Unidad="No aplica" ValorUnitario="509">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="509.00" Importe="0.00" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="78111500" ClaveUnidad="E48" Descripcion="XD" Importe="1027" NoIdentificacion="1342481276204" Unidad="No aplica" ValorUnitario="1027">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1027.00" Importe="0.00" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="78111500" ClaveUnidad="E48" Descripcion="IK" Importe="56" NoIdentificacion="1342481276204" Unidad="No aplica" ValorUnitario="56">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="56.00" Importe="0.00" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="78111500" ClaveUnidad="E48" Descripcion="QQ" Importe="51.00" Unidad="No aplica" ValorUnitario="51.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="51.00" Importe="0.00" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="78111500" ClaveUnidad="E48" Descripcion="NW" Importe="283.00" Unidad="No aplica" ValorUnitario="283.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="283.00" Importe="0.00" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="78111500" ClaveUnidad="E48" Descripcion="A1" Importe="38.00" Unidad="No aplica" ValorUnitario="38.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="38.00" Importe="0.00" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="78111500" ClaveUnidad="E48" Descripcion="FS" Importe="109.00" Unidad="No aplica" ValorUnitario="109.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="109.00" Importe="0.00" Impuesto="002" TasaOCuota="0.000000" TipoFactor="Tasa"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="198.16">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="198.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <aerolineas:Aerolineas TUA="1027" Version="1.0">
+            <aerolineas:OtrosCargos TotalCargos="1046">
+                <aerolineas:Cargo CodigoCargo="B1" Importe="509"/>
+                <aerolineas:Cargo CodigoCargo="IK" Importe="56"/>
+                <aerolineas:Cargo CodigoCargo="QQ" Importe="51"/>
+                <aerolineas:Cargo CodigoCargo="NW" Importe="283"/>
+                <aerolineas:Cargo CodigoCargo="A1" Importe="38"/>
+                <aerolineas:Cargo CodigoCargo="FS" Importe="109"/>
+            </aerolineas:OtrosCargos>
+        </aerolineas:Aerolineas>
+    <tfd:TimbreFiscalDigital FechaTimbrado="2018-03-12T10:43:55" NoCertificadoSAT="00001000000404477432" RfcProvCertif="EME000602QR9" SelloCFD="N2CyEazibCEqLm+QRc3A/i826CzxVTDH3ba69cEvXy/v2t6R9n34s0h/O5maicxGUI3kweV9pW1Uh6MmlNf1qPxFNWITMKB8sl6RkfNO8T7WOUD4u4NVJm56sPDxtSsnwxKMyq14N+1e9cYgXuX3ZUkz8Dhyy7x+Pwsq1ZTM+sM=" SelloSAT="IXYK4GRBUDx1yaB2ip0r+vvuaS0e6RB7wbmLICqdbrYcDr0H4cmAXGdwwuWiFiJ9Tadry27ZGba3rzILvms8amgnUT+J6UiE0j0Xzijb+LqFltB9gWR2Y9AzreW9eFP15JZxJA5dgi3hkRVujeCfyebCKcfG5ZHgg3OLU/tjWUmsnh/+tsZbDeOflQc+2HvCNBEv5eipqY+0203KYIVoM05ljY/64LkCRie8baTncTQ5qgnrOcTosyrypEVP923F+WpbNar91D7sxzL4IxVRzMWTGDC2BsC5MV9duLUywfMfBoYuiLo6FunlrTDvJJCj5LPu7ENQIMtdxV46VsW0YQ==" UUID="D937A1DB-098A-4578-A90A-C2FF00560F4E" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd"/></cfdi:Complemento>
+    
+<cfdi:Addenda>
+        <customized xmlns="http://repository.edicomnet.com/schemas/mx/cfd/addenda" xsi:schemaLocation="http://repository.edicomnet.com/schemas/mx/cfd/addenda http://repository.edicomnet.com/schemas/mx/cfd/addenda/customized.xsd">
+            <AEROLINEAS>
+                <TicketNumber>1342481276204</TicketNumber>
+                <IssueDate>02/03/2018</IssueDate>
+            </AEROLINEAS>
+        </customized>
+    </cfdi:Addenda></cfdi:Comprobante>

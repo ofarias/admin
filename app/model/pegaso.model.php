@@ -26350,9 +26350,15 @@ function ejecutaOC($oc, $tipo, $motivo, $partida, $final){
 		return;
 	}
 
-	function cargarLogo($fileName, $emp){
+	function cargarLogo($fileName, $emp, $file, $target_file, $ext){
 		$_SESSION['bd']= $emp['12'];
-		$this->query="UPDATE FTC_EMPRESAS SET RUTA_LOGO = '$fileName' where id = 1";
+		$fp = fopen($target_file, 'r');
+		$cont = fread($fp, filesize($target_file));
+        $cont = base64_encode($cont);
+        fclose($fp);
+        $cont = base64_encode(file_get_contents($target_file));
+        $this->query="UPDATE FTC_EMPRESAS SET RUTA_LOGO = '$fileName', LOGO_FILE = '$cont', extension='$ext' where id = 1";
+		echo $this->query;
 		$this->EjecutaQuerySimple();
 		unset($_SESSION['bd']);
 		return;

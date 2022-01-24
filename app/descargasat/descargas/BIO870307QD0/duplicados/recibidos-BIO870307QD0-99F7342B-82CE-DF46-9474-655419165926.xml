@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="FVC" folio="16904" fecha="2016-06-15T12:03:00" formaDePago="PAGO EN UNA SOLA EXHIBICIÓN" noCertificado="00001000000202681880" condicionesDePago="FLETE PAGADO" subTotal="564.50" descuento="0.00" total="632.24" metodoDePago="EFECTIVO" tipoDeComprobante="ingreso" LugarExpedicion="TLALNEPANTLA, ESTADO DE MEXICO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" sello="i9V9FjgL8Q/txYHOa633RKuV7ig6n3ekN9x17H/Hwx2tyjc72RMVRAjkfnM8JOZaroPqsT8m2Sx9YFr98Wd/0ilACML0kDOzSCVHmqJqUyyaR6xcOs+m0U2ru5Apjf755ZioY24/v2qhQp3h8VMzd+/uGXWJRc/RZMXnKrOiDLM=" certificado="MIIEfTCCA2WgAwIBAgIUMDAwMDEwMDAwMDAyMDI2ODE4ODAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIyMTE4MDUzMFoXDTE2MTIyMTE4MDUzMFowgb4xIDAeBgNVBAMTF0ZBUk1BIExPR0lTVElDIFNBIERFIENWMSAwHgYDVQQpExdGQVJNQSBMT0dJU1RJQyBTQSBERSBDVjEgMB4GA1UEChMXRkFSTUEgTE9HSVNUSUMgU0EgREUgQ1YxJTAjBgNVBC0THEZMTzA1MDUwNFRKOCAvIEdVQ0k2MzAyMTBEODMxHjAcBgNVBAUTFSAvIEdVQ0k2MzAyMTBNREZSTlMwMjEPMA0GA1UECxMGTWF0cml6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+ZV4UNo5UZqgIGoGJ6rwB63HysvLt66/0V8QcoZgHFhqXC5sR7xy1mBJt/Xf74UXGbJ5AwncXBaHEkPhuwk6k+lvrmSsjxAjdqHlLgDFDnpRO6HfrMTzdeyxatyM6l4VgOyRZJ1QSXBwmPvVgqRm4Y30KRVHKmdGuOSDRRXSkPQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAkB9MyI+OA8osvyS4JZVAK3mgrUksm4rq6zGcLteBegzgk5odQtjtfQxCPo6B3SLpbrm50JTH5mfy0NNBJsTh6VJrgXFhjxaA0tBdjf+Dsg/0AqiGBpdQXpfb6A/ZODZg7qhKRwQ97ac4QYTHSdPzBv1UOKfJWmW+VtlBBJI/UG3KyTb4G/cdRBul4OXe/n5ZFp5we3oOjm5xqmdDst2+2Rs8p0z7BqV7cLXRwJWpb7STTMTl9j190eUNdx9kLp1NCb/+E44gWjE/eb/iVXOpsevH7R84I9Qci0KelxlpxHBkiHXtWcCAZSxMWOiCxNRzZoqipg4kWbsFrAcne1XccQ==">
+  <cfdi:Emisor rfc="FLO050504TJ8" nombre="FARMA LOGISTIC SA DE CV">
+    <cfdi:DomicilioFiscal calle="DE LA ORACION" noExterior="105" colonia="LOS GAVILANES" municipio="LEÓN" estado="GUANAJUATO" pais="MÉXICO" codigoPostal="37270" />
+    <cfdi:ExpedidoEn municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MÉXICO" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD.MANUEL A.CAMACHO" noExterior="2900" colonia="FRACC.LOS PIRULES" referencia="DESP.804" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MÉXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="NO APLICA" descripcion="FLETE" valorUnitario="448.22" importe="448.22" />
+    <cfdi:Concepto cantidad="1.00" unidad="NO APLICA" descripcion="ENT. A DOM." valorUnitario="116.28" importe="116.28" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="22.58" totalImpuestosTrasladados="90.32">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="IVA" importe="22.58" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="90.32" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento> <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" UUID="99F7342B-82CE-DF46-9474-655419165926" FechaTimbrado="2016-06-15T12:03:05" selloCFD="i9V9FjgL8Q/txYHOa633RKuV7ig6n3ekN9x17H/Hwx2tyjc72RMVRAjkfnM8JOZaroPqsT8m2Sx9YFr98Wd/0ilACML0kDOzSCVHmqJqUyyaR6xcOs+m0U2ru5Apjf755ZioY24/v2qhQp3h8VMzd+/uGXWJRc/RZMXnKrOiDLM=" noCertificadoSAT="00001000000401041203" selloSAT="bvDvea7o2ctOKHiFu6oQ3e6BW2RYOXrPtKE/oRCQg7eJEEczQcCgH0bIbRxmyUtyov6jwiiiT3uMMkD3nTPOhsCObErj2+EGEfWYajWYY2+PDGUbIOBIy9uc4ur5CX+ac/3OzyElBbSX1UYLDNts+k+541TAZGij8noKj4m+V7vxEE2QE/E88fsV6uCIM9zAHloW611FzVLfoBWWaTcIKXCyIRd1t8ZgF6hvbX0Tl5Ed8kRhxLKfXTYQETKCAR3FewEVBIqOrqQAobofibyhZ7hFohcHjnWC+oZBsJ8XMEK3OQzhve8B+XzdBYsDvcHC+XmegRYWTYeDKw2yWcTO/w==" />
+</cfdi:Complemento></cfdi:Comprobante>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="6109027" fecha="2015-09-15T10:14:05" sello="ynLmn1H6dBUHE0wI/XH/8Shu9gYTVkH547DhSs4olA53qcrvQ0WB28dxhtXjxvt/ESucJmfUygQh8G++B1EuJmOOj8NZYqcFHncQce36SbgwZxLbDw/WnaZhRTRtbJYWJbO3dHs80W3+onsVDPgRkCF4lnaYYQtzHMsHxKN2rtQ=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000301452292" certificado="MIIEjzCCA3egAwIBAgIUMDAwMDEwMDAwMDAzMDE0NTIyOTIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMjgwMDAxMDdaFw0xNzExMjgwMDAxMDdaMIHbMSMwIQYDVQQDExpFTSBQQUNLIERFIE1FWElDTyBTQSBERSBDVjEjMCEGA1UEKRMaRU0gUEFDSyBERSBNRVhJQ08gU0EgREUgQ1YxIzAhBgNVBAoTGkVNIFBBQ0sgREUgTUVYSUNPIFNBIERFIENWMSUwIwYDVQQtExxFUE04MjA0MTlMTDYgLyBNVUlGNjIwNzE2VFg0MR4wHAYDVQQFExUgLyBNVUlGNjIwNzE2SERGUk5SMDAxIzAhBgNVBAsTGkVNIFBBQ0sgREUgTUVYSUNPIFNBIERFIENWMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDYejaA8cYJDGyKGfiO/oQUpRfEeGNcPq6VwTmVi6EeW35VZB76ovQ7wh2tn8wKQQSCZrSuUjHH18QpMT9VPymUY/FbyY0I251JSd0zzfLZrk5o/vPvIXjInqhoY5yWTgujeFsTedDxuOOTcqqxknMiUNlzQGyzisH6zcmXl0TVmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAboA+pN+bFFReuJ2k+PMvxJ9IhaPbVFP1LjlZ2nEd7NM9oTY2gU9Fu4N+ooJO/JwOBT4QMdZZXcUaF8lroQTTWB4/YNsxvVoGlSs8t+Xrn1IMKM7PNxX4yH9cr4v9n+phQVz8FWaeEHWrdpK9Zx1bFjct37kyfhoiQSvnBa563ZL2Vp/YJZcqUJ2Xczxu6klUw39mz9o7vDhPLXLLZSQtczBhX5rgQ243yvkS8KahXyoDbjjj0mpgfYH7KlEq80V6k20UnLcwDw3nPblYUFYUpLhs4ockhRTUihI+aI0OcRPNbT1JUt4ST56XJVclNEi0wihmrnDLiMtk6Ycv08usqw==" condicionesDePago="EFECTIVO" subTotal="232.76" descuento="0.00" TipoCambio="1.00" Moneda="MXN" total="270.00" tipoDeComprobante="ingreso" metodoDePago="EFECTIVO" LugarExpedicion="Mexico, DISTRITO FEDERAL">
+  <cfdi:Emisor rfc="EPM820419LL6" nombre="EM PACK DE MEXICO, S.A DE C.V.">
+    <cfdi:DomicilioFiscal calle="LEBRIJA" noExterior="58" noInterior="S/N" colonia="CERRO DE LA ESTRELLA" municipio="IZTAPALAPA" estado="DISTRITO FEDERAL" pais="Mexico" codigoPostal="09860" />
+    <cfdi:ExpedidoEn calle="GUSTAVO BAZ" noExterior="193-B" noInterior="S/N" colonia="EL MIRADOR" municipio="TLANEPANTLA" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="54080" />
+    <cfdi:RegimenFiscal Regimen="GENERAL DE LEY PERSONA MORAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="DESP 804" colonia="FRACCIONAMIENTO LOS PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="2.00" unidad="PZA" noIdentificacion="12023" descripcion="DESPACHADOR TIPO PISTOLA 2HT336&#xD;&#xA;HT336" valorUnitario="116.38" importe="232.76" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="37.24">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="37.24" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="a55ed3c0-4df8-40c9-b1b2-e805d6790fa6" FechaTimbrado="2015-09-15T10:14:16" selloCFD="ynLmn1H6dBUHE0wI/XH/8Shu9gYTVkH547DhSs4olA53qcrvQ0WB28dxhtXjxvt/ESucJmfUygQh8G++B1EuJmOOj8NZYqcFHncQce36SbgwZxLbDw/WnaZhRTRtbJYWJbO3dHs80W3+onsVDPgRkCF4lnaYYQtzHMsHxKN2rtQ=" noCertificadoSAT="00001000000300171326" selloSAT="HzNj0X9Eid1LXmojKfpoEmyfJHbIJWSMWkmPtkvPm/EFj/IH5QIVo25TQgwq5dfjdgz+Kfqti0gJfFMVUcr9dSqDbgd8znhmlMhSdJRFaHNY6O+Rxc77GAkKacrW1mC6dFIksTjqFovxQZcSpooLZfVV0Q4xv0h+d5ciuQYpQcE=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento><cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T336109027">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>1</ecfd:NroAprob>
+            <ecfd:AnoAprob>1900</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Folio>6109027</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:NumeroInterno>6109027</ecfd:NumeroInterno>
+            <ecfd:FechaEmis>2015-09-15T10:14:05</ecfd:FechaEmis>
+            <ecfd:FormaPago>PAGO EN UNA SOLA EXHIBICION</ecfd:FormaPago>
+            <ecfd:MedioPago>EFECTIVO</ecfd:MedioPago>
+            <ecfd:CondPago>EFECTIVO</ecfd:CondPago>
+            <ecfd:TermPagoDias>1</ecfd:TermPagoDias>
+            <ecfd:FechaVenc>2015-09-16</ecfd:FechaVenc>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>EPM820419LL6</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>EM PACK DE MEXICO, S.A DE C.V.</ecfd:NmbEmisor>
+            <ecfd:CodigoExEmisor>
+              <ecfd:TpoCdgIntEmisor>INT</ecfd:TpoCdgIntEmisor>
+            </ecfd:CodigoExEmisor>
+            <ecfd:CdgSucursal>1000002</ecfd:CdgSucursal>
+            <ecfd:Sucursal>TIENDA GUSTAVO BAZ</ecfd:Sucursal>
+            <ecfd:CdgVendedor>302165</ecfd:CdgVendedor>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>LEBRIJA</ecfd:Calle>
+              <ecfd:NroExterior>58</ecfd:NroExterior>
+              <ecfd:NroInterior>S/N</ecfd:NroInterior>
+              <ecfd:Colonia>CERRO DE LA ESTRELLA</ecfd:Colonia>
+              <ecfd:Municipio>IZTAPALAPA</ecfd:Municipio>
+              <ecfd:Estado>DISTRITO FEDERAL</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>09860</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>GUSTAVO BAZ</ecfd:Calle>
+              <ecfd:NroExterior>193-B</ecfd:NroExterior>
+              <ecfd:NroInterior>S/N</ecfd:NroInterior>
+              <ecfd:Colonia>EL MIRADOR</ecfd:Colonia>
+              <ecfd:Municipio>TLANEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>ESTADO DE MEXICO</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>54080</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QD0</ecfd:RFCRecep>
+            <ecfd:NmbRecep>BIOTECSA SA DE CV</ecfd:NmbRecep>
+            <ecfd:CodigoExReceptor>
+              <ecfd:TpoCdgIntRecep>INT</ecfd:TpoCdgIntRecep>
+            </ecfd:CodigoExReceptor>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>BLVD MANUEL AVILA CAMACHO</ecfd:Calle>
+              <ecfd:NroExterior>2900</ecfd:NroExterior>
+              <ecfd:NroInterior>DESP 804</ecfd:NroInterior>
+              <ecfd:Colonia>FRACCIONAMIENTO LOS PIRULES</ecfd:Colonia>
+              <ecfd:Municipio>TLALNEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>ESTADO DE MEXICO</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+            <ecfd:LugarRecep>
+              <ecfd:Calle>BLVD MANUEL AVILA CAMACHO</ecfd:Calle>
+              <ecfd:NroExterior>2900</ecfd:NroExterior>
+              <ecfd:NroInterior>DESP 804</ecfd:NroInterior>
+              <ecfd:Colonia>FRACC LOS PIRULES</ecfd:Colonia>
+              <ecfd:Municipio>TLALNEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>ESTADO DE MEXICO</ecfd:Estado>
+              <ecfd:Pais>MX</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:LugarRecep>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:FctConv>1.00</ecfd:FctConv>
+            <ecfd:SubTotal>232.76</ecfd:SubTotal>
+            <ecfd:MntDcto>0.00</ecfd:MntDcto>
+            <ecfd:MntBase>232.76</ecfd:MntBase>
+            <ecfd:MntImp>37.24</ecfd:MntImp>
+            <ecfd:VlrPagar>270.00</ecfd:VlrPagar>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16.00</ecfd:TasaImp>
+            <ecfd:MontoImp>37.24</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:CdgItem>
+            <ecfd:TpoCodigo>SELLER_ASSIGNED</ecfd:TpoCodigo>
+            <ecfd:VlrCodigo>12023</ecfd:VlrCodigo>
+          </ecfd:CdgItem>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>DESPACHADOR TIPO PISTOLA 2HT336
+HT336</ecfd:DscItem>
+          <ecfd:QtyItem>2.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>PZA</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>116.38</ecfd:PrcNetoItem>
+          <ecfd:DescuentoMonto>0.00</ecfd:DescuentoMonto>
+          <ecfd:MontoNetoItem>232.76</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:TimeStamp>2015-09-15T10:14:31</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="Email">aestrada@biotecsa.com; administracion@biotecsa.com</ecfd:campoString>
+        <ecfd:campoString name="Banco" />
+        <ecfd:campoString name="TipoEKT" />
+        <ecfd:campoString name="Proveedor" />
+        <ecfd:campoString name="OrdenCompra" />
+        <ecfd:campoString name="ProcesoID" />
+        <ecfd:campoString name="SolicitanteFN" />
+        <ecfd:campoString name="SolicitanteSN" />
+        <ecfd:campoString name="MailDeloitte">aestrada@biotecsa.com; administracion@b</ecfd:campoString>
+        <ecfd:campoString name="ContactoProveedor">JOSE GERARDO RIVERA GONZALEZ</ecfd:campoString>
+        <ecfd:campoString name="MailProveedor" />
+        <ecfd:campoString name="OrigenFactura" />
+        <ecfd:campoString name="Oficina" />
+        <ecfd:campoString name="Template">EM-PACK</ecfd:campoString>
+        <ecfd:campoString name="RegimenFiscal">GENERAL DE LEY PERSONA MORAL</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago" />
+        <ecfd:campoString name="LugarDeExpedicion">Mexico, DISTRITO FEDERAL</ecfd:campoString>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

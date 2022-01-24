@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" tipoDeComprobante="ingreso" serie="B" folio="22835" fecha="2016-02-11T09:19:29" LugarExpedicion="MEXICO DISTRITO FEDERAL 06470" sello="tsRpwKypSyzSIqt4JGtUA9fTn7FWZ/n/RmQA5yg3kRDaSpBabgurAKKI+WgdYDL15Ap+uzy0IYRhwoARiVchqv3LYeTPwV49A3hEiVI2ddp74mChJEiGg7QXBwctrF364y35PW0qGDiE0kKYrpASzxjwQ90/HU0TpO5hQSQpxaw=" noCertificado="00001000000202174530" certificado="MIIEijCCA3KgAwIBAgIUMDAwMDEwMDAwMDAyMDIxNzQ1MzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTAxOTE2MjMwMloXDTE2MTAxOTE2MjMwMlowgcsxJDAiBgNVBAMTG1BST1ZFRURPUkEgT0ZJRkFJUiBTQSBERSBDVjEkMCIGA1UEKRMbUFJPVkVFRE9SQSBPRklGQUlSIFNBIERFIENWMSQwIgYDVQQKExtQUk9WRUVET1JBIE9GSUZBSVIgU0EgREUgQ1YxJTAjBgNVBC0THFBPRjA1MDQxOUQ4OCAvIEhBQUo2MTExMDhETjMxHjAcBgNVBAUTFSAvIEhBQUo2MTExMDhIUExDTEMwMzEQMA4GA1UECxMHT0ZJRkFJUjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA8naZz5kLR16OmHfL9RCRLfrt+DBh3syR+NJclcOpTzVt4rYEe66HgRVZM0iCybBAoIwzp6fki6o6ikKp0JhDg5uiKZ1KknI4FMHTFol3AVY8Gn0r15g74Z9StxvXYq4cWkyEH9oSVVeVYySqLjgQivyYeJL1PKAFtxVj7mvmYycCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAFoeA0dDoye7IX+pULs1fZT7nm7eFuBDvTDUdePDj6qNQkMQBRmsvXhS5/EkQZBvGwdLKszL8FPJJoZFxiZnjWthPAgPBur1JpiWWZPhoaEKpVEbvAXlNSHr5oTbd3IxqgMIVaM2Kh1Tem7bdtORgphO7LL/7diPbeO/CBp/uftti71FyIB92QZdMOl8iiLQZAxBnwhB6uq7889NcvnW6Z556+P2Gcl+uww48X8EV+WARhhfgGJaWc/Cpg2jS0WFy4zoeuUyNVK2I1+UE8Wem5VEbPaPxZ2L4doe12AG4AHFM2UULdOzM5xVmRTMi0kIV2sfsi39ceeXFDiSFT+oOEQ=" total="584.13" subTotal="503.56" Moneda="MXN" formaDePago="PAGO EN UNA SOLA EXHIBICION" condicionesDePago="CREDITO" metodoDePago="TRANSFERENCIA" NumCtaPago="4750">
+	<cfdi:Emisor rfc="POF050419D88" nombre="PROVEEDORA OFIFAIR SA DE CV">
+		<cfdi:DomicilioFiscal calle="MANUEL MA. CONTRERAS" noExterior="49" colonia="SAN RAFAEL" municipio="MEXICO" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06470"/>
+		<cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S. A. DE C. V.,">
+		<cfdi:Domicilio calle="BLVD. M. AVILA CAMACHO" noExterior="#2900-804" colonia="COL. LOS PIRULES," municipio="TLALNEPANTLA," estado="EDO. DE MEXICO, C.P." pais="MEXICO" codigoPostal="54040"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="7960" descripcion="MOUSE LOGITECH INALAMBRICO M-280" valorUnitario="298.27" importe="298.27">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.00" unidad="PIEZA" noIdentificacion="0631" descripcion="DEDAL DE HULE # 11 MARCA AGUILA" valorUnitario="1.56" importe="4.68">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.00" unidad="PIEZA" noIdentificacion="0632" descripcion="DEDAL DE HULE # 12 MARCA AGUILA" valorUnitario="1.77" importe="5.31">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="0690B" descripcion="SELLO BARRILITO 9911-2 ENT AUT &quot;ACUSE&quot;" valorUnitario="78.94" importe="78.94">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="PAQUETE" noIdentificacion="2792" descripcion="PILA DURACEL # 2400 &quot;AAA&quot; BLISTER C/4" valorUnitario="58.18" importe="116.36">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="80.57">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="80.57"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="tsRpwKypSyzSIqt4JGtUA9fTn7FWZ/n/RmQA5yg3kRDaSpBabgurAKKI+WgdYDL15Ap+uzy0IYRhwoARiVchqv3LYeTPwV49A3hEiVI2ddp74mChJEiGg7QXBwctrF364y35PW0qGDiE0kKYrpASzxjwQ90/HU0TpO5hQSQpxaw=" FechaTimbrado="2016-02-11T09:26:21" UUID="D90C9616-0FBF-459A-B970-348B2B6F364F" noCertificadoSAT="00001000000202864530" version="1.0" selloSAT="t3VuArvaBNRCH403wt0q1PeCUffv2TTEwxxZ51TlAd7ecNOgyTb20glV9cyxM1OZuRMiiTc1F4WmebctEo4YpAi7D8CaE+aotQhFThYW+H9EkpQOJ2a1y334g4iAsoPelpJDZjUP5o68IglQW3bgSXWmEC7QBs1GQl/EDciTDhw="/></cfdi:Complemento>
+</cfdi:Comprobante>

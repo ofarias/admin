@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfdi:Comprobante xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="EL REAL, TECOMAN, COLIMA" tipoDeComprobante="ingreso" metodoDePago="01" total="80.00" Moneda="Pesos" TipoCambio="1.00" descuento="0.00" subTotal="68.97" certificado="MIIEbTCCA1WgAwIBAgIUMDAwMDEwMDAwMDAzMDI3NjA0MDcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMzEyMzAwMzdaFw0xODAxMzEyMzAwMzdaMIG5MSQwIgYDVQQDExtNQVVSTyBBREFOIENIQVZFWiBIRVJOQU5ERVoxJDAiBgNVBCkTG01BVVJPIEFEQU4gQ0hBVkVaIEhFUk5BTkRFWjEkMCIGA1UEChMbTUFVUk8gQURBTiBDSEFWRVogSEVSTkFOREVaMRYwFAYDVQQtEw1DQUhNOTAwODI2QlU1MRswGQYDVQQFExJDQUhNOTAwODI2SENNSFJSMDExEDAOBgNVBAsTB0ZBQ1RVUkEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIOYYg5bdzVPpTh/kWrhOVgdPucFYo1Nmz7soyqI4c09uYCA3xzh751Zmst+9R2C2aVp9VqEgyVw2aSDOmVEmWn/PMZD038bdYCMXFVZnaB3AlSrHI+vYcmpfCwUE8dZK6jkxI+ANXdi3xQuLRlgJAy/oZA3dkfCrpm5tG0w4fn1AgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQAWLE7qZVz1YxMaZ8w1mAdLfNKlA93M5riLELpFovjCMTVdRi4K9S6L/EAyP8dMYUsKCbavboieskEcpN/kx9kh4VXc012MjL8fGmn9rlNq73TSmiTDtYzzio+dMl3NgLuVxVR2M8dX92o+xD2FHFPdlH3HikHxEjFKqmdxad2yHjxjmDlwU5sNgypRtZTt1/GQojEDT72Brrtb/b9sunUB6GiHArGhCpEAdWe10u4vV2jUCgtFU3MLt5bumAVHyJ72EY347d+0qcTOfECsUq1QGZYfufJELiLiZ1x0nAE8blWiUEOllmws/JAU06YAowvYeII+Sx/tqsL2yo8nGkKb" noCertificado="00001000000302760407" formaDePago="Pago en una sola exhibición" sello="GusWMUAEq+IjpdtPRW2Sl+KyyaGUCEHrm9xOk2TEPA4yyASrzpoEiqGDyQSKUvo/b62xiq4RkHoxXOAgoU5xt8x1bTEZhov6hvE/PqTuytlkv2xUzKFt6EjbS2jpmgfosVMODkxkKllqfW2XHDRFsNCd285NrIDdeqyNezBJJl8=" fecha="2017-02-28T17:36:58" folio="2764" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor nombre="MAURO ADAN CHAVEZ HERNANDEZ" rfc="CAHM900826BU5">
+        <cfdi:DomicilioFiscal codigoPostal="28937" pais="MEXICO" estado="COLIMA" municipio="TECOMAN" localidad="EL REAL" colonia="S/C" noExterior="S/N" calle="CARRETERA EL REAL PASCUALES POSTE 20" />
+        <cfdi:RegimenFiscal Regimen="INCORPORADO" />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA S.A. DE C.V." rfc="BIO870307QD0">
+        <cfdi:Domicilio codigoPostal="54040" pais="MEXICO" estado="EDO DE MEXICO" municipio="TLALNEPANTLA" colonia="FRACC LOS PIRULES" noExterior="2009-804" calle="BLVD MANUEL AVILA CAMACHO" />
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="68.97" valorUnitario="68.97" descripcion="CONSUMO DE ALIMENTOS REALIZADOS EL DIA 28 DE FEBRERO DEL AÑO 2017" unidad="ORDEN" cantidad="1" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="11.03">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="11.03" tasa="16" impuesto="IVA" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2017-02-28T17:35:57" UUID="129f4da2-5878-4952-8e4a-53a3d507edb7" noCertificadoSAT="00001000000300171291" selloCFD="GusWMUAEq+IjpdtPRW2Sl+KyyaGUCEHrm9xOk2TEPA4yyASrzpoEiqGDyQSKUvo/b62xiq4RkHoxXOAgoU5xt8x1bTEZhov6hvE/PqTuytlkv2xUzKFt6EjbS2jpmgfosVMODkxkKllqfW2XHDRFsNCd285NrIDdeqyNezBJJl8=" selloSAT="VUC3GwR15qqKBHIwplRtB3QbFHvyR1uaBPqOgCWyuVTCwL7brXDwtMG5D69mgJj4Ac8Ec1dmFE2VmrbUAQfs4gnZE5/DnQkVVMB1oA0T20RQChqk64F+Vgg8eAOt/yny5sRRX10EsN/GOr5L+zilwaB3KQmiUvguC7HKSgW3BaQ=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

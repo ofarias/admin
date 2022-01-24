@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="135" fecha="2017-05-19T10:04:43" sello="FAckMRJuwcfrJe+DaljHTTuhEo99Gm6h7JKqrwsHFCBseFSU2hx2+3YjfVs1At8i4aYCurv4PynD0Y/m3bM3z7RXO9HZXo802/z79nIJUBerq9hG7AObQyVXmES1ll0vfBtfbWL+dyYqitOkw0p76cwzTh5baelI+Uz8tfm2KmY=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302155137" certificado="MIIEcjCCA1qgAwIBAgIUMDAwMDEwMDAwMDAzMDIxNTUxMzcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMDIxNjMzMjRaFw0xODAxMDIxNjMzMjRaMIG+MSIwIAYDVQQDExlJU1JBRUwgQ0FTVElMTE8gSEVSTkFOREVaMSIwIAYDVQQpExlJU1JBRUwgQ0FTVElMTE8gSEVSTkFOREVaMSIwIAYDVQQKExlJU1JBRUwgQ0FTVElMTE8gSEVSTkFOREVaMRYwFAYDVQQtEw1DQUhJODAxMDE2OFA5MRswGQYDVQQFExJDQUhJODAxMDE2SERGU1JTMDMxGzAZBgNVBAsTEkNVQVVUSVRMQU4gSVpDQUxMSTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzAqCHzaiOgyc3rXmfgG00wCf72s4+2id2UiFVQainqHqRK3QOuwZQe43wZDLDVYvSAf4CPUwiM+Ps4bMkxN+lUYozTD0Y+6t2yFAJ/CicpDfi/aRmlBqQQCAFf6HKnNHkMAoPPgExauogKHG6QOuxJ8M8Sk5LScr+TKhbVpOLVkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAHeu6vkehsVOUZk64FBl4CkoEkzapli1uTfDKFFPQwx6MGl7jCdImPl4Nbbu3zYlTNl5cYaUMQs9BGv1JPa5dYX/f1pC3iyrLmgmbk8UZVTBncm0Lm8qJLGVInv0NfIz4e/4rQZrGroiFwc++olSz+nHbNWtAQTISihdKruiDE/pW33Cz/jRUahE5QSow4F6dIoGenr+0lmHxW6xKG/jhae9PMUmV1NATzyLgHoQ9d/ymLOr0EzON+giRu06Di7SmWNzN5DfJ20HGGwBv578WoFOEsaPf3jkdqB0qa+Ew48wYzuwG6ruH1QjdnlL5bq3vQcL7yzwoU4JcGHH0ZVX3Yg=" subTotal="612.93" descuento="0.00" TipoCambio="1.00" Moneda="Pesos" total="711.00" tipoDeComprobante="ingreso" metodoDePago="01" LugarExpedicion="CUAUTITLAN IZCALLI, ESTADO DE MEXICO" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor rfc="CAHI8010168P9" nombre="ISRAEL CASTILLO HERNANDEZ">
+    <cfdi:DomicilioFiscal calle="CANCER" noExterior="141" colonia="VALLE DE LA HACIENDA" municipio="CUAUTITLAN IZCALLI" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54715" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACCIONAMIENTO PIRULES" municipio="CUAUTITLAN IZCALLI" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="2" unidad="BULTO" descripcion="CEMENTO CRUZ AZUL 50 KG" valorUnitario="144.83" importe="289.66" />
+    <cfdi:Concepto cantidad="50" unidad="PIEZA" descripcion="BLOCK LIGERO" valorUnitario="6.47" importe="323.28" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="98.07">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="98.07" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="77A7960F-C669-40F6-9119-8E939FC35966" FechaTimbrado="2017-05-19T10:05:03" noCertificadoSAT="00001000000306850881" selloCFD="FAckMRJuwcfrJe+DaljHTTuhEo99Gm6h7JKqrwsHFCBseFSU2hx2+3YjfVs1At8i4aYCurv4PynD0Y/m3bM3z7RXO9HZXo802/z79nIJUBerq9hG7AObQyVXmES1ll0vfBtfbWL+dyYqitOkw0p76cwzTh5baelI+Uz8tfm2KmY=" selloSAT="hTccqDHJRUt7sqW34GdtpSHZga85blTJUby/p2sI35m1vPN2NTyS6oYWa8ZOhUYzk+CqNMXc7VA1xdLIyC3kt7ar/3hr/fhAKcT+dvvBKdu6PME+polC/f4ydLqZPaRXq8S88yicBv2oRaLR8EgBPL3DCw+GRMoXDHGZ500za5U=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

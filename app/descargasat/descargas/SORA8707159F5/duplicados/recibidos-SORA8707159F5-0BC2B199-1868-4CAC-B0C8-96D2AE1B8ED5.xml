@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:amazonaddenda="http://www.amazon.com.mx/AmazonAddenda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" Descuento="0.00" Fecha="2020-02-03T04:35:40" Folio="5470319" FormaPago="05" LugarExpedicion="05348" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000414562186" Sello="BPXvYpmgdVbUiLZRGgk1PSNnmrIMlr6ZtCF7ztub3eVdw5XhbT07RTtV8frXmaVXJVJk2L5mzHE9kuMcwXvjTGA7QJWeoEgykoXOUsXQcchPYfFnD2eX/bWOT0TGIpEhBfiQpq/lacXsoxvsD0e1ChcoNq8xjnkpTvDRTMJXF4L2ZYmaCSui4Z52D97ZL28Z4VkVVTHmFFs3rKm5rUGtuE1yLj0pZ3QeIcvTw4tJbpDUMbhs8A3dnaETenEyo4WmyxRfA2M2ffyMksGb4g7s3CAzfDebrqT6Lh7PQc253zm4bS8ypvsxreTijgsclt9bD0kTIJHw0ZGaaKNCpsl2Qw==" Serie="CSale" SubTotal="4434.99" TipoDeComprobante="I" Total="5144.57" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:Emisor Nombre="Servicios Comerciales Amazon México S. de R.L. de C.V." RegimenFiscal="601" Rfc="ANE140618P37" />
+    <cfdi:Receptor Rfc="SORA8707159F5" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="43201500" ClaveUnidad="H87" Descripcion="Mattel Uno Cartas" Descuento="0.00" Importe="81.90" NoIdentificacion="1_B00CTH0A1Q_26903370482301" Unidad="pieza" ValorUnitario="81.90">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="81.90" Importe="13.10" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="3" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Play-Doh Case of Colors, Pack of 10" Descuento="0.00" Importe="249.93" NoIdentificacion="2_B00JM5GW10_26903370482301" Unidad="pieza" ValorUnitario="83.31">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="249.93" Importe="39.99" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="43232000" ClaveUnidad="H87" Descripcion="Red Dead Redemption 2 - Xbox One - Standard Edition" Descuento="0.00" Importe="614.83" NoIdentificacion="3_B01M275W1G_26903370482301" Unidad="pieza" ValorUnitario="614.83">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="614.83" Importe="98.37" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="43232000" ClaveUnidad="H87" Descripcion="Super Mario Odyssey - Nintendo Switch - Standard Edition" Descuento="0.00" Importe="890.52" NoIdentificacion="4_B01MY7GHKJ_26903370482301" Unidad="pieza" ValorUnitario="890.52">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="890.52" Importe="142.48" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="43201800" ClaveUnidad="H87" Descripcion="ADATA RAM-3040 Memoria Micro SDHC/SDXC Uhs-I 128GB Clase 10 A1 85Mb/Seg C/Adaptador" Descuento="0.00" Importe="293.09" NoIdentificacion="5_B077QJ1HVT_26903370482301" Unidad="pieza" ValorUnitario="293.09">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="293.09" Importe="46.89" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="43232000" ClaveUnidad="H87" Descripcion="ASTRO - A10 (Edición Especial Call of Duty) - Diadema para Gaming - Negro - Platinum Edition" Descuento="0.00" Importe="895.16" NoIdentificacion="6_B078H65344_26903370482301" Unidad="pieza" ValorUnitario="895.16">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="895.16" Importe="143.23" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="43232000" ClaveUnidad="H87" Descripcion="Dark Souls Remastered for PlayStation 4 - Standard Edition" Descuento="0.00" Importe="321.99" NoIdentificacion="7_B078Y4FR14_26903370482301" Unidad="pieza" ValorUnitario="321.99">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="321.99" Importe="51.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="UNO BTS" Descuento="0.00" Importe="145.70" NoIdentificacion="8_B07FWHJHTH_26903370482301" Unidad="pieza" ValorUnitario="145.70">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="145.70" Importe="23.31" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! Spider-Man: Far from Home - Spider-Man (Hero Suit)" Descuento="0.00" Importe="257.76" NoIdentificacion="9_B07KPSSW54_26903370482301" Unidad="pieza" ValorUnitario="257.76">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="257.76" Importe="41.24" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop Games: Fortnite - Loot Llama" Descuento="0.00" Importe="223.28" NoIdentificacion="10_B07MHXLHLD_26903370482301" Unidad="pieza" ValorUnitario="223.28">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="223.28" Importe="35.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! Movies: It 2 - Pennywise with Balloon" Descuento="0.00" Importe="203.07" NoIdentificacion="11_B07PBB2SDB_26903370482301" Unidad="pieza" ValorUnitario="203.07">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="203.07" Importe="32.49" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Pop! Games: Pokemon - Squirtle" Descuento="0.00" Importe="257.76" NoIdentificacion="12_B07V8KG7ND_26903370482301" Unidad="pieza" ValorUnitario="257.76">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="257.76" Importe="41.24" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="709.58">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="709.58" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="0BC2B199-1868-4CAC-B0C8-96D2AE1B8ED5" FechaTimbrado="2020-02-03T04:36:05" SelloCFD="BPXvYpmgdVbUiLZRGgk1PSNnmrIMlr6ZtCF7ztub3eVdw5XhbT07RTtV8frXmaVXJVJk2L5mzHE9kuMcwXvjTGA7QJWeoEgykoXOUsXQcchPYfFnD2eX/bWOT0TGIpEhBfiQpq/lacXsoxvsD0e1ChcoNq8xjnkpTvDRTMJXF4L2ZYmaCSui4Z52D97ZL28Z4VkVVTHmFFs3rKm5rUGtuE1yLj0pZ3QeIcvTw4tJbpDUMbhs8A3dnaETenEyo4WmyxRfA2M2ffyMksGb4g7s3CAzfDebrqT6Lh7PQc253zm4bS8ypvsxreTijgsclt9bD0kTIJHw0ZGaaKNCpsl2Qw==" NoCertificadoSAT="00001000000404477432" SelloSAT="Du7jQGgmRBbFffNeHgZDkXUcSohEIwCSg6eFyQYtS0ByV5pc1Qt3ToTZS4fd7Z9kW0hIvys1m2HONfiFb7VceuOjh3qxx0J2qRfMJ8h49kHAaJ8hKSWD0I+cgWV1KDSZKLmO+K8OZXlUR1L77n+x52W4Gpo+OtuJlmWbbCjv2RURm9+dGgnnBw0zP7g6oQk7COUYg7OEaMYjXgUQpDvtydASbPeCFapfwyJ0Y5tJafIHTDeq/DrkVaRQgTebqggC+SY79LxQEylRrCGECdetAcG4HqIzmPjOUVzweiOf96xrre54vK8XoNIpKOYYIGz2zHmVfP0Mu2rGsqhGOw27Ag==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

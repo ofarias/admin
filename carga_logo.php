@@ -21,7 +21,7 @@ if ($_FILES["fileToUpload"]["size"] > ((1024*1024)*20)) {
         if(move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
             echo "El Archivo: ". basename( $_FILES["fileToUpload"]["name"]). " se ha cargado.<p>";
             $tipo = 'ok';
-            $cambio=$controller->cargaLogo($fileName, $ide);
+            $cambio=$controller->cargaLogo($fileName, $ide, $_FILES['fileToUpload'], $target_file, $imageFileType);
         } else {
             echo "Ocurrio un problema al subir su archivo, favor de revisarlo.";
         }

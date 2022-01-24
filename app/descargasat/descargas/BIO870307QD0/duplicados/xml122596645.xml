@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" Moneda="MXN" metodoDePago="01" LugarExpedicion="Estado de Mexico" version="3.2" fecha="2017-08-31T13:37:48" sello="tve9yaBA0vFIvC+GaRxOPprgLifualsZUv/yuknXZ+s9cJibbF4CfgcLv1Qz81g824wjnp885u9QrfModoe9Q3ls7N3KzKT0iVh7k94Zj/hs5Prt0I+5XsaLQ5f8gC+tpYG1YW/jnQDgX+gLfJNqguvOsoZYQtKX5Kck9NHwVxw=" formaDePago="Pago en una sola exhibición" tipoDeComprobante="ingreso" noCertificado="00001000000302094451" certificado="MIIEXTCCA0WgAwIBAgIUMDAwMDEwMDAwMDAzMDIwOTQ0NTEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjgwNTE2MjdaFw0xNzEyMjgwNTE2MjdaMIGpMRswGQYDVQQDExJGRUxJUEUgUkVZRVMgUEVSRVoxGzAZBgNVBCkTEkZFTElQRSBSRVlFUyBQRVJFWjEbMBkGA1UEChMSRkVMSVBFIFJFWUVTIFBFUkVaMRYwFAYDVQQtEw1SRVBGNzEwNTI2TlkxMRswGQYDVQQFExJSRVBGNzEwNTI2SE1DWVJMMDUxGzAZBgNVBAsTEkZFTElQRSBSRVlFUyBQRVJFWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA0M/9PXZdMC8ILxgn7jwekQu9OW7RMEkIYxQJeyCKzS27Lbz9o023HyfCPbp5csehbwuA54oPPjiLV7d3dvjuf6mL4DJSdtjauHdVnrp8PJ5JbcUZynksmJZCRMdVAMgv2jykZ5grzBquydveLdQqXc5JpEsGUg9DQsEZozO9eOkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAI4FVK216NiTQ5TN4AyxswaR98JpScg6wNgifBeJ96StS1bspzzk2dyIMFoV//bXI3DQnPKx0y2koBqMNgc0TyCuOmmJNPOKbMFUpIknQ+SDMogCgQfcUqliFPfC4kxZRnhGYkN7TDlAoST1MZS8VkOvJfBdGEXp+ynb9yS2IPld6xqmWk4wZJ0gnCvbgQZsuHLgt1kFHFymtGRDU+hfo7qurwLVu2xHBbJw19Wp7LSWtFRwYgp7Fbvge0Ovpe5nJL2QUoS/UMMItqY8QfY0RO3n77A6eAWjNRJ0ip8tWWcBfncPTXHXcceiTKBas/ilYSbRjBVzZEMVvJ/U83B4Gp8=" subTotal="1620.690000" total="1880.000400" serie="FAC" folio="562">
+	<cfdi:Emisor rfc="REPF710526NY1" nombre="FELIPE REYES PEREZ">
+		<cfdi:DomicilioFiscal calle="AVENIDA PRIMERO DE MAYO" noExterior="321" noInterior="LOCAL C" referencia="2" colonia="CENTRO URBANO" localidad="CUAUTITLAN IZCALLI" municipio="CUAUTITLAN IZCALLI" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54700" />
+		<cfdi:RegimenFiscal Regimen="REGIMEN INCORPORACION FISCAL"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+		<cfdi:Domicilio calle="Blvd. Manuel Avila Camacho" noExterior="2900-804" colonia="Fracc. Los Pirules" localidad="Estado de Mexicco" municipio="Tlalnepantla" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="Bateria LTH Tipo L-65-800 Amp." valorUnitario="1620.690000" importe="1620.690000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="259.310400">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="259.310400" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2017-08-31T13:37:48" UUID="7CD1B8FA-8E7B-11E7-9726-00155D014009" noCertificadoSAT="00001000000403557578" selloSAT="fVX1Aj1/o1NVHZzwjPdGk3tgWXt48utMq8dRY7geTbLHYcEVQNPTyY9rKcRWTJcho6KPd2PmP+Tqqc30jPQXNmA7AxCh1kTM3EKpZUh2fwVCoKsSky8s54eBDXazaZdkZAdGaxR64BikiTQMSqgVghMJQ+2e0+03z1jUO2oND+kz+TdFKFTk5zNgZuqLCrhuV5jf2j8zKHhpFgx65KcM4ozFWaGhIbJ234ctdLfKj27WRL53TN6WUZM3bA1tx26VSJAeNP0o3fqoylKQbQjP5lh2PZPegC929d1xfWr78aNJHabi/h/5BwQaRQFsb6YZsOawhNcQyTwNiYDkqVXtsw==" selloCFD="tve9yaBA0vFIvC+GaRxOPprgLifualsZUv/yuknXZ+s9cJibbF4CfgcLv1Qz81g824wjnp885u9QrfModoe9Q3ls7N3KzKT0iVh7k94Zj/hs5Prt0I+5XsaLQ5f8gC+tpYG1YW/jnQDgX+gLfJNqguvOsoZYQtKX5Kck9NHwVxw=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

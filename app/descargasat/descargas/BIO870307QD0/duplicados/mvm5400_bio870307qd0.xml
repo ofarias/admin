@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="MVM" folio="5400" fecha="2016-01-27T12:29:59" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="1146.00" descuento="0.00" total="1146.00" tipoDeComprobante="ingreso" noCertificado="00001000000301979155" certificado="MIIEnzCCA4egAwIBAgIUMDAwMDEwMDAwMDAzMDE5NzkxNTUwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjMwMDUzMDBaFw0xNzEyMjMwMDUzMDBaMIHrMS8wLQYDVQQDEyZTT0NJRURBRCBNRURJQ0EgREVMIFZBTExFIERFIE1FWElDTyBTQzEvMC0GA1UEKRMmU09DSUVEQUQgTUVESUNBIERFTCBWQUxMRSBERSBNRVhJQ08gU0MxLzAtBgNVBAoTJlNPQ0lFREFEIE1FRElDQSBERUwgVkFMTEUgREUgTUVYSUNPIFNDMSUwIwYDVQQtExxNVk05ODA5MjQ0VTEgLyBNT0NJNTQwOTMwM0w1MR4wHAYDVQQFExUgLyBNT0NJNTQwOTMwSERGUlNTMDYxDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAnyooHCC1bNXuh5badH/3ZknlQvmMuomhlViB5AzSPsr9BzHOb6fOskXo/Y7JC3+ZPF9H4nEtpCq8r047CGXO5IDHajgqJwNecul/r66ewMPmW+/o0pjezVP3Cd+Jeyt90RlxhftqURl4sgIr9T2l1sO7LMo47xXv9Qf631UbWWECAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAI4pbXYfribkFuhRNn8G/O6TIwAzU2ktcDjly4/KW2eIDw7ALd+LU9W297SrDSe6WzBidxtSUIj/k8iPDD79Pp9DfhBLQ1EtD4Q/2hceLfzS0biYnvQFZVbrA5ZzzKOUOP2GAwCQq/yUHUSaxB0Fhy6UTDfVRLHyXxqNUMWezUwsYCdPgP5s/JdmkgNCAMmrCfADmBrAsODdPURa2Tv16vArWoC0p8iHokT1Wm8P5oFMKs8Z5BY0ML5Zf/mKLLSTi2XwL564i3ao7Svf2kwmwKElRXQXEjsJNPUX3CS1/XZ4WT70EZqqI4LGBTMqgxdesdifJO/rqQiHA68vAgmWmVM=" sello="JFj/9yldcGPuXnv17arwviKRIryDC//i4H+9H3SK8XikRarlSYaCKPhI/tw3ATrIDNnPTmEnzxOtssgibarRvaR8sVgMHDGSSNWQBhA8hJk183yBwfHTk7uwHwGm5FS0XZX+wVqW6N0p2beLRwVh8240c4x2cbzCB0y6hI8KHh0=" metodoDePago="TARJETA DE CRÉDITO" LugarExpedicion="CUAUTITLAN IZCALLI, EDO. DE MEX." NumCtaPago="4330">
+	<cfdi:Emisor rfc="MVM9809244U1" nombre="SOCIEDAD MEDICA DEL VALLE DE MEXICO S.C.">
+		<cfdi:DomicilioFiscal calle="PLAZA DE LA REPUBLICA" codigoPostal="06030" colonia="TABACALERA" estado="DISTRITO FEDERAL" municipio="CUAUHTEMOC" noExterior="55" noInterior="101" pais="MEXICO"/>
+		<cfdi:ExpedidoEn calle="AUTOPISTA MEXICO - QUERETARO" codigoPostal="54800" colonia="PARQUE INDUSTRIAL LA LUZ" estado="ESTADO DE MEXICO" municipio="CUAUTITLAN IZCALLI" noExterior="KM 43" pais="MEXICO"/>
+	<cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/></cfdi:Emisor>
+	<cfdi:Receptor nombre="BIOTECSA, S.A DE C.V" rfc="BIO870307QD0">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" codigoPostal="54040" colonia="LOS PIRULES" estado="MEXICO" municipio="TLALNEPANTLA" noExterior="2900" noInterior="804" pais="MEXICO"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" descripcion="HONORARIOS MEDICOS" importe="1146" unidad="PZA" valorUnitario="1146" noIdentificacion="HON"/>
+		</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="0.00">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="0.00" importe="0.00"/>
+		<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="0.00"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+	<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="887F3EC2-C1EF-4DA6-9E57-9271E268571D" FechaTimbrado="2016-01-27T12:28:40" selloCFD="JFj/9yldcGPuXnv17arwviKRIryDC//i4H+9H3SK8XikRarlSYaCKPhI/tw3ATrIDNnPTmEnzxOtssgibarRvaR8sVgMHDGSSNWQBhA8hJk183yBwfHTk7uwHwGm5FS0XZX+wVqW6N0p2beLRwVh8240c4x2cbzCB0y6hI8KHh0=" noCertificadoSAT="00001000000202639521" selloSAT="Jg8EpfBFOtCjsYEa4Du55tf1Se3Oz02TSJyCLVVYE6HChdZ8OCEj/ioykWoidVZpSVOqXaDcLLuC3Og2a4GPO8+7KLVjImvU2Avci/rcTsQ+bpbL9Qlhelae76k9U3fOiy4W8uLTFfKudBNIIRfGlMYpGJxTxz6dERb0E91/Vxc="  /></cfdi:Complemento>
+</cfdi:Comprobante>
+

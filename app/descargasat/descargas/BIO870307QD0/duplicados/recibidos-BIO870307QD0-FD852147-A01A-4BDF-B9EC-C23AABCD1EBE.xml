@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="56" fecha="2015-01-22T10:42:34" sello="S0ehUn2+wjCivWE9f4YXEkd8TnMXVGIZpqEpG5er4C9xNuP5AFreQ0vTBaZwSfCmC5HIvKVH6UvcQVE13H5zN+WRVSTqzjO/b0499d9ySCTWOqYYQvIffh7qmWXPutyfdjhVfdPQfgHiGJcXgeg+shpWdb3zq0K4/qIDkR8gtHE=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000302911614" certificado="MIIEpTCCA42gAwIBAgIUMDAwMDEwMDAwMDAzMDI5MTE2MTQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAyMTIyMDU2MTNaFw0xODAyMTIyMDU2MTNaMIHxMTEwLwYDVQQDEyhUT1RBTCBSSVNLIE1BTkFHRU1FTlQgREUgTUVYSUNPIFNBIERFIENWMTEwLwYDVQQpEyhUT1RBTCBSSVNLIE1BTkFHRU1FTlQgREUgTUVYSUNPIFNBIERFIENWMTEwLwYDVQQKEyhUT1RBTCBSSVNLIE1BTkFHRU1FTlQgREUgTUVYSUNPIFNBIERFIENWMSUwIwYDVQQtExxUUk0xMjA3MzFINzkgLyBHVUpFODUxMTI2MlE3MR4wHAYDVQQFExUgLyBHVUpFODUxMTI2SERGVFZSMDgxDzANBgNVBAsTBlVuaWRhZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEApSO71vZHpbIY/WPGm3rri+9x4WZ3UPmHSUuWLuDr5QLraHNfGgBx6BILLy0tLOAdwZmXlkTjyFI6oGMCMpOG08VHaCDdCuQkzo0+L+Qd9Dmo0zU+lyOUA89zBcHPzUUj4PEGPOvgpXM1lg7eLw0qg5xxdIC1iW0RtSgs3GRjza0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAGgENxFJ7Yu5Pz38KPJR1b6cwRTZclz2Hjul3bV2AZvDKYwF8eSbC31/QIHusNXUCd4+KvXH0s7d1KpNdvy6mBdUUje4Ku8SycyvT0E+Zh0UoECJun1o2YniuuJe21a1LEufCDo+EgQiOOwUTMLNCPkbD7QSkOnVJX4zgifEh2TmLpU35wxCN4NfO1WiokyoI7LFSLwSczJb7dQHZk2PMlQTrb25SCWkZPEyFYv/xAj1zZEN1RCCZLzJPVH6B/mCV6Lt1KhrvSPIQ5yB9Z3HCod7LlMSTkmTLyrGseXluE2LbEa8vCbqiHpZSwTavicjOvt2/0sYDbPK4GQiD1VeT/A=" condicionesDePago="CREDITO" subTotal="3500.00" TipoCambio="1.00" Moneda="M.N." total="4060.00" tipoDeComprobante="ingreso" metodoDePago="NO IDENTIFICADO" LugarExpedicion="BENITO JUAREZ, DISTRITO FEDERAL">
+  <cfdi:Emisor rfc="TRM120731H79" nombre="TOTAL RISK MANAGEMENT DE MEXICO SA DE CV">
+    <cfdi:DomicilioFiscal calle="CUMBRES DE ACULTZINGO" noExterior="13" noInterior="PISO 1 DEPTO 102" colonia="NARVARTE ORIENTE" municipio="BENITO JUAREZ" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="03023" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="DESPACHO 804" colonia="FRACC LOS PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000" unidad="SERVICIO" noIdentificacion="PIPC1" descripcion="Programa Interno de Proteccion Civil" valorUnitario="3500.00" importe="3500.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="560.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="560.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="fd852147-a01a-4bdf-b9ec-c23aabcd1ebe" FechaTimbrado="2015-01-22T10:42:43" selloCFD="S0ehUn2+wjCivWE9f4YXEkd8TnMXVGIZpqEpG5er4C9xNuP5AFreQ0vTBaZwSfCmC5HIvKVH6UvcQVE13H5zN+WRVSTqzjO/b0499d9ySCTWOqYYQvIffh7qmWXPutyfdjhVfdPQfgHiGJcXgeg+shpWdb3zq0K4/qIDkR8gtHE=" noCertificadoSAT="00001000000202693892" selloSAT="KOZJ46eCpEPEX/9ZnOyt70yyRYUnV8uGgSVKHYvp5VPIX1hrcsEYAHFdA3+ulAvL0jsp0BscpcPrmssrzhqPdXQAjfuq3c1ryELzSBgEyYjprPtSstlOgMs3/ZpdBocK/XxoKLcPAQpAnA5H5gi563kCOX+Q6oGCRvLwc0b4VY4=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

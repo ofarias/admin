@@ -177,8 +177,12 @@ class ftc extends ftcws {
         return $row;
     }
 
-    function cargarLogo($fileName, $ide){
-        $this->query="UPDATE FTC_EMPRESAS SET LOGO = '$fileName' where ide = $ide";
+    function cargarLogo($fileName, $ide, $file, $target_file, $ext){
+        $fp = fopen($target_file, 'rb');
+        $cont = fread($fp, filesize($target_file));
+        $cont = addslashes($cont);
+        fclose($fp);
+        $this->query="UPDATE FTC_EMPRESAS SET LOGO = '$fileName', LOGO_FILE ='$cont', extension=lower('$ext')  where ide = $ide";
         $this->EjecutaQuerySimple();
         return array("status"=>'ok');
     }
@@ -304,5 +308,19 @@ class ftc extends ftcws {
         return array("uuid"=>$uuid, "tcf"=>$tipo, "rfce"=>$rfce,"rfcr"=>$rfc, "fecha"=>substr($fecha, 0,10));
     }
 
+
+    function fObtenerMime($ide){//creamos una funciÃ³n que recibira un parametro en este caso la extensiÃ³n del archivo
+        $this->query ="SELECT * FROM FTC_EMPRESAS WHERE IDE = $ide";
+        $res = $this->EjecutaQuerySimple();
+        $row = mysqli_fetch_row($res);
+        $fsExtension = $row[23];  
+        if  ($fsExtension =='bmp'){ $mime = 'image/bmp'; }
+        if  ($fsExtension =='gif' ){ $mime ='image/gif' ; }
+        if  ($fsExtension =='jpe' ){ $mime ='image/jpeg' ; }
+        if  ($fsExtension =='jpeg'){ $mime = 'image/jpeg' ; }
+        if  ($fsExtension =='jpg' ){ $mime ='image/jpeg'; }
+        if  ($fsExtension =='png' ){ $mime = 'image/png'; }    
+        return array("mime"=>$mime, "contenido"=>$row[22]);//en base a su extenxiÃ³n la function retornara un tipo de mime 
+    }
 }      
 ?>

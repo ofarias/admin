@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tipoDeComprobante="ingreso" metodoDePago="NO IDENTIFICADO" total="1914.00" TipoCambio="1.0000000" Moneda="MXN" LugarExpedicion="Mexico, Estado de Mexico" NumCtaPago="NO IDENTIFICADO" motivoDescuento="AJ" fecha="2014-11-25T18:35:31" sello="bfNf4Mw9VXXqesB3QYXPrn1sCis6OSJ2Y4sdx/lyrZiJelhXDdbGYkc2RITJBe3JHgkds5LAViT5BFXqt0fScOXvHonB3AB9TaVjz6Z+ae/iSoiPcNBp4exCXzD8o6Ab0gr3Wk0TzSnZDZqkb/CAhbOtjq75Pi9Li8GOaYclRw0=" folio="895733" version="3.2" serie="RP" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="1650.00" descuento="0.00" noCertificado="00001000000300796027" certificado="MIIEbDCCA1SgAwIBAgIUMDAwMDEwMDAwMDAzMDA3OTYwMjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA5MDUxNjIwMzRaFw0xNzA5MDUxNjIwMzRaMIG4MR0wGwYDVQQDExRFQ09MQUIgUyBERSBSTCBERSBDVjEdMBsGA1UEKRMURUNPTEFCIFMgREUgUkwgREUgQ1YxHTAbBgNVBAoTFEVDT0xBQiBTIERFIFJMIERFIENWMSUwIwYDVQQtExxFQ084NzAzMjM4QjkgLyBHVU9SNjIxMDE4TEUyMR4wHAYDVQQFExUgLyBHVU9SNjIxMDE4SE5FVFJNMDIxEjAQBgNVBAsTCUN1YXRpdGxhbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvTPKdWxfxz5EMbSFtoykvlgidD3B8rsLknqGpuVU5efoD35TrlQnLKOtD4EKPya8zFh2fW49JXO034fhTVrfI/tguamDLMDv2Zuvcy9OTTou5g4ig294ffmLc0d4dZVVQ14kRsh3SNSyypa0FV3vaMlnmNV5M6mD+AMEWv0H0ucCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBACQyubWyx50M6L6yuy4IKNQozqH17WQRRhAdnxk9faCMH8iqE+8Se6zLgYrOgG5mrteM/+hUahwEZarhZfDntpd2H7gkp4LHzUqOSJmTyEbUnGu4x1OR/zJwLMipBQuv24qCq8q/kBM4rYWnl7X5u9w93UAQ5srmjV/7Y8DJTgZx1YUbU7qszG5GkVhhaLnL0hW2xKfD+XldKAldAOiyrlrW6i6zAgMlsMUs4Zq8SeCeoktQUb46VCI7gfgMkzKDBXD12Ir0kP1Irwup+oiop7rDi2jozcYgKeIsWgPgW5XHKc+wH6O/czoPP2Vw9k80J53FYitYoI0tkVIYiEfXs1c=" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="Ecolab S. de R.L. de C.V." rfc="ECO8703238B9">
+    <cfdi:DomicilioFiscal calle="AVENIDA INDUSTRIALES" noExterior="28" colonia="FRACC. INDUSTRIAL CUAMATLA" referencia="895733" municipio="Cuautitlan Izcalli" estado="Estado de Mexico" pais="Mexico" codigoPostal="54700" />
+    <cfdi:ExpedidoEn calle="AV INDUSTRIALES NO 28" colonia="FRACC INDUSTRIAL CUAMATLA" municipio="CUAUTITLAN IZCALLI" estado="Estado de Mexico" pais="Mexico" codigoPostal="54700" />
+    <cfdi:RegimenFiscal Regimen="General de Ley P. M." />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA, S.A. DE C.V." rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA, EDO. DE              MEX" estado="MEX" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="SOIL OFF II GARRAFON DE 50 KG&#xD;&#xA;*.EL TRANSPORTISTA DEBERA PORTAR SU EPP&#xD;&#xA;(CAMISA DE MANGA LARGA, CASCO, ZAPATOS DE SEGURIDAD&#xD;&#xA;LENTES Y CHALECO)" valorUnitario="1650.00" importe="1650.00" cantidad="1.00" unidad="PIEZA" noIdentificacion="3855" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="264.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="264.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="2f8c5b7a-4c73-47c1-80ec-1e00f44f6aac" FechaTimbrado="2014-11-25T18:43:16" selloCFD="bfNf4Mw9VXXqesB3QYXPrn1sCis6OSJ2Y4sdx/lyrZiJelhXDdbGYkc2RITJBe3JHgkds5LAViT5BFXqt0fScOXvHonB3AB9TaVjz6Z+ae/iSoiPcNBp4exCXzD8o6Ab0gr3Wk0TzSnZDZqkb/CAhbOtjq75Pi9Li8GOaYclRw0=" noCertificadoSAT="00001000000300171326" selloSAT="pkMXrBBUOhKgMNqarX0ID/kpNlva1dP1mEsJCDTVHqpvq1Y2LaVl783bJWrsy0dY6pmzQfbJYMOKhfWwMx9u3PgjOO42A1sReap97xBQSxsBMuy+KfqMvhy08EObqPHTkG6P630JFjz1T/W3YJ5/cuCIriDOlX0KVw/pHqNdVyM=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

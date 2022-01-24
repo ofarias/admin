@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd" version="3.2" serie="C" folio="6809" fecha="2015-07-09T12:54:35" sello="LxYrPXJ2jT6imDNgEng4JXZHuHTGHIHqSfOHMzZ94tcvjF9cG6YMcplIGtabbxrtYSVzidF50KZmKpUXQFc/L27R0bispK0XyIMIhopmgqP79U0SQHeCrDt8YCw607MO+Qab2UQzG1Y6uKvUoUrHwG8vXH679wsIc5/OfJnnxGY=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302720035" certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDI3MjAwMzUwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMzAwMDI3MDFaFw0xODAxMzAwMDI3MDFaMIGvMRowGAYDVQQDExFCSU9URUNTQSBTQSBERSBDVjEaMBgGA1UEKRMRQklPVEVDU0EgU0EgREUgQ1YxGjAYBgNVBAoTEUJJT1RFQ1NBIFNBIERFIENWMSUwIwYDVQQtExxCSU84NzAzMDdRRDAgLyBUT1RINDcwMjE4S1VBMR4wHAYDVQQFExUgLyBUT1RINDcwMjE4SFBMUU5SMDQxEjAQBgNVBAsTCU5BVUNBTFBBTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsUszcA8TpHXYu+mcxASzNkHQQExYxMMA7F0PW3KBXSClmgnMBBW1+daQc9O4B8E52wKuywoMenB4XWRS1xrmoB+4fopfmAROBlAiYFeMer3qyINKJVRnmtxxPrUDSAy+t5ny4QaJ4Dif10qAKyiXRdqpeGZIE7mABYsq7kH53r8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAGfHDUdg2yMEES1la9Y1GMghrmteTcoAQJZyutYI88NtAkAsTGb1q6VV+Cy6b8Mt8xx8wdvY61oxvTQsUFKPyqgUkI+0uuKJk8KyYmfU79c9w02tvUhUSsJZ4FKZgzWGVG7rXTwCLLcSYLRon0Z2PQiMXYvcBbATopfvAE4Fhlofc+6WjPjazIB5t2z4mb8EeQvOvr1qE8m8JBmT2haz+OwlXIQ3twJy7G6mdACy/y41QyeJmhNYWOWfR4paftwgrTa3UYCn126jmjJG8+qh8tg2HcxRQn4bPFSfK0MZ6u5LoubjVQlDKoapCHFfuJ8fbPM6bJhkRmYai7EkQmfsuv4=" subTotal="4955.0000" TipoCambio="15.828100" Moneda="Dólares" total="5747.8000" tipoDeComprobante="ingreso" metodoDePago="No identificado" LugarExpedicion="Tlanepantla, Estado de Mexico">
+  <cfdi:Emisor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:DomicilioFiscal calle="M AVILA CAMACHO" noExterior="2900" noInterior="804" municipio="Tlanepantla" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:ExpedidoEn calle="Manuel Avila Camacho" noExterior="2900" noInterior="804" pais="Mexico" />
+    <cfdi:RegimenFiscal Regimen="Regimen General de Ley Persona Moral" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="VRE640702H15" nombre="VALLE REDONDO SA DE CV">
+    <cfdi:Domicilio calle="CARR AGUASCALIENTES CALVILLO KM 6.5" colonia="VIÑEDOS VALLE" municipio="REDONDO AGUASCALIENT" pais="MEXICO" codigoPostal="20315" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="125.0000" unidad="LT" descripcion="PECTINEX ULTRA COLOR EQUIVALENTE 145 KG" valorUnitario="24.6500" importe="3081.2500" />
+    <cfdi:Concepto cantidad="50.0000" unidad="LT" descripcion="PECTINEX YIELDMASH EQUIVALENTE A 60 KG" valorUnitario="23.5000" importe="1175.0000" />
+    <cfdi:Concepto cantidad="25.0000" unidad="LT" descripcion="PECTINEX UF EQUIVALENTE A 29 KG" valorUnitario="27.9500" importe="698.7500" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="792.8000">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IEPS" tasa="0.0000" importe="0.0000" />
+      <cfdi:Traslado impuesto="IVA" tasa="0.0000" importe="0.0000" />
+      <cfdi:Traslado impuesto="IVA" tasa="16.0000" importe="792.8000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="C5A847F6-B289-4FCA-AA37-86F7DB05CE17" FechaTimbrado="2015-07-09T12:58:32" noCertificadoSAT="00001000000301160463" selloCFD="LxYrPXJ2jT6imDNgEng4JXZHuHTGHIHqSfOHMzZ94tcvjF9cG6YMcplIGtabbxrtYSVzidF50KZmKpUXQFc/L27R0bispK0XyIMIhopmgqP79U0SQHeCrDt8YCw607MO+Qab2UQzG1Y6uKvUoUrHwG8vXH679wsIc5/OfJnnxGY=" selloSAT="vZ6KfUCBTPm7UrWssF1sjxqzbPZ/rFOCVhMszJRtZOiO34mI3uVwPxa7oPMLUvMbGuozoitlZ64qLuYbJ/jCe8AQQDWrgzcnsB64wNMP22gCxdFoem0oOnYVgTjFDNV3M+2rLLy/XKGaVI0LXWjFeJTzc6jzzToW8s9tUWwxexw=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

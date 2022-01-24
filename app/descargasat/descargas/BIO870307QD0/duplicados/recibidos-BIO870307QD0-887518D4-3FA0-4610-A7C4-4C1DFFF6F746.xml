@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfdi:Comprobante xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" NumCtaPago="NO IDENTIFICADO" LugarExpedicion="Tultitlán, Estado de México" tipoDeComprobante="ingreso" metodoDePago="Transferencia Electrónica" total="9280.00" Moneda="Pesos" TipoCambio="1.00" descuento="0.00" subTotal="8000.00" certificado="MIIEeTCCA2GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0OTExNzgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMjAyMjE4NDVaFw0xOTAzMjAyMjE4NDVaMIHFMSIwIAYDVQQDExlISVBPTElUTyBNRU5ET1pBIFNBTE1FUk9OMSIwIAYDVQQpExlISVBPTElUTyBNRU5ET1pBIFNBTE1FUk9OMSIwIAYDVQQKExlISVBPTElUTyBNRU5ET1pBIFNBTE1FUk9OMRYwFAYDVQQtEw1NRVNINjAwNDEzVDgwMRswGQYDVQQFExJNRVNINjAwNDEzSEdSTkxQMTcxIjAgBgNVBAsTGUhJUE9MSVRPIE1FTkRPWkEgU0FMTUVST04wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAI0IiimHOnFsPhLc7hcuj5ywm2q4h4enaK3UCA2TEoUe0yfNIPlqwMw2kyWFsCmLZ3YRw7F1HbOEbmCKP8iTnkAQ6iRE1k6AqV5tadKLXSUx2Z5KWTJqGHbpL4b62sGAKa5Rv0fEGN91cEmiKNex+Fa5xz/8gKl98Vx0UY0tNWgBAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQC+se6CYDKXwIRpNTUNPlVYrTBsieHiAvPrAVRGml2r/GceXIrM7RJMWGDYxUGaB587QWrBfKDyW+yOFwv2uTVVNMrZMcPTCAeqTOZsVLVtba0uDdLZuG9sWCL4arJBK5khrNacLAKqiAg9VrbWgkQ3C4rOkPOUbp1lenveh8RSea66Z4I41wwNJS2YObKJLBC9JCAKc/AOrnWCoyse4XphN3BZjCkcz/bQglvv+EdIhw7bndoHru2cRs8A3lL9ujvJZZMsnXXmkSXdSPN9O4rQXBROQeLfdaxjPQ9Aj+PqqRgt/03NAcYcXQdiNXV/2JB0TwKMGg3IDJfvrRqw6zEi" noCertificado="00001000000306491178" formaDePago="Pago en una sola exhibición" sello="er9wBU+4YdHOtkEcJaYi69EHbXWUCI9eJ3v4B7kJTB9oadTu5V0tL6Uq0JL7srig609ktjn4Xr1JYn5s/5eAHwHKI6hsRNW95p9ibCwKEjrpQUQAa618RIoMnfp5RiNXl8ceKi7qZ9A+poaIUZRsr9SaEihSVaqn68DnhNxCBVc=" fecha="2015-10-22T11:15:09" folio="209" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor nombre="HIPOLITO MENDOZA SALMERON" rfc="MESH600413T80">
+        <cfdi:DomicilioFiscal codigoPostal="54930" pais="MEXICO" estado="Estado de México" municipio="Tultitlán" colonia="Izcalli San Pablo" noExterior="50" calle="Lomerío" />
+        <cfdi:RegimenFiscal Regimen="Incorporación Fiscal" />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="Biotecsa S.A. De C.V." rfc="BIO870307QD0">
+        <cfdi:Domicilio codigoPostal="54040" pais="MEXICO" estado="Estado de México" municipio="Tlalnepantla" colonia="Los Pirules" noInterior="804" noExterior="2900" calle="Blvd. Manuel Avila Camacho" />
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="8000.00" valorUnitario="1.6" descripcion="Etiqueta adhesiva de 21.0 x 13.5 cms. Impresa a color con rombo de seguridad Folio 60001 - 65000" unidad="Pza." cantidad="5000" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="1280.00">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="1280.00" tasa="16" impuesto="IVA" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2015-10-22T11:15:06" UUID="887518d4-3fa0-4610-a7c4-4c1dfff6f746" noCertificadoSAT="00001000000300171291" selloCFD="er9wBU+4YdHOtkEcJaYi69EHbXWUCI9eJ3v4B7kJTB9oadTu5V0tL6Uq0JL7srig609ktjn4Xr1JYn5s/5eAHwHKI6hsRNW95p9ibCwKEjrpQUQAa618RIoMnfp5RiNXl8ceKi7qZ9A+poaIUZRsr9SaEihSVaqn68DnhNxCBVc=" selloSAT="FGnC5KLyhEicA9yItwxKNEKHh6oq0DjT0Hjmma6mYgcMx8vreygmozLu4kz22gIiTULNciTfgMdkPaFvsqD86AzdORmlbmNXo6lRoAVUgVKIuXpYEPmQXo2jjP5P27Qpz5T/p+9LeK25U4+vV2pkiKXCBkirkbIz5EymF/VfeUo=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" Moneda="MXN" metodoDePago="Efectivo" LugarExpedicion=",MEXICO" version="3.2" NumCtaPago="No Identificado" folio="130804" fecha="2015-10-19T16:20:23" sello="RV0aFHtaAcnzpLFfwY/9nmoukl/w30O+QQroN2Q6yYkZU48v5CdbtrPatLBALDb7vVhms+zdNpTayAymd3XTogXetdnDOb0sbk/E1LIhpUhPPvPjAev7BMJQVXHVvwH3YZXguAbPNG1ngMOCgAI7O+6ANqVBzI93PcWc5/wxptQ=" formaDePago="Pago en una sola exhibición" tipoDeComprobante="ingreso" noCertificado="00001000000201991008" certificado="MIIEgDCCA2igAwIBAgIUMDAwMDEwMDAwMDAyMDE5OTEwMDgwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDkyMDIzNDM0OFoXDTE2MDkyMDIzNDM0OFowgcExHjAcBgNVBAMTFVNBVEVMSVRFIEdBUyBTQSBERSBDVjEeMBwGA1UEKRMVU0FURUxJVEUgR0FTIFNBIERFIENWMR4wHAYDVQQKExVTQVRFTElURSBHQVMgU0EgREUgQ1YxJTAjBgNVBC0THFNHQTkzMTAxMzQ0MCAvIEdBQ0E3MjEyMDI5MTkxHjAcBgNVBAUTFSAvIEdBQ0E3MjEyMDJNREZSUkQwNjEYMBYGA1UECxMPVU5JREFEIFNBVEVMSVRFMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAvN8uPgwFegWnV5piC/0OgVTLepeRjrd5ong0q8sP2YWV+tj0eQpDR9sigp8AryKrHeyAO/oJdBw3eT0e8M7XGf9J1Qj9QsiMO+lRPUj/YDxmt1ftiyTQPYAkhN+rtVUh8AddbeSElkH55PGg7TDPtgNAZKrnqa6ZRoJ6fiCY0QIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAMV8I+xP1EVhuwH/AsSYLz8qytqQbxWxQhHebm2tbeq2LycHbfbJPTz18gKxb0H3OSp4OzhOYJLNkNphh2kuMiX+eytagB4euXo5mx/2C4wD9piczPhcZyl8UCzR55d0EdJVDnwgPv323C+lC43mCmom/1W2CIfOwl8rF5unctXELbVyk/tWYAY7R37SbK0ZM/iLTDuQwg4zgTv38nM0h+UXPz7UggswgJkD9j1mHIaIKgeKQSYlzVohZbcE8cstVyoUmtewQx4uRKKoS2HapqrEb7BVQAn8wqTspltKDA7AuReuLYtDNlZeH4J8NxZ2xLWPkhLWli4U7yTAAO+u38g==" condicionesDePago="Contado" subTotal="230.520000" total="267.400000" serie="FCO">
+	<cfdi:Emisor rfc="SGA931013440" nombre="SATELITE GAS, S.A. DE C.V.">
+		<cfdi:DomicilioFiscal calle="SIN NOMBRE LOTE 8 SECCION B" noExterior="SIN NUMERO" colonia="LA VICTORIA" localidad="México" municipio="TEOLOYUCAN" estado="-" pais="MEXICO" codigoPostal="54770" />
+		<cfdi:ExpedidoEn calle="SIN NOMBRE LOTE 8 SECCIÓN B SIN NÚMERO" colonia="LA VICTORIA" municipio="TEOLOYUCAN" estado="ESTADO DE MEXICO" codigoPostal="54770" pais="MEXICO" />
+		<cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA" estado="EDO. DE MEX." pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="35.000000" unidad="LITROS" descripcion="LITROS DE GAS LP NV 187655 13-10-15" valorUnitario="6.586207" importe="230.520000"/>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="36.880000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.000000" importe="36.880000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2015-10-19T16:20:23" UUID="8F9C9D8A-9CE6-4061-466F-0B781A44F226" noCertificadoSAT="00001000000203392777" selloCFD="RV0aFHtaAcnzpLFfwY/9nmoukl/w30O+QQroN2Q6yYkZU48v5CdbtrPatLBALDb7vVhms+zdNpTayAymd3XTogXetdnDOb0sbk/E1LIhpUhPPvPjAev7BMJQVXHVvwH3YZXguAbPNG1ngMOCgAI7O+6ANqVBzI93PcWc5/wxptQ=" selloSAT="JADcwWaQAx7ch7Z2DZjlpHpZsiGffs8zU04+Iz4LaCc/XB44mkbmCNIPw1daDqD3TD6HZVefAf0IE2iS/LSPnA9Qu0VM/xZYSVh7al/geTvxURyU38PuxTLNo1/H/mf1qCDh6L2TsP1WCbOiL4794eJ/fbmaphiZ24U8Zg0T8N8=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+	<cfdi:Addenda>
+		
+
+
+	</cfdi:Addenda>
+</cfdi:Comprobante>

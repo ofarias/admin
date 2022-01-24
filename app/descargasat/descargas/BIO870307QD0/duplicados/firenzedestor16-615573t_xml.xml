@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" serie="T" folio="15573" fecha="2015-06-17T07:15:48" sello="II7GQ13rtiAfGqj5ES7trs2gVnWISCFSrWzqGmyyQhwNsEM6KNe2k2u8BywgErDP/WdYNAAtFAwWpW4iKY7uRLC/cX1Kk/Rus1EzE5q4YUHmIJR0Hvi+JNGB0AV3N5MKsRF2CiLUKoHJl/gxudhEc8v/kb9AGWKNkXnFLnORmM0=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000300930392" certificado="MIIEbDCCA1SgAwIBAgIUMDAwMDEwMDAwMDAzMDA5MzAzOTIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA5MjcwMjAyMjRaFw0xNzA5MjcwMjAyMjRaMIG4MSQwIgYDVQQDExtBTEVKQU5EUk8gTUFSVElORVogR0FMTEVHT1MxJDAiBgNVBCkTG0FMRUpBTkRSTyBNQVJUSU5FWiBHQUxMRUdPUzEkMCIGA1UEChMbQUxFSkFORFJPIE1BUlRJTkVaIEdBTExFR09TMRYwFAYDVQQtEw1NQUdBODMxMDEwRzkyMRswGQYDVQQFExJNQUdBODMxMDEwSENMUkxMMDIxDzANBgNVBAsTBlVuaWRhZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsN2e5QhupLTeMh8LZtoPSHpRlR2dGAOMr3R/NPVolD3XqsSXbDaWgXLNsffOD1WHc5S+JzY4LjvwhLf83oT0sOXAkxeqgL789GQTaajXc9xJ8Bu73ifj07mV9G8g/OeFR+eeaFaTkqBg46hhWIgdj/akNkrKd255p+Y8C2UMvm0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAM66eZdVua7+qr/dq0MMa24Z7h58GMkYz+QgRBGDlX4gX25FPw/aMur5IlIj5rmKC6z+8yI2rjN2IzUv76ditO0JdXv0A7sKSrDIv86riW+Qom03waITFAxYMLpJJayDtoaxVl0UNnDhY7uMVC4SlD+bGVZhblRgiJyOaYq5Tud9NZU9dU6bMEg9n0C0fbqix3c1gbpZkOxWcK2yytgWVSiAvsdxBHiDs+NpcKL76eL2GIkLcoWGG5BUT1CJk3NCTr4iw6mPL2K1I9onHYVbZeoabSs2W3oM90wu0gMCsVOSA1cFNVoVxaZa3m+RLVGsP90eq79qdjok9g6mQSfElvQ=" condicionesDePago="ninguna" subTotal="126.72" descuento="0.00" TipoCambio="1.0" Moneda="Pesos" total="147.00" tipoDeComprobante="ingreso" metodoDePago="MASTERCARD (REFERENCIA NO APLICA)" LugarExpedicion="COAH.,MEXICO" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor rfc="MAGA831010G92" nombre="ALEJANDRO MARTINEZ GALLEGOS">
+    <cfdi:DomicilioFiscal calle="RIO SABINAS # 24. COL. LA ESTRELLA." localidad="TORREON" municipio="TORREON" estado="COAH." pais="MEXICO" codigoPostal="27010" />
+    <cfdi:ExpedidoEn calle="CARRETERA TORREON-SAN PEDRO KM 9. C.P. 27016." localidad="TORREON" municipio="TORREON" estado="COAH." pais="MEXICO" codigoPostal="27010" />
+    <cfdi:RegimenFiscal Regimen="RÉGIMEN DE LAS PERSONAS FÍSICAS CON ACTIVIDADES EMPRESARIALES Y PROFESIONALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="Blvd. Manuel Avila Camacho 2900-804 Fracc Los Pirules" localidad="Tlalnepantla de Baz" municipio="Tlalnepantla de Baz" estado="Estado de México" pais="México" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="PIEZA" descripcion="CONSUMO DE ALIMENTOS Y BEBIDAS" valorUnitario="126.72" importe="126.72" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="20.28">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="20.28" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="5E0111E0-32C6-4CEF-86DE-1DD93443A910" FechaTimbrado="2015-06-17T07:15:50" selloCFD="II7GQ13rtiAfGqj5ES7trs2gVnWISCFSrWzqGmyyQhwNsEM6KNe2k2u8BywgErDP/WdYNAAtFAwWpW4iKY7uRLC/cX1Kk/Rus1EzE5q4YUHmIJR0Hvi+JNGB0AV3N5MKsRF2CiLUKoHJl/gxudhEc8v/kb9AGWKNkXnFLnORmM0=" noCertificadoSAT="00001000000203220546" selloSAT="jq25hWkkgMYF40C3tidj4VVSRW4m8oKhou5yghjBC/xq56iubOLRNdsjOIMwWxfCCnZrmsO1prb0xEnd2Exk5P6GCXZGb5Jwrz3DaBAQbvBJdwkI26L8prSwyYOeFWGLY88hT7zaQkuLUq5L01MBn8sgT4zjq4DD/nhk+cHPXgY=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

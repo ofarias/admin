@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="22821" fecha="2016-02-08T16:25:51" sello="hm9Tg5SKUt9tNFWnXMijGy8el1X9As2aup3aLaNv0Q+Oss5+X8WRRz8W3M64fAvLsek+GDAEjJXDQ4J3cTUtFyFRIAyb1iEDQUTRPnABGb1mzna1pQbne6q9cHgEWnu5PReumj0/Yp7dm8OW0JEsRgLD4Y4vDaNtxbQvgvAegJw=" formaDePago="Pago en una sola Exhibicion" noCertificado="00001000000202718792" certificado="MIIEmTCCA4GgAwIBAgIUMDAwMDEwMDAwMDAyMDI3MTg3OTIwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDEwMzAxNDMxMloXDTE3MDEwMzAxNDMxMlowgdoxKzApBgNVBAMTIk5FT0dFTiBMQVRJTk9BTUVSSUNBIFMgQSBQIEkgREUgQ1YxKzApBgNVBCkTIk5FT0dFTiBMQVRJTk9BTUVSSUNBIFMgQSBQIEkgREUgQ1YxKzApBgNVBAoTIk5FT0dFTiBMQVRJTk9BTUVSSUNBIFMgQSBQIEkgREUgQ1YxJTAjBgNVBC0THEJTWTA4MDIyN1E2NyAvIE5PTU01NjEyMTFBTTkxHjAcBgNVBAUTFSAvIE5PTU01NjEyMTFIREZSTk4wMDEKMAgGA1UECxMBIDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwgzx0mE9ZD3koOudHildGrdDxhhp5AB+fXQPPRBqU8jmD8L02ByapdNA8c2z83WrRw/0MCKSeNSVtCoaI9h2QW6Pkj/tdDARKbC7DMYybnP7qGm4PLBYG31F3CHx6Rf2TTa3uoxRz+6fIVkhbe+bdWqJoaotAddN+nExcoc62Q0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEm8JPzLQCZaGMKG7U6ffHZh7BtCj0YkDlOcrcueFGvat+bREvFZZf6/akMhJ7bVmOkMtmhb4amwuKquokPIS32W0PFfGn/qrGTiaGfwj16AaFlOqfcTlQxpcAvUsgwIQosj2GaA8PNAAtbZEYahCWH6E9/O9fU3vvCiQN3xi09DJGSNhSsUt1Foi33ZdTtRm42oUK/tpHNCMd+WJkDMNErP38i++SfNDzNkfAXNZdlTEZ7qiPgOoxkRQaKVbUecQQbf6CR5Xqp0qiTH2/zF4ru4lZV/6W6ePVhIvvjqcZZaPmuJH/PAzrsH5ts8EJmQ52mnrDDlR7bZ45IMJPyPeOQ=" condicionesDePago="30 Dias" subTotal="4000.00" total="4640.00" metodoDePago="NO IDENTIFICADO" tipoDeComprobante="ingreso" Moneda="MXN" TipoCambio="1.00" LugarExpedicion="Mexico,D.F">
+  <cfdi:Emisor rfc="BSY080227Q67" nombre="NEOGEN LATINOAMERICA, S.A.P.I. DE C.V.">
+    <cfdi:DomicilioFiscal calle="PROLONGACION 5 DE MAYO No. 27" colonia="PARQUE INDUSTRIAL NAUCALPAN" municipio="NAUCALPAN DE JUAREZ" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="53489" />
+    <cfdi:RegimenFiscal Regimen="General de Ley P.M." />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="Pieza" noIdentificacion="9750" descripcion="REVEAL E. COLI O157:H7 8 HORAS" valorUnitario="4000.00" importe="4000.00">
+      <cfdi:InformacionAduanera numero="3018-6000027N63" fecha="2016-01-22" aduana="Aeropuerto Internacional de la Ciudad de Mexico" />
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="640.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="640.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="D6795C58-D553-47DD-A14E-E2E77740A6E3" FechaTimbrado="2016-02-08T16:26:13" selloCFD="hm9Tg5SKUt9tNFWnXMijGy8el1X9As2aup3aLaNv0Q+Oss5+X8WRRz8W3M64fAvLsek+GDAEjJXDQ4J3cTUtFyFRIAyb1iEDQUTRPnABGb1mzna1pQbne6q9cHgEWnu5PReumj0/Yp7dm8OW0JEsRgLD4Y4vDaNtxbQvgvAegJw=" noCertificadoSAT="00001000000203312933" selloSAT="qgdTyvNk9wII6KFD5AS8XO86JNgF7TAFjatgIKtbjOei7S6Y97WkW/0iX+kpKnygJz0hjpZ/3pY6A3NAW8mLp8BSOskXTa5HILbae5VVZUIoljH/M0DASlKHnby9vfJg+nJ0FeuWJoqEb0iej2iQgfCgAteB45UL92zrxz+5rxk=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <lev1add:EDCINVOICE xsi:schemaLocation="http://www.edcinvoice.com/lev1add http://www.edcinvoice.com/lev1add/lev1add.xsd" xmlns:lev1add="http://www.edcinvoice.com/lev1add">[H0]|BIO870307QD0|900639|9.55||00001000000202718792|0|P|NEOGENV3.2||
+[H1]||22821||2016-02-08T16:25:51|||Pago en una sola Exhibicion|30 Dias||Factura|0||0||||||||B037|GEISY GONZALEZ|||16||||Mexico,D.F|NO IDENTIFICADO|MXN|1.00|||||||||||Cuatro Mil Seiscientos Cuarenta Pesos 00/100|D00|P|||||||
+[H2]|NEOGEN LATINOAMERICA, S.A.P.I. DE C.V.|BSY080227Q67||PROLONGACION 5 DE MAYO No. 27|||PARQUE INDUSTRIAL NAUCALPAN|||NAUCALPAN DE JUAREZ|ESTADO DE MEXICO|Mexico|53489|General de Ley P.M.|||||X|||||****|
+[H3]|||||||||||||||||||||||||
+[H4]|BIOTECSA, S.A. DE C.V.|BIO870307QD0||BLVD. MANUEL AVILA CAMACHO 2900-804|||FRACC. LOS PIRULES|TLALNEPANTLA||TLALNEPANTLA|ESTADO DE MEXICO|Mexico|54040||(55) 53 70 12 10||||||||||
+[H5]|||||||||||||||||||||||||
+[D]|9750||REVEAL E. COLI O157:H7 8 HORAS||1|PIEZA||4000.00|0||0.00|||||||||||||4000.00|16|0.00|1|Aeropuerto Internacional de la Ciudad de Mexico|2016-01-22T00:00:00|3018-6000027N63|9750|9750||||4000.00|4000.00|640.00|0.00|||||||||||||||||||||224798|31/03/2017||||||||||||
+[S]|4000.00|0.00|||||640.00|.00|4640.00||1|16|||||||||||||||||||||||0.00|4000.00||||
+[CO]|||3.2|2016-02-08T16:25:51|ingreso|Pago en una sola Exhibicion|30 Dias|4000.00|1.00|MXN|4640.00|NO IDENTIFICADO|Mexico,D.F|BSY080227Q67|NEOGEN LATINOAMERICA, S.A.P.I. DE C.V.|PROLONGACION 5 DE MAYO No. 27|PARQUE INDUSTRIAL NAUCALPAN|NAUCALPAN DE JUAREZ|ESTADO DE MEXICO|Mexico|53489|General de Le|
+[CO]|y P.M.|BIO870307QD0|BIOTECSA, S.A. DE C.V.|BLVD. MANUEL AVILA CAMACHO 2900-804|FRACC. LOS PIRULES|TLALNEPANTLA|TLALNEPANTLA|ESTADO DE MEXICO|Mexico|54040|1|Pieza|9750|REVEAL E. COLI O157:H7 8 HORAS|4000.00|4000.00|3018-6000027N63|2016-01-22|Aeropuerto Internacional de la Ciudad de Mexico|IVA|16|
+[CO]|.00|640.00|640.00|||
+[SE]|hm9Tg5SKUt9tNFWnXMijGy8el1X9As2aup3aLaNv0Q+Oss5+X8WRRz8W3M64fAvLsek+GDAEjJXDQ4J3cTUtFyFRIAyb1iEDQUTRPnABGb1mzna1pQbne6q9cHgEWnu5PReumj0/Yp7dm8OW0JEsRgLD4Y4vDaNtxbQvgvAegJw=|
+</lev1add:EDCINVOICE>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

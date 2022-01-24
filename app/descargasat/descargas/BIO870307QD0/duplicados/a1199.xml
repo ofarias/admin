@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="A" folio="1199" fecha="2017-08-17T09:41:58" sello="MubWb9y/0+4mUfVGFd6IX5qsGrMO+Il6TfaBS+sjoMsb4JM/I+zbvebZiD4Sh3gKBIUj6FOJeMtH/VSZX3XxxTxBFTtu9CTHAOvfAITy4Y8FvFgmSHYrkOyLWy+tya2ARAhNALxmhAg8XL/qM+TaQoJgktaa+vDiNeZn7cDDrCc=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000305973705" certificado="MIIEfDCCA2SgAwIBAgIUMDAwMDEwMDAwMDAzMDU5NzM3MDUwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAxMzAyMjI3NDZaFw0xOTAxMzAyMjI3NDZaMIHIMR4wHAYDVQQDExVQT1JUQSBNT0JJTEUgU0EgREUgQ1YxHjAcBgNVBCkTFVBPUlRBIE1PQklMRSBTQSBERSBDVjEeMBwGA1UEChMVUE9SVEEgTU9CSUxFIFNBIERFIENWMSUwIwYDVQQtExxQTU8wNjA0MjU5M0EgLyBHT0dBNzUxMjE1NTc4MR4wHAYDVQQFExUgLyBHT0dBNzUxMjE1SFBMTlRSMDYxHzAdBgNVBAsTFlBPUlRBIE1PQklMRSwgU0EgREUgQ1YwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKWvdKtSsombCmMf7xZVJxt8d4IHc6QP64ZEUooxcg/tWuPejE7IokMl/y5RiOYjTGKDIo/t3+8gMWlWdH3Nln1DVgA9ZPvC87Icm7lkl6J+d9SjJCI2geOJ0GiVF+aUwYSYGxB19YDGNyTBlvz+AdxI+EHOhHkCuVGxSGiAlgPnAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQCl+olq15g351YjMz0Uu+JHyyn/YZg9Ohh74QUB7n88Cvvi7U7laWEGeGDbWgGW6Q1R3zcPkWAPd0klHtpIXTAnJesq5Ifg2tYck9GuYaKS0/Fis4Aj6Q9lAM+MluE4pRKQeZ1q5M8rUu7FwS4iW0TxmSawsOz6fC3strUsWouoHA6HTZc1wUBN0FwABWwI+/epYKxTiOT/CDkfHXyVD9vBZH5r6SOJigUQE0PJAEHCvAgY5fMOu/cVHB3Vm+n7Qkfw0aFwxjHHFEt2yA62XUGrQNuOcn4ABj8k92TTl4KHuCmjv1OA8+jVj9tj/nDD/eEMnE8mL6hJ3kPQMV/tKoe0" subTotal="869.83" total="1009.00" tipoDeComprobante="ingreso" metodoDePago="NA" LugarExpedicion="54915">
+  <cfdi:Emisor rfc="PMO06042593A" nombre="PORTA MOBILE SA DE CV">
+    <cfdi:DomicilioFiscal calle="AVENIDA INDEPENDENCIA" noExterior="CONDOMINIO 8" noInterior="CASA 17" colonia="EL OBELISCO" localidad="TULTITLAN" referencia="TREN SUBURBANO" municipio="TULTITLAN DE MARIANO ESCOBEDO" estado="ESTADO DE MEXICO" pais="México" codigoPostal="54915" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONA MORAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" localidad="MEXICO" municipio="TLALNEPANTLA DE BAZ" estado="Estado de México" pais="México" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="1" descripcion="ACTIVACION A 18 MESES EN PLAN TELCEL MAX SIN LIMITE EMPRESA CC1500CC. LG X220G Q6. IMEI: 356241075082214." valorUnitario="869.82" importe="869.82" />
+    <cfdi:Concepto cantidad="1" unidad="1" descripcion="SIM CARD TRIO. 8952020217197767247. NUMERO: 5527299491" valorUnitario="0.01" importe="0.01" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="139.17">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="139.17" />
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="2F6623B4-9A5A-4464-A22D-38D9315C84DE" FechaTimbrado="2017-08-17T09:41:59" selloCFD="MubWb9y/0+4mUfVGFd6IX5qsGrMO+Il6TfaBS+sjoMsb4JM/I+zbvebZiD4Sh3gKBIUj6FOJeMtH/VSZX3XxxTxBFTtu9CTHAOvfAITy4Y8FvFgmSHYrkOyLWy+tya2ARAhNALxmhAg8XL/qM+TaQoJgktaa+vDiNeZn7cDDrCc=" noCertificadoSAT="00001000000405607284" selloSAT="ToaR5wpAC3lCgyzK3FvyMh6gx5Al2jq+DiVbYvr9XvZcCzoMCnqr51YMRdSY+kCy0Ki34qxZ5Ubcc1R6bXgKfgyaJp6ipavhFAwHFNBwd0TKvdfdc+xTil+Hsk2c86ON+Vggd5fn0RPxUteqUXbN4vBlSUaSNqzyeYI3MgUrmhtM2F5l1yvC2vlO0EcR1Tbu1mKVVEc80mQ7BGQQFg6ohDoVc1MiWdwBzCYeJtFG5n0X1fnwHI1gNpYB0aoynxv8LIUpPLiGZKDenigVpzlT6OR20+mbBsuufW5KV9YOnEREchRdD+1oXjhbye35/zPyfNWGHx35bevsN+QYsOgBLQ==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

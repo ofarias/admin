@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tipoDeComprobante="ingreso" metodoDePago="EFECTIVO" total="352.64" TipoCambio="1.00" Moneda="MXP" LugarExpedicion="Mexico, DISTRITO FEDERAL" fecha="2015-08-27T15:42:34" sello="irpoQpGfN5GQXz3foVOEoxv1rLx45ZMBgdS3DuPakWOy571HoFrgOViTUakGAhR4Yin4EmR38Y80TVfsVPrB6l6Bth/Jf9WyEFnXoYXsUvFy7HGFtMbEy87vIbdT/iA3p+qClqwm9WPzJPg+FwzH1NJTlcbcYSnI8QOUqdPD0Qk=" folio="50072467" version="3.2" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="304.00" descuento="0.00" condicionesDePago="EFECTIVO" noCertificado="00001000000301452292" certificado="MIIEjzCCA3egAwIBAgIUMDAwMDEwMDAwMDAzMDE0NTIyOTIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMjgwMDAxMDdaFw0xNzExMjgwMDAxMDdaMIHbMSMwIQYDVQQDExpFTSBQQUNLIERFIE1FWElDTyBTQSBERSBDVjEjMCEGA1UEKRMaRU0gUEFDSyBERSBNRVhJQ08gU0EgREUgQ1YxIzAhBgNVBAoTGkVNIFBBQ0sgREUgTUVYSUNPIFNBIERFIENWMSUwIwYDVQQtExxFUE04MjA0MTlMTDYgLyBNVUlGNjIwNzE2VFg0MR4wHAYDVQQFExUgLyBNVUlGNjIwNzE2SERGUk5SMDAxIzAhBgNVBAsTGkVNIFBBQ0sgREUgTUVYSUNPIFNBIERFIENWMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDYejaA8cYJDGyKGfiO/oQUpRfEeGNcPq6VwTmVi6EeW35VZB76ovQ7wh2tn8wKQQSCZrSuUjHH18QpMT9VPymUY/FbyY0I251JSd0zzfLZrk5o/vPvIXjInqhoY5yWTgujeFsTedDxuOOTcqqxknMiUNlzQGyzisH6zcmXl0TVmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAboA+pN+bFFReuJ2k+PMvxJ9IhaPbVFP1LjlZ2nEd7NM9oTY2gU9Fu4N+ooJO/JwOBT4QMdZZXcUaF8lroQTTWB4/YNsxvVoGlSs8t+Xrn1IMKM7PNxX4yH9cr4v9n+phQVz8FWaeEHWrdpK9Zx1bFjct37kyfhoiQSvnBa563ZL2Vp/YJZcqUJ2Xczxu6klUw39mz9o7vDhPLXLLZSQtczBhX5rgQ243yvkS8KahXyoDbjjj0mpgfYH7KlEq80V6k20UnLcwDw3nPblYUFYUpLhs4ockhRTUihI+aI0OcRPNbT1JUt4ST56XJVclNEi0wihmrnDLiMtk6Ycv08usqw==" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="EM PACK DE MEXICO, S.A DE C.V." rfc="EPM820419LL6">
+    <cfdi:DomicilioFiscal calle="LEBRIJA" noExterior="58" noInterior="S/N" colonia="CERRO DE LA ESTRELLA" municipio="IZTAPALAPA" estado="DISTRITO FEDERAL" pais="Mexico" codigoPostal="09860" />
+    <cfdi:ExpedidoEn calle="DR. JIMENEZ CANTU" noExterior="406" noInterior="S/N" colonia="CENTRO URBANO" municipio="CUATITLAN IZCALLI" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="54740" />
+    <cfdi:RegimenFiscal Regimen="GENERAL DE LEY PERSONA MORAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="DESPACHO 804" colonia="FRACCIONAMIENTO LOS PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="Mexico" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="CAJ 12.0X12.0X8.0 MC K C/100" valorUnitario="3.54" importe="88.50" cantidad="25.00" unidad="PZA" noIdentificacion="19002" />
+    <cfdi:Concepto descripcion="CAJ 16.0X11.0X8.0 MC K C/100" valorUnitario="3.71" importe="92.75" cantidad="25.00" unidad="PZA" noIdentificacion="19006" />
+    <cfdi:Concepto descripcion="CAJ 20.0X11.5X10.0 MC K C/100&#xD;&#xA;ATADOS C/ 100 PZS." valorUnitario="4.91" importe="122.75" cantidad="25.00" unidad="PZA" noIdentificacion="19011" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="48.64">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="48.64" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="e8cea7e8-e84c-43ef-a1bb-d1e697f6e0af" FechaTimbrado="2015-08-27T15:42:32" selloCFD="irpoQpGfN5GQXz3foVOEoxv1rLx45ZMBgdS3DuPakWOy571HoFrgOViTUakGAhR4Yin4EmR38Y80TVfsVPrB6l6Bth/Jf9WyEFnXoYXsUvFy7HGFtMbEy87vIbdT/iA3p+qClqwm9WPzJPg+FwzH1NJTlcbcYSnI8QOUqdPD0Qk=" noCertificadoSAT="00001000000300171326" selloSAT="vyp2dy7coxJsqCftvrNwzGQpxplRiJHVNpjRF4YKKw0frBI5w8B228FRF4ezVGoDnSwy/r3aeYnWJpKe/PF5EG0uw+mLTO2Zj+oYbU1Nw47L2/JFgyecWY88K7GAk3P+/Ym6d+Ixyhh1V85WsKiok9Gt5+4ShBhxKndGPE0Usic=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="31108" fecha="2017-05-03T18:19:43" sello="WJ3fFJaUXvyrSthaFwZcfQ3thVaMWI6YPfudDR47cwvGalxWL/GDz59EfRME0YKX05ChRmwlX7YA2dRzqzGg9f4SdRbLd8UFQgSPaXhLp9frWIW4QNfdkTpjx1gJ0aQ2aGN36rxbD6OIi+JFs2tOB3fHNV1d2iv++RGx3mL6SZzDoCSn8on+GJFyCuPMxRgCqtvJlRRBX7VlBic9EPBafJ5owUrhL4hhTndOAsk5tKLtOkXg/JDEphGHG40CgGSonKlL6Z9VxxskFPnrubt/S+KkS0oe105thP6ZzmxqFJW0ktMNycMacQdBOdaZMJq3jFF2gaGoPGzkum9aiUqA2g==" formaDePago="Pago en una sola exhibicion" noCertificado="00001000000405932806" certificado="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" condicionesDePago="A017 60 días fecha factura." subTotal="4896.00" descuento="0.00" TipoCambio="18.77229" Moneda="USD" total="5679.36" tipoDeComprobante="ingreso" metodoDePago="NA" LugarExpedicion="México, Estado de México">
+  <cfdi:Emisor rfc="ATM130404IM9" nombre="Archroma Mexico S de RL de CV">
+    <cfdi:DomicilioFiscal calle="Plásticos No.28. Santa Clara Coatitla" colonia="Ecatepec, Estado de México" municipio="México CP" estado="Estado de México" pais="México" codigoPostal="55540" />
+    <cfdi:ExpedidoEn calle="Plasticos No. 28" municipio="Santa Clara Coatitla - Ecatepec" estado="Estado de México" pais="México" codigoPostal="55540" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="Biotecsa SA de CV">
+    <cfdi:Domicilio calle="Blvd. Manuel Avila Camacho No. 2900" noExterior="Desp 804" colonia="Fraccionamiento Los Pirules" municipio="Tlalnepantla" estado="Estado de México" pais="México" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="200.00" unidad="Kilo" noIdentificacion="22831623829" descripcion="Kieralon MRN.MX liq c               0200" valorUnitario="2.72" importe="544.00" />
+    <cfdi:Concepto cantidad="200.00" unidad="Kilo" noIdentificacion="22831623829" descripcion="Kieralon MRN.MX liq c               0200" valorUnitario="2.72" importe="544.00" />
+    <cfdi:Concepto cantidad="1400.00" unidad="Kilo" noIdentificacion="22831623829" descripcion="Kieralon MRN.MX liq c               0200" valorUnitario="2.72" importe="3808.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="0.00" totalImpuestosTrasladados="783.36">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="IVA" importe="0.00" />
+      <cfdi:Retencion impuesto="IVA" importe="0.00" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="783.36" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="53d0ef63-f9ba-4703-bae9-f766229dae98" FechaTimbrado="2017-05-03T16:25:48" selloCFD="WJ3fFJaUXvyrSthaFwZcfQ3thVaMWI6YPfudDR47cwvGalxWL/GDz59EfRME0YKX05ChRmwlX7YA2dRzqzGg9f4SdRbLd8UFQgSPaXhLp9frWIW4QNfdkTpjx1gJ0aQ2aGN36rxbD6OIi+JFs2tOB3fHNV1d2iv++RGx3mL6SZzDoCSn8on+GJFyCuPMxRgCqtvJlRRBX7VlBic9EPBafJ5owUrhL4hhTndOAsk5tKLtOkXg/JDEphGHG40CgGSonKlL6Z9VxxskFPnrubt/S+KkS0oe105thP6ZzmxqFJW0ktMNycMacQdBOdaZMJq3jFF2gaGoPGzkum9aiUqA2g==" noCertificadoSAT="00001000000300171326" selloSAT="Fmys9l/yGbF7HqEkR/v77rLWLsQzbn61cr5bdj3KvMUgO10aoy8sfiTPSSWLzXiJyuoWDIGsFLUZ0RjFHgZqfsTkDbxsDSgRWixFfgmh6MFFm22J0it7yOwHY5RyzaYsBPEyxVN793sl2Oa8GJcN4TQApewemusQVuDwflHmH9M=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento><cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33A31108">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>0</ecfd:NroAprob>
+            <ecfd:AnoAprob>2013</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>A</ecfd:Serie>
+            <ecfd:Folio>31108</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:FechaEmis>2017-05-03T18:19:43</ecfd:FechaEmis>
+            <ecfd:FormaPago>Pago en una sola exhibicion</ecfd:FormaPago>
+            <ecfd:MedioPago>NA</ecfd:MedioPago>
+            <ecfd:CondPago>A017 60 días fecha factura.</ecfd:CondPago>
+            <ecfd:FechaVenc>2017-07-02</ecfd:FechaVenc>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>ATM130404IM9</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>Archroma Mexico S de RL de CV</ecfd:NmbEmisor>
+            <ecfd:CodigoExEmisor>
+              <ecfd:TpoCdgIntEmisor>INT</ecfd:TpoCdgIntEmisor>
+            </ecfd:CodigoExEmisor>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>Plásticos No.28. Santa Clara Coatitla</ecfd:Calle>
+              <ecfd:Colonia>Ecatepec, Estado de México</ecfd:Colonia>
+              <ecfd:Municipio>México CP</ecfd:Municipio>
+              <ecfd:Estado>Estado de México</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>55540</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>Plasticos No. 28</ecfd:Calle>
+              <ecfd:Municipio>Santa Clara Coatitla - Ecatepec</ecfd:Municipio>
+              <ecfd:Estado>Estado de México</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>55540</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QD0</ecfd:RFCRecep>
+            <ecfd:NmbRecep>Biotecsa SA de CV</ecfd:NmbRecep>
+            <ecfd:CodigoExReceptor>
+              <ecfd:TpoCdgIntRecep>INT</ecfd:TpoCdgIntRecep>
+              <ecfd:CdgIntRecep>0000181906</ecfd:CdgIntRecep>
+            </ecfd:CodigoExReceptor>
+            <ecfd:CdgSucursal>0000352912</ecfd:CdgSucursal>
+            <ecfd:Sucursal>Biotecsa SA de CV</ecfd:Sucursal>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>Blvd. Manuel Avila Camacho No. 2900</ecfd:Calle>
+              <ecfd:NroExterior>Desp 804</ecfd:NroExterior>
+              <ecfd:Colonia>Fraccionamiento Los Pirules</ecfd:Colonia>
+              <ecfd:Municipio>Tlalnepantla</ecfd:Municipio>
+              <ecfd:Estado>Estado de México</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+            <ecfd:LugarRecep>
+              <ecfd:Calle>Destajistas No 6</ecfd:Calle>
+              <ecfd:Colonia>Fracc.Industrial Xhala</ecfd:Colonia>
+              <ecfd:Municipio>Cuautitlan Izcalli</ecfd:Municipio>
+              <ecfd:Estado>Estado de México</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>54800</ecfd:CodigoPostal>
+            </ecfd:LugarRecep>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>USD</ecfd:Moneda>
+            <ecfd:FctConv>18.77229</ecfd:FctConv>
+            <ecfd:SubTotal>4896.00</ecfd:SubTotal>
+            <ecfd:MntDcto>0.00</ecfd:MntDcto>
+            <ecfd:MntBase>4896.00</ecfd:MntBase>
+            <ecfd:MntImp>783.36</ecfd:MntImp>
+            <ecfd:MntRet>0.00</ecfd:MntRet>
+            <ecfd:VlrPagar>5679.36</ecfd:VlrPagar>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16</ecfd:TasaImp>
+            <ecfd:MontoImp>783.36</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+          <ecfd:ExRetenciones>
+            <ecfd:TipoRet>IVA</ecfd:TipoRet>
+            <ecfd:TasaRet>16</ecfd:TasaRet>
+            <ecfd:MontoRet>0.00</ecfd:MontoRet>
+          </ecfd:ExRetenciones>
+          <ecfd:ExRetenciones>
+            <ecfd:TipoRet>IVA</ecfd:TipoRet>
+            <ecfd:TasaRet>4</ecfd:TasaRet>
+            <ecfd:MontoRet>0.00</ecfd:MontoRet>
+          </ecfd:ExRetenciones>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:CdgItem>
+            <ecfd:TpoCodigo>IN</ecfd:TpoCodigo>
+            <ecfd:VlrCodigo>22831623829</ecfd:VlrCodigo>
+          </ecfd:CdgItem>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>Kieralon MRN.MX liq c               0200</ecfd:DscItem>
+          <ecfd:QtyItem>200.000</ecfd:QtyItem>
+          <ecfd:UnmdItem>Kilo</ecfd:UnmdItem>
+          <ecfd:PrcBrutoItem>2.7200</ecfd:PrcBrutoItem>
+          <ecfd:PrcNetoItem>2.7200</ecfd:PrcNetoItem>
+          <ecfd:MontoBrutoItem>544.00</ecfd:MontoBrutoItem>
+          <ecfd:MontoNetoItem>544.00</ecfd:MontoNetoItem>
+          <ecfd:TpoDocRef>ON</ecfd:TpoDocRef>
+        </ecfd:Detalle>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>2</ecfd:NroLinDet>
+          <ecfd:CdgItem>
+            <ecfd:TpoCodigo>IN</ecfd:TpoCodigo>
+            <ecfd:VlrCodigo>22831623829</ecfd:VlrCodigo>
+          </ecfd:CdgItem>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>Kieralon MRN.MX liq c               0200</ecfd:DscItem>
+          <ecfd:QtyItem>200.000</ecfd:QtyItem>
+          <ecfd:UnmdItem>Kilo</ecfd:UnmdItem>
+          <ecfd:PrcBrutoItem>2.7200</ecfd:PrcBrutoItem>
+          <ecfd:PrcNetoItem>2.7200</ecfd:PrcNetoItem>
+          <ecfd:MontoBrutoItem>544.00</ecfd:MontoBrutoItem>
+          <ecfd:MontoNetoItem>544.00</ecfd:MontoNetoItem>
+          <ecfd:TpoDocRef>ON</ecfd:TpoDocRef>
+        </ecfd:Detalle>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>3</ecfd:NroLinDet>
+          <ecfd:CdgItem>
+            <ecfd:TpoCodigo>IN</ecfd:TpoCodigo>
+            <ecfd:VlrCodigo>22831623829</ecfd:VlrCodigo>
+          </ecfd:CdgItem>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>Kieralon MRN.MX liq c               0200</ecfd:DscItem>
+          <ecfd:QtyItem>1400.000</ecfd:QtyItem>
+          <ecfd:UnmdItem>Kilo</ecfd:UnmdItem>
+          <ecfd:PrcBrutoItem>2.7200</ecfd:PrcBrutoItem>
+          <ecfd:PrcNetoItem>2.7200</ecfd:PrcNetoItem>
+          <ecfd:MontoBrutoItem>3808.00</ecfd:MontoBrutoItem>
+          <ecfd:MontoNetoItem>3808.00</ecfd:MontoNetoItem>
+          <ecfd:TpoDocRef>ON</ecfd:TpoDocRef>
+        </ecfd:Detalle>
+        <ecfd:TimeStamp>2017-05-03T16:25:46</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="NumeroCliente">0000181906</ecfd:campoString>
+        <ecfd:campoString name="OrdenCompra">5422</ecfd:campoString>
+        <ecfd:campoString name="SI_ZZZ">CINCO MIL SEISCIENTOS SETENTA Y NUEVE Dólar USA 36/100</ecfd:campoString>
+        <ecfd:campoString name="Texto3">Lun a Vier 8:00 a 17:00 Hrs</ecfd:campoString>
+        <ecfd:campoString name="Texto4" />
+        <ecfd:campoString name="Texto5">Entregar  con orden de compra  y hojas de seguridad</ecfd:campoString>
+        <ecfd:campoString name="Transportista1" />
+        <ecfd:campoString name="Transportista2" />
+        <ecfd:campoString name="Pedido">0003504497</ecfd:campoString>
+        <ecfd:campoString name="Inco">LAB</ecfd:campoString>
+        <ecfd:campoString name="Departamento">Textile</ecfd:campoString>
+        <ecfd:campoString name="Vendedor">M63 Ivan Vazquez</ecfd:campoString>
+        <ecfd:campoString name="Transportista" />
+        <ecfd:campoString name="SucEmision">4001</ecfd:campoString>
+        <ecfd:campoString name="NumEntrega">83861145</ecfd:campoString>
+        <ecfd:campoString name="PagoMon">Para el Pago de ésta Factura en Moneda Nacional, se considera el tipo de cambio del Diario Oficial de la Federación o Banco de México del día anterior a la fecha de Pago, conforme a lo establecido por el Art. 8 de la Ley Monetaria Vigente.</ecfd:campoString>
+        <ecfd:campoString name="Ref1" />
+        <ecfd:campoString name="Ref2">Esta Factura causará intereses moratorios del 3% mensual, si no es pagada a su vencimiento. Los pagos deben hacerse a nombre de Archroma Textiles Mexico, S. de R.L. de C.V. en nuestra cuenta en Moneda Nacional No. 13787016 Clabe: 10618000013787</ecfd:campoString>
+        <ecfd:campoString name="Ref3" />
+        <ecfd:campoString name="Ref4" />
+        <ecfd:campoString name="Texto1">LA CONTRAPRESTACION DE ESTA FACTURA SERÁ EN UNA SOLA EXHIBICION</ecfd:campoString>
+        <ecfd:campoString name="Texto2" />
+        <ecfd:campoString name="FechaOrdenCompra">20170421</ecfd:campoString>
+        <ecfd:campoString name="Texto6">Recabar el sello de recepcion</ecfd:campoString>
+        <ecfd:campoString name="Texto7" />
+        <ecfd:campoString name="Texto8" />
+        <ecfd:campoString name="Texto9" />
+        <ecfd:campoString name="Texto10" />
+        <ecfd:campoString name="Texto11" />
+        <ecfd:campoString name="Texto12" />
+        <ecfd:campoString name="Texto13" />
+        <ecfd:campoString name="Texto14" />
+        <ecfd:campoString name="Texto15" />
+        <ecfd:campoString name="Texto16" />
+        <ecfd:campoString name="Texto17" />
+        <ecfd:campoString name="Texto18" />
+        <ecfd:campoString name="Texto19" />
+        <ecfd:campoString name="Texto20" />
+        <ecfd:campoString name="Texto21" />
+        <ecfd:campoString name="Texto22" />
+        <ecfd:campoString name="Texto23" />
+        <ecfd:campoString name="Texto24" />
+        <ecfd:campoString name="Texto25" />
+        <ecfd:campoString name="Texto26" />
+        <ecfd:campoString name="Texto27" />
+        <ecfd:campoString name="Texto28" />
+        <ecfd:campoString name="Texto29" />
+        <ecfd:campoString name="Texto30" />
+        <ecfd:campoString name="FechaVenc">02.07.2017</ecfd:campoString>
+        <ecfd:campoString name="Ref2a">0163 en Bank of America Merrill Lynch o cuenta en Dólares No. 1257366536 SWIFT BOFAUS3N en Bank of America Merrill Lynch</ecfd:campoString>
+        <ecfd:campoString name="NumeroInterno">9600031108</ecfd:campoString>
+        <ecfd:campoString name="Texto31" />
+        <ecfd:campoString name="Texto32" />
+        <ecfd:campoString name="Texto33" />
+        <ecfd:campoString name="Texto34" />
+        <ecfd:campoString name="Texto35" />
+        <ecfd:campoString name="Texto36" />
+        <ecfd:campoString name="Texto37" />
+        <ecfd:campoString name="Texto38" />
+        <ecfd:campoString name="Texto39" />
+        <ecfd:campoString name="Texto40" />
+        <ecfd:campoString name="Texto41" />
+        <ecfd:campoString name="Texto42" />
+        <ecfd:campoString name="Texto43" />
+        <ecfd:campoString name="Texto44" />
+        <ecfd:campoString name="Texto45" />
+        <ecfd:campoString name="Texto46" />
+        <ecfd:campoString name="Texto47" />
+        <ecfd:campoString name="Texto48" />
+        <ecfd:campoString name="Texto49" />
+        <ecfd:campoString name="Texto50" />
+        <ecfd:campoString name="Texto51" />
+        <ecfd:campoString name="Texto52" />
+        <ecfd:campoString name="Texto53" />
+        <ecfd:campoString name="Texto54" />
+        <ecfd:campoString name="Texto55" />
+        <ecfd:campoString name="Texto56" />
+        <ecfd:campoString name="Texto57" />
+        <ecfd:campoString name="Texto58" />
+        <ecfd:campoString name="Texto59" />
+        <ecfd:campoString name="Texto60" />
+        <ecfd:campoString name="Texto61" />
+        <ecfd:campoString name="Texto62" />
+        <ecfd:campoString name="Texto63" />
+        <ecfd:campoString name="Texto64" />
+        <ecfd:campoString name="Texto65" />
+        <ecfd:campoString name="Texto66" />
+        <ecfd:campoString name="Texto67" />
+        <ecfd:campoString name="Texto68" />
+        <ecfd:campoString name="Texto69" />
+        <ecfd:campoString name="Texto70" />
+        <ecfd:campoString name="Texto71" />
+        <ecfd:campoString name="Texto72" />
+        <ecfd:campoString name="Texto73" />
+        <ecfd:campoString name="Texto74" />
+        <ecfd:campoString name="Texto75" />
+        <ecfd:campoString name="Texto76" />
+        <ecfd:campoString name="Texto77" />
+        <ecfd:campoString name="Texto78" />
+        <ecfd:campoString name="Texto79" />
+        <ecfd:campoString name="Texto80" />
+        <ecfd:campoString name="Texto81" />
+        <ecfd:campoString name="Texto82" />
+        <ecfd:campoString name="Texto83" />
+        <ecfd:campoString name="Texto84" />
+        <ecfd:campoString name="Texto85" />
+        <ecfd:campoString name="Texto86" />
+        <ecfd:campoString name="Texto87" />
+        <ecfd:campoString name="Texto88" />
+        <ecfd:campoString name="Texto89" />
+        <ecfd:campoString name="Texto90" />
+        <ecfd:campoString name="Texto91" />
+        <ecfd:campoString name="Texto92" />
+        <ecfd:campoString name="Texto93" />
+        <ecfd:campoString name="Texto94" />
+        <ecfd:campoString name="Texto95" />
+        <ecfd:campoString name="Texto96" />
+        <ecfd:campoString name="Texto97" />
+        <ecfd:campoString name="Texto98" />
+        <ecfd:campoString name="Texto99" />
+        <ecfd:campoString name="Texto100" />
+        <ecfd:campoString name="ClaseDoc">Factura</ecfd:campoString>
+        <ecfd:campoString name="Tasa">16</ecfd:campoString>
+        <ecfd:campoString name="Ret15">0.00</ecfd:campoString>
+        <ecfd:campoString name="Ret4">0.00</ecfd:campoString>
+        <ecfd:campoString name="CPReceptor">54040</ecfd:campoString>
+        <ecfd:campoString name="CPShipto">54800</ecfd:campoString>
+        <ecfd:campoString name="ret">16</ecfd:campoString>
+        <ecfd:campoString name="CuentaBanco">No identificado</ecfd:campoString>
+        <ecfd:campoString name="Regimen">REGIMEN GENERAL DE LEY PERSONAS MORALES</ecfd:campoString>
+        <ecfd:campoString name="RegimenFiscal">REGIMEN GENERAL DE LEY PERSONAS MORALES</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago" />
+        <ecfd:campoString name="LugarDeExpedicion">México, Estado de México</ecfd:campoString>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>1</ecfd:CustDetNroLin>
+          <ecfd:CustDetAFN_01>4004012400</ecfd:CustDetAFN_01>
+          <ecfd:CustDetAFN_02>22831623829</ecfd:CustDetAFN_02>
+          <ecfd:CustDetNUE_02>200</ecfd:CustDetNUE_02>
+          <ecfd:CustDetNUE_03>1</ecfd:CustDetNUE_03>
+          <ecfd:CustDetNUD_01>0.00</ecfd:CustDetNUD_01>
+        </ecfd:CustDetalle>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>2</ecfd:CustDetNroLin>
+          <ecfd:CustDetAFN_01>4004012422</ecfd:CustDetAFN_01>
+          <ecfd:CustDetAFN_02>22831623829</ecfd:CustDetAFN_02>
+          <ecfd:CustDetNUE_02>200</ecfd:CustDetNUE_02>
+          <ecfd:CustDetNUE_03>1</ecfd:CustDetNUE_03>
+          <ecfd:CustDetNUD_01>0.00</ecfd:CustDetNUD_01>
+        </ecfd:CustDetalle>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>3</ecfd:CustDetNroLin>
+          <ecfd:CustDetAFN_01>4004012971</ecfd:CustDetAFN_01>
+          <ecfd:CustDetAFN_02>22831623829</ecfd:CustDetAFN_02>
+          <ecfd:CustDetNUE_02>1400</ecfd:CustDetNUE_02>
+          <ecfd:CustDetNUE_03>7</ecfd:CustDetNUE_03>
+          <ecfd:CustDetNUD_01>0.00</ecfd:CustDetNUD_01>
+        </ecfd:CustDetalle>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

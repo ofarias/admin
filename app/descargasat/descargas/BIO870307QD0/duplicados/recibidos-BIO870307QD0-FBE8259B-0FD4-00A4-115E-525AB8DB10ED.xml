@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " serie="C" folio="7377" fecha="2015-10-05T16:49:02" sello="kaZEdpZWPF/iOTrzcW+PL74kHuqFEhCtdc6BVRJ0m7tvM97W2vAOLkgND8adBUz2JvVQt46vfO6Dl1TwrfL8mEDqxyqPwcTtevFDkZI3n7MJcIWqwZUUmTjfXGaBpbWIathOjCFILGzJLQKD3qCvo3zgEXXE7NsphZof22XACvE=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000303288177" certificado="MIIEcjCCA1qgAwIBAgIUMDAwMDEwMDAwMDAzMDMyODgxNzcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAzMTEyMzU5MTVaFw0xODAzMTEyMzU5MTVaMIG+MSAwHgYDVQQDExdMRVlFTkRBIFNPTk9SQSBTQSBERSBDVjEgMB4GA1UEKRMXTEVZRU5EQSBTT05PUkEgU0EgREUgQ1YxIDAeBgNVBAoTF0xFWUVOREEgU09OT1JBIFNBIERFIENWMSUwIwYDVQQtExxMU08xMzA2MjFFRTggLyBHQUFGNjIwMTE1NzY0MR4wHAYDVQQFExUgLyBHQUFGNjIwMTE1SFNSTFZSMDcxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAkvkg62lBcC3oFXWKfpkhlNf45etFuHSH4E7gGvLDdGOgYs4EpbDs1tnp13av86bm7UjYYAGFdHzj/stA7aNpLvO6LJjIc6A8L0y4JQqSZsdzzOvdbNLsn5kapFU7wgdbM5WI/qOklq4IzU12CSY67AGpjRZ/ujj4Ex5g649FdQUCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAIlcFIFz8ghC8QWRYNM6zsZiPk7IiiHog3t0maJtnrdtASw85tMj4Ys9mN+rR0iiRS7wOJv4Z0A48vWhwbYoFx+i+AUqZRvHbL/cM6qLVeFze20hkcseXPI0OIx+Xo6fCnpTT/E3Y3p/+wVyZXWmTTAqiGYrSChopawl/k303zxF2ezyXVu/ZGtQniOno1BMzea7effufiLdFuFQVhc6AJfrTvK433clzbWabg13EF4jwpRuVaM95ap7w7Gq3hkvGUnnVtHnQCFypH3jrT0jNCYFGzKHL5OSlEGL/m11MnZBFmPWYbm3n0uGEKDKfDXbnSp5rUg3SylKlE56sbmdBBk=" subTotal="155.172400" Moneda="MXP" total="179.999984" metodoDePago="EFECTIVO" tipoDeComprobante="ingreso" LugarExpedicion="Sonora" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="LSO130621EE8" nombre="LEYENDA SONORA SA DE CV">
+		<cfdi:DomicilioFiscal calle="DR. PESQUEIRA" noExterior="137" colonia="PRADOS DEL CENTENARIO" localidad="HERMOSILLO" municipio="HERMOSILLO" estado="Sonora" pais="MEXICO" codigoPostal="83260" />
+		<cfdi:RegimenFiscal Regimen="GENERAL DE LEY PERSONAS MORALES" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" localidad="MEXICO" municipio="TLALNEPLANTLA" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="SERVICIO" descripcion="CONSUMO" valorUnitario="155.172400" importe="155.172400">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="24.827584">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="24.827584" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2015-10-05T16:49:03" UUID="FBE8259B-0FD4-00A4-115E-525AB8DB10ED" noCertificadoSAT="00001000000203392777" selloCFD="kaZEdpZWPF/iOTrzcW+PL74kHuqFEhCtdc6BVRJ0m7tvM97W2vAOLkgND8adBUz2JvVQt46vfO6Dl1TwrfL8mEDqxyqPwcTtevFDkZI3n7MJcIWqwZUUmTjfXGaBpbWIathOjCFILGzJLQKD3qCvo3zgEXXE7NsphZof22XACvE=" selloSAT="BQgfdvAfsW0Vd16vR35mGVZ+cpO9klTV0npMofZ19SGQ7xNQZXArvSZx7Fu5316u5z9CUqQf5qsXaVESgE/1MD3Jev+r5QxrHevJ0lE4IE1gxvm0wAzvNC/VdoIUwTqzvQGItm+Xn4qTel6sDR/12V4jp87MiiJTe0LoBXdH2pQ=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:bfa2="http://www.buzonfiscal.com/ns/addenda/bf/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="SAN PEDRO GARZA GARCIA Nuevo León" metodoDePago="NO IDENTIFICADO" tipoDeComprobante="ingreso" total="2520.00" descuento="0.00" subTotal="2172.41" certificado="MIIEgDCCA2igAwIBAgIUMDAwMDEwMDAwMDAyMDIxNjc0MzcwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTAxODE4MDcxNloXDTE2MTAxODE4MDcxNlowgcExITAfBgNVBAMTGFNFUlZJQ0lPUyBQRVJBTCBTQSBERSBDVjEhMB8GA1UEKRMYU0VSVklDSU9TIFBFUkFMIFNBIERFIENWMSEwHwYDVQQKExhTRVJWSUNJT1MgUEVSQUwgU0EgREUgQ1YxJTAjBgNVBC0THFNQRTA3MDkxMDIxOCAvIEFBVk01NTAyMjg5U0ExHjAcBgNVBAUTFSAvIEFBVk01NTAyMjhITkxMUlIwNTEPMA0GA1UECxMGVU5JREFEMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC5JH7C7LI4eoMno5SceNE8at1j/SmUiSmgVorqEY6vyAhEZvePjElynBgtRdYAu1AvsIyzGxrdThgc1OTT8PiiBvTheAMRL6oWdHbjItkAieRzNc1VtWN9qIvlNfMlPZZUWFONwGosn4zJQ879jrC0axuT+ihET/VaGE1gHHxKGwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAAn8kAAL1DUZLlOiQDglkgzir2onnb5hzZtqYWA42uquL7NUQ14RULg5CeH3kyTzPJp9Z4QReIERYILfgjvwkeq87FzbLrgrdI+U83FuKX+2q6eSZMm/L0W8Amb96jvNqUNiyq7ZID4TdJTD92TEw0Wlw51nC/ST/RBUzi9VCUYy6U7FgBR0uDruaLJvo77ez5PyfWnqcEmtmbFPB1fUaw4HKK3tsg1SjNMzhnP3GEvAWwvVQuNCUMlGUVPFYFqR428zO/yvob5aMNBsnht10ip2lLrrxAdDAriUxD4qvPY2dOBopRfIMJ4JHI73Itxc1wsYuJRV5nFKIb1TD98gxZg==" noCertificado="00001000000202167437" formaDePago="PAGO EN UNA SOLA EXHIBICION" sello="pZHXCWtQxwXqSOzjB8xSqAwgLq6kOi1R1wtboIbP3hiNQGyhyvjhc06+06NKT8mXH5LxBPhclqnGG0jW7UNybCm+2BWmdDTDlydnJtMF+tAUQE73rbwckPNfAqld6UKGFH3WjgEg0D2fN3y06rBvdyg0qRF4RkEwOn7o4/2qsXc=" fecha="2015-12-10T17:23:45" folio="5829" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.buzonfiscal.com/ns/addenda/bf/2 http://www.buzonfiscal.com/schema/xsd/Addenda_BF_v20.xsd">
+  <cfdi:Emisor nombre="SERVICIOS PERAL SA DE CV" rfc="SPE070910218">
+    <cfdi:DomicilioFiscal codigoPostal="66265" pais="México" estado="Nuevo León" municipio="SAN PEDRO GARZA GARCIA" colonia="VALLE DEL CAMPESTRE" noInterior="SUR" noExterior="305" calle="GOMEZ MORIN" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+    <cfdi:Domicilio codigoPostal="54040" pais="MEXICO" estado="ESTADO DE MEXICO" municipio="TLALNEPANTLA " colonia="FRACC. LOS PIRULES" noExterior="2900-804" calle="BLVD. MANUEL AVILA  CAMACHO " />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto importe="2172.41" valorUnitario="2172.41" descripcion="CONSUMO DE ALIMENTOS" unidad="SERVICIOS" cantidad="1.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="347.59">
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="347.59" tasa="16.00" impuesto="IVA" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="Yr16EK6Ja55CF0RHlOnG2dNlQsUQPW5DPxDncNDnrz+nz0IrDxMsv3qNJHniEA1x2Fp1x1aKdKmk3wndZO5QTz178Tqga0QZt3zIFI9loUfupvsb+Bzk2vqBai0nH72Lg/G/ugjeRrpsIz/NRTf65rSmRaPiT/IpwKvBBOLM3HU=" noCertificadoSAT="00001000000202693892" selloCFD="pZHXCWtQxwXqSOzjB8xSqAwgLq6kOi1R1wtboIbP3hiNQGyhyvjhc06+06NKT8mXH5LxBPhclqnGG0jW7UNybCm+2BWmdDTDlydnJtMF+tAUQE73rbwckPNfAqld6UKGFH3WjgEg0D2fN3y06rBvdyg0qRF4RkEwOn7o4/2qsXc=" FechaTimbrado="2015-12-10T17:23:45" UUID="1b200aeb-3641-484d-a8b5-a40b167cf73e" version="1.0" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

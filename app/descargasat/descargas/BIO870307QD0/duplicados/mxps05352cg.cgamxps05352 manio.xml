@@ -1,0 +1,26 @@
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="TMEX" folio="547277" fecha="2016-10-20T11:56:46" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="14945.08" Moneda="MXN" total="17336.29" metodoDePago="NA" tipoDeComprobante="ingreso" LugarExpedicion="MEXICO CDMX" noCertificado="00001000000301199810" certificado="MIIExTCCA62gAwIBAgIUMDAwMDEwMDAwMDAzMDExOTk4MTAwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMDExNjM1MjFaFw0xNzExMDExNjM1MjFaMIIBEDEvMC0GA1UEAxMmVFJBTlNQT1JUQUNJT04gTUVYSUNPIEVYUFJFU1MgU0EgREUgQ1YxLzAtBgNVBCkTJlRSQU5TUE9SVEFDSU9OIE1FWElDTyBFWFBSRVNTIFNBIERFIENWMS8wLQYDVQQKEyZUUkFOU1BPUlRBQ0lPTiBNRVhJQ08gRVhQUkVTUyBTQSBERSBDVjElMCMGA1UELRMcVE1FODkwNzEzS0Q2IC8gR09NRzc4MDIyMTIyNTEeMBwGA1UEBRMVIC8gR09NRzc4MDIyMUhERk5MUjAyMTQwMgYDVQQLEytUUkFOU1BPUlRBQ0lPTiBNRVhJQ08gRVhQUkVTUywgUy5BLiBERSBDLlYuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCJoun+PbyrrxK9B+Dt0VYmCGgnlhjwpPdbOlbDQa3pVHs3xBXsxQMw/0ZC+60p1zK5avmKUb/wgHhQNOUKF6vSN5GZOrmUr1r225a8EoKY6YW5dHIj54hpyORTbFPq2PiAfUEwJY2kuRrIN/HieCejhRdLYkkTDynwRanbTVoEuQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAbe5XPOJBjzb7TxaCZTmvj76bnXi3n2Z1/RxzJUrrYwaRlalJhttFo5DVN459O2l8fiPx4+nTacCvH2mGeS6dnZ4fVIs8Nu0XxAwaIf91DaqbtPY8Z3ryWqUDao620W7kyMbwNc/jNgct9k7IVksGCReJoGHm5wrQf49F1sV6ck9N3Cj6mQAWs/3zHFs9wztVBPS+B44wIkk5XhrsFJyaYgAWP4zmQ3aZusQT0JPw0Rpcj09RP7Q1pVucFi0cdESFLVvZumFNZoO3b5g4+LId2N9XOq1/hq6TxQH8Oqw4VZVQ1m2LvMJ4WwimvLCr4G4p2HJcCF2Czy13Zhyea492Uw==" sello="fBs0cohdt7crG4FvqfinCZrSTV6qd8D/LKte2phOBIY1nWQIwyDLvWJcP0tX1PYuZWg+uUyirUkZilZqJFA83HSJaxaq6EySY2xf/ZmBObsoBDnLyaNV6r0PANNEiBZVOVnktyW/EkZRkbVLP+WyRGkKzszvb7imTmkvEmatYB0=">
+  <cfdi:Emisor rfc="TME890713KD6" nombre="TRANSPORTACION MEXICO EXPRESS, S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="ALMACEN FISCAL NO. 21 ADUANA DEL A.I.C.M." municipio="VENUSTIANO CARRANZA" estado="CIUDAD DE MEXICO" pais="MEXICO" codigoPostal="15520" />
+    <cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL ÁVILA CAMACHO No. 2900, No INT. 804" colonia="FRACCIONAMIENTO LOS PIRULES" localidad="ESTADO DE MÉXICO" municipio="TLALNEPANTLA" estado="ESTADO DE MÉXICO" pais="MÉXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="Manejo" valorUnitario="3615.00" importe="3615.00" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="Custodia" valorUnitario="1484.77" importe="1484.77" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="Almacenaje" valorUnitario="396.61" importe="396.61" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="Desconsolidacion" valorUnitario="0.00" importe="0.00" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="Refrigeracion" valorUnitario="8568.70" importe="8568.70" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="Maniobras Previo" valorUnitario="880.00" importe="880.00" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="Otros" valorUnitario="0.00" importe="0.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="2391.21">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="2391.21" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital &#xD;&#xA;&#xD;&#xA;http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="815A1F99-909A-4940-960E-34D50CCD00B7" FechaTimbrado="2016-10-20T11:57:35" selloCFD="fBs0cohdt7crG4FvqfinCZrSTV6qd8D/LKte2phOBIY1nWQIwyDLvWJcP0tX1PYuZWg+uUyirUkZilZqJFA83HSJaxaq6EySY2xf/ZmBObsoBDnLyaNV6r0PANNEiBZVOVnktyW/EkZRkbVLP+WyRGkKzszvb7imTmkvEmatYB0=" noCertificadoSAT="00001000000300392385" selloSAT="2XS5g811ValTCLZPf5ozbf2axFDYSQhKp7TBNBVEkx1YVQJcoPDkwq8h5/ZtYI8RmPpJcc22YOs69hG661lJPm+XQFgJAjdvxsJxhiBdEFEADoQsIijgZAOl8srbpUCU14XQC88lrGqVZ1RINaeQTpnX1HSwKI8Ylm2DaETz6z0=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

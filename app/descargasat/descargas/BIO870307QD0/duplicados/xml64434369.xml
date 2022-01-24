@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" Moneda="M.N." metodoDePago="TARJETA DE CREDITO" LugarExpedicion="Estado de Mexico" version="3.2" NumCtaPago="2008" folio="2288464" fecha="2015-08-28T11:45:01" sello="NkaF+OPLe/3pIqaZxTHJrOoHOD/l1FjjyCj+sw5Tjt8K7uGOg2xLmsdpSMVdlVlkx3q1kVOe0nIGr5ExUgX4yZrxgBaOMcL2DqHNtNXNAEFjUfpBZsjjlqt/o8P72KJCEINthOFVCzAxCfVpfib6G1Me+elPpLUxZI0TmZdIWpo=" formaDePago="PAGO EN UNA SOLA EXHIBICION" tipoDeComprobante="ingreso" noCertificado="00001000000201697887" certificado="MIIEdjCCA16gAwIBAgIUMDAwMDEwMDAwMDAyMDE2OTc4ODcwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDgwNjE2MTE1MVoXDTE2MDgwNjE2MTE1MVowgbcxHjAcBgNVBAMTFUkgKyBEIE1FWElDTyBTQSBERSBDVjEeMBwGA1UEKRMVSSArIEQgTUVYSUNPIFNBIERFIENWMR4wHAYDVQQKExVJICsgRCBNRVhJQ08gU0EgREUgQ1YxJTAjBgNVBC0THElTRDk1MDkyMUhFNSAvIFNPRlI2MjAzMDRVSjcxHjAcBgNVBAUTFSAvIFNPRlI2MjAzMDRIR1JCUk0wNTEOMAwGA1UECxMFVU5JQ0EwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKEuVV+CgQ9o19hF1xHHjRD/WpixQlo+x/QE6f4+tR5YO4B3pTj1I/t4730hyz/yfQ4oGZGC95OIK4zDnAyV4rubg7Xi5f0RrMizza8rc6oX9a8p7yvQGMUCNtlfoesjzBlZoRq+rA61dUXd0mqjOzzcTC1UXkQqSrJ98xzf4ABVAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQCpYUGEJbazdQ6CayPKCoQ1oPEUIVpDZ5IhceH/tnzPBPTDEFAjZvgp4xsyVuTn+sy6nNB7nyn26YET8/TX5HDiJVcR0UDm9ADJOztcqHYAzELVtRMqF232VjhnArxOD6GFmrXIDk9ukqMQDofVl53sVbygtJ9JokmlMcWi73tZwA7E1joqAh92M+C5cKX8h11KVNFuqHpt7PsOoWpcLnsRQ0ks545MRFG1edOyGaTu6MrQp1etk+AHradWkB6NwGgOW4C50W18Z5kKtQa9YRquWkZaTXbFqZ+lmGLuvp1vY+zblXuRyuiQGrlhDD5cEH4oSvt8iD2rLQOnNGaCANKw" condicionesDePago="CONTADO" subTotal="19896.230000" descuento="0.000000" total="23079.630000" serie="C">
+	<cfdi:Emisor rfc="ISD950921HE5" nombre="I+D MEXICO S.A DE C.V.">
+		<cfdi:DomicilioFiscal calle="Vialidad de la Barranca" noExterior="6" noInterior="piso 6" colonia="Exhacienda Jesus del Monte" localidad="Estado de Mexico" municipio="Huixquilucan" estado="Mexico" pais="MEXICO" codigoPostal="52772" />
+		<cfdi:ExpedidoEn calle="Vialidad de la Barranca" noExterior="no. 6" noInterior="Piso 6" colonia="Exhacienda Jesus del Monte" localidad="México" municipio="Huixquilucan" estado="Estado de Mexico" codigoPostal="52772" pais="México" />
+		<cfdi:RegimenFiscal Regimen="General de Ley Personas Morales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="EXT. 2900" noInterior="INT. 804" colonia="PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="MEX" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="4.000000" unidad="NO APLICA" descripcion="PEAJE AMOZOC" valorUnitario="47.410000" importe="189.660000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE A.NAUCALPAN ECATEPEC" valorUnitario="12.070000" importe="12.070000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE A.NAUCALPAN ECATEPEC" valorUnitario="59.480000" importe="59.480000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE A.NAUCALPAN ECATEPEC" valorUnitario="27.590000" importe="55.170000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE ATIZAPAN" valorUnitario="82.760000" importe="82.760000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE ATIZAPAN" valorUnitario="4.310000" importe="8.620000"/>
+		<cfdi:Concepto cantidad="4.000000" unidad="NO APLICA" descripcion="PEAJE BERMEJILLOS" valorUnitario="90.520000" importe="362.070000"/>
+		<cfdi:Concepto cantidad="4.000000" unidad="NO APLICA" descripcion="PEAJE CEBALLOS" valorUnitario="103.450000" importe="413.790000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE CERRO GORDO" valorUnitario="30.170000" importe="60.340000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CHALCO" valorUnitario="12.930000" importe="12.930000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CHAPULTEPEC" valorUnitario="21.550000" importe="21.550000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE CHAPULTEPEC MORELIA" valorUnitario="31.900000" importe="63.790000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CHICHIMEQUILLAS" valorUnitario="34.480000" importe="34.480000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="78.450000" importe="156.900000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="33.620000" importe="67.240000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="52.590000" importe="52.590000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="50.860000" importe="50.860000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="36.210000" importe="36.210000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="34.480000" importe="34.480000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="23.280000" importe="23.280000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="22.410000" importe="22.410000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="18.970000" importe="18.970000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="17.240000" importe="17.240000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="11.210000" importe="11.210000"/>
+		<cfdi:Concepto cantidad="3.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="54.310000" importe="162.930000"/>
+		<cfdi:Concepto cantidad="4.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="75.860000" importe="303.450000"/>
+		<cfdi:Concepto cantidad="4.000000" unidad="NO APLICA" descripcion="PEAJE CTO EXT MEXIQUENSE" valorUnitario="28.450000" importe="113.790000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CUAUTITLAN" valorUnitario="91.380000" importe="91.380000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE CUENCAME" valorUnitario="38.790000" importe="38.790000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE ECATEPEC VIAPASS" valorUnitario="53.450000" importe="53.450000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE ECATEPEC VIAPASS" valorUnitario="101.720000" importe="101.720000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE ENCARNACION DE DIAZ" valorUnitario="110.340000" importe="110.340000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE ESPERANZA" valorUnitario="94.830000" importe="189.660000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE IXTAPALUCA" valorUnitario="12.930000" importe="12.930000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE LA CUCHILLA" valorUnitario="56.030000" importe="56.030000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE LA VENTA" valorUnitario="82.760000" importe="82.760000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE LA VENTA" valorUnitario="78.450000" importe="78.450000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE LA VENTA" valorUnitario="91.380000" importe="91.380000"/>
+		<cfdi:Concepto cantidad="3.000000" unidad="NO APLICA" descripcion="PEAJE LA VENTA" valorUnitario="100.860000" importe="302.590000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE LA VENTA" valorUnitario="74.140000" importe="148.280000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE LA VENTA" valorUnitario="56.900000" importe="113.790000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE LA VENTA" valorUnitario="230.170000" importe="460.340000"/>
+		<cfdi:Concepto cantidad="4.000000" unidad="NO APLICA" descripcion="PEAJE LA VENTA" valorUnitario="157.760000" importe="631.030000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE LA VENTA" valorUnitario="209.480000" importe="209.480000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE LAGO DE GUADALUPE" valorUnitario="4.310000" importe="4.310000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE LAGO DE GUADALUPE" valorUnitario="160.340000" importe="160.340000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE LEON" valorUnitario="107.760000" importe="107.760000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE LEON GUZMAN" valorUnitario="133.620000" importe="133.620000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE LIB. LA PIEDAD" valorUnitario="38.790000" importe="77.590000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE LIB. OTE. S.L.P." valorUnitario="49.140000" importe="49.140000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE LIBRAMIENTO MATEHUAL" valorUnitario="18.970000" importe="18.970000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE MADIN" valorUnitario="74.140000" importe="74.140000"/>
+		<cfdi:Concepto cantidad="3.000000" unidad="NO APLICA" descripcion="PEAJE MADIN" valorUnitario="4.310000" importe="12.930000"/>
+		<cfdi:Concepto cantidad="5.000000" unidad="NO APLICA" descripcion="PEAJE MADIN" valorUnitario="26.720000" importe="133.620000"/>
+		<cfdi:Concepto cantidad="14.000000" unidad="NO APLICA" descripcion="PEAJE MARQUESA VIAPASS" valorUnitario="62.070000" importe="868.970000"/>
+		<cfdi:Concepto cantidad="16.000000" unidad="NO APLICA" descripcion="PEAJE MARQUESA VIAPASS" valorUnitario="31.030000" importe="496.550000"/>
+		<cfdi:Concepto cantidad="6.000000" unidad="NO APLICA" descripcion="PEAJE PALMILLAS" valorUnitario="60.340000" importe="362.070000"/>
+		<cfdi:Concepto cantidad="6.000000" unidad="NO APLICA" descripcion="PEAJE PALMILLAS" valorUnitario="120.690000" importe="724.140000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE PLAN DE AYALA" valorUnitario="99.140000" importe="99.140000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE QUERETARO" valorUnitario="56.030000" importe="112.070000"/>
+		<cfdi:Concepto cantidad="4.000000" unidad="NO APLICA" descripcion="PEAJE QUERETARO" valorUnitario="107.760000" importe="431.030000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE SALAMANCA" valorUnitario="56.030000" importe="112.070000"/>
+		<cfdi:Concepto cantidad="5.000000" unidad="NO APLICA" descripcion="PEAJE SAN MARCOS" valorUnitario="86.210000" importe="431.030000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE SAN MARCOS" valorUnitario="168.100000" importe="336.210000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE SAN MARCOS BIS" valorUnitario="25.860000" importe="25.860000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE SAN MIGUEL" valorUnitario="26.720000" importe="53.450000"/>
+		<cfdi:Concepto cantidad="13.000000" unidad="NO APLICA" descripcion="PEAJE SAN MIGUEL" valorUnitario="181.030000" importe="2353.450000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE SAN MIGUEL" valorUnitario="24.140000" importe="24.140000"/>
+		<cfdi:Concepto cantidad="3.000000" unidad="NO APLICA" descripcion="PEAJE SAN MIGUEL" valorUnitario="42.240000" importe="126.720000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE SAN PEDRO TORREON" valorUnitario="68.970000" importe="68.970000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE SANTA CASILDA VIAPAS" valorUnitario="33.620000" importe="67.240000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE SEG PISO A.U. NORTE" valorUnitario="12.030000" importe="12.030000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE SEG PISO A.U. NORTE" valorUnitario="21.440000" importe="21.440000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE SEG PISO A.U. NORTE" valorUnitario="8.000000" importe="8.000000"/>
+		<cfdi:Concepto cantidad="6.000000" unidad="NO APLICA" descripcion="PEAJE S.MARTIN PUE." valorUnitario="25.860000" importe="155.170000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE S.MARTIN PUE." valorUnitario="64.660000" importe="129.310000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE SN ANGEL ZURUMUCAPIO" valorUnitario="29.310000" importe="58.620000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE TEHUACAN" valorUnitario="30.170000" importe="60.340000"/>
+		<cfdi:Concepto cantidad="3.000000" unidad="NO APLICA" descripcion="PEAJE TEPEXPAN VIAPASS" valorUnitario="36.210000" importe="108.620000"/>
+		<cfdi:Concepto cantidad="14.000000" unidad="NO APLICA" descripcion="PEAJE TEPOTZOTLAN" valorUnitario="60.340000" importe="844.830000"/>
+		<cfdi:Concepto cantidad="9.000000" unidad="NO APLICA" descripcion="PEAJE TEPOTZOTLAN" valorUnitario="129.310000" importe="1163.790000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE TEPOTZOTLAN" valorUnitario="129.310000" importe="129.310000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE TERATAN VIAPASS" valorUnitario="33.620000" importe="67.240000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE TLALPAN" valorUnitario="60.340000" importe="120.690000"/>
+		<cfdi:Concepto cantidad="4.000000" unidad="NO APLICA" descripcion="PEAJE TLALPAN" valorUnitario="112.070000" importe="448.280000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE TORREON" valorUnitario="25.860000" importe="25.860000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE TULA I" valorUnitario="121.550000" importe="121.550000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE VIADUC BICENTENARIO" valorUnitario="9.760000" importe="9.760000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE VIADUC BICENTENARIO" valorUnitario="26.530000" importe="26.530000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE VIADUC BICENTENARIO" valorUnitario="56.570000" importe="56.570000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE VIADUC BICENTENARIO" valorUnitario="23.550000" importe="47.100000"/>
+		<cfdi:Concepto cantidad="4.000000" unidad="NO APLICA" descripcion="PEAJE VIADUC BICENTENARIO" valorUnitario="7.340000" importe="29.340000"/>
+		<cfdi:Concepto cantidad="5.000000" unidad="NO APLICA" descripcion="PEAJE VIADUC BICENTENARIO" valorUnitario="9.230000" importe="46.160000"/>
+		<cfdi:Concepto cantidad="9.000000" unidad="NO APLICA" descripcion="PEAJE VIADUC BICENTENARIO" valorUnitario="19.500000" importe="175.500000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE XONACATLAN" valorUnitario="58.620000" importe="117.240000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE XONACATLAN" valorUnitario="43.970000" importe="87.930000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJE ZACATECAS" valorUnitario="30.170000" importe="30.170000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE ZINAPECUARO" valorUnitario="114.660000" importe="229.310000"/>
+		<cfdi:Concepto cantidad="2.000000" unidad="NO APLICA" descripcion="PEAJE ZIRAHUEN VIAPASS" valorUnitario="21.550000" importe="43.100000"/>
+		<cfdi:Concepto cantidad="1.000000" unidad="NO APLICA" descripcion="PEAJEAJUSTE" valorUnitario="2836.210000" importe="2836.210000"/>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="3183.390000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.000000" importe="3183.390000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2015-08-28T11:45:01" UUID="AE0A8D1A-D081-96E2-ECE4-B35B05536577" noCertificadoSAT="00001000000203392777" selloCFD="NkaF+OPLe/3pIqaZxTHJrOoHOD/l1FjjyCj+sw5Tjt8K7uGOg2xLmsdpSMVdlVlkx3q1kVOe0nIGr5ExUgX4yZrxgBaOMcL2DqHNtNXNAEFjUfpBZsjjlqt/o8P72KJCEINthOFVCzAxCfVpfib6G1Me+elPpLUxZI0TmZdIWpo=" selloSAT="UD+PmR3bBbPs4duG9OeLUzfRdh1rKf7LUVBD1EDXbj1153yM4cKAzK2v4DvEZdHjmtM/0wIBe9W56Hdkmjy0zoJxRnmrSALZsodJQEw2vfLt7G8pbF9GSIhKRw1XKpP1xXi4ujkCS2g9yt0czFM0x9jzuxuXDOtIg8hap0Fj8sU=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+	
+<cfdi:Addenda>
+<ext:ElementosExtra xmlns:ext="http://idmexico.sicofi.com.mx">
+<ext:Conector>13098</ext:Conector>
+<ext:CadenaOriginal>{CO}</ext:CadenaOriginal>
+<ext:IdDoc>{UUID}</ext:IdDoc>
+<ext:subtotal>19896.23</ext:subtotal>
+<ext:descuentos>0.00</ext:descuentos>
+<ext:total>23079.63</ext:total>
+<ext:cargos>19896.24</ext:cargos>
+<ext:totalSinImpuestos>19896.24</ext:totalSinImpuestos>
+<ext:totalImpuestos>3183.39</ext:totalImpuestos>
+<ext:status>VALIDO</ext:status>
+<ext:tipoDocumento>FACTURA</ext:tipoDocumento>
+<ext:cantidadConLetra>VEINTITRES MIL SETENTA Y NUEVE PESOS 63/100 M.N.</ext:cantidadConLetra>
+<ext:periodo>PERIODO 106-R DEL 27 JULIO AL 26 DE AGOST DEL 2015</ext:periodo>
+<ext:datosReceptor noCliente="13098"/>
+<ext:Partidas><ext:Partida descripcion="NO APLICA" partida="1" clase="1" descripcionExt="PEAJE AMOZOC" cantidad="4.00" precioUnitario="47.41" importe="189.66" descuento="0.00" importeGravado="189.66" IVA="30.34" total="220.00"/>
+<ext:Partida descripcion="NO APLICA" partida="2" clase="1" descripcionExt="PEAJE A.NAUCALPAN ECATEPEC" cantidad="1.00" precioUnitario="12.07" importe="12.07" descuento="0.00" importeGravado="12.07" IVA="1.93" total="14.00"/>
+<ext:Partida descripcion="NO APLICA" partida="3" clase="2" descripcionExt="PEAJE A.NAUCALPAN ECATEPEC" cantidad="1.00" precioUnitario="59.48" importe="59.48" descuento="0.00" importeGravado="59.48" IVA="9.52" total="69.00"/>
+<ext:Partida descripcion="NO APLICA" partida="4" clase="2" descripcionExt="PEAJE A.NAUCALPAN ECATEPEC" cantidad="2.00" precioUnitario="27.59" importe="55.17" descuento="0.00" importeGravado="55.17" IVA="8.83" total="64.00"/>
+<ext:Partida descripcion="NO APLICA" partida="5" clase="1" descripcionExt="PEAJE ATIZAPAN" cantidad="1.00" precioUnitario="82.76" importe="82.76" descuento="0.00" importeGravado="82.76" IVA="13.24" total="96.00"/>
+<ext:Partida descripcion="NO APLICA" partida="6" clase="1" descripcionExt="PEAJE ATIZAPAN" cantidad="2.00" precioUnitario="4.31" importe="8.62" descuento="0.00" importeGravado="8.62" IVA="1.38" total="10.00"/>
+<ext:Partida descripcion="NO APLICA" partida="7" clase="1" descripcionExt="PEAJE BERMEJILLOS" cantidad="4.00" precioUnitario="90.52" importe="362.07" descuento="0.00" importeGravado="362.07" IVA="57.93" total="420.00"/>
+<ext:Partida descripcion="NO APLICA" partida="8" clase="1" descripcionExt="PEAJE CEBALLOS" cantidad="4.00" precioUnitario="103.45" importe="413.79" descuento="0.00" importeGravado="413.79" IVA="66.21" total="480.00"/>
+<ext:Partida descripcion="NO APLICA" partida="9" clase="1" descripcionExt="PEAJE CERRO GORDO" cantidad="2.00" precioUnitario="30.17" importe="60.34" descuento="0.00" importeGravado="60.34" IVA="9.66" total="70.00"/>
+<ext:Partida descripcion="NO APLICA" partida="10" clase="1" descripcionExt="PEAJE CHALCO" cantidad="1.00" precioUnitario="12.93" importe="12.93" descuento="0.00" importeGravado="12.93" IVA="2.07" total="15.00"/>
+<ext:Partida descripcion="NO APLICA" partida="11" clase="1" descripcionExt="PEAJE CHAPULTEPEC" cantidad="1.00" precioUnitario="21.55" importe="21.55" descuento="0.00" importeGravado="21.55" IVA="3.45" total="25.00"/>
+<ext:Partida descripcion="NO APLICA" partida="12" clase="1" descripcionExt="PEAJE CHAPULTEPEC MORELIA" cantidad="2.00" precioUnitario="31.90" importe="63.79" descuento="0.00" importeGravado="63.79" IVA="10.21" total="74.00"/>
+<ext:Partida descripcion="NO APLICA" partida="13" clase="1" descripcionExt="PEAJE CHICHIMEQUILLAS" cantidad="1.00" precioUnitario="34.48" importe="34.48" descuento="0.00" importeGravado="34.48" IVA="5.52" total="40.00"/>
+<ext:Partida descripcion="NO APLICA" partida="14" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="2.00" precioUnitario="78.45" importe="156.90" descuento="0.00" importeGravado="156.90" IVA="25.10" total="182.00"/>
+<ext:Partida descripcion="NO APLICA" partida="15" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="2.00" precioUnitario="33.62" importe="67.24" descuento="0.00" importeGravado="67.24" IVA="10.76" total="78.00"/>
+<ext:Partida descripcion="NO APLICA" partida="16" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="1.00" precioUnitario="52.59" importe="52.59" descuento="0.00" importeGravado="52.59" IVA="8.41" total="61.00"/>
+<ext:Partida descripcion="NO APLICA" partida="17" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="1.00" precioUnitario="50.86" importe="50.86" descuento="0.00" importeGravado="50.86" IVA="8.14" total="59.00"/>
+<ext:Partida descripcion="NO APLICA" partida="18" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="1.00" precioUnitario="36.21" importe="36.21" descuento="0.00" importeGravado="36.21" IVA="5.79" total="42.00"/>
+<ext:Partida descripcion="NO APLICA" partida="19" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="1.00" precioUnitario="34.48" importe="34.48" descuento="0.00" importeGravado="34.48" IVA="5.52" total="40.00"/>
+<ext:Partida descripcion="NO APLICA" partida="20" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="1.00" precioUnitario="23.28" importe="23.28" descuento="0.00" importeGravado="23.28" IVA="3.72" total="27.00"/>
+<ext:Partida descripcion="NO APLICA" partida="21" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="1.00" precioUnitario="22.41" importe="22.41" descuento="0.00" importeGravado="22.41" IVA="3.59" total="26.00"/>
+<ext:Partida descripcion="NO APLICA" partida="22" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="1.00" precioUnitario="18.97" importe="18.97" descuento="0.00" importeGravado="18.97" IVA="3.03" total="22.00"/>
+<ext:Partida descripcion="NO APLICA" partida="23" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="1.00" precioUnitario="17.24" importe="17.24" descuento="0.00" importeGravado="17.24" IVA="2.76" total="20.00"/>
+<ext:Partida descripcion="NO APLICA" partida="24" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="1.00" precioUnitario="11.21" importe="11.21" descuento="0.00" importeGravado="11.21" IVA="1.79" total="13.00"/>
+<ext:Partida descripcion="NO APLICA" partida="25" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="3.00" precioUnitario="54.31" importe="162.93" descuento="0.00" importeGravado="162.93" IVA="26.07" total="189.00"/>
+<ext:Partida descripcion="NO APLICA" partida="26" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="4.00" precioUnitario="75.86" importe="303.45" descuento="0.00" importeGravado="303.45" IVA="48.55" total="352.00"/>
+<ext:Partida descripcion="NO APLICA" partida="27" clase="1" descripcionExt="PEAJE CTO EXT MEXIQUENSE" cantidad="4.00" precioUnitario="28.45" importe="113.79" descuento="0.00" importeGravado="113.79" IVA="18.21" total="132.00"/>
+<ext:Partida descripcion="NO APLICA" partida="28" clase="1" descripcionExt="PEAJE CUAUTITLAN" cantidad="1.00" precioUnitario="91.38" importe="91.38" descuento="0.00" importeGravado="91.38" IVA="14.62" total="106.00"/>
+<ext:Partida descripcion="NO APLICA" partida="29" clase="1" descripcionExt="PEAJE CUENCAME" cantidad="1.00" precioUnitario="38.79" importe="38.79" descuento="0.00" importeGravado="38.79" IVA="6.21" total="45.00"/>
+<ext:Partida descripcion="NO APLICA" partida="30" clase="1" descripcionExt="PEAJE ECATEPEC VIAPASS" cantidad="1.00" precioUnitario="53.45" importe="53.45" descuento="0.00" importeGravado="53.45" IVA="8.55" total="62.00"/>
+<ext:Partida descripcion="NO APLICA" partida="31" clase="1" descripcionExt="PEAJE ECATEPEC VIAPASS" cantidad="1.00" precioUnitario="101.72" importe="101.72" descuento="0.00" importeGravado="101.72" IVA="16.28" total="118.00"/>
+<ext:Partida descripcion="NO APLICA" partida="32" clase="1" descripcionExt="PEAJE ENCARNACION DE DIAZ" cantidad="1.00" precioUnitario="110.34" importe="110.34" descuento="0.00" importeGravado="110.34" IVA="17.66" total="128.00"/>
+<ext:Partida descripcion="NO APLICA" partida="33" clase="1" descripcionExt="PEAJE ESPERANZA" cantidad="2.00" precioUnitario="94.83" importe="189.66" descuento="0.00" importeGravado="189.66" IVA="30.34" total="220.00"/>
+<ext:Partida descripcion="NO APLICA" partida="34" clase="1" descripcionExt="PEAJE IXTAPALUCA" cantidad="1.00" precioUnitario="12.93" importe="12.93" descuento="0.00" importeGravado="12.93" IVA="2.07" total="15.00"/>
+<ext:Partida descripcion="NO APLICA" partida="35" clase="1" descripcionExt="PEAJE LA CUCHILLA" cantidad="1.00" precioUnitario="56.03" importe="56.03" descuento="0.00" importeGravado="56.03" IVA="8.97" total="65.00"/>
+<ext:Partida descripcion="NO APLICA" partida="36" clase="1" descripcionExt="PEAJE LA VENTA" cantidad="1.00" precioUnitario="82.76" importe="82.76" descuento="0.00" importeGravado="82.76" IVA="13.24" total="96.00"/>
+<ext:Partida descripcion="NO APLICA" partida="37" clase="1" descripcionExt="PEAJE LA VENTA" cantidad="1.00" precioUnitario="78.45" importe="78.45" descuento="0.00" importeGravado="78.45" IVA="12.55" total="91.00"/>
+<ext:Partida descripcion="NO APLICA" partida="38" clase="1" descripcionExt="PEAJE LA VENTA" cantidad="1.00" precioUnitario="91.38" importe="91.38" descuento="0.00" importeGravado="91.38" IVA="14.62" total="106.00"/>
+<ext:Partida descripcion="NO APLICA" partida="39" clase="1" descripcionExt="PEAJE LA VENTA" cantidad="3.00" precioUnitario="100.86" importe="302.59" descuento="0.00" importeGravado="302.59" IVA="48.41" total="351.00"/>
+<ext:Partida descripcion="NO APLICA" partida="40" clase="1" descripcionExt="PEAJE LA VENTA" cantidad="2.00" precioUnitario="74.14" importe="148.28" descuento="0.00" importeGravado="148.28" IVA="23.72" total="172.00"/>
+<ext:Partida descripcion="NO APLICA" partida="41" clase="1" descripcionExt="PEAJE LA VENTA" cantidad="2.00" precioUnitario="56.90" importe="113.79" descuento="0.00" importeGravado="113.79" IVA="18.21" total="132.00"/>
+<ext:Partida descripcion="NO APLICA" partida="42" clase="3" descripcionExt="PEAJE LA VENTA" cantidad="2.00" precioUnitario="230.17" importe="460.34" descuento="0.00" importeGravado="460.34" IVA="73.66" total="534.00"/>
+<ext:Partida descripcion="NO APLICA" partida="43" clase="3" descripcionExt="PEAJE LA VENTA" cantidad="4.00" precioUnitario="157.76" importe="631.03" descuento="0.00" importeGravado="631.03" IVA="100.97" total="732.00"/>
+<ext:Partida descripcion="NO APLICA" partida="44" clase="3" descripcionExt="PEAJE LA VENTA" cantidad="1.00" precioUnitario="209.48" importe="209.48" descuento="0.00" importeGravado="209.48" IVA="33.52" total="243.00"/>
+<ext:Partida descripcion="NO APLICA" partida="45" clase="1" descripcionExt="PEAJE LAGO DE GUADALUPE" cantidad="1.00" precioUnitario="4.31" importe="4.31" descuento="0.00" importeGravado="4.31" IVA="0.69" total="5.00"/>
+<ext:Partida descripcion="NO APLICA" partida="46" clase="2" descripcionExt="PEAJE LAGO DE GUADALUPE" cantidad="1.00" precioUnitario="160.34" importe="160.34" descuento="0.00" importeGravado="160.34" IVA="25.66" total="186.00"/>
+<ext:Partida descripcion="NO APLICA" partida="47" clase="1" descripcionExt="PEAJE LEON" cantidad="1.00" precioUnitario="107.76" importe="107.76" descuento="0.00" importeGravado="107.76" IVA="17.24" total="125.00"/>
+<ext:Partida descripcion="NO APLICA" partida="48" clase="1" descripcionExt="PEAJE LEON GUZMAN" cantidad="1.00" precioUnitario="133.62" importe="133.62" descuento="0.00" importeGravado="133.62" IVA="21.38" total="155.00"/>
+<ext:Partida descripcion="NO APLICA" partida="49" clase="1" descripcionExt="PEAJE LIB. LA PIEDAD" cantidad="2.00" precioUnitario="38.79" importe="77.59" descuento="0.00" importeGravado="77.59" IVA="12.41" total="90.00"/>
+<ext:Partida descripcion="NO APLICA" partida="50" clase="1" descripcionExt="PEAJE LIB. OTE. S.L.P." cantidad="1.00" precioUnitario="49.14" importe="49.14" descuento="0.00" importeGravado="49.14" IVA="7.86" total="57.00"/>
+<ext:Partida descripcion="NO APLICA" partida="51" clase="1" descripcionExt="PEAJE LIBRAMIENTO MATEHUAL" cantidad="1.00" precioUnitario="18.97" importe="18.97" descuento="0.00" importeGravado="18.97" IVA="3.03" total="22.00"/>
+<ext:Partida descripcion="NO APLICA" partida="52" clase="1" descripcionExt="PEAJE MADIN" cantidad="1.00" precioUnitario="74.14" importe="74.14" descuento="0.00" importeGravado="74.14" IVA="11.86" total="86.00"/>
+<ext:Partida descripcion="NO APLICA" partida="53" clase="1" descripcionExt="PEAJE MADIN" cantidad="3.00" precioUnitario="4.31" importe="12.93" descuento="0.00" importeGravado="12.93" IVA="2.07" total="15.00"/>
+<ext:Partida descripcion="NO APLICA" partida="54" clase="1" descripcionExt="PEAJE MADIN" cantidad="5.00" precioUnitario="26.72" importe="133.62" descuento="0.00" importeGravado="133.62" IVA="21.38" total="155.00"/>
+<ext:Partida descripcion="NO APLICA" partida="55" clase="1" descripcionExt="PEAJE MARQUESA VIAPASS" cantidad="14.00" precioUnitario="62.07" importe="868.97" descuento="0.00" importeGravado="868.97" IVA="139.03" total="1008.00"/>
+<ext:Partida descripcion="NO APLICA" partida="56" clase="1" descripcionExt="PEAJE MARQUESA VIAPASS" cantidad="16.00" precioUnitario="31.03" importe="496.55" descuento="0.00" importeGravado="496.55" IVA="79.45" total="576.00"/>
+<ext:Partida descripcion="NO APLICA" partida="57" clase="1" descripcionExt="PEAJE PALMILLAS" cantidad="6.00" precioUnitario="60.34" importe="362.07" descuento="0.00" importeGravado="362.07" IVA="57.93" total="420.00"/>
+<ext:Partida descripcion="NO APLICA" partida="58" clase="2" descripcionExt="PEAJE PALMILLAS" cantidad="6.00" precioUnitario="120.69" importe="724.14" descuento="0.00" importeGravado="724.14" IVA="115.86" total="840.00"/>
+<ext:Partida descripcion="NO APLICA" partida="59" clase="1" descripcionExt="PEAJE PLAN DE AYALA" cantidad="1.00" precioUnitario="99.14" importe="99.14" descuento="0.00" importeGravado="99.14" IVA="15.86" total="115.00"/>
+<ext:Partida descripcion="NO APLICA" partida="60" clase="1" descripcionExt="PEAJE QUERETARO" cantidad="2.00" precioUnitario="56.03" importe="112.07" descuento="0.00" importeGravado="112.07" IVA="17.93" total="130.00"/>
+<ext:Partida descripcion="NO APLICA" partida="61" clase="2" descripcionExt="PEAJE QUERETARO" cantidad="4.00" precioUnitario="107.76" importe="431.03" descuento="0.00" importeGravado="431.03" IVA="68.97" total="500.00"/>
+<ext:Partida descripcion="NO APLICA" partida="62" clase="1" descripcionExt="PEAJE SALAMANCA" cantidad="2.00" precioUnitario="56.03" importe="112.07" descuento="0.00" importeGravado="112.07" IVA="17.93" total="130.00"/>
+<ext:Partida descripcion="NO APLICA" partida="63" clase="1" descripcionExt="PEAJE SAN MARCOS" cantidad="5.00" precioUnitario="86.21" importe="431.03" descuento="0.00" importeGravado="431.03" IVA="68.97" total="500.00"/>
+<ext:Partida descripcion="NO APLICA" partida="64" clase="2" descripcionExt="PEAJE SAN MARCOS" cantidad="2.00" precioUnitario="168.10" importe="336.21" descuento="0.00" importeGravado="336.21" IVA="53.79" total="390.00"/>
+<ext:Partida descripcion="NO APLICA" partida="65" clase="2" descripcionExt="PEAJE SAN MARCOS BIS" cantidad="1.00" precioUnitario="25.86" importe="25.86" descuento="0.00" importeGravado="25.86" IVA="4.14" total="30.00"/>
+<ext:Partida descripcion="NO APLICA" partida="66" clase="1" descripcionExt="PEAJE SAN MIGUEL" cantidad="2.00" precioUnitario="26.72" importe="53.45" descuento="0.00" importeGravado="53.45" IVA="8.55" total="62.00"/>
+<ext:Partida descripcion="NO APLICA" partida="67" clase="2" descripcionExt="PEAJE SAN MIGUEL" cantidad="13.00" precioUnitario="181.03" importe="2353.45" descuento="0.00" importeGravado="2353.45" IVA="376.55" total="2730.00"/>
+<ext:Partida descripcion="NO APLICA" partida="68" clase="2" descripcionExt="PEAJE SAN MIGUEL" cantidad="1.00" precioUnitario="24.14" importe="24.14" descuento="0.00" importeGravado="24.14" IVA="3.86" total="28.00"/>
+<ext:Partida descripcion="NO APLICA" partida="69" clase="2" descripcionExt="PEAJE SAN MIGUEL" cantidad="3.00" precioUnitario="42.24" importe="126.72" descuento="0.00" importeGravado="126.72" IVA="20.28" total="147.00"/>
+<ext:Partida descripcion="NO APLICA" partida="70" clase="1" descripcionExt="PEAJE SAN PEDRO TORREON" cantidad="1.00" precioUnitario="68.97" importe="68.97" descuento="0.00" importeGravado="68.97" IVA="11.03" total="80.00"/>
+<ext:Partida descripcion="NO APLICA" partida="71" clase="1" descripcionExt="PEAJE SANTA CASILDA VIAPAS" cantidad="2.00" precioUnitario="33.62" importe="67.24" descuento="0.00" importeGravado="67.24" IVA="10.76" total="78.00"/>
+<ext:Partida descripcion="NO APLICA" partida="72" clase="1" descripcionExt="PEAJE SEG PISO A.U. NORTE" cantidad="1.00" precioUnitario="12.03" importe="12.03" descuento="0.00" importeGravado="12.03" IVA="1.92" total="13.95"/>
+<ext:Partida descripcion="NO APLICA" partida="73" clase="1" descripcionExt="PEAJE SEG PISO A.U. NORTE" cantidad="1.00" precioUnitario="21.44" importe="21.44" descuento="0.00" importeGravado="21.44" IVA="3.43" total="24.87"/>
+<ext:Partida descripcion="NO APLICA" partida="74" clase="1" descripcionExt="PEAJE SEG PISO A.U. NORTE" cantidad="1.00" precioUnitario="8.00" importe="8.00" descuento="0.00" importeGravado="8.00" IVA="1.28" total="9.28"/>
+<ext:Partida descripcion="NO APLICA" partida="75" clase="1" descripcionExt="PEAJE S.MARTIN PUE." cantidad="6.00" precioUnitario="25.86" importe="155.17" descuento="0.00" importeGravado="155.17" IVA="24.83" total="180.00"/>
+<ext:Partida descripcion="NO APLICA" partida="76" clase="2" descripcionExt="PEAJE S.MARTIN PUE." cantidad="2.00" precioUnitario="64.66" importe="129.31" descuento="0.00" importeGravado="129.31" IVA="20.69" total="150.00"/>
+<ext:Partida descripcion="NO APLICA" partida="77" clase="1" descripcionExt="PEAJE SN ANGEL ZURUMUCAPIO" cantidad="2.00" precioUnitario="29.31" importe="58.62" descuento="0.00" importeGravado="58.62" IVA="9.38" total="68.00"/>
+<ext:Partida descripcion="NO APLICA" partida="78" clase="1" descripcionExt="PEAJE TEHUACAN" cantidad="2.00" precioUnitario="30.17" importe="60.34" descuento="0.00" importeGravado="60.34" IVA="9.66" total="70.00"/>
+<ext:Partida descripcion="NO APLICA" partida="79" clase="1" descripcionExt="PEAJE TEPEXPAN VIAPASS" cantidad="3.00" precioUnitario="36.21" importe="108.62" descuento="0.00" importeGravado="108.62" IVA="17.38" total="126.00"/>
+<ext:Partida descripcion="NO APLICA" partida="80" clase="1" descripcionExt="PEAJE TEPOTZOTLAN" cantidad="14.00" precioUnitario="60.34" importe="844.83" descuento="0.00" importeGravado="844.83" IVA="135.17" total="980.00"/>
+<ext:Partida descripcion="NO APLICA" partida="81" clase="2" descripcionExt="PEAJE TEPOTZOTLAN" cantidad="9.00" precioUnitario="129.31" importe="1163.79" descuento="0.00" importeGravado="1163.79" IVA="186.21" total="1350.00"/>
+<ext:Partida descripcion="NO APLICA" partida="82" clase="3" descripcionExt="PEAJE TEPOTZOTLAN" cantidad="1.00" precioUnitario="129.31" importe="129.31" descuento="0.00" importeGravado="129.31" IVA="20.69" total="150.00"/>
+<ext:Partida descripcion="NO APLICA" partida="83" clase="1" descripcionExt="PEAJE TERATAN VIAPASS" cantidad="2.00" precioUnitario="33.62" importe="67.24" descuento="0.00" importeGravado="67.24" IVA="10.76" total="78.00"/>
+<ext:Partida descripcion="NO APLICA" partida="84" clase="1" descripcionExt="PEAJE TLALPAN" cantidad="2.00" precioUnitario="60.34" importe="120.69" descuento="0.00" importeGravado="120.69" IVA="19.31" total="140.00"/>
+<ext:Partida descripcion="NO APLICA" partida="85" clase="2" descripcionExt="PEAJE TLALPAN" cantidad="4.00" precioUnitario="112.07" importe="448.28" descuento="0.00" importeGravado="448.28" IVA="71.72" total="520.00"/>
+<ext:Partida descripcion="NO APLICA" partida="86" clase="1" descripcionExt="PEAJE TORREON" cantidad="1.00" precioUnitario="25.86" importe="25.86" descuento="0.00" importeGravado="25.86" IVA="4.14" total="30.00"/>
+<ext:Partida descripcion="NO APLICA" partida="87" clase="1" descripcionExt="PEAJE TULA I" cantidad="1.00" precioUnitario="121.55" importe="121.55" descuento="0.00" importeGravado="121.55" IVA="19.45" total="141.00"/>
+<ext:Partida descripcion="NO APLICA" partida="88" clase="1" descripcionExt="PEAJE VIADUC BICENTENARIO" cantidad="1.00" precioUnitario="9.76" importe="9.76" descuento="0.00" importeGravado="9.76" IVA="1.56" total="11.32"/>
+<ext:Partida descripcion="NO APLICA" partida="89" clase="1" descripcionExt="PEAJE VIADUC BICENTENARIO" cantidad="1.00" precioUnitario="26.53" importe="26.53" descuento="0.00" importeGravado="26.53" IVA="4.25" total="30.78"/>
+<ext:Partida descripcion="NO APLICA" partida="90" clase="1" descripcionExt="PEAJE VIADUC BICENTENARIO" cantidad="1.00" precioUnitario="56.57" importe="56.57" descuento="0.00" importeGravado="56.57" IVA="9.05" total="65.62"/>
+<ext:Partida descripcion="NO APLICA" partida="91" clase="1" descripcionExt="PEAJE VIADUC BICENTENARIO" cantidad="2.00" precioUnitario="23.55" importe="47.10" descuento="0.00" importeGravado="47.10" IVA="7.54" total="54.64"/>
+<ext:Partida descripcion="NO APLICA" partida="92" clase="1" descripcionExt="PEAJE VIADUC BICENTENARIO" cantidad="4.00" precioUnitario="7.34" importe="29.34" descuento="0.00" importeGravado="29.34" IVA="4.70" total="34.04"/>
+<ext:Partida descripcion="NO APLICA" partida="93" clase="1" descripcionExt="PEAJE VIADUC BICENTENARIO" cantidad="5.00" precioUnitario="9.23" importe="46.16" descuento="0.00" importeGravado="46.16" IVA="7.39" total="53.55"/>
+<ext:Partida descripcion="NO APLICA" partida="94" clase="1" descripcionExt="PEAJE VIADUC BICENTENARIO" cantidad="9.00" precioUnitario="19.50" importe="175.50" descuento="0.00" importeGravado="175.50" IVA="28.08" total="203.58"/>
+<ext:Partida descripcion="NO APLICA" partida="95" clase="1" descripcionExt="PEAJE XONACATLAN" cantidad="2.00" precioUnitario="58.62" importe="117.24" descuento="0.00" importeGravado="117.24" IVA="18.76" total="136.00"/>
+<ext:Partida descripcion="NO APLICA" partida="96" clase="2" descripcionExt="PEAJE XONACATLAN" cantidad="2.00" precioUnitario="43.97" importe="87.93" descuento="0.00" importeGravado="87.93" IVA="14.07" total="102.00"/>
+<ext:Partida descripcion="NO APLICA" partida="97" clase="1" descripcionExt="PEAJE ZACATECAS" cantidad="1.00" precioUnitario="30.17" importe="30.17" descuento="0.00" importeGravado="30.17" IVA="4.83" total="35.00"/>
+<ext:Partida descripcion="NO APLICA" partida="98" clase="1" descripcionExt="PEAJE ZINAPECUARO" cantidad="2.00" precioUnitario="114.66" importe="229.31" descuento="0.00" importeGravado="229.31" IVA="36.69" total="266.00"/>
+<ext:Partida descripcion="NO APLICA" partida="99" clase="1" descripcionExt="PEAJE ZIRAHUEN VIAPASS" cantidad="2.00" precioUnitario="21.55" importe="43.10" descuento="0.00" importeGravado="43.10" IVA="6.90" total="50.00"/>
+<ext:Partida descripcion="NO APLICA" partida="100" clase="0" descripcionExt="PEAJEAJUSTE" cantidad="1.00" precioUnitario="2836.21" importe="2836.21" descuento="0.00" importeGravado="2836.21" IVA="453.79" total="3290.00"/>
+</ext:Partidas>
+<ext:Totales totalCantidad="259.00" totalGravado="19896.23"/>
+<ext:Bancos totalPagarPagos="23079.63" nombreBancoBancomer="Bancomer" convenioBancomer="" referenciasBancomer="" nombreBancoInbursa="Inbursa" convenioInbursa="" referenciasInbursa="" nombreBancoScotia="Scotia Bank - Inverlat" convenioScotia="" referenciasScotia="" nombreBancoHSBC="HSBC" convenioHSBC="" referenciasHSBC="" nombreBancoBanamex="Banamex" convenioBanamex="" referenciasBanamex="" nombreBancoBanorte="Banorte" convenioBanorte="" referenciasBanorte="" nombreBancoSantander="Santander Serfin" convenioSantander="" referenciasSantander="" mensaje="ESTIMADO USUARIO, LE RECORDAMOS QUE CUENTA CON 30 DIAS POSTERIORES A SU FACTURACION, PARA REALIZAR CUALQUIER ACLARACION"/>
+<ext:datosReporte serie="C" folio="2288464" noAprobacion="999999" anoAprobacion="2012" noCertificado="00001000000000895966"/>
+<ext:gastosdeAdministracion>0.00</ext:gastosdeAdministracion>
+</ext:ElementosExtra>
+</cfdi:Addenda>
+</cfdi:Comprobante>

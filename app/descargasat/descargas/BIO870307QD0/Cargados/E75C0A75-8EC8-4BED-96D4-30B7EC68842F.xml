@@ -1,0 +1,21 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="90140" MetodoPago="PUE" TipoDeComprobante="I" Total="121.80" Moneda="MXN" Certificado="MIIE2TCCA8GgAwIBAgIUMDAwMDEwMDAwMDAzMDQ4NjA0OTMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA4MDgxNzM1MjRaFw0xODA4MDgxNzM2MDRaMIHOMR8wHQYDVQQDExZST0JFUlRPIExFREVTTUEgRlJBTkNPMR8wHQYDVQQpExZST0JFUlRPIExFREVTTUEgRlJBTkNPMR8wHQYDVQQKExZST0JFUlRPIExFREVTTUEgRlJBTkNPMQswCQYDVQQGEwJNWDEnMCUGCSqGSIb3DQEJARYYbHVpc19odWdvczA5QGhvdG1haWwuY29tMRYwFAYDVQQtEw1MRUZSNzAwNjA2SVgyMRswGQYDVQQFExJMRUZSNzAwNjA2SEhHRFJCMDUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIrPCpXp6DsNJXNbTMCy1A8bmp9s+h0Zcq37sZCotsoCCwU6gIxOdw9K40/pzTlfnr/sNbmDe0Q+yBy3hgYSJ37IPPmuxDTXJPrJv58oxua0Vhkpl0T117JyR933ai+6rzA12R1l7HqMkl3dnarC6LT8YkxQejMUF3iISk6ABVRhAgMBAAGjdDByMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgPYMBEGCWCGSAGG+EIBAQQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDBAYIKwYBBQUHAwIwIwYDVR0RBBwwGoEYbHVpc19odWdvczA5QGhvdG1haWwuY29tMA0GCSqGSIb3DQEBBQUAA4IBAQBijEqmqQzrL/eO/183d1xAh84lgC50/lR7YOxKHP5ANipwEyATLsvYvaNy1d75mC9nJrlg3ZE7uzhphP0YRoxpBzLKDUHeq4rtYLyTJcHnpDZCIG++fWYaWK29jQ3JYAQv3i2lZ7RDteuycbE9ShatdiaOE6CdpV1o30uvzis4DfnIRui+hCFLqIjOqlkwjf7Nx/8Uqg2rC9GlhoGpxARjOswO1O6VTYCGTctD9xXfBQwm7oZm2q/tl1m3LBKp6P332cIPQIpThd5VM30rLL2ufU+wflxMXXQHMoM3db76d/Zd0N12aMHdLClm4oZQLU5v8PeIVJ4Phtjo1hp55abG" SubTotal="105.00" NoCertificado="00001000000304860493" FormaPago="01" Sello="CSifeYBEfXCgGcDPCeGi3Guf2tDm/5Yu8dEGsssiSj9lek192KGPv+pOY1SB2OaaSQysy+7AW5OcQcHfkABEbwIpe14uh9rFwUay8lbwEPLw0cv6wdQ2kEZYH1/beLkWAuPQTb3tNQtGumn/SLPpI8DO3+6ake3fKQ2CLlsdiJ0=" Fecha="2017-10-16T21:21:24" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="LEFR700606IX2" Nombre="ROBERTO LEDESMA FRANCO" RegimenFiscal="621" />
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA S.A DE C.V. " UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="90101501" Cantidad="1" ClaveUnidad="E48" Descripcion="CONSUMO DE ALIMENTOS " ValorUnitario="105.00" Importe="105.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="105.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.80" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="16.80">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.80" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="E75C0A75-8EC8-4BED-96D4-30B7EC68842F" FechaTimbrado="2017-10-16T21:23:51" RfcProvCertif="SAT970701NN3" SelloCFD="CSifeYBEfXCgGcDPCeGi3Guf2tDm/5Yu8dEGsssiSj9lek192KGPv+pOY1SB2OaaSQysy+7AW5OcQcHfkABEbwIpe14uh9rFwUay8lbwEPLw0cv6wdQ2kEZYH1/beLkWAuPQTb3tNQtGumn/SLPpI8DO3+6ake3fKQ2CLlsdiJ0=" NoCertificadoSAT="00001000000403258748" SelloSAT="A8n/GLX32dQR1JX1aSYP+T8Q7f0DENyOjy9eu7r98H86J7Pc/ssCifH44K/TXR27XvfJHF7Z+MYO3/pXwCy0awgQRG675DthTdLSLVIfoytH9Yzc2CRyifQ6AmaYtceUdK1n47KcveDwP3a9eI17pPc0amIXwsuQvL33uR2SCK9PJSHCUxb0H+qtDKm4lq1rJeG7tVS4dAFeiBJj6+ap7L7qr4RnWk0+8HKJndIndhiy3VA8XQTj1fp1zJubTwjdXNtAEBOPhKvVbcygovJUhTBz0AlRXejsErTLFtwizYcGzmAvzm7RL/4kkeFb6jh5IRj+7DlL4QKYkchNzUZORw==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

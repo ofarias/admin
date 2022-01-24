@@ -1,0 +1,28 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="54720" MetodoPago="PUE" TipoDeComprobante="I" Total="812.00" Moneda="MXN" Certificado="MIIE6TCCA9GgAwIBAgIUMDAwMDEwMDAwMDAzMDU5MTIyMzkwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAxMjMxNzMxNTlaFw0xOTAxMjMxNzMyMzlaMIHZMSEwHwYDVQQDExhKVUFOIEdFUkFSRE8gQ09MSU4gUkVZRVMxITAfBgNVBCkTGEpVQU4gR0VSQVJETyBDT0xJTiBSRVlFUzEhMB8GA1UEChMYSlVBTiBHRVJBUkRPIENPTElOIFJFWUVTMQswCQYDVQQGEwJNWDEsMCoGCSqGSIb3DQEJARYdanVhbmphcG9uZXNfMTNfMDJAaG90bWFpbC5jb20xFjAUBgNVBC0TDUNPUko3NzAyMTMyQTUxGzAZBgNVBAUTEkNPUko3NzAyMTNIREZMWU4wNzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzdWgKOgeYbur76vHVqVqYMgaHZN8X3WRgNyc2eXyPkX4yaOcrFVyypAFnTPB9FMSnTercLq2RCWkBGVg9vaF2b45K/Mad4+uWg/zrR//Zv+iFdM7CQKCqnoTydG9ArdjiP4mN9Xak7ucW84WoK3+fK4KHlj15eWmUh56YBcDw3UCAwEAAaN5MHcwDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCA9gwEQYJYIZIAYb4QgEBBAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMEBggrBgEFBQcDAjAoBgNVHREEITAfgR1qdWFuamFwb25lc18xM18wMkBob3RtYWlsLmNvbTANBgkqhkiG9w0BAQUFAAOCAQEAhsL6NTRcKJ6GSUSNZ770cMZ4echqwxlIvsZbiqW5J6dJ7mbzIYdF0JRzkTPCYjyjXVTW3o5vjjTPSgBOqnj6jUhcJuujm7RPAnxCmX4s82sHQoSDbJv7DuTtPfMj29wbO5SP9oPMXsUIeZNBS9ILFmzeH07ph9bYRayXv7lMDs2CaulTsGGMedfjtarWEZeDTT2tdd1qi1MakcaC0OmfokeZquOcftcRFATJBM1pv4Ntho4NBMzJekPAU/9Pr+YaFN2NlCe7Wq+P6iw08WRu4TwbSF3JIwPDB7Ug0f/+HbXbDbvn5Ap7F0skN2Krs/GQ9z48lmFQn2XcSopnsq/3rQ==" SubTotal="700.00" CondicionesDePago="CONTADO" NoCertificado="00001000000305912239" FormaPago="01" Sello="uD8oc3pRPugEzBCHMztFjSU97VICsEo4gvj+GEUGmb9NNR/yQVgWjwhpkDrbbNq2wrpT5BmiAL+c0ZDFSMhawVrLzxoNtnB5DDmM7pFBXD/C8me2QNF03n3IeglDTIi1AmjHzU4PWVlkb8M/vh22JFLu+r/XBeF3v4a58ouDbT4=" Fecha="2017-10-16T13:57:14" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="CORJ7702132A5" Nombre="JUAN GERARDO COLIN REYES" RegimenFiscal="621" />
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA S.A. DE C.V." UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="25101503" Cantidad="1" ClaveUnidad="H87" Descripcion="MANIJA ABRIR INTERIOR LADO IZQUIERDO CHEVROLET" ValorUnitario="250.00" Importe="250.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="250.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="40.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25101503" Cantidad="1" ClaveUnidad="H87" Descripcion="MANTENIMIENTO CHAPA LADO DERECHO CHEVROLET" ValorUnitario="450.00" Importe="450.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="450.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="72.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="112.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="112.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="1FC07515-2FA2-4451-8EA8-9F4CA8B57868" FechaTimbrado="2017-10-16T14:06:23" RfcProvCertif="SAT970701NN3" SelloCFD="uD8oc3pRPugEzBCHMztFjSU97VICsEo4gvj+GEUGmb9NNR/yQVgWjwhpkDrbbNq2wrpT5BmiAL+c0ZDFSMhawVrLzxoNtnB5DDmM7pFBXD/C8me2QNF03n3IeglDTIi1AmjHzU4PWVlkb8M/vh22JFLu+r/XBeF3v4a58ouDbT4=" NoCertificadoSAT="00001000000403258748" SelloSAT="e3X/PeAtwzULnQelvGB3FP2CLQLkoaBPJqgJmxMTyf+M9AENFlY5OAmg46oeDHgQXu3ssdEcdf+J9cd2dsybTmQy9+yi4ecDZz2dMUV/vBA/oPT76c/9nJ8xZKRK7x5Klu3fCr9xohceMULbQpd1zf+XuK4glffJdEgJwZbTmCanjMLGe8mCz8hU/VDZ3ukIoQxCilY2izMKovkC+TRKJ5904PUAK1tUUP/uAQd5GSlidD1ua/XcliBJ8urF8BxTMgSKoBEDCs776fZF1wkn5RGPfOJamgIclrAz7vzEzmIUJ9BE8IIDt0+9A3MwwvSTT199EHhZ8bjcomaE3sMe4Q==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

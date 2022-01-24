@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:implocal="http://www.sat.gob.mx/implocal" total="11919" tipoDeComprobante="ingreso" metodoDePago="No Identificado" Moneda="MXN" LugarExpedicion="Gustavo A. Madero, Distrito Federal" folio="26762" fecha="2015-07-03T09:52:07" sello="lTbaOXMvw0AieSow+0nRX9CsADb1dBeO4eChCuyYdv0TfXfrqTqoaW5ryLALaPhc7SG/ROaH4SV2xFjkbxyshVDgOghYdyvOBXsueY66p9v/RvIHNP13GoAntne7XmJFQrR9ARD+CbX54al0lPHzYqqD0q9IbUal9aVAlEPy7Yw=" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd" version="3.2" serie="A" subTotal="10275" formaDePago="Pago en una sola exhibición" noCertificado="00001000000202523041" certificado="MIIEbjCCA1agAwIBAgIUMDAwMDEwMDAwMDAyMDI1MjMwNDEwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIwNTIzMzIxNloXDTE2MTIwNTIzMzIxNlowga8xGzAZBgNVBAMTElBBVUxJU1RBUyBTQSBERSBDVjEbMBkGA1UEKRMSUEFVTElTVEFTIFNBIERFIENWMRswGQYDVQQKExJQQVVMSVNUQVMgU0EgREUgQ1YxJTAjBgNVBC0THFBBVTk3MDgxOUVYOCAvIEZPQkE2NzA3MjQ3VjAxHjAcBgNVBAUTFSAvIEZPQkE2NzA3MjRNREZMU0QwNDEPMA0GA1UECxMGTUFUUklaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsjeOcOJ6PoBF04UNObvELuzDGjfpzTIzY7FbOXPIRGQWTA9cGneMnKkbQopT2AkCLz0qpM9z4mf6ygBQpfTrxnlLPAFMHsrWcSvVBr84MEI7hU8IB2Wnuz05mLhvK1g6enGnkNYAJabosyX4to5azLrAxkSfOUzwKovPQawCpawIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAOX+YpCLbKJxZ3SUq2jo5jhLYiNpYaN/gKsYne/SECXY9vjZ1Pr+yaLRSKCnDsFMM+Bs4ZnOWxl/EylYQyiuB7A2I0OpDzHhU8GnvBW+IO4dL+G0uFzaRIMo5dBbqDQbkh0X705xsbsqT+Dnabo0rR2u/If/X+iLPD3bbMRKC81mw3xEMH9nWmKvXm68wC4Xq2PRqHSFUzcolHfLF+phFREzAi30r4IiojEWWk1Em2Pv5qjzLyzAPUXPZY0XyGkC77RI27mpcC7xP11WJS+IpyZCvg+3iI4lVVzKmHPKzGZDbwZXDTJeCEDOMh1HYtWke4wrXDW0NwmABtKGcERAuZQ==" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor nombre="Paulistas S. A. de C. V." rfc="PAU970819EX8">
+    <cfdi:DomicilioFiscal calle="Oriente 171" noExterior="29" colonia="Ampliación San Juan de Aragón" municipio="Gustavo A. Madero" estado="Distrito Federal" pais="México" codigoPostal="07470" />
+    <cfdi:RegimenFiscal Regimen="Regimen General de Ley de las Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO 2900 804" colonia="LOS PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MÉXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="CINTA CENTRAL 235 KRAFT  2.83&quot;  X  450' ( 72MM X 137 M) - Impreso con BIOTECSA: 10 cajas con 10 piezas" valorUnitario="102.75" importe="10275" cantidad="100" unidad="Pieza" noIdentificacion="K6044" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="1644">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="1644" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital FechaTimbrado="2015-07-03T10:02:18" UUID="F3E5C1B2-0B8F-4ECC-B96C-4BCF958CD1D0" noCertificadoSAT="00001000000200005634" selloCFD="lTbaOXMvw0AieSow+0nRX9CsADb1dBeO4eChCuyYdv0TfXfrqTqoaW5ryLALaPhc7SG/ROaH4SV2xFjkbxyshVDgOghYdyvOBXsueY66p9v/RvIHNP13GoAntne7XmJFQrR9ARD+CbX54al0lPHzYqqD0q9IbUal9aVAlEPy7Yw=" selloSAT="H7LnlaFzDHz2EIvhjGym3tPC3SAwHCJZXMVFQyciZOGB4iFl1MESYzKsqWRMAYVowOZKV3IXLmhilnnC+3hixijJLZ3ARfqev0z7AQf5WfRI90LFRSHvm1oUUP6oxaW+ru3057aq1OhSj/uqRX2amQMkPueqqImDTIBwQk6DOLg=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <qrcode>?re=PAU970819EX8&amp;rr=BIO870307QD0&amp;tt=0000011919,000000&amp;id=F3E5C1B2-0B8F-4ECC-B96C-4BCF958CD1D0</qrcode>
+    <cadenaOriginalTFD>||1.0|F3E5C1B2-0B8F-4ECC-B96C-4BCF958CD1D0|2015-07-03T10:02:18|lTbaOXMvw0AieSow+0nRX9CsADb1dBeO4eChCuyYdv0TfXfrqTqoaW5ryLALaPhc7SG/ROaH4SV2xFjkbxyshVDgOghYdyvOBXsueY66p9v/RvIHNP13GoAntne7XmJFQrR9ARD+CbX54al0lPHzYqqD0q9IbUal9aVAlEPy7Yw=|00001000000200005634||</cadenaOriginalTFD>
+    <cadenaOriginal>||3.2|2015-07-03T09:52:07|ingreso|Pago en una sola exhibición|10275|MXN|11919|No Identificado|Gustavo A. Madero, Distrito Federal|PAU970819EX8|Paulistas S. A. de C. V.|Oriente 171|29|Ampliación San Juan de Aragón|Gustavo A. Madero|Distrito Federal|México|07470|Regimen General de Ley de las Personas Morales|BIO870307QD0|BIOTECSA SA DE CV|BLVD MANUEL AVILA CAMACHO 2900 804|LOS PIRULES|TLALNEPANTLA|ESTADO DE MEXICO|MÉXICO|54040|100|Pieza|K6044|CINTA CENTRAL 235 KRAFT 2.83" X 450' ( 72MM X 137 M) - Impreso con BIOTECSA: 10 cajas con 10 piezas|102.75|10275|IVA|16|1644|1644||</cadenaOriginal>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

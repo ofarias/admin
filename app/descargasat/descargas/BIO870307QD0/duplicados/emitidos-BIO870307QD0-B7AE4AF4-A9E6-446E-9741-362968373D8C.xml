@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:nomina="http://www.sat.gob.mx/nomina" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/nomina http://www.sat.gob.mx/sitio_internet/cfd/nomina/nomina11.xsd" version="3.2" serie="NOMINA" folio="1355" fecha="2015-05-29T13:47:15" sello="mpDeXqGfrOk+u0eKNtCX25dMM2rzJmOie2OpFJFUm1hqVs1IIEq/uJnyULTS+fX1WrhQTw8IhX9XzaIMqrDWk5Q5dvXiamWRcOHs8V0meUOB/tAR1T65jF7BifFdjJWZOfhAgSrttH7T19WSC0e2Am9vSHCvC/PuRdztPd6EuvU=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302350628" certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDIzNTA2MjgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMTAyMzM4MjdaFw0xODAxMTAyMzM4MjdaMIGvMRowGAYDVQQDExFCSU9URUNTQSBTQSBERSBDVjEaMBgGA1UEKRMRQklPVEVDU0EgU0EgREUgQ1YxGjAYBgNVBAoTEUJJT1RFQ1NBIFNBIERFIENWMSUwIwYDVQQtExxCSU84NzAzMDdRRDAgLyBUT1RINDcwMjE4S1VBMR4wHAYDVQQFExUgLyBUT1RINDcwMjE4SFBMUU5SMDQxEjAQBgNVBAsTCU5BVUNBTFBBTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsBMBohzkflDRJ8xRQBCGqnRB8oVG+zbrsxiceijIEkSNXAhCIrRBKCzxYqNWu4FV/thzUN45bAMOGqzR2XBwXAnJgTv2sKoPsxkAqJe9/61+AKHKhvYFyTXQCYRLqeU4ws7UF/TajZyteHQyd9VhWD1Y6aOqvZb2tdMmuI/Pv3UCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEmboZgwm6i1c+Ds2z/M2Fdp0fVb/KWmLa1bSVxVIxdq96H12NzmWvTGRkxS78LpEsVFsHFzkaMpfRFICXyQ6Fwxt0+vGzCCCrLpvcbuEVKIIvgLToQXbL00fpCugWhbiEIMgQBv0p6ua9o2KiZPCvK4T/QaXQovJvxqPTJJo8H7DGFUyn9bwT/9zqDFe4xBXZ9lstT+tXBnmwqzdDs+/myn9odD3UpDmm5DDDmqPCbRJ4ahJQYQKnmFoO2aI1E9ioMvAQJagvjWnSiSwPGjqrbXDptW+mP3vVCeQmrE+JOrSJlf3Y93RZRFZ6kpSIO/pHnJLtC8yGqt01qTsgpLnds=" subTotal="34019.74" descuento="0.00" motivoDescuento="Deducciones nómina" TipoCambio="1.00" Moneda="Pesos" total="30425.85" tipoDeComprobante="egreso" metodoDePago="Transferencia" LugarExpedicion="Tlalnepantla de Baz, Estado de Mexico" NumCtaPago="1181686615">
+  <cfdi:Emisor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:DomicilioFiscal calle="Blvd. Manuel Avila Camacho" noExterior="2900" municipio="Tlalnepantla de Baz" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:ExpedidoEn calle="Blvd. Manuel Avila Camacho" noExterior="2900" municipio="Tlalnepantla de Baz" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:RegimenFiscal Regimen="LEY GENERAL DE PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="MAGG550603J62" nombre="GEORGINA MARTINEZ GARCIA">
+    <cfdi:Domicilio pais="Mexico" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000000" unidad="Servicio" descripcion="Pago de Nómina" valorUnitario="34019.74" importe="34019.74" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="3593.89">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="ISR" importe="3593.89" />
+    </cfdi:Retenciones>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <nomina:Nomina Version="1.1" RegistroPatronal="C53-20744-10-0" NumEmpleado="16" CURP="MAGG550603MMCRRR02" TipoRegimen="2" NumSeguridadSocial="20895500286" FechaPago="2015-05-29" FechaInicialPago="2015-05-31" FechaFinalPago="2015-05-31" NumDiasPagados="14.000000" Departamento="ADMINISTRATIVO" Banco="012" FechaInicioRelLaboral="2001-05-08" Puesto="LIMPIEZA" PeriodicidadPago="MENSUAL" SalarioBaseCotApor="0.00" SalarioDiarioIntegrado="171.62">
+      <nomina:Percepciones TotalGravado="32968.24" TotalExento="1051.5">
+        <nomina:Percepcion TipoPercepcion="003" Clave="P011" Concepto="REPARTO DE UTILIDADES" ImporteGravado="32968.24" ImporteExento="1051.50" />
+      </nomina:Percepciones>
+      <nomina:Deducciones TotalGravado="3593.89" TotalExento="0">
+        <nomina:Deduccion TipoDeduccion="002" Clave="D001" Concepto="ISR" ImporteGravado="3593.89" ImporteExento="0.00" />
+      </nomina:Deducciones>
+    </nomina:Nomina>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="B7AE4AF4-A9E6-446E-9741-362968373D8C" FechaTimbrado="2015-05-29T13:50:29" noCertificadoSAT="00001000000301160463" selloCFD="mpDeXqGfrOk+u0eKNtCX25dMM2rzJmOie2OpFJFUm1hqVs1IIEq/uJnyULTS+fX1WrhQTw8IhX9XzaIMqrDWk5Q5dvXiamWRcOHs8V0meUOB/tAR1T65jF7BifFdjJWZOfhAgSrttH7T19WSC0e2Am9vSHCvC/PuRdztPd6EuvU=" selloSAT="iD5XHaVOqdkTiIKAj6mgAbkVT0tLyHAOaASeJx4Y0zA8hNkD9xe1nu98MuTiw3KpIUDSHzDwX3UeiMmiTtRkY1FHuIGTGUfDYp7vmaIixSjBUbNs57AmvQ2qedwom6CTxwm8r+R11JlUZdffcY9g7TI9etiQhCEF9UrHgBsNO1Y=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

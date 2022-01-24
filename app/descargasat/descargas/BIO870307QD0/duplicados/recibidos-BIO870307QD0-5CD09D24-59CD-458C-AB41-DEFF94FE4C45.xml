@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="COYOACAN" Moneda="MXP" TipoCambio="1.0000" certificado="MIIEbDCCA1SgAwIBAgIUMDAwMDEwMDAwMDAyMDE5Njk4NDcwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDkxODE3MDEyMVoXDTE2MDkxODE3MDEyMVowga0xGzAZBgNVBAMTElFVQUxJRk9PRCBTQSBERSBDVjEbMBkGA1UEKRMSUVVBTElGT09EIFNBIERFIENWMRswGQYDVQQKExJRVUFMSUZPT0QgU0EgREUgQ1YxJTAjBgNVBC0THFFVQTAwMTAyNUQ5MiAvIFFVUko1MjEyMThRWjUxHjAcBgNVBAUTFSAvIFFVUko1MjEyMThIVlpSRE0wODENMAsGA1UECxMEICAgIDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtCD8/dJRKccRGgV3/c3Hv0Ohma2vT2X7rHYs2vysK7rDvF85Xrl9KkrBYAu0wN+HaylniBnvS0DSYhwXEm4h/M3voa9ih1C3JhHxAHzqA5YxwNpKu1pn9VDGFW4sMZtdFN15LDGx2tYcYyDQ0VCaYAee9MIYsvWukeg6a03XjFUCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAAJpK1gxyB49YQzYz/nyRQevE6MWAMhSPRaaJZx545T5OMIaDX97vhhS7xdiiTb039MAcTQrgJ2XYnl8CNbKkVV8D7YfCfU71KtMfcBrooFTkY0hTRE320jEUUyqRomgRnjxnHTYX1BFQ5BYbtWrWw7kGmMrbD9I0ntjn02Gg3fKFazax7GDGo43L356TosPsX066wbwzRQ/c1EZYE62TOu3z/bNL80Be/0W+N+Emqalz2rmmZyFQIgCmkHqJA13m83UgrS/z8c0IOZF9ZkwGh+Ad9R6k7WmzH7/Argk0FLjlIDejo8aFoZ9qCRWoiCX/PogBz2EuVCLFPES9o7c7Vw=" fecha="2016-08-03T18:01:41" folio="18956" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="01" noCertificado="00001000000201969847" sello="a1gARW2yWEFSR0hcPJRTaQPEg/aM+wJG9umWQDZU+gomZcOp51f/H2NDyEwUclEGmAnhG5QdgAbr5XsPKwXriMDeklHKRPIAAI6Cqr/z/zoSXNY3egj+r+evtRgDTWa8CtRcX+cNrEyXmL2HoTrf2fOFLmIpZblqRDGbuTSbdzg=" serie="A" subTotal="110.3400" tipoDeComprobante="ingreso" total="128.0000" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="QUALIFOOD S.A. DE C.V." rfc="QUA001025D92">
+    <cfdi:DomicilioFiscal calle="CALZADA DE TLALPAN" codigoPostal="04815" colonia="EMILIANO ZAPATA" estado="DISTRITO FEDERAL" municipio="COYOACAN" noExterior="2816" pais="MEXICO" />
+    <cfdi:ExpedidoEn calle="CALZADA DE TLALPAN" codigoPostal="04815" colonia="EMILIANO ZAPATA" estado="Distrito Federal" municipio="COYOACAN" noExterior="2816" pais="MEXICO" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" codigoPostal="54040" colonia="FRACC. LOS PIRULES" estado="ESTADO DE MEXICO" municipio="TLALNEPANTLA DE BAZ" noExterior="2900" noInterior="804" pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.0000" descripcion="CONSUMO IVA 16%" importe="110.3400" noIdentificacion="TASA16" unidad="NO APLICA" valorUnitario="110.3400" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="17.6600">
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="17.6600" impuesto="IVA" tasa="16.0000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="5CD09D24-59CD-458C-AB41-DEFF94FE4C45" FechaTimbrado="2016-08-03T18:06:40" selloCFD="a1gARW2yWEFSR0hcPJRTaQPEg/aM+wJG9umWQDZU+gomZcOp51f/H2NDyEwUclEGmAnhG5QdgAbr5XsPKwXriMDeklHKRPIAAI6Cqr/z/zoSXNY3egj+r+evtRgDTWa8CtRcX+cNrEyXmL2HoTrf2fOFLmIpZblqRDGbuTSbdzg=" noCertificadoSAT="00001000000203253077" selloSAT="L/IrmPhtaZ21LGZaKVU5ySvVtHZaoBRyNJ5CgQyb7aitbn2zVd6o46ryHsZ6Noeu/9HM0TZXqM3lhFyLxbF1byfcy52hbRspPmdJLxbSdso1DKzyzGdnFn8nTQwtN3KiCNI91Eiwy1IHfVn9DG00D3Y1qte87LVpMMuPBi0aoWI=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

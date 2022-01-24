@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="FI" folio="11254" fecha="2015-07-30T14:26:30" sello="ddT5tmfFkFqsom8LnzEOLCsfndSvAcmxRf5Hbm05vtk1AMiW6HA9b8d9pGVIQGZVqGpX1aajJSI/JTLWeRqGIFLC0CUfyhYaETY0zs8K/qSxS8f4FRQTGA5wWawbOrGlLis72dQIkGIfBU8+y8Lox9twhBMFlfGphTfcF+ObMhk=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000202676374" certificado="MIIEajCCA1KgAwIBAgIUMDAwMDEwMDAwMDAyMDI2NzYzNzQwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIyMTAwMzYyNFoXDTE2MTIyMTAwMzYyNFowgasxGjAYBgNVBAMTEUZSQU1FSk9SIFNBIERFIENWMRowGAYDVQQpExFGUkFNRUpPUiBTQSBERSBDVjEaMBgGA1UEChMRRlJBTUVKT1IgU0EgREUgQ1YxJTAjBgNVBC0THEZSQTA0MDEyNjQxMCAvIE1BQUc3MDEwMzBOTTYxHjAcBgNVBAUTFSAvIE1BQUc3MDEwMzBIQ0xSVkwwNzEOMAwGA1UECxMFc2VsbG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALMKu6TiJzQgjR3xkjC0nLvCXcateqsQe9rmmt9DnFuNPI2IRvW7b1Xxc2CnJ1f7wSHOoZVHJnFjPmOyfo7oUJ9pIlHUeB0zGgOHwgoq/jCIgbpmkQzXBKJ/y0Oy7ceUo+8pUz9RiaVP2gHk0OGc7M2//QboDl54aMZTkvSNL7dhAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQA/2xUi3ItFV22xFx05dKI4IKXiXnAeqi3Quk9Tx6Sjj5qxKI8TIpw07DRA4XVOTefQ99IjVWFF6ygbBz8s5+lrkG7rnEeRROoErY8yCxC0dHhiMW3QY4rucWavSiZPwcZDVbFDUojwVcf8ON28ZB2movP4m8OlocLxQhwmQTjO0zNKon0R+XHq4BOWGPMsje/gsuVvBv7pTzrit5uogtUhtJKbR1aSWq9RftIL+akZjYNdN4jtITMOqxuo236E0VBzeohuThe1k7qx6PSQog6sRf53dQwqvnkt9n3vl3UEVmoPwBIQ1M02QcoWMFHHxgqIm/xDGls1fnhd7KElSYpQ" subTotal="380.17" TipoCambio="1.00" Moneda="MXN" total="441.00" metodoDePago="No aplica" LugarExpedicion="TORREON, COAHUILA" NumCtaPago="No aplica" tipoDeComprobante="ingreso">
+  <cfdi:Emisor rfc="FRA040126410" nombre="FRAMEJOR S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="BLVD. INDEPENDENCIA OTE" noExterior="724" colonia="CENTRO" municipio="TORREON" estado="COAHUILA" pais="MEXICO" codigoPostal="27000" />
+    <cfdi:RegimenFiscal Regimen="Régimen general personas morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900-804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA ESTADO DE" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" noIdentificacion="CON" descripcion="CONSUMO" valorUnitario="380.17" importe="380.17">
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="60.83">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="60.83" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+
+<cfdi:Complemento> <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" UUID="BF4A2C16-3717-184A-8D41-374B06E98E65" FechaTimbrado="2015-07-30T14:27:48" selloCFD="ddT5tmfFkFqsom8LnzEOLCsfndSvAcmxRf5Hbm05vtk1AMiW6HA9b8d9pGVIQGZVqGpX1aajJSI/JTLWeRqGIFLC0CUfyhYaETY0zs8K/qSxS8f4FRQTGA5wWawbOrGlLis72dQIkGIfBU8+y8Lox9twhBMFlfGphTfcF+ObMhk=" noCertificadoSAT="00001000000200011997" selloSAT="UHjVj1LgORiRrsoor2jjz/fL93ynx2LXMV6NiY8kHpKkB7UqKPE96GCbm5E16fkepviUGXgEANouTNhB/mxlgYnnT5eTScICB388a03KOVsc9aNJY0CUhxZWKtPJgCbltxp7RgtXCDbBOIeaoSO+/2k7ywfpqkj11DwWRU9wX2A=" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

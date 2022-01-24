@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfdi:Comprobante LugarExpedicion="Cuautitlán Izcalli Estado de México" metodoDePago="No identificado" tipoDeComprobante="ingreso" total="930.00" descuento="0.00" subTotal="801.72" certificado="MIIEUTCCAzmgAwIBAgIUMDAwMDEwMDAwMDAzMDE4MTE5OTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMTYxOTA2MzNaFw0xNzEyMTYxOTA2MzNaMIGdMRswGQYDVQQDExJNQVJJQkVMIExFT04gVE9SQUwxGzAZBgNVBCkTEk1BUklCRUwgTEVPTiBUT1JBTDEbMBkGA1UEChMSTUFSSUJFTCBMRU9OIFRPUkFMMRYwFAYDVQQtEw1MRVRNODQwOTA4S1o3MRswGQYDVQQFExJMRVRNODQwOTA4TURGTlJSMDExDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAlVKbd2ScSQ8nD7CS8aIzfLLljOimGcdOMXYtPuGJTJD2vcUWWRfKXM6zXdDCJJ7vQ/A2fim8H67d9qYZeOOa3+UpV/f91lqTc3Yz/3EC7TVBd+6Sw7jB6fPxG0jWV2wLAiA5ozthv+/s+5v+wDbKPxRlghVysi/EZMmqlkCUyusCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAHqFaWPPF9TXclKwcPJBCbGfRYsY9vkCnNjKzqGjFcK+ZmZrMI2Qc9V7poKrwO3gYmOXJcsF2I8gHQygok0d06pe+bQQgDcKyxsgQ/dO7vfelQdsWmKXQY7kbymfDypFiVKIKgAnyo8bFs6Zy8zUG/jlhVjc55haaNoyzJEgWqEMFd0msp7dF11xNvQq2GssNRw9Hdfu1i4W+FyiVZ+PS1HV2z2739+qWd+Fpmefb+g7+hVT2WwtslFfl39dyWa7OisdSnwiwX4DpGGXjbFMJaUAqVNAY6eXGzdofAu7Aue+DEfuayKdV+FiQ2yWW0DiXGNL/h/eDCAIGujASUBxaxY=" noCertificado="00001000000301811998" formaDePago="PAGO EN UNA SOLA EXHIBICIÓN" sello="bruaGdOn5z5pGUdlC5JSp5vFKz+nFiASsh8SU+qEAiWQ7gnq8JtguZdaqYKQVwhtt5zt5igl7BB9hwDcMWPjGj46sdcK0j3YQaIz0zcIK22uEzIqLpnXAqzSEyQGiyZD9dFMzP25QEFj91hamvGZVJyJFpz8sNSI0pbCOhdMi3s=" fecha="2014-10-17T11:16:32" folio="255" serie="A" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cfdi:Emisor nombre="MARIBEL LEON TORAL" rfc="LETM840908KZ7">
+        <cfdi:DomicilioFiscal codigoPostal="54763" pais="México" estado="Estado de México" municipio="Cuautitlán Izcalli" localidad="Cuautitlán Izcalli" colonia="SAN MARTIN TEPETLIXPAN" noExterior="11" calle="AVENIDA HIDALGO"/>
+        <cfdi:ExpedidoEn codigoPostal="54763" pais="México" estado="Estado de México" municipio="Cuautitlán Izcalli" localidad="Cuautitlán Izcalli" colonia="SAN MARTIN TEPETLIXPAN" noExterior="11" calle="AVENIDA HIDALGO"/>
+        <cfdi:RegimenFiscal Regimen="Régimen con actividades empresariales y profesionales."/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA S.A. DE C.V." rfc="BIO870307QD0">
+        <cfdi:Domicilio codigoPostal="54040" pais="México" estado="México" municipio="Tlalnepantla de Baz" localidad="Tlalnepantla de Baz" colonia="Fraccionamiento Los Pirules" calle="BLV. MANUEL AVILA CA,ACJO 2900-804"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="801.72" valorUnitario="801.72" descripcion="KIT DE AFINACION" noIdentificacion="AFI." unidad="PIEZA" cantidad="1.00"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="128.28">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="128.28" tasa="16.0000" impuesto="IVA"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2014-10-17T11:16:34" UUID="1920df1a-a8e8-46e7-84f3-9abf8a197d26" noCertificadoSAT="00001000000203430011" selloCFD="bruaGdOn5z5pGUdlC5JSp5vFKz+nFiASsh8SU+qEAiWQ7gnq8JtguZdaqYKQVwhtt5zt5igl7BB9hwDcMWPjGj46sdcK0j3YQaIz0zcIK22uEzIqLpnXAqzSEyQGiyZD9dFMzP25QEFj91hamvGZVJyJFpz8sNSI0pbCOhdMi3s=" selloSAT="YY0GswsRhhwjv+qNws0pIYkyrNBQgebRSCUgUGjZSvr2j1qlWq5ztQOw0j4pJMoDjRG+z2bZDliVgM+lC4V4Eo6ZAbGqYYrLbIe2Uz8YmXV8Fsui1hsA9gWb9NwUllbM8ITs8PujZMa/0XIHFRIb613uFvQ6m3ZMciCwmfdJm7E=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital"/>
+    </cfdi:Complemento>
+</cfdi:Comprobante>

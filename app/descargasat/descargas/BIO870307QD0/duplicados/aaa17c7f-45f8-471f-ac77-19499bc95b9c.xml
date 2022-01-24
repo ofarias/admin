@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:registrofiscal="http://www.sat.gob.mx/registrofiscal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" fecha="2014-11-28T19:54:08Z" sello="jnSM30JDLvDto+cn8QYWtnfe1zdR9zTLbwf+k5smNtpls1KA9cn5uErJ2Ic/vgMwakwtUFT/iyxSLRbWyAqW5dQvMcNl+3E8uAgcRtyjsbzj8IZsLUboJtnOg0y44xOgPjDhqaFdfeiucP3hyysymdLXTTq8gOIHSsjZXVZWcvw=" formaDePago="Una sola Exhibicion" noCertificado="00001000000201748120" certificado="MIIEtjCCA56gAwIBAgIUMDAwMDEwMDAwMDAyMDE3NDgxMjAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDgxNDE2MTEyM1oXDTE2MDgxNDE2MTEyM1owgfcxLjAsBgNVBAMTJVNFUlZJQ0lPIERFIEFETUlOSVNUUkFDSU9OIFRSSUJVVEFSSUExLjAsBgNVBCkTJVNFUlZJQ0lPIERFIEFETUlOSVNUUkFDSU9OIFRSSUJVVEFSSUExLjAsBgNVBAoTJVNFUlZJQ0lPIERFIEFETUlOSVNUUkFDSU9OIFRSSUJVVEFSSUExJTAjBgNVBC0THFNBVDk3MDcwMU5OMyAvIEdBVEY3MzAzMjFHRzUxHjAcBgNVBAUTFSAvIEdBVEY3MzAzMjFISkNSUlIwMTEeMBwGA1UECxMVTUVHQVBBQ1NBVDk3MDcwMU5OMzAxMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDU92FpziiFacioI6EwS5tOzGkH8PeT4r6AhhRbTSteRgka8KKitcvcxJ2h8jEwVqr7eh/ayBIR0cpI87MeEOOD2TCsB8QPRD9Pv7LcGan6ZDo/+jC9oMRHnahho+Sz/Dfsi4XON9oN9U+tgHDc/04tTtOic+mPjti9wPzjGEPQaQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAqPNQhHUJUga811WmXMm7ODvLm0j00Aq0bAJNw8fz8v/+4YBXOmkTRYLyHarLAxEMnAp/UQzK/wBgoKoStha+5LKvYVIacRrJer0W7tdpSA3+SFfOrpR5dTuAdeeQbcRNOh5hUBlatSwGcWAdxcfIAx6C8MY2OIEbbICDiqGqhX3ig43Zz4GHIQFtu4fCW19YBPsem4ZAJY7cS8gF8RZdpFhpLgYh/a0LMM443nCbj6VQEzWR+9LVgEp9IeUXDkzpS+pFhDgZkjJQ3NM4GIa8Aaxw/tOTs7l/AAvBgsncdRBpLRG/45Xvk+YjDPBid80tCOt+fJxjM+vdP+9zzmAE/w==" subTotal="124.14" total="144.00" tipoDeComprobante="ingreso" metodoDePago="Efectivo" LugarExpedicion="Mexico" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/registrofiscal http://www.sat.gob.mx/sitio_internet/cfd/cfdiregistrofiscal/cfdiregistrofiscal.xsd">
+  <cfdi:Emisor rfc="CUSE6905044UA">
+    <cfdi:RegimenFiscal Regimen="Régimen de Incorporación Fiscal" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="venta/servicio" descripcion="BIOTECSA SA DE CV &#xD;&#xA;BOULEVARD MANUEL AVILA CAMACHO 2900 NO. 804 COL. FRACCIONAMIENTO LO PIRULES TLANEPANTLA EDO DE MEXICO CP 54040&#xD;&#xA;CONSUMO ALIMENTOS" valorUnitario="124.14" importe="124.14" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos>
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="IVA" importe="0.00" />
+      <cfdi:Retencion impuesto="ISR" importe="0.00" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="19.86" />
+      <cfdi:Traslado impuesto="IEPS" tasa="0.00" importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <registrofiscal:CFDIRegistroFiscal Version="1.0" Folio="1411000015588709" />
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="AAA17C7F-45F8-471F-AC77-19499BC95B9C" FechaTimbrado="2014-11-28T19:54:08" selloCFD="jnSM30JDLvDto+cn8QYWtnfe1zdR9zTLbwf+k5smNtpls1KA9cn5uErJ2Ic/vgMwakwtUFT/iyxSLRbWyAqW5dQvMcNl+3E8uAgcRtyjsbzj8IZsLUboJtnOg0y44xOgPjDhqaFdfeiucP3hyysymdLXTTq8gOIHSsjZXVZWcvw=" noCertificadoSAT="00001000000201748120" selloSAT="UhB9PaLZOT4z7EX/u3Yo6qIQjjyUkt5CVe4EIcaMfOu4CxzkGSKPxmuKLyfpvPa7nl9Wj3YJod8rVwGDHsqk3WIlY/7XkSQYLRRHyBw6v237rbaFm4D+aHP1gZLRqUpWpiRp1jM34B9y+d1G8dHy+oDQ2PYq/4OqEsWu0Cv9HoY=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

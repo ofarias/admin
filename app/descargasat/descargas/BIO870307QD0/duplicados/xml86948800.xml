@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" Moneda="MXP" metodoDePago="TRANSFERENCIA" LugarExpedicion="Estado de Mexico" version="3.2" NumCtaPago="NO IDENTIFICADO" fecha="2016-06-14T11:58:37" sello="eN5OpwXfjDGKK3fPv15L4yrmzvSSyukrjI8OqGkjg0wZstir5AKomG1meAx0wRTJMxC9RtLtt58K+0HApnzYNfgut3PVNOYVXhA6dZVKx1qfWbcTXEORz9x90N22dS0WWfLvTdwl5g5f5pdGWMZc0SrDbBRsFHo7NYjkzXe9RYU=" formaDePago="Pago en una sola exhibición" tipoDeComprobante="ingreso" noCertificado="00001000000302073391" certificado="MIIEWjCCA0KgAwIBAgIUMDAwMDEwMDAwMDAzMDIwNzMzOTEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjcxNzE5NDBaFw0xNzEyMjcxNzE5NDBaMIGmMR4wHAYDVQQDExVDQVJNRU4gR09NRVogU0FMRElWQVIxHjAcBgNVBCkTFUNBUk1FTiBHT01FWiBTQUxESVZBUjEeMBwGA1UEChMVQ0FSTUVOIEdPTUVaIFNBTERJVkFSMRYwFAYDVQQtEw1HT1NDNDgwNzEySEQ5MRswGQYDVQQFExJHT1NDNDgwNzEyTURGTUxSMDMxDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAivaSnoQ5i5W5IkcYgP3v2eccWZkuaHotN5EDpBU+PDpE8/33BlUG/b+13vYLulO9NGD0ENsNApXCguw8Kny3g6AVnC9p/saSmoJwQRW1VnBqray//FaGbS4E4yYIBicHEGBB8kCV9jajHDAlifBXZ4HzVlLsfY57Eojk1cDWuc0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAKDDdp4wOLvgokk/U3u86tLsbSTn1m0TBvsQYAu5R3y5O4hnjqrX7sMJ5Vonaq50wz2cCCvBMEMsDU3F+8SWJ1ZSPKXXIzhwyWIGR1HB4wzg98jLNzhm8K3RkgzfyhBocRjnSogjWJmfbiVh44nVgRvaJg3dwyuBwHU5haG7EdQpSIv4Womk00EfZfdsyhMpbWNqLsdMYqsTBuN7emd8aIBuONN0GIjFpzsNi4tDzlgp1A5Rh0Ch7qG1cFEpODfh7VNvrBjygx8vqn6k+Z4bfjnhLFICn4x8Q5HOyaynHSHyee4YRohZQWslUSklwuL28ZST0yuES1VvNL1hrFXqGcY=" subTotal="7267.240000" total="8429.998400" folio="2714">
+	<cfdi:Emisor rfc="GOSC480712HD9" nombre="CARMEN GOMEZ SALDIVAR">
+		<cfdi:DomicilioFiscal calle="PIRULES" noExterior="36" colonia="SAN ISIDRO" localidad="CUAUTITLAN IZCALLI" municipio="CUAUTITLAN IZCALLI" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54730" />
+		<cfdi:RegimenFiscal Regimen="PERSONA FISICA CON ACTIVIDAD EMPRESARIAL Y PROFESIONAL"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. de C.V.">
+		<cfdi:Domicilio calle="BULEVAR MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACCIONAMIENTO LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="AFINACION DE MOTOR" valorUnitario="2758.620000" importe="2758.620000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="CAMBIO DE ACEITE AL MOTOR" valorUnitario="689.660000" importe="689.660000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" descripcion="TAPON DE CARTER" valorUnitario="68.970000" importe="68.970000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="SERVICIO" descripcion="SERVICIO DE LAVADO Y ENGRASADO" valorUnitario="689.660000" importe="689.660000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" descripcion="ENFRIADOR DE ACEITE ORIGINAL" valorUnitario="1767.240000" importe="1767.240000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PIEZA" descripcion="GARRAFAS.ANTICONGELANTE.ANTICONGELANTE.CONCENTRADO" valorUnitario="201.150000" importe="603.450000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="SERVICIO" descripcion="MANO.DE..OBRA.CAMBIO.DE.ENFRIADOR.DE.ACEITE." valorUnitario="344.820000" importe="344.820000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="SERVICIO" descripcion="REVISION.DE.BALATAS.DE.LAS.CUATRO.RUEDAS" valorUnitario="344.820000" importe="344.820000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="1162.758400">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1162.758400" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2016-06-14T11:58:37" UUID="E497FBA1-DD8F-800C-9698-2082BBA1399F" noCertificadoSAT="00001000000203392777" selloCFD="eN5OpwXfjDGKK3fPv15L4yrmzvSSyukrjI8OqGkjg0wZstir5AKomG1meAx0wRTJMxC9RtLtt58K+0HApnzYNfgut3PVNOYVXhA6dZVKx1qfWbcTXEORz9x90N22dS0WWfLvTdwl5g5f5pdGWMZc0SrDbBRsFHo7NYjkzXe9RYU=" selloSAT="hR3IvRFd50FOBk8XE/MBEPveBVzpM5sOqw/kSma3Rmon7UTZfJ5+tdLn2ax+R/DoMZk+aKVZETcCc4yB1E/ktYDUQP/vazhxkBbP9gi7iH1Jg4AZfsfr4ZMEpOsXYTcz6HtFfsLw/48wmfgxdVCI0gtE5qJMQm2rF+FsjtlnJ/k=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

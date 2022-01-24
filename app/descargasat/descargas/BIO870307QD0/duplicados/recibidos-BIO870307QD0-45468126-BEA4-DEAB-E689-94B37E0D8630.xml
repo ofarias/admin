@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " folio="9992" fecha="2015-01-21T18:03:03" sello="eEyEQRCkEENsqRBI+fbcFQqgjaydrijafyeJVN/ObMB2YO8r+d/CcnM7bY3G1BKjM37BEIZ51JKIqAYNyDKWUBB2ITNNFxdZ1pDTmsvrLAaZh2SHYDAHrQ9EAg3YEVxCx0zT6vtEBIclfORosd6dAgW51T/xpeGZrYVU3pky5ik=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000202662233" certificado="MIIEjzCCA3egAwIBAgIUMDAwMDEwMDAwMDAyMDI2NjIyMzMwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIxOTIzMDE1MFoXDTE2MTIxOTIzMDE1MFowgdAxJjAkBgNVBAMTHUVYIEhBQ0lFTkRBIExBIE5PUklBIFNBIERFIENWMSYwJAYDVQQpEx1FWCBIQUNJRU5EQSBMQSBOT1JJQSBTQSBERSBDVjEmMCQGA1UEChMdRVggSEFDSUVOREEgTEEgTk9SSUEgU0EgREUgQ1YxJTAjBgNVBC0THEVITjkyMDgyN0M5NiAvIENFTUI1MzA5MTYxNzIxHjAcBgNVBAUTFSAvIENFTUI1MzA5MTZIUExSTUwwMjEPMA0GA1UECxMGTUFUUklaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC5OSngz/pFQ+Ma42CxGJ2mrS2YH+vkjCK2GmUVEaujrALkN8x8ojtkOwhGr3DsU06tlAa9gHw79DaRNzfTpBL3RfcXLNczXdbtT+ZHlJKKmXqK0Z6jMIza90gCfK950bqbFREQObfezaxOMsyYiVGm8FsoI9+HUm3XttvLNMtuDwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAd9DZpm1dbSexD9e3XrGYIhf1Yjl4JJ/K1avX6GBUOcHYB7MMv5b4AS8bkLNlFeWJM9p0v5UiP3MhGODuVzZEfzmGSuNilE3BiPphHEBd/k3UZ28RuYEKI35EnV2Edy4GaLuTdcdO4wm4PhhOGSDvRU9/J0wOXUXIXAdtj8YDB8gfOin8alt2jjKa9pAjy8YJrKsJoYIWDNKPee6zIlm7c3O4lrAYB2+L3qTDotcbjL0WXUeYUrlCwwlPOlk1Sdt1MLR8vhXh7LOYjti2wKgvlgQ6J0+/x0SBxtYz/DFzQs6HXniOIHutInIi7JBjXqcwFxgC7j4/rKzIKYIWNhn4tA==" subTotal="3808.620000" Moneda="MXP" total="4417.999200" metodoDePago="NO IDENTIFICADO" tipoDeComprobante="ingreso" LugarExpedicion="Puebla" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="EHN920827C96" nombre="EX HACIENDA LA NORIA SA DE CV">
+		<cfdi:DomicilioFiscal calle="41 Poniente" noExterior="2120" colonia="LA NORIA" localidad="PUEBLA" municipio="PUEBLA" estado="Puebla" pais="MEXICO" codigoPostal="72410" />
+		<cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" localidad="TLALNEPANTLA" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="No aplica" descripcion="CONSUMO DE ALIMENTOS" valorUnitario="3808.620000" importe="3808.620000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="609.379200">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="609.379200" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2015-01-21T18:03:03" UUID="45468126-BEA4-DEAB-E689-94B37E0D8630" noCertificadoSAT="00001000000203392777" selloCFD="eEyEQRCkEENsqRBI+fbcFQqgjaydrijafyeJVN/ObMB2YO8r+d/CcnM7bY3G1BKjM37BEIZ51JKIqAYNyDKWUBB2ITNNFxdZ1pDTmsvrLAaZh2SHYDAHrQ9EAg3YEVxCx0zT6vtEBIclfORosd6dAgW51T/xpeGZrYVU3pky5ik=" selloSAT="nPhN7DJaqQ+q3vYhA5+9z2ro9ktdbdcZBwcrXJmXbUWp8H5OG94uqyk7xF6X3BXdQIuP5OEHqM2NAEqYCLvPg2NjCEdRf6nQNitiRuXO6urWIhKvhVXhNYTX+UvucD/wCKwxuM5PCl7b0LE15QsybtCkIBElEH6biJyd7+8armU=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " folio="36" fecha="2015-09-23T13:24:00" sello="WlkRKRwvKj6849VXs/w0/3SjArmPbpDAbGX9jP4XM/c1IcCQE8Pqbm64CXhbqaSnBeYGbtJink925riidZBoq7Qr7TD+IE7Rrna5pT8rQO0Vl/yypRR8sd/6WYAZHV5xYq3x9fd2pDCF77c84uUX3CN3vtAV8YSOGZ1x6KZJfvs=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000304552672" certificado="MIIEYDCCA0igAwIBAgIUMDAwMDEwMDAwMDAzMDQ1NTI2NzIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA2MjcyMjM2NTVaFw0xODA2MjcyMjM2NTVaMIGsMSAwHgYDVQQDExdST1NBTEJBIE1BUlRJTkVaIENPUlRFUzEgMB4GA1UEKRMXUk9TQUxCQSBNQVJUSU5FWiBDT1JURVMxIDAeBgNVBAoTF1JPU0FMQkEgTUFSVElORVogQ09SVEVTMRYwFAYDVQQtEw1NQUNSNjgwODMxQ0I2MRswGQYDVQQFExJNQUNSNjgwODMxTURGUlJTMDExDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAmfEAONTmQ/+59SEGvv3dxD6CvkxCPQ/KF7CVrnqYVNStuvbFYdrxoRmALYKJ5GVNXPJTUpOzOAmcbIM0mNuWGRKsuUqdOTwDrCBrQFwlCPOGtkTTTiM0QIaHjbWbY+9zlwyjzRP0GhXYq/NR1bDUNOHvkFF6HMyQo0naxRVwMfkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBALeGs/M5sy/ctSy9jv3MA07xazd3hxm0wNXAsXJp7u2RPoBiAAWLxehTNfC/2DGLlzx/dG9d8BTfp26OQ1GWjfQ+SMKiSk4HOCTJbNX7DiKL2ud19UrQEoR1SMrb2p1vP8Mg6YzmyXFor5aCIZBDMprbld4M5M95MvnBfdtcljlZFnA1VAjPlO/XnuoHzF9jtQoCageDZN9DEEi+lrQVxqpZX+i4SWXvFlZkYwsCvIbc5JtgML7egIcN3IsD7dOXKk/5Jvha42iJYdPgCgLZnL5eTQ639//ZhDyE43RCDerOY77tuup6YRnqDOpVlqE4e2XFnFyW7M+Nbxl+uWt9f1Y=" subTotal="1800.000000" Moneda="MXP" total="2088.000000" metodoDePago="no aplica" tipoDeComprobante="ingreso" LugarExpedicion="Guanajuato" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="MACR680831CB6" nombre="MARTINEZ CORTES ROSALBA">
+		<cfdi:DomicilioFiscal calle="BLVD. ZODIACO" noExterior="317" colonia="LOS LIMONES" localidad="LEON" municipio="LEON" estado="Guanajuato" pais="MEXICO" codigoPostal="37448" />
+		<cfdi:RegimenFiscal Regimen="no aplica" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A DE C.V">
+		<cfdi:Domicilio calle="camacho" noExterior="2900" noInterior="804" colonia="fracc. los pirules" municipio="tlalnepantla" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="9.000000" unidad="Juegos" descripcion="uniformes de fut bol" valorUnitario="200.000000" importe="1800.000000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="288.000000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="288.000000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2015-09-23T13:22:49" UUID="FE74040F-F8F1-7558-5295-FAECF50BE58B" noCertificadoSAT="00001000000202771790" selloCFD="WlkRKRwvKj6849VXs/w0/3SjArmPbpDAbGX9jP4XM/c1IcCQE8Pqbm64CXhbqaSnBeYGbtJink925riidZBoq7Qr7TD+IE7Rrna5pT8rQO0Vl/yypRR8sd/6WYAZHV5xYq3x9fd2pDCF77c84uUX3CN3vtAV8YSOGZ1x6KZJfvs=" selloSAT="EuTtlA8bq9bFGAZfXakFZ9NmuPRcqPq1E93Lviyu+C4OrHbp/C9Ho5AXnD3M1qKFT478t5QSHK6ei3guNOd9KDnL8dD/O3e5Lj0F/a+vVTgyu5Dm3vsqp6vy1whrIEk2u5Jf1CRB1GWcx+MSdXKqThIAmeMDXlSvtE7yk/jfDNY=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

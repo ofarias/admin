@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cfdi:Comprobante Certificado="MIIEjTCCA3WgAwIBAgIUMDAwMDEwMDAwMDAzMDQ4ODU5MTIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA4MTMxNDIwMThaFw0xODA4MTMxNDIwMThaMIHZMSkwJwYDVQQDEyBBVVRPWk9ORSBERSBNRVhJQ08gUyBERSBSTCBERSBDVjEpMCcGA1UEKRMgQVVUT1pPTkUgREUgTUVYSUNPIFMgREUgUkwgREUgQ1YxKTAnBgNVBAoTIEFVVE9aT05FIERFIE1FWElDTyBTIERFIFJMIERFIENWMSUwIwYDVQQtExxBTUU5NzAxMDlHVzAgLyBXRVNQNjkxMDA1VVE5MR4wHAYDVQQFExUgLyBXRVNQNjkxMDA1SE5FQlBUMDYxDzANBgNVBAsTBk5PTUlOQTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA18W/UO8x/efhSXqWPLAr+MqPH8w/GcwP13Ac+dMzaTX/Cdbp9NJiFiJcrh+lH7IPgfokEfX3HgtzopXdy02LQ0RS0stL6EYfRRIR0hlz0EQHzHvWjMc0ix6Q+PBckFPQl5nqeEWGnmjkKwo2hO/8EOo0Yk0NUYpDrhlHGhhaB7cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAHR1GPpI1IMtNAfJibj5XxyXRjN034A4yBv411BIktttE/4APCkBb6iUnz70+qi0X8axfbaV7ura/TgLwowJ7jfKFxt5leW05SyLCJ8MsRu7ofvJCD9dchMsDGiWoqwVPE4Dp0ZIOHZTKL7jyuUeKmkrvaQ9JlY7kVLj4Tb/0PrWzMEE4uE0ZetpocOJ+5nF7ns0UPAxmcZeJey0gl4NuzGqjmVI2mz3Mw1s9J4md3gqLjLxHbMHvLpJ9F6B8O1LLL7+YkObNKmNZxstagaSx1ddjFOReJZ7FJJLpoj219clyZf8JVLlLs56A1aa1x/ypaMDOZlbSp7pcojvBBc8dWw=" Fecha="2018-07-09T11:41:07" Folio="355377" FormaPago="04" LugarExpedicion="54175" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000304885912" Sello="mmyXst+zMb6NOL+NkrH5f2BME2Tie/cC9aabDvyuSh/q4nIB10D0ZaB2t56ZWp9KYJJze6lmJPdYauk4hVczoTyoeR9jAyf6f73Uqz0EuC3Kpg79McYVh+wTUxmf4axI0jtGLVBkkcHfBgDUn8p9L3JtJmhf9N9jxnvmNNHAs1Y=" Serie="7527" SubTotal="344.74" TipoDeComprobante="I" Total="399.90" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:dvz="http://www.diverza.com/ns/addenda/diverza/1" xmlns:fm="http://facturame.mx/ns/addenda/1" xmlns:pago10="http://www.sat.gob.mx/Pagos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:Emisor Nombre="AUTOZONE DE MEXICO S DE RL DE CV" RegimenFiscal="601" Rfc="AME970109GW0"/><cfdi:Receptor Nombre="BIOTECSA, S.A. DE C.V." Rfc="BIO870307QD0" UsoCFDI="G03"/>
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1.000000" ClaveProdServ="25174400" ClaveUnidad="H87" Descripcion="78895 Tapete 4PC ARMOR A" Importe="344.74" NoIdentificacion="477988" ValorUnitario="344.740000">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="344.740000" Importe="55.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="55.16">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="55.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="99f524be-70a8-4743-bb1c-8e94e9ca8c86" RfcProvCertif="DIA031002LZ2" FechaTimbrado="2018-07-09T11:41:07" SelloCFD="mmyXst+zMb6NOL+NkrH5f2BME2Tie/cC9aabDvyuSh/q4nIB10D0ZaB2t56ZWp9KYJJze6lmJPdYauk4hVczoTyoeR9jAyf6f73Uqz0EuC3Kpg79McYVh+wTUxmf4axI0jtGLVBkkcHfBgDUn8p9L3JtJmhf9N9jxnvmNNHAs1Y=" NoCertificadoSAT="00001000000404614920" SelloSAT="mXAKyxLeYXdjz32IRvkig01dcu+AUKJ5a7LsdMskFi9I+I9YfJyFGyb/hFL+K/vAe5KbinnB0RN2Y5VeCFoN1F2j0E9XTr6ElavLqBAuUJkI1M4SotL8WlkQyvLLxaxRGO0BFqLESwQhgu09zcCJr8woHXRIfhkaGW2spauu5J9s9wDTHOpd1UQsYvQJXj1qWdCNTz4xovzHcryptP7HpWBLGIPkVIZjsAU8FZoAzJlqdVoEEVPV08miVddS0aZdlP6iDmLN7BBqSWsz5ynAlQMhGNR78gcMEOHOU7SM9kl05rYRqXIGPtU9tN1etuxmDZn6fzh+UPBghVTqSc5ieg=="/>
+    </cfdi:Complemento><cfdi:Addenda>
+        <dvz:diverza version="1.1">
+            <dvz:generales tipoDocumento="Factura"/>
+            <dvz:complemento>
+                <dvz:datosExtra atributo="NumCta" valor="8297"/>
+            </dvz:complemento>
+        </dvz:diverza>
+    <fm:AddendaFacturame version="1.0" xmlns:fm="http://facturame.mx/ns/addenda/1"><Ticket number="7527355377070918"/></fm:AddendaFacturame></cfdi:Addenda>
+</cfdi:Comprobante>

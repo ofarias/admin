@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" tipoDeComprobante="ingreso" serie="B" folio="29027" fecha="2016-10-13T18:34:11" LugarExpedicion="MEXICO DISTRITO FEDERAL 06470" sello="J6lNvL4uQAtwsXbtI7viSRgfExIK8TEMcvXnGzjP16H34iTazxCA0yNj6TfPOAFdrlhQyPlZAKhw50Nlu8wzIzFA0Wv49kwGiF32BDn7JtcmH20vX87vBGIJB71ssKbhVaAHyWBLlLCA/tXB5mS0BsYdT10QNMVOU8y8jhDDCV4=" noCertificado="00001000000202174530" certificado="MIIEijCCA3KgAwIBAgIUMDAwMDEwMDAwMDAyMDIxNzQ1MzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTAxOTE2MjMwMloXDTE2MTAxOTE2MjMwMlowgcsxJDAiBgNVBAMTG1BST1ZFRURPUkEgT0ZJRkFJUiBTQSBERSBDVjEkMCIGA1UEKRMbUFJPVkVFRE9SQSBPRklGQUlSIFNBIERFIENWMSQwIgYDVQQKExtQUk9WRUVET1JBIE9GSUZBSVIgU0EgREUgQ1YxJTAjBgNVBC0THFBPRjA1MDQxOUQ4OCAvIEhBQUo2MTExMDhETjMxHjAcBgNVBAUTFSAvIEhBQUo2MTExMDhIUExDTEMwMzEQMA4GA1UECxMHT0ZJRkFJUjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA8naZz5kLR16OmHfL9RCRLfrt+DBh3syR+NJclcOpTzVt4rYEe66HgRVZM0iCybBAoIwzp6fki6o6ikKp0JhDg5uiKZ1KknI4FMHTFol3AVY8Gn0r15g74Z9StxvXYq4cWkyEH9oSVVeVYySqLjgQivyYeJL1PKAFtxVj7mvmYycCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAFoeA0dDoye7IX+pULs1fZT7nm7eFuBDvTDUdePDj6qNQkMQBRmsvXhS5/EkQZBvGwdLKszL8FPJJoZFxiZnjWthPAgPBur1JpiWWZPhoaEKpVEbvAXlNSHr5oTbd3IxqgMIVaM2Kh1Tem7bdtORgphO7LL/7diPbeO/CBp/uftti71FyIB92QZdMOl8iiLQZAxBnwhB6uq7889NcvnW6Z556+P2Gcl+uww48X8EV+WARhhfgGJaWc/Cpg2jS0WFy4zoeuUyNVK2I1+UE8Wem5VEbPaPxZ2L4doe12AG4AHFM2UULdOzM5xVmRTMi0kIV2sfsi39ceeXFDiSFT+oOEQ=" total="1532.41" subTotal="1321.04" Moneda="MXN" formaDePago="PAGO EN UNA SOLA EXHIBICION" condicionesDePago="CREDITO" metodoDePago="03" NumCtaPago="NO IDENTIFICADO">
+	<cfdi:Emisor rfc="POF050419D88" nombre="PROVEEDORA OFIFAIR SA DE CV">
+		<cfdi:DomicilioFiscal calle="MANUEL MA. CONTRERAS" noExterior="49" colonia="SAN RAFAEL" municipio="MEXICO" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06470"/>
+		<cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S. A. DE C. V.,">
+		<cfdi:Domicilio calle="BLVD. M. AVILA CAMACHO" noExterior="#2900-804" colonia="COL. LOS PIRULES," municipio="TLALNEPANTLA," estado="EDO. DE MEXICO, C.P." pais="MEXICO" codigoPostal="54040"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="4.00" unidad="PIEZA" noIdentificacion="4828" descripcion="CORRECTOR BIC ROLLER DE 4.2 MM" valorUnitario="17.16" importe="68.64">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.00" unidad="CAJA" noIdentificacion="2761" descripcion="CLIP SUJETA DOCUMENTO ACCO CHICO C/12PZ" valorUnitario="9.30" importe="93.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6.00" unidad="PIEZA" noIdentificacion="5872" descripcion="PEGAMENTO RESISTOL LAPIZ ADHESIVO 40 GRS" valorUnitario="23.60" importe="141.60">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.00" unidad="CAJA" noIdentificacion="5602" descripcion="PAPEL BOND FOTOBOND CARTA 37KG BLANCO" valorUnitario="512.50" importe="512.50">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="100.00" unidad="PIEZA" noIdentificacion="2321C" descripcion="FOLDER CARTULINA IRASA CARTA CREMA" valorUnitario="0.85" importe="85.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.00" unidad="PIEZA" noIdentificacion="4763" descripcion="BLOCK POST-IT # 654-5UC3X3&quot; CUBO ULTRA" valorUnitario="109.66" importe="328.98">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.00" unidad="PIEZA" noIdentificacion="9724N" descripcion="MARCADOR PERM SHARPIE DOBLE PUNTA NEGRO" valorUnitario="12.54" importe="37.62">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="CAJA" noIdentificacion="8742" descripcion="BOLIGRAFO KILOMETRICO 100 C/12 COLORES SURTIDOS" valorUnitario="26.85" importe="53.70">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="211.37">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="211.37"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="J6lNvL4uQAtwsXbtI7viSRgfExIK8TEMcvXnGzjP16H34iTazxCA0yNj6TfPOAFdrlhQyPlZAKhw50Nlu8wzIzFA0Wv49kwGiF32BDn7JtcmH20vX87vBGIJB71ssKbhVaAHyWBLlLCA/tXB5mS0BsYdT10QNMVOU8y8jhDDCV4=" FechaTimbrado="2016-10-13T18:34:18" UUID="0588035A-151B-4EFF-8CF7-6D92F5B91A4A" noCertificadoSAT="00001000000202864530" version="1.0" selloSAT="uJrloZvKyHH+OF4JySkv4rNu7FrE//EjAjLOZbeu0SPM0S5lnyUOnFKG4ABDshm4luyGVjeVtklaU6TPCzCtuLW/Gk7krSxMagM+HwigFQgfPZVy3xfi9kNVPdSkb/EaVmy2wx7UC2TU5nNAcsspD8jwlOHEjH+QnNu8PhlQodo="/></cfdi:Complemento>
+</cfdi:Comprobante>

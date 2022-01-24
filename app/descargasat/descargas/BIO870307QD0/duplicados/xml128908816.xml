@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" Moneda="MN" metodoDePago="01" LugarExpedicion="Estado de Mexico" version="3.2" fecha="2017-11-23T16:37:04" sello="y7HTvxYOksoiKj1cilV84qEGZjYPfGcZ3mWYSog2PR9l97fvjC3P2vuVk/dq4XO2Dk5PmJLzFxkN5z3zcsgTwm9IvN1IgNYnNIz8t3JVJp3a8QuEaCKMTAgtoRrNNOyhM2ze+6hzEaa7eYls2w5Fy92+ip+F39OgL12uOscG+KE=" formaDePago="Pago en una sola exhibición" tipoDeComprobante="ingreso" noCertificado="00001000000302094451" certificado="MIIEXTCCA0WgAwIBAgIUMDAwMDEwMDAwMDAzMDIwOTQ0NTEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjgwNTE2MjdaFw0xNzEyMjgwNTE2MjdaMIGpMRswGQYDVQQDExJGRUxJUEUgUkVZRVMgUEVSRVoxGzAZBgNVBCkTEkZFTElQRSBSRVlFUyBQRVJFWjEbMBkGA1UEChMSRkVMSVBFIFJFWUVTIFBFUkVaMRYwFAYDVQQtEw1SRVBGNzEwNTI2TlkxMRswGQYDVQQFExJSRVBGNzEwNTI2SE1DWVJMMDUxGzAZBgNVBAsTEkZFTElQRSBSRVlFUyBQRVJFWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA0M/9PXZdMC8ILxgn7jwekQu9OW7RMEkIYxQJeyCKzS27Lbz9o023HyfCPbp5csehbwuA54oPPjiLV7d3dvjuf6mL4DJSdtjauHdVnrp8PJ5JbcUZynksmJZCRMdVAMgv2jykZ5grzBquydveLdQqXc5JpEsGUg9DQsEZozO9eOkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAI4FVK216NiTQ5TN4AyxswaR98JpScg6wNgifBeJ96StS1bspzzk2dyIMFoV//bXI3DQnPKx0y2koBqMNgc0TyCuOmmJNPOKbMFUpIknQ+SDMogCgQfcUqliFPfC4kxZRnhGYkN7TDlAoST1MZS8VkOvJfBdGEXp+ynb9yS2IPld6xqmWk4wZJ0gnCvbgQZsuHLgt1kFHFymtGRDU+hfo7qurwLVu2xHBbJw19Wp7LSWtFRwYgp7Fbvge0Ovpe5nJL2QUoS/UMMItqY8QfY0RO3n77A6eAWjNRJ0ip8tWWcBfncPTXHXcceiTKBas/ilYSbRjBVzZEMVvJ/U83B4Gp8=" condicionesDePago="AL CONTADO" subTotal="1285.000000" total="1490.600000" serie="FAC" folio="619">
+	<cfdi:Emisor rfc="REPF710526NY1" nombre="FELIPE REYES PEREZ">
+		<cfdi:DomicilioFiscal calle="AVENIDA PRIMERO DE MAYO" noExterior="321" noInterior="LOCAL C" referencia="2" colonia="CENTRO URBANO" localidad="CUAUTITLAN IZCALLI" municipio="CUAUTITLAN IZCALLI" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54700" />
+		<cfdi:RegimenFiscal Regimen="REGIMEN INCORPORACION FISCAL"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+		<cfdi:Domicilio calle="Blvd. Manuel Avila Camacho" noExterior="2900-804" colonia="Fracc. Los Pirules" localidad="Estado de Mexicco" municipio="Tlalnepantla" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="REGULADOR DE VOLTAJE AC-DELCO 12 VOLTS" valorUnitario="350.000000" importe="350.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="TRIDIODO" valorUnitario="420.000000" importe="420.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PIEZA" descripcion="JUEGO DE BALEROS" valorUnitario="285.000000" importe="285.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PIEZA" descripcion="PORTA CARBONES" valorUnitario="230.000000" importe="230.000000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="205.600000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="205.600000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2017-11-23T16:37:04" UUID="D4406733-D09E-11E7-975F-00155D014009" noCertificadoSAT="00001000000403557578" selloSAT="pxyC91qCM+W65EtJK8fILFlrBY7jSgHBGl9MschN1afdKwjGT3CbQFrvUmSFuiEfEZx0RDcS8WIRL8jluSebQRbg9qxh21sMsA2sOiIN3r4/o4GcOOBjURztRbOHZSnrV99j64idqW3ajDtaC7JVwuxJpZ5Fj2A3kA+O0uHUCHrSn+S45/WpMAjLvsaQTMTVG21J5OVyzsqtkT7+4h78oXMJV1dKJNHBomfhm4ztTKvvlVu+rIiSE3UchZedE8Yxa8ljE1sGE3WXdfGV+wg3PxSvsoe+4cyO7sADHjnX6qoVQlNnSrhguB1M7KUSDdNI9CtKDzA+CmkFaJWH4d+Jaw==" selloCFD="y7HTvxYOksoiKj1cilV84qEGZjYPfGcZ3mWYSog2PR9l97fvjC3P2vuVk/dq4XO2Dk5PmJLzFxkN5z3zcsgTwm9IvN1IgNYnNIz8t3JVJp3a8QuEaCKMTAgtoRrNNOyhM2ze+6hzEaa7eYls2w5Fy92+ip+F39OgL12uOscG+KE=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

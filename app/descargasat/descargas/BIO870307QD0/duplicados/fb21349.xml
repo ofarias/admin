@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" tipoDeComprobante="ingreso" serie="B" folio="21349" fecha="2015-12-09T17:05:40" LugarExpedicion="MEXICO DISTRITO FEDERAL 06470" sello="1GK2RnH9b+IELCoPEBI1mzHNWeoNak4ancipiTAOIN9+mQYpx/PmTstx5ZM0J/StNxkRu9juyYRfM6olZLBuZxtGITZ5S+o0YfHKxSWiKtm+Rh2yhlHKP2GIcID6VjIg4jrNZ5poSnDt2RWWrDJvPkjwKhhTsmWYkogZNLwIQpo=" noCertificado="00001000000202174530" certificado="MIIEijCCA3KgAwIBAgIUMDAwMDEwMDAwMDAyMDIxNzQ1MzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTAxOTE2MjMwMloXDTE2MTAxOTE2MjMwMlowgcsxJDAiBgNVBAMTG1BST1ZFRURPUkEgT0ZJRkFJUiBTQSBERSBDVjEkMCIGA1UEKRMbUFJPVkVFRE9SQSBPRklGQUlSIFNBIERFIENWMSQwIgYDVQQKExtQUk9WRUVET1JBIE9GSUZBSVIgU0EgREUgQ1YxJTAjBgNVBC0THFBPRjA1MDQxOUQ4OCAvIEhBQUo2MTExMDhETjMxHjAcBgNVBAUTFSAvIEhBQUo2MTExMDhIUExDTEMwMzEQMA4GA1UECxMHT0ZJRkFJUjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA8naZz5kLR16OmHfL9RCRLfrt+DBh3syR+NJclcOpTzVt4rYEe66HgRVZM0iCybBAoIwzp6fki6o6ikKp0JhDg5uiKZ1KknI4FMHTFol3AVY8Gn0r15g74Z9StxvXYq4cWkyEH9oSVVeVYySqLjgQivyYeJL1PKAFtxVj7mvmYycCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAFoeA0dDoye7IX+pULs1fZT7nm7eFuBDvTDUdePDj6qNQkMQBRmsvXhS5/EkQZBvGwdLKszL8FPJJoZFxiZnjWthPAgPBur1JpiWWZPhoaEKpVEbvAXlNSHr5oTbd3IxqgMIVaM2Kh1Tem7bdtORgphO7LL/7diPbeO/CBp/uftti71FyIB92QZdMOl8iiLQZAxBnwhB6uq7889NcvnW6Z556+P2Gcl+uww48X8EV+WARhhfgGJaWc/Cpg2jS0WFy4zoeuUyNVK2I1+UE8Wem5VEbPaPxZ2L4doe12AG4AHFM2UULdOzM5xVmRTMi0kIV2sfsi39ceeXFDiSFT+oOEQ=" total="2978.30" subTotal="2567.50" Moneda="MXN" formaDePago="PAGO EN UNA SOLA EXHIBICION" condicionesDePago="CREDITO" metodoDePago="TRANSFERENCIA" NumCtaPago="4750">
+	<cfdi:Emisor rfc="POF050419D88" nombre="PROVEEDORA OFIFAIR SA DE CV">
+		<cfdi:DomicilioFiscal calle="MANUEL MA. CONTRERAS" noExterior="49" colonia="SAN RAFAEL" municipio="MEXICO" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06470"/>
+		<cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S. A. DE C. V.,">
+		<cfdi:Domicilio calle="BLVD. M. AVILA CAMACHO" noExterior="#2900-804" colonia="COL. LOS PIRULES," municipio="TLALNEPANTLA," estado="EDO. DE MEXICO, C.P." pais="MEXICO" codigoPostal="54040"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="2.00" unidad="CAJA" noIdentificacion="0840" descripcion="PAPEL BOND XEROX CARTA 37KG BLANCO" valorUnitario="512.50" importe="1025.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.00" unidad="PIEZA" noIdentificacion="8510" descripcion="CUADERNO SCRIBE # 2903 PROF PLASTIF 100HJ C-7" valorUnitario="24.63" importe="123.15">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.00" unidad="PIEZA" noIdentificacion="0585G" descripcion="CUADERNO SCRIBE #4533 MEGA ESP. F/I 100HJ C/7MM" valorUnitario="8.91" importe="44.55">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="300.00" unidad="PIEZA" noIdentificacion="3128" descripcion="MICA KINERA PROTECTOR HOJA 360 CARTA" valorUnitario="0.81" importe="243.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.00" unidad="PIEZA" noIdentificacion="4535" descripcion="CARPETA ACCO 361 VINIL F-TRANS CTA 3&quot; EN R BCA" valorUnitario="45.08" importe="225.40">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="8979" descripcion="CARPETA ACCO 386 VINIL F-TRANS CTA 4&quot; EN D BLANCA" valorUnitario="64.93" importe="129.86">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="100.00" unidad="PIEZA" noIdentificacion="2321C" descripcion="FOLDER CARTULINA IRASA CARTA CREMA" valorUnitario="0.76" importe="76.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.00" unidad="CAJA" noIdentificacion="0520" descripcion="CLIP BACO STANDARD ECO # 1" valorUnitario="4.05" importe="20.25">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4.00" unidad="PIEZA" noIdentificacion="6283" descripcion="CLIP SUJETA DOCUMENTO ACME PZ15 MINI C/12PZ" valorUnitario="8.21" importe="32.84">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="CAJA" noIdentificacion="0776" descripcion="GRAPA PILOT STANDARD CON 5040" valorUnitario="23.11" importe="46.22">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="0267V" descripcion="BOLIGRAFO BIC MEDIANO VERDE" valorUnitario="1.78" importe="3.56">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="8491R" descripcion="BOLIGRAFO PENAC OB-GEL RETRACT. MED. ROJO" valorUnitario="6.76" importe="13.52">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.00" unidad="PIEZA" noIdentificacion="0234" descripcion="SACAPUNTAS PELIKAN PLASTICO 404 C/MINI DEPOSITO" valorUnitario="4.68" importe="23.40">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="50.00" unidad="PIEZA" noIdentificacion="1203" descripcion="SOBRE FORTEC COIN NO. 5" valorUnitario="0.33" importe="16.50">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="3020" descripcion="CORTADOR CORTY 3500 CHICO ALMA METAL" valorUnitario="14.13" importe="28.26">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="1074" descripcion="PERFORADORA PEGASO MOD. 800" valorUnitario="349.64" importe="349.64">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.00" unidad="JUEGO" noIdentificacion="8300" descripcion="SEPARADOR WILSON JONES INDEXMENSUAL" valorUnitario="17.25" importe="51.75">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="JUEGO" noIdentificacion="8299" descripcion="SEPARADOR WILSON JONES INDEX A-Z" valorUnitario="32.85" importe="65.70">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="2622" descripcion="TIJERA BARRILITO 142-6&quot; MANGO PLASTICO TCO-6" valorUnitario="24.45" importe="48.90">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="410.80">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="410.80"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="1GK2RnH9b+IELCoPEBI1mzHNWeoNak4ancipiTAOIN9+mQYpx/PmTstx5ZM0J/StNxkRu9juyYRfM6olZLBuZxtGITZ5S+o0YfHKxSWiKtm+Rh2yhlHKP2GIcID6VjIg4jrNZ5poSnDt2RWWrDJvPkjwKhhTsmWYkogZNLwIQpo=" FechaTimbrado="2015-12-09T17:12:28" UUID="1E7D6A9C-F052-4819-95FE-7E4F1D115B02" noCertificadoSAT="00001000000202864530" version="1.0" selloSAT="bHbiOtRZmKmLi+y5CtsPP9+mTaV9YTHhz8gnWeckMtHLfX3c/YPTHHz1iZNn663mgqz9WJU9nv6RrCSi0SSXQtIcWfy/NzAoOWy/Haw5qyFY86iaYEoEdFaiwgHKJMb/D6QHWKQM+AuePZM0EsgpzZMwiyD0ul0RBBaVBPTbQNU="/></cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,22 @@
+<cfdi:Comprobante LugarExpedicion="MORELIA, MICHOACAN" Moneda="MXN" NumCtaPago="NO IDENTIFICADO" TipoCambio="1.0000" certificado="MIIEmDCCA4CgAwIBAgIUMDAwMDEwMDAwMDAyMDI0MjExNDUwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyMzIzNTkzNVoXDTE2MTEyMzIzNTkzNVowgdkxKTAnBgNVBAMTIENPTkNFU0lPTkFSSUEgUFVSRVBFQ0hBIFNBIERFIENWMSkwJwYDVQQpEyBDT05DRVNJT05BUklBIFBVUkVQRUNIQSBTQSBERSBDVjEpMCcGA1UEChMgQ09OQ0VTSU9OQVJJQSBQVVJFUEVDSEEgU0EgREUgQ1YxJTAjBgNVBC0THENQVTA3MDIwODk0OCAvIEdBQUE0OTEyMDdNUzgxHjAcBgNVBAUTFSAvIEdBQUE0OTEyMDdIREZSVkwwNDEPMA0GA1UECxMGVU5JREFEMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDY4cggqRBBefa5n6FOy0Yeopp8EudthjJBbHbRcAshqUn8zQFO56LFpIvE+XfOTr8I+3EiRvm41ls9+WQ6spxm1h0qNrFp25P2UuTWCPI3Eb+Mym/huS6DuMICZt8HJR/AwruNx/vFY2ALDPp/Rz2zpmwX0OLWmpliBFSWNwhu4wIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAJ4kVwMnB9KQ68aDzdig0DBclbI5LrGNg+/DFXQyuEQC3ydWtdQYDByUdWw4xuUE1fLabvFA0KBz7IixvrJZ7Zv2sBKqQBigj/a9HzKpp+Gvh8XGJ61qkMVVVPKdO4DS64hIuY2tH5gkL3W1viht56Rc6slukjemTPg1TOU2m2gI8i6MqE2ycYpSYfX9LIXSCtiuHCn//12qBGV8dSa1w0Dq6iP3LYlmIZM5ewukEDntEwIt7lUDMtgRZNqNaOpj43qkSCqIj+TGI6tjEg+B424JwxbMmQaL2lTqtLlOcEpYMWjc/oF9G1i92rzTIyz8CwEFfRc2SMcVKvJKxy60+OQ==" descuento="0.0000" fecha="2016-10-27T17:22:36" folio="122777" formaDePago="Pago en una sola exhibicion" metodoDePago="01" noCertificado="00001000000202421145" sello="M/2b/k+rJYq1ZQud0FCxjyKDQWSbXFuG++EOWBB5IORHnnKUnU58ZWVRpRGvFiKHR5VWoZyE5xp/+Dkv2hIy9GfVYz8JNF44X4fOp9kd13Oj9olN00xGUTTZWU6Nlv/m6HSgHkSRNbfU/dTylNHLa55ZCmI1Rs+DfesGga2f8NM=" serie="PMA" subTotal="58.6200" tipoDeComprobante="ingreso" total="68.0000" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cfdi:Emisor nombre="CONCESIONARIA PUREPECHA, S.A. DE C.V." rfc="CPU070208948">
+        <cfdi:DomicilioFiscal calle="AUTOPISTA MORELIA AEROPUERTO" codigoPostal="58300" colonia="ATAPANEO" estado="MICHOACAN" municipio="MORELIA" noExterior="KILOMETRO 5.600" pais="MEXICO" />
+        <cfdi:ExpedidoEn calle="AUTOPISTA MORELIA AEROPUERTO" codigoPostal="58300" colonia="ATAPANEO" estado="MICHOACAN" municipio="MORELIA" noExterior="KILOMETRO 5.600" pais="MEXICO" />
+        <cfdi:RegimenFiscal Regimen="General De Ley Personas Morales" />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA S.A. DE C.V." rfc="BIO870307QD0">
+        <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO" codigoPostal="54040" colonia="FRACCIONAMIENTO LOS PIRULES" estado="ESTADO DE MEXICO" municipio="TLALNEPANTLA" noExterior="2900" noInterior="804" pais="MEXICO" />
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto cantidad="1.0000" descripcion="AUTO SENCILLO 2 EJES SENCILLOS" importe="13.7900" unidad="NO APLICA" valorUnitario="13.7900" />
+        <cfdi:Concepto cantidad="1.0000" descripcion="AUTO SENCILLO 2 EJES SENCILLOS" importe="44.8300" unidad="NO APLICA" valorUnitario="44.8300" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="9.3800">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="9.3800" impuesto="IVA" tasa="16.0000" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2016-10-27T17:20:48" UUID="11E5052E-5DF3-4BA9-A94E-EA21C2D548D2" noCertificadoSAT="00001000000202864285" selloCFD="M/2b/k+rJYq1ZQud0FCxjyKDQWSbXFuG++EOWBB5IORHnnKUnU58ZWVRpRGvFiKHR5VWoZyE5xp/+Dkv2hIy9GfVYz8JNF44X4fOp9kd13Oj9olN00xGUTTZWU6Nlv/m6HSgHkSRNbfU/dTylNHLa55ZCmI1Rs+DfesGga2f8NM=" selloSAT="PuHZHqB8zuy5+BZZt1DAzFmzq7eduVvRI7KkHaufsu9UMo8mqJpvhhs2F+cQgDrOrEfT9crug9QdUM/FhpjggdjoQmWlT7P4OulBCK//lfMeT8/R1F04Y6kbHWy2GWTjX3mLhhnmIWdmO7CVCWiQPgYOqeVS5PFAc2nv+unNG5s=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

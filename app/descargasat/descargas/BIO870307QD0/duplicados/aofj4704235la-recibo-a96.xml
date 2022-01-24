@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" NumCtaPago="NO IDENTIFICADO" LugarExpedicion="54050" tipoDeComprobante="ingreso" metodoDePago="03" total="26693.33" Moneda="MXN" descuento="0.00" subTotal="28000.00" certificado="MIIEbDCCA1SgAwIBAgIUMDAwMDEwMDAwMDAzMDE1MDE5MzMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMDIxNjMwNTNaFw0xNzEyMDIxNjMwNTNaMIG4MSQwIgYDVQQDExtKQUlNRSBHVVNUQVZPIEFSUk9ZTyBGTE9SRVMxJDAiBgNVBCkTG0pBSU1FIEdVU1RBVk8gQVJST1lPIEZMT1JFUzEkMCIGA1UEChMbSkFJTUUgR1VTVEFWTyBBUlJPWU8gRkxPUkVTMRYwFAYDVQQtEw1BT0ZKNDcwNDIzNUxBMRswGQYDVQQFExJBT0ZKNDcwNDIzSEdUUkxNMTIxDzANBgNVBAsTBlVuaWRhZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA5alSAWDeoy/9WTsH4Apo6b1nJGXnIGtI0uLEWeKoyq3awIVcB+maKfvQ4VifPC1C+hD2qU4keTq0N88M0wor1kquxctXHuH3oMiPB3Wl7wPH0eN3P15gskuCW5XnuaA30S47str8ErOyNdRAQnRwvWjI6uJts7NoFyKknB0L1ocCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAATcbkbXzllCd5c/0YoPehoojkUX8a4dZJpk/rVNY4qsB5SMPiFNml658tTQiS5/LQVaQNqXGQCT9PdLS0zq/hutJBuwbo7D4yuP9QxqXH+JiPkwWPhJNF98eMsr/MNkDZuGitQsMyjZ4aIjnmRcPNtyHwi25MJmwY8UVDrcy0IQJhGCJr4TB6E1hEIyW7W74PIA2IK+hLkgxMVR+TgpMjOAzmrkQbiTXI5uHPGn5pkJWCRfnMWysqUb0zb0vVOjpEDPYRtHvw6JSfohJVDJqxaNu1dXFA2P2oAPtoqiZr5bnYzTH6DfLsAWbFDqN3FCgdet8e5iQxuK6xdNA4xrwUA=" noCertificado="00001000000301501933" formaDePago="PAGO EN UNA SOLA EXHIBICION" sello="WUhFxP86d+xhfEI5IJkM8FK+Og+tw9Ln6+xu5bwmsTiLw9TASaTAn3XFgqObv+Ig7iytUJctsV8jvwocf185L2f59qa6FGoqb+zxHo05mXTrBG+11/KO1X+U0AieXuLIqkdCTzWU9GrqGqMxdqDenQ0oOQSb2zqobs8A1agEyP4=" fecha="2017-11-06T11:49:32" folio="96" serie="A" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor nombre="JAIME GUSTAVO ARROYO FLORES" rfc="AOFJ4704235LA">
+        <cfdi:DomicilioFiscal codigoPostal="54050" pais="MEXICO" estado="México" municipio="Tlalnepantla" localidad="Tlalnepantla" colonia="Las Margaritas" noExterior="13" calle="Madreselvas"/>
+        <cfdi:RegimenFiscal Regimen="606"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA, S.A. DE C.V." rfc="BIO870307QD0">
+        <cfdi:Domicilio codigoPostal="54040" pais="MEXICO" estado="ESTADO DE MEXICO" municipio="TLALNEPANTLA" colonia="FRACC. LOS PIRULES" noInterior="804" noExterior="2900" calle="BLVD. MANUEL AVILA CAMACHO"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="28000.00" valorUnitario="28000.00" descripcion="RENTA DEL MES DE NOVIEMBRE DE 2017&#xD;&#xA;Cuenta Predial:  0050190347000000" unidad="N/A" cantidad="1">
+            <cfdi:CuentaPredial numero="0050190347000000"/>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="4480.00" totalImpuestosRetenidos="5786.67">
+        <cfdi:Retenciones>
+            <cfdi:Retencion importe="2986.67" impuesto="IVA"/>
+            <cfdi:Retencion importe="2800.00" impuesto="ISR"/>
+        </cfdi:Retenciones>
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="4480.00" tasa="16" impuesto="IVA"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2017-11-06T11:48:05" UUID="79f3ecd5-874e-413a-87e8-a729645127ec" noCertificadoSAT="00001000000406144089" selloCFD="WUhFxP86d+xhfEI5IJkM8FK+Og+tw9Ln6+xu5bwmsTiLw9TASaTAn3XFgqObv+Ig7iytUJctsV8jvwocf185L2f59qa6FGoqb+zxHo05mXTrBG+11/KO1X+U0AieXuLIqkdCTzWU9GrqGqMxdqDenQ0oOQSb2zqobs8A1agEyP4=" selloSAT="UOHPKE2ZbARkfuyejhkSyrFyXlnVwVXa4BClVi9glzZV1YPn3DS9FUkNujXbZgw0shudf5K5ioJVl/Gycn/T9cidPqCF3eryXGhwj6wryMtXGPgWHNYq0mJtRRRPuhT4PwILEms3VOMXipv+mPh/dEGlQrHlHl9iz4e9bODUxHT9dZ+R9bvtFwarVLrMEyzC8MBn0pMGKRqUwBba4sM28NqAj1UM9ViAZC7BdPXyMO4xeto01C4V/jC+XFzTNy5aKsw2Xi15odhaV05L0qQ/jEa/jEcOEO/fMO1W0mQBkr2WCmjHSc6IjLz3mJr76wZmX/vNv+DHNNIkdon59a2o1A==" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+    </cfdi:Complemento>
+<cfdi:Addenda>
+<todocfdi>
+<CFDiHonorariosWeb tipoDocumento="Recibo de Arrendamiento" observaciones = "" monedaPdf = "PESOS" monedaXml = "MXN" /> 
+</todocfdi>
+</cfdi:Addenda></cfdi:Comprobante>

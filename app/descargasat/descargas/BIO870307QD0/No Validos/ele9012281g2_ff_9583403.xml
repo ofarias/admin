@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="FF" folio="9583403" fecha="2014-10-15T23:59:00" sello="DGNiLpEn5isMQbEGJ5J28o5Ag3o8DDy3fGekjzMcDemDvxbhCWcTDjhhkHTaJceugYGCBtbXHipPlNFU4yTXYeKqKjGLZ1DwyQiDzWosD22FHsuljVGTwbv4uhS20J1MinCceBun1MbIIW2PwCATB3ReqLCjd3gEHtwstOCvpfI=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000201203565" certificado="MIIEiDCCA3CgAwIBAgIUMDAwMDEwMDAwMDAyMDEyMDM1NjUwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDUyOTE2NTM1MVoXDTE2MDUyOTE2NTM1MVowgckxIjAgBgNVBAMTGUVMRUNUUk9QVVJBIFMgREUgUkwgREUgQ1YxIjAgBgNVBCkTGUVMRUNUUk9QVVJBIFMgREUgUkwgREUgQ1YxIjAgBgNVBAoTGUVMRUNUUk9QVVJBIFMgREUgUkwgREUgQ1YxJTAjBgNVBC0THEVMRTkwMTIyODFHMiAvIEJBSEY2NzA3MjVBQjIxHjAcBgNVBAUTFSAvIEJBSEY2NzA3MjVIREZSUlIwNTEUMBIGA1UECxMLRUxFQ1RST1BVUkEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOOZAyawr+6hcUItdjGDqdjoroTUyd9DI2/L49s2UBWFNVX9qZLht/S2iSyB03xmnIj2TQQr/H2uFAIfK/hllQE8tlgT/5bh89Vkdz2HoeMye08YyeI18lvcEa5GnIkGkTPn1qYxpCmyVXV0rPWWSUXwmtWr46yOZ8NXuCDPiugZAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQCAJ5YkF+bfa9PcCCPk2m0y5KMjT+ZFLdxyJOrKxDbKCSWO4JD4aADIS8nTfWFOSvcc/P3eFHnSxSQWVj+X2HPQiZLZwMsFLhASAT4JZZOC01NZaUnrWyq4g1UMejY4LkLTTosBpLJd+fXT/5jOc6LTkuXvekWvIn0uUnW0S7cRKB73DbGMWhPrJRbhRMfjEHKwL0LTyhzvChxcnPHwbq/1SRGUpjFw7yyCYl71f7iQpmt0aW0gfkdt75f0NNYgzASQdwlcmW8cV1BCeONojHRaG89/MGQcocekWoYjoVsiz3SoO4TLvf53558dgOivTBsazxcsxHvBjB9N2LxBoOF7" condicionesDePago="CONTADO" subTotal="198.00" descuento="0.00" TipoCambio="1" Moneda="MXN" total="198.00" tipoDeComprobante="ingreso" metodoDePago="CHEQUE / DEPÓSITO EN CUENTA / TRANSFERENCIA ELECTRÓNICA DE FONDOS / EFECTIVO" LugarExpedicion="TULTITLAN, EDO. DE MEXICO" NumCtaPago="NO APLICA">
+  <cfdi:Emisor rfc="ELE9012281G2" nombre="ELECTROPURA S. DE R.L. DE C.V.">
+    <cfdi:DomicilioFiscal calle="KM 23.9  CARR MEXICO-TEXCOCO" noExterior="S/N" colonia="CARLOS HANK GONZALEZ" referencia="FF9583403" municipio="LA PAZ" estado="ESTADO DE MÉXICO" pais="MEXICO" codigoPostal="56510" />
+    <cfdi:ExpedidoEn calle="AVENIDA 1, ENTRE AVENIDA HIDALGO Y MEXIQUENSE" noExterior="S/N" colonia="PARQUE INDUSTRIAL CARTAGENA" municipio="TULTITLAN" estado="EDO. DE MEXICO" pais="MEXICO" codigoPostal="54918" />
+    <cfdi:RegimenFiscal Regimen="RÉGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QDO" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO NO.2900 INT.804" colonia="FRACC. LOS PIRULES" municipio="MEXICO" estado="EDO. DE MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="6" unidad="PIEZA" descripcion="Epura 20 Lts Policarbonato" valorUnitario="33.0000" importe="198.0000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="0" importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="97adfbe2-8af8-42ca-8695-d528572d692d" FechaTimbrado="2014-10-16T01:05:06" selloCFD="DGNiLpEn5isMQbEGJ5J28o5Ag3o8DDy3fGekjzMcDemDvxbhCWcTDjhhkHTaJceugYGCBtbXHipPlNFU4yTXYeKqKjGLZ1DwyQiDzWosD22FHsuljVGTwbv4uhS20J1MinCceBun1MbIIW2PwCATB3ReqLCjd3gEHtwstOCvpfI=" noCertificadoSAT="00001000000300171326" selloSAT="IoRWqoF9h3MzeYd703VTO4jdIWUFag44cKBm8qb3cG/UkdewUsTt9V7kNlWEvKpwyjybnK0Z2Ann2FdBD3/KKpJQleti5lhQvVbulmYm1vKGRemHdUdQVOgB++h12e35HTwBTMH2z7M2cAi6d9XmseeXubO7kOpsHbfcvnIJktQ=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento><cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33FF9583403">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>1</ecfd:NroAprob>
+            <ecfd:AnoAprob>2014</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>FF</ecfd:Serie>
+            <ecfd:Folio>9583403</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:NumeroInterno>9583403</ecfd:NumeroInterno>
+            <ecfd:FechaEmis>2014-10-15T23:59:00</ecfd:FechaEmis>
+            <ecfd:FormaPago>PAGO EN UNA SOLA EXHIBICION</ecfd:FormaPago>
+            <ecfd:MedioPago>CHEQUE / DEPÓSITO EN CUENTA / TRANSFERENCIA ELECTRÓNICA DE FONDOS / EFECTIVO</ecfd:MedioPago>
+            <ecfd:LugarExpedicion>TULTITLAN, EDO. DE MEXICO</ecfd:LugarExpedicion>
+            <ecfd:NumCtaPago>NO APLICA</ecfd:NumCtaPago>
+            <ecfd:CondPago>CONTADO</ecfd:CondPago>
+            <ecfd:TermPagoCdg>5</ecfd:TermPagoCdg>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>ELE9012281G2</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>ELECTROPURA S. DE R.L. DE C.V.</ecfd:NmbEmisor>
+            <ecfd:CodigoExEmisor>
+              <ecfd:TpoCdgIntEmisor>INT</ecfd:TpoCdgIntEmisor>
+            </ecfd:CodigoExEmisor>
+            <ecfd:CdgSucursal>185</ecfd:CdgSucursal>
+            <ecfd:Sucursal>TULTITLAN</ecfd:Sucursal>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>KM 23.9  CARR MEXICO-TEXCOCO</ecfd:Calle>
+              <ecfd:NroExterior>S/N</ecfd:NroExterior>
+              <ecfd:Colonia>CARLOS HANK GONZALEZ</ecfd:Colonia>
+              <ecfd:Referencia>FF9583403</ecfd:Referencia>
+              <ecfd:Municipio>LA PAZ</ecfd:Municipio>
+              <ecfd:Estado>ESTADO DE MÉXICO</ecfd:Estado>
+              <ecfd:Pais>MEXICO</ecfd:Pais>
+              <ecfd:CodigoPostal>56510</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>AVENIDA 1, ENTRE AVENIDA HIDALGO Y MEXIQUENSE</ecfd:Calle>
+              <ecfd:NroExterior>S/N</ecfd:NroExterior>
+              <ecfd:Colonia>PARQUE INDUSTRIAL CARTAGENA</ecfd:Colonia>
+              <ecfd:Municipio>TULTITLAN</ecfd:Municipio>
+              <ecfd:Estado>EDO. DE MEXICO</ecfd:Estado>
+              <ecfd:Pais>MEXICO</ecfd:Pais>
+              <ecfd:CodigoPostal>54918</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QDO</ecfd:RFCRecep>
+            <ecfd:NmbRecep>BIOTECSA, S.A. DE C.V.</ecfd:NmbRecep>
+            <ecfd:Sucursal>BIOTECSA SA D CV</ecfd:Sucursal>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>BLVD. MANUEL AVILA CAMACHO NO.2900 INT.804</ecfd:Calle>
+              <ecfd:Colonia>FRACC. LOS PIRULES</ecfd:Colonia>
+              <ecfd:Municipio>MEXICO</ecfd:Municipio>
+              <ecfd:Estado>EDO. DE MEXICO</ecfd:Estado>
+              <ecfd:Pais>MEXICO</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+            <ecfd:LugarRecep>
+              <ecfd:Calle>DESTAJISTA NUM. 6</ecfd:Calle>
+              <ecfd:Colonia>FRACC INDUSTRIAL XHALA</ecfd:Colonia>
+              <ecfd:Municipio>CUAUTITLÁN IZCALLI</ecfd:Municipio>
+              <ecfd:Estado>MÉXICO ESTADO DE</ecfd:Estado>
+              <ecfd:Pais>MEXICO</ecfd:Pais>
+              <ecfd:CodigoPostal>54800</ecfd:CodigoPostal>
+            </ecfd:LugarRecep>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:FctConv>1</ecfd:FctConv>
+            <ecfd:SubTotal>198.00</ecfd:SubTotal>
+            <ecfd:MntDcto>0.00</ecfd:MntDcto>
+            <ecfd:MntBase>198.00</ecfd:MntBase>
+            <ecfd:MntImp>0.00</ecfd:MntImp>
+            <ecfd:VlrPagar>198.00</ecfd:VlrPagar>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>0</ecfd:TasaImp>
+            <ecfd:MontoImp>0.00</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>Epura 20 Lts Policarbonato</ecfd:DscItem>
+          <ecfd:QtyItem>6</ecfd:QtyItem>
+          <ecfd:SubQtyItem>
+            <ecfd:SubCod>PCE</ecfd:SubCod>
+            <ecfd:SubQty>1</ecfd:SubQty>
+          </ecfd:SubQtyItem>
+          <ecfd:UnmdItem>PIEZA</ecfd:UnmdItem>
+          <ecfd:PrcBrutoItem>33.0000</ecfd:PrcBrutoItem>
+          <ecfd:PrcNetoItem>33.0000</ecfd:PrcNetoItem>
+          <ecfd:ImpuestosDet>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>0</ecfd:TasaImp>
+            <ecfd:MontoImp>0</ecfd:MontoImp>
+          </ecfd:ImpuestosDet>
+          <ecfd:MontoBrutoItem>198.0000</ecfd:MontoBrutoItem>
+          <ecfd:MontoNetoItem>198.0000</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:TimeStamp>2014-10-16T01:02:03</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="COD_CLP_SU">9</ecfd:campoString>
+        <ecfd:campoString name="COD_CLP_BY">9</ecfd:campoString>
+        <ecfd:campoString name="COD_CLP_II">9</ecfd:campoString>
+        <ecfd:campoString name="COD_CLP_ST">9</ecfd:campoString>
+        <ecfd:campoString name="CLP_SU" />
+        <ecfd:campoString name="CLP_BY" />
+        <ecfd:campoString name="CLP_II" />
+        <ecfd:campoString name="CLP_ST" />
+        <ecfd:campoString name="Remision" />
+        <ecfd:campoString name="OrdenC" />
+        <ecfd:campoString name="NoPedido" />
+        <ecfd:campoString name="Cadena">23</ecfd:campoString>
+        <ecfd:campoString name="SI_ZZZ">(CIENTO NOVENTA Y OCHO PESOS 00/100 M.N.)</ecfd:campoString>
+        <ecfd:campoString name="FechaOrden" />
+        <ecfd:campoString name="FechaPed" />
+        <ecfd:campoString name="FechaCap">15/10/2014</ecfd:campoString>
+        <ecfd:campoString name="EMail">facturacion@biotecsa.com</ecfd:campoString>
+        <ecfd:campoString name="NCliente">15764</ecfd:campoString>
+        <ecfd:campoString name="NClienteLE">15764</ecfd:campoString>
+        <ecfd:campoString name="EFiscal" />
+        <ecfd:campoString name="RefBanc">2139</ecfd:campoString>
+        <ecfd:campoString name="IdVendedo">0</ecfd:campoString>
+        <ecfd:campoString name="IdRuta">5435</ecfd:campoString>
+        <ecfd:campoString name="NotaSup" />
+        <ecfd:campoString name="NotaInfe" />
+        <ecfd:campoString name="ImpDesc">1</ecfd:campoString>
+        <ecfd:campoString name="TipoBulto" />
+        <ecfd:campoString name="EntregaMercancia" />
+        <ecfd:campoString name="CantBultos" />
+        <ecfd:campoString name="NumeroCita" />
+        <ecfd:campoString name="CiudadEmisor" />
+        <ecfd:campoString name="Nota2" />
+        <ecfd:campoString name="Nota3" />
+        <ecfd:campoString name="Nota4" />
+        <ecfd:campoString name="Nota5" />
+        <ecfd:campoString name="Nota6">METRO GARRAFON</ecfd:campoString>
+        <ecfd:campoString name="Nota7" />
+        <ecfd:campoString name="Nota8" />
+        <ecfd:campoString name="Nota10" />
+        <ecfd:campoString name="DctoCom" />
+        <ecfd:campoString name="DctoProm" />
+        <ecfd:campoString name="DctoLog" />
+        <ecfd:campoString name="CPago">CONTADO</ecfd:campoString>
+        <ecfd:campoString name="COMENTARIO_FACTURA" />
+        <ecfd:campoString name="CANTIDAD_CAJAS">6 CAJAS 6 PIEZAS</ecfd:campoString>
+        <ecfd:campoString name="VOLUMEN" />
+        <ecfd:campoString name="PESO" />
+        <ecfd:campoString name="TotIEPS" />
+        <ecfd:campoString name="TRET" />
+        <ecfd:campoString name="Impuesto0">0.00</ecfd:campoString>
+        <ecfd:campoString name="BC0">198.00</ecfd:campoString>
+        <ecfd:campoString name="BC11" />
+        <ecfd:campoString name="Impuesto11" />
+        <ecfd:campoString name="Impuesto16" />
+        <ecfd:campoString name="BC16" />
+        <ecfd:campoString name="TIEPS" />
+        <ecfd:campoString name="ImpIEPS" />
+        <ecfd:campoString name="BCIEPS" />
+        <ecfd:campoString name="TIVA">0.00</ecfd:campoString>
+        <ecfd:campoString name="BCEFiscal" />
+        <ecfd:campoString name="TIEPSCAL" />
+        <ecfd:campoString name="ImpIEPSCAL" />
+        <ecfd:campoString name="BCIEPSCAL" />
+        <ecfd:campoString name="TIEPSAZ" />
+        <ecfd:campoString name="ImpIEPSAZ" />
+        <ecfd:campoString name="BCIEPSAZ" />
+        <ecfd:campoString name="FECHAVENCICRED">15/10/2014</ecfd:campoString>
+        <ecfd:campoString name="MOSTRARPAG">SI</ecfd:campoString>
+        <ecfd:campoString name="VERSIONGEPP">2014v1.1</ecfd:campoString>
+        <ecfd:campoString name="VERSIONEDX">2014v1.1 </ecfd:campoString>
+        <ecfd:campoString name="leyendafiscal1" />
+        <ecfd:campoString name="leyendafiscal2" />
+        <ecfd:campoString name="leyendafiscal3" />
+        <ecfd:campoString name="RegimenFiscal">RÉGIMEN GENERAL DE LEY PERSONAS MORALES</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago">NO APLICA</ecfd:campoString>
+        <ecfd:campoString name="LugarDeExpedicion">TULTITLAN, EDO. DE MEXICO</ecfd:campoString>
+        <ecfd:campoNumero name="BC0">198.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="TIVA">0.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="Impuesto0">0.00</ecfd:campoNumero>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>1</ecfd:CustDetNroLin>
+          <ecfd:CustDetAFN_02>5314</ecfd:CustDetAFN_02>
+          <ecfd:CustDetAFN_03>0</ecfd:CustDetAFN_03>
+          <ecfd:CustDetNUE_01>0</ecfd:CustDetNUE_01>
+          <ecfd:CustDetNUE_02>0</ecfd:CustDetNUE_02>
+          <ecfd:CustDetNUE_06>0</ecfd:CustDetNUE_06>
+          <ecfd:CustDetNUE_09>198</ecfd:CustDetNUE_09>
+          <ecfd:CustDetNUD_01>0.0000</ecfd:CustDetNUD_01>
+          <ecfd:CustDetNUD_02>0</ecfd:CustDetNUD_02>
+        </ecfd:CustDetalle>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:bfa2="http://www.buzonfiscal.com/ns/addenda/bf/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="Gustavo A. Madero Distrito Federal" metodoDePago="01" tipoDeComprobante="ingreso" total="371.20" Moneda="MXN" TipoCambio="1" descuento="0.00" subTotal="320.00" certificado="MIIElzCCA3+gAwIBAgIUMDAwMDEwMDAwMDAzMDQ4MjA3ODQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA4MDQxNjA2NTlaFw0xODA4MDQxNjA2NTlaMIHjMSkwJwYDVQQDEyBDT01FUkNJQUxJWkFET1JBIEdSVVlFUiBTQSBERSBDVjEpMCcGA1UEKRMgQ09NRVJDSUFMSVpBRE9SQSBHUlVZRVIgU0EgREUgQ1YxKTAnBgNVBAoTIENPTUVSQ0lBTElaQURPUkEgR1JVWUVSIFNBIERFIENWMSUwIwYDVQQtExxDR1IxNDA0MjM0OTEgLyBHT1BWODUwMjAxNUsxMR4wHAYDVQQFExUgLyBHT1BWODUwMjAxTU1DTlJSMDAxGTAXBgNVBAsTEENPTUVSQ0lBTElaQURPUkEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJRmr5mMH7C1AH9rezUHsHtqa8KgA7NXqAXB4K93a8NShBmRAkQ0V4FdmiyOMowOaDlWTSLmREFHBJ4+5lUVbz/gcxuX4OPuMgC5TDa7kmfBhCBaedfYe0RA5QP0dXc3ZLFP4MBmmH7tBRO2yfUn14T9OrW4LivpX+32ERRj7O8jAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQCji7kCjgrGi3Cnvm9pUCdhyC92LFKwBd49LJuZIzIIM8xbByEHjryzL5i9DgvBpCs5L399uft6xP2QrsVLBs0zsFh4JQnFp5yS6eHt0t+9WkkhW7CKdAihn6r8W2al8WbMja2ZKmEmfoAxxk0Pk5tMvtiNTkn8PUOg1/OmXh2JCa7O4fjcf/xRK/pMtWmUnfuGYJNJ7SgBGyTu7TqabXMNLa73ijpAziqMl9f9S1IcnCgmA3SJYiPbiW/O223+tG8ip8oysJJ1Ym12fnnfkV8+QcMJ8ctqjlo0zQxP6kBPeNsvXJRuy/DlHGtODNmB8GQBhShPFoge0ElCYAPxHlq/" noCertificado="00001000000304820784" formaDePago="Pago en una sola exhibición" sello="aJZ58xYQIk7dOTcOGKUg3DUDf0l/kmRZfYPyB+/41cim4NACjLij3VFPLEKK1X3zCKn+crFyMiQ7m2ombvlZ6mCUwQgSASrBZCEJxqhw6DfNc3ITokln65JZ0oSq5ViEwrTfyxvZ4yddQsQ83HUyI93uV5xogHV3jOLMIhnsZBM=" fecha="2017-10-12T12:58:50" folio="3422" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.buzonfiscal.com/ns/addenda/bf/2 http://www.buzonfiscal.com/schema/xsd/Addenda_BF_v20.xsd">
+    <cfdi:Emisor nombre="COMERCIALIZADORA GRUYER SA DE CV" rfc="CGR140423491">
+        <cfdi:DomicilioFiscal codigoPostal="07600" pais="México" estado="Distrito Federal" municipio="Gustavo A. Madero" colonia="Progreso Nacional" noInterior="1" noExterior="269" calle="Guadalupe Proletaria" />
+        <cfdi:RegimenFiscal Regimen="Persona Moral Régimen General de Ley" />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+        <cfdi:Domicilio codigoPostal="54040" pais="MEXICO" estado="MEXICO" municipio="TLALNEPANTLA DE BAZ" localidad="TLALNEPANTLA" colonia="FRACCIONAMIENTO LOS PIRULES" noInterior="804" noExterior="2900" calle="BOULEVAR MANUEL AVILA CAMACHO" />
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="320.00" valorUnitario="320.00" descripcion="GESTORIA Y TRASLADO EN SERVICIO DE VERICACION EN INSPECCION FISICO MECANICA CORRESPONDIENTE AL PERIODO 2017" noIdentificacion="FMT" unidad="N/A" cantidad="1.00" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="51.20">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="51.20" tasa="16.00" impuesto="IVA" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="Ptm69w0fAZiejC6nR4hJfWn1jroJsa4d5i/80sFpJqXiLcqVvlcmFFG7CBY111/Gs2rfh2992yy2g9E5BAMhopg8gtPWa67lAnOdroXZwhkl6KDVgq3fNqtQicwqsBKtRBRBdhJFTDAY96DM+QDDtZkRuCUt8L+eHYuNO9JTJJVse17Tu4YDy9pbLKF31+RUxQRRu07je7sC2xOgNGZ8LOOQoJEsjatFlKNdaQNze/XnkKjIM0gFlEBLKgrQn7WCKSZBbhieQz4WyPDvJpH1nYPRx5qMmq7wme6BbkLwp9ch/XYZ07zyHAYntW/cmARaSd6ia6wHfYfKGo7vTX7F8A==" noCertificadoSAT="00001000000404614920" selloCFD="aJZ58xYQIk7dOTcOGKUg3DUDf0l/kmRZfYPyB+/41cim4NACjLij3VFPLEKK1X3zCKn+crFyMiQ7m2ombvlZ6mCUwQgSASrBZCEJxqhw6DfNc3ITokln65JZ0oSq5ViEwrTfyxvZ4yddQsQ83HUyI93uV5xogHV3jOLMIhnsZBM=" FechaTimbrado="2017-10-12T12:58:50" UUID="a62b0f5d-3352-4fd8-af91-70e1caee4cc5" version="1.0" />
+    </cfdi:Complemento>
+    <cfdi:Addenda>
+        <bfa2:AddendaBuzonFiscal version="2.0">
+            <bfa2:Emisor emailComercial="comercializadoragruyer@hotmail.com" emailNotificaciones="comercializadoragruyer@hotmail.com" telefono="5553697472" />
+            <bfa2:TipoDocumento descripcion="Factura" nombreCorto="FAC" />
+            <bfa2:CFD totalConLetra="Trescientos setenta y uno pesos 20/100 M.N." tipoMoneda="MXN" />
+            <bfa2:Extra valor="371.2" atributo="T*TOTAL" />
+            <bfa2:Extra valor="2017-10-12T12:58:45" atributo="fechaRemision" />
+        </bfa2:AddendaBuzonFiscal>
+    </cfdi:Addenda>
+</cfdi:Comprobante>

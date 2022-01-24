@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="B" folio="8" fecha="2015-04-08T15:48:47" total="1003.52" subTotal="896.00" descuento="0.00" certificado="MIIEVzCCAz+gAwIBAgIUMDAwMDEwMDAwMDAzMDIxMjkwNzEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMzEwMjI2MTdaFw0xNzEyMzEwMjI2MTdaMIGjMR0wGwYDVQQDExRFRFVBUkRPIExJTU9OIEFHVUVSTzEdMBsGA1UEKRMURURVQVJETyBMSU1PTiBBR1VFUk8xHTAbBgNVBAoTFEVEVUFSRE8gTElNT04gQUdVRVJPMRYwFAYDVQQtEw1MSUFFNjcxMjE3R1E5MRswGQYDVQQFExJMSUFFNjcxMjE3SERGTUdEMDQxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAiZktL6BLM64rC62PIBIDzskEttTJXoZ+TCa1kjea9dZ/jU3GsSsb4nXixg1hbSwOUXOBkG7oUo6YNBKVlsZ9i6+SN4ovXUnBuN3SGG02inC1mEapsgtvya0M+umzY00vrFZLL2Zaw1hm1Z7kMjABXTKSaJqw1/7Q4CSrwo5kA/UCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAAbRf2r7mK7st8ThwkRfUTo8h9oEqNbpP22uPuQ2xQ1vGu6d/aTQ0z8CwyOmrjOQNwY2vGirmVlM138EuJPih8or0Tgk1nu7UoM9qE4APzSe5kAPvHIRUaMRmQTO4+teHArEqU9LP3m7IYCmo26G68i/YrzkfCCpRpgQS4AEIGIWtFW8qy49obDYkGQqmme7RY1/CYA4YlT1LgjgVcjAKPLIK8XhIsQL/8pRvMSlEDRZVK7RkjO/mXyKh/AubL6/rTqPIwwUq0Q1u7gFC819ar9lvpRyD0jkV5pitoWODmYY7GEbgktlCKe6t02Udx8h4eib2nXNo0WplEGgZeU89lk=" formaDePago="PAGO EN UNA SOLA EXHIBICIÓN" noCertificado="00001000000302129071" Moneda="MXN" metodoDePago="NO IDENTIFICADO" tipoDeComprobante="ingreso" NumCtaPago="NO IDENTIFICADO" LugarExpedicion="ORIENTE 158,NO.EXT 133,,MOCTEZUMA SEGUNDA SECCION,VENUSTIANO CARRANZA,DISTRITO FEDERAL,MEXICO" sello="faB9iK/xaiizISHgM3Xmb/WhmIAwk9vgzvNixaHg9zZDlCYvSm32TBRCuhsG+SO1/N8OM/3c+DfiK0jLJjplwOqy0Z8teVEEeG4P1YN/YTuSoNmsULWq24RW7l0AwXr32jn1pdySpN0OhoxyNQROmYElWizCIi71ThchObcaHic=">
+  <cfdi:Emisor rfc="LIAE671217GQ9" nombre="EDUARDO LIMON AGUERO">
+    <cfdi:DomicilioFiscal calle="ORIENTE 158" noExterior="133" colonia="MOCTEZUMA SEGUNDA SECCION" localidad="MEXICO D.F." municipio="VENUSTIANO CARRANZA" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="15530" />
+    <cfdi:ExpedidoEn calle="ORIENTE 158" noExterior="133" municipio="VENUSTIANO CARRANZA" colonia="MOCTEZUMA SEGUNDA SECCION" localidad="MEXICO D.F." estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="15530" />
+    <cfdi:RegimenFiscal Regimen="PERSONA FISICA CON ACTIVIDAD EPRESARIAL Y PROFESIONAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA S.A. DE C.V." rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO" colonia="FRACCIONAMIENTO LOS PIRULES" municipio="TLALNEPANTLA" localidad="TLALNEPANTLA" noExterior="2900" noInterior="804" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="1" noIdentificacion="07" descripcion="SERV. DE ACARREO Y MANIOBRAS EN VIAJE ESPECIAL DE CAMIONETA 2 BULTOS CON PESO 218KG REF EACM08103" valorUnitario="896.00" importe="896.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="143.36" totalImpuestosRetenidos="35.84">
+    <cfdi:Retenciones>
+      <cfdi:Retencion importe="35.84" impuesto="IVA" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="143.36" impuesto="IVA" tasa="16.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="U+lBD+EcyrxuK3C/HHph6DWWapXzwPrCUwE4DqI2gsE7uei8bDiGOX42VMHOmVhCOtLGdtx/mXzLH7F+v//g7BpYV4etBU3ZUxD3NPACBG5j6Js8BU+M5/SuJB52oai3eOrKRlwY7b8G8MmagNdyfmKCItLYRrz/gJvsrULx/u8=" noCertificadoSAT="00001000000300969660" UUID="85CA31E8-5518-451F-B640-47E073632CC4" FechaTimbrado="2015-04-08T15:49:07" selloCFD="faB9iK/xaiizISHgM3Xmb/WhmIAwk9vgzvNixaHg9zZDlCYvSm32TBRCuhsG+SO1/N8OM/3c+DfiK0jLJjplwOqy0Z8teVEEeG4P1YN/YTuSoNmsULWq24RW7l0AwXr32jn1pdySpN0OhoxyNQROmYElWizCIi71ThchObcaHic=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

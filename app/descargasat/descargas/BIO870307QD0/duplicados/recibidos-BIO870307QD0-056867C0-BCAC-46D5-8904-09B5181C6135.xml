@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:valesdedespensa="http://www.sat.gob.mx/valesdedespensa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd  http://www.sat.gob.mx/valesdedespensa http://www.sat.gob.mx/sitio_internet/cfd/valesdedespensa/valesdedespensa.xsd" serie="EAE" folio="784029" fecha="2016-05-13T19:07:35" sello="WJKDE+J4WyIqtIzeadrevR2oUBQ9AJrSKlrquPxxe3CD5pLv1nruRmjwqAzeg2j6d4X3yk6C7DbtTznESEf08OZhS4/LW20GmTaySPcKZk4/mA8+wsLajk1HhDVGZYwmTHzzS8SDJFpwT4XFzAxKL7CNJ1Gy9OdgEFe/89uKIuA=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000201364492" certificado="MIIEbzCCA1egAwIBAgIUMDAwMDEwMDAwMDAyMDEzNjQ0OTIwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDYxNTE5NTI1NVoXDTE2MDYxNTE5NTI1NVowgbAxHDAaBgNVBAMTE0VGRUNUSVZBTEUgU0EgREUgQ1YxHDAaBgNVBCkTE0VGRUNUSVZBTEUgU0EgREUgQ1YxHDAaBgNVBAoTE0VGRUNUSVZBTEUgU0EgREUgQ1YxJTAjBgNVBC0THEVGRTg5MDgwMTVMMyAvIEFBUko2NTA4MTdVRzgxHjAcBgNVBAUTFSAvIEFBUko2NTA4MTdIREZMTUwwNDENMAsGA1UECxMEQ09WRTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAu8t3Y10wVAnKVcy6t6r/YmwFiPO/PuGbwYa+k5/rPFjOEUGxUofIaTspM28/S/9SvX3sulevIWe/FFcW77c6hP8R5NEswYM02j1E24HLBjaG9vKD6Hl7kpWBiGSGT7DUPbqletQmLoa3KLlhbEZDU1KsDF4azx1mT2aYwlHSbJUCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADZD0d7Hi3SJH/DCMY/JeE8k0MyWgloLBmYR23UQwdZVSPaoZaYN70L/dp+11soC5MRcPw8MY5/O7kMjJRxxeQPFb1Vm+K9Rsuf/E5Df+6UKiMog5a9Tk2zcNAplgcqiotHG5gelL68s3lwg3gf9KUpeaNMFQTdaqFPHXkK/I8ccVqG94ldyaeHuSnTY32lmbcu/oRl7zq+QsQWQLbjzJ0cuotp2+XS1zpL9qg6TMXK/wJ3SsZtPTar6Zr5Byz3knFRCtULTTW0MgcabZPFaHGo+kL3EnvwsIt0Z2rId4KzKUCfllCfNzhjUg+a72yd4yRds6Z0ddD1MumK42QmSD8c=" condicionesDePago="CONTADO" subTotal="33694.52" total="33896.88" tipoDeComprobante="ingreso" LugarExpedicion="DF" metodoDePago="TRANSFERENCIA ELECTRONICA" NumCtaPago="0442782750" Moneda="MXN" TipoCambio="1.0000">
+  <cfdi:Emisor rfc="EFE8908015L3" nombre="EFECTIVALE S. de R.L. de C.V.">
+    <cfdi:DomicilioFiscal calle="Saltillo" noExterior="19" noInterior="5o Piso" colonia="Condesa" municipio="CUAUHTEMOC" estado="DF" pais="MEXICO" codigoPostal="06140" />
+    <cfdi:ExpedidoEn calle="SALTILLO" noExterior="19" noInterior="5o Piso" colonia="CONDESA" municipio="CUAUHTEMOC" estado="DF" pais="MEXICO" codigoPostal="06000" />
+    <cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD.MANUEL AVILA CAMACHO" noExterior="2900" noInterior="PISO 8 DESP.804" colonia="FRACC.LOS PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="MEX" pais="Mexico" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" descripcion="DISPERSION" valorUnitario="32429.76" importe="32429.76" />
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" descripcion="CARGO ADMINISTRATIVO" valorUnitario="1264.76" importe="1264.76" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="202.36">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="202.36" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <valesdedespensa:ValesDeDespensa version="1.0" tipoOperacion="monedero electrónico" numeroDeCuenta="C015236" total="32429.76">
+      <valesdedespensa:Conceptos>
+        <valesdedespensa:Concepto identificador="81017726" fecha="2016-05-13T19:09:49" rfc="BAAZ650416GG8" curp="BAAZ650416HOCRLL05" nombre="ZALOMON BRAVO ALVARADO" numSeguridadSocial="45876520284" importe="876.48" />
+        <valesdedespensa:Concepto identificador="75279514" fecha="2016-05-13T19:09:49" rfc="RASC770209TS5" curp="RASC770209HDFMNR07" nombre="CARLOS RAMOS SANCHEZ" numSeguridadSocial="90927559139" importe="876.48" />
+        <valesdedespensa:Concepto identificador="75279506" fecha="2016-05-13T19:09:49" rfc="MACN9410246A5" curp="MACN941024MDFRRR08" nombre="NORMA MARTINEZ CRUZ" numSeguridadSocial="26159466999" importe="876.48" />
+        <valesdedespensa:Concepto identificador="69106970" fecha="2016-05-13T19:09:49" rfc="LUAL700301R18" curp="LUAL700301HMCNVS08" nombre="JOSE LUIS LUNA AVALOS" numSeguridadSocial="92877043957" importe="876.48" />
+        <valesdedespensa:Concepto identificador="60220051" fecha="2016-05-13T19:09:49" rfc="AALR871109UF6" curp="AALR871109HDFYRD04" nombre="RODOLFO AYALA LIRA" numSeguridadSocial="08148753711" importe="876.48" />
+        <valesdedespensa:Concepto identificador="54715579" fecha="2016-05-13T19:09:49" rfc="MUJN901026G92" curp="MUJN901026HMCNMF06" nombre="NEFI MARCOS MUNIVE JIMENEZ" numSeguridadSocial="20139009169" importe="876.48" />
+        <valesdedespensa:Concepto identificador="54095303" fecha="2016-05-13T19:09:49" rfc="DESY801124JM3" curp="DESY801124MHGLVN13" nombre="YENNI DELGADILLO SAAVEDRA" numSeguridadSocial="13018005168" importe="876.48" />
+        <valesdedespensa:Concepto identificador="39864146" fecha="2016-05-13T19:09:49" rfc="EIBI900215GB4" curp="EIBI900215MDFLRV03" nombre="IVON ELIZALDE BRAVO" numSeguridadSocial="26149020161" importe="876.48" />
+        <valesdedespensa:Concepto identificador="15102339" fecha="2016-05-13T19:09:49" rfc="ROSV720816GC9" curp="ROSV720816MDFDLR01" nombre="VERONICA RODRIGUEZ SALAS" numSeguridadSocial="68907211004" importe="876.48" />
+        <valesdedespensa:Concepto identificador="07229967" fecha="2016-05-13T19:09:49" rfc="MOZM761025F37" curp="MOZM761025MDFNSN03" nombre="MONICA MONTES ZESATTI" numSeguridadSocial="37977649324" importe="876.48" />
+        <valesdedespensa:Concepto identificador="04839032" fecha="2016-05-13T19:09:49" rfc="NAMR8910183S3" curp="NAMR891018MDFVRB09" nombre="REBECA DANIELA NAVARRO MARTINEZ" numSeguridadSocial="92088937286" importe="876.48" />
+        <valesdedespensa:Concepto identificador="04450525" fecha="2016-05-13T19:09:49" rfc="RARJ750918117" curp="RARJ750918HDFMMM08" nombre="JAIME RAMIREZ RAMIREZ" numSeguridadSocial="01957508789" importe="876.48" />
+        <valesdedespensa:Concepto identificador="40582140" fecha="2016-05-13T19:09:49" rfc="PAAD740915TC4" curp="PAAD740915HGTCGM05" nombre="DEMETRIO PACHECO AGUILAR" numSeguridadSocial="92907441403" importe="876.48" />
+        <valesdedespensa:Concepto identificador="33428046" fecha="2016-05-13T19:09:49" rfc="OAMR730707JU0" curp="OAMR730707HMCLDC06" nombre="RICARDO OLAYO MADRIGAL" numSeguridadSocial="92907365297" importe="876.48" />
+        <valesdedespensa:Concepto identificador="33067695" fecha="2016-05-13T19:09:49" rfc="SAME780801AE6" curp="SAME780801HDFNRD04" nombre="EDUARDO FRANCISCO SANCHEZ MARTINEZ" numSeguridadSocial="01007804741" importe="876.48" />
+        <valesdedespensa:Concepto identificador="20108759" fecha="2016-05-13T19:09:49" rfc="MUGZ880219FH1" curp="MUGZ880219MDFNRR04" nombre="ZAIRA MUNGUIA GARCIA" numSeguridadSocial="01108801828" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176583" fecha="2016-05-13T19:09:49" rfc="VECJ7609299I8" curp="VECJ760929HDFRSN01" nombre="JUAN CARLOS VERA CASTRO" numSeguridadSocial="11977610572" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176575" fecha="2016-05-13T19:09:49" rfc="VIRA7205029X2" curp="VIRA720502HMCLMR04" nombre="ARTURO VILLAGRANA ROMAN" numSeguridadSocial="92967203669" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176559" fecha="2016-05-13T19:09:49" rfc="PESG560909G56" curp="PESG560909MVZRNR00" nombre="GORGONIA PEREZ SANTIAGO" numSeguridadSocial="92995600076" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176542" fecha="2016-05-13T19:09:49" rfc="PEVE7404215A0" curp="PEVE740421HDFRLD09" nombre="EDUARDO PERALTA VILLA" numSeguridadSocial="07977401566" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176534" fecha="2016-05-13T19:09:49" rfc="PEAM8502104O0" curp="PEAM850210HGTDLR04" nombre="MARTIN PEDRAZA ALVAREZ" numSeguridadSocial="12038573312" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176526" fecha="2016-05-13T19:09:49" rfc="NAAC5110041B9" curp="NAAC511004MMNJRN01" nombre="CONSTANZA NAJAR ARIAS" numSeguridadSocial="02695107710" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176518" fecha="2016-05-13T19:09:49" rfc="MULE710218JTA" curp="MULE710218HDFXND08" nombre="EDGAR MUNOZ LEON" numSeguridadSocial="90896104685" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176484" fecha="2016-05-13T19:09:49" rfc="MAZA740114LL4" curp="MAZA740114HDFRNL09" nombre="ALFREDO MARTINEZ ZENTENO" numSeguridadSocial="01917424861" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176476" fecha="2016-05-13T19:09:49" rfc="MAGG550603J62" curp="MAGG550603MMCRRR02" nombre="GERORGINA MARTINEZ GARCIA" numSeguridadSocial="20895500286" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176468" fecha="2016-05-13T19:09:49" rfc="MACE721104CX1" curp="MACE721104HDFRRM04" nombre="EMANUEL MARTINEZ CERERO" numSeguridadSocial="11917236959" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176450" fecha="2016-05-13T19:09:49" rfc="MACD680904FQ2" curp="MACD680904HDFRLV07" nombre="DAVID MARTINEZ CALZADA" numSeguridadSocial="90876818122" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176443" fecha="2016-05-13T19:09:49" rfc="MAAE811113TZ7" curp="MAAE811113MMCRSL16" nombre="ELVIA MARTINEZ ASCENCIO" numSeguridadSocial="90988125986" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176427" fecha="2016-05-13T19:09:49" rfc="JICJ800909UC3" curp="JICJ800909HMCMRS02" nombre="JESUS JIMENEZ CERVANTES" numSeguridadSocial="39957821398" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176377" fecha="2016-05-13T19:09:49" rfc="GOYC82063064A" curp="GOYC820630HDFMXS03" nombre="CESAR ALBERTO GOMEZ YANEZ" numSeguridadSocial="92998204355" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176351" fecha="2016-05-13T19:09:49" rfc="GAPA690408375" curp="GAPA690408HVZRRL08" nombre="JOSE ALBERTO GARCIA PEREZ" numSeguridadSocial="02906903329" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176344" fecha="2016-05-13T19:09:49" rfc="FOTJ671009J82" curp="FOTJ671009HDFLRQ07" nombre="JOAQUIN FLORES TREJO" numSeguridadSocial="01846709044" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176336" fecha="2016-05-13T19:09:49" rfc="EAEA8004241K5" curp="EAEA800424MGRSLN08" nombre="ANABEL ESTRADA ELIZALDE" numSeguridadSocial="07018002480" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176328" fecha="2016-05-13T19:09:49" rfc="CULR7403014T4" curp="CULR740301HDFRPG00" nombre="ROGELIO CURIEL LOPEZ" numSeguridadSocial="11937104377" importe="876.48" />
+        <valesdedespensa:Concepto identificador="03176294" fecha="2016-05-13T19:09:49" rfc="AAAE720909TN9" curp="AAAE720909HMCLGF00" nombre="EFREN ALVAREZ AGUILERA" numSeguridadSocial="92897257249" importe="876.48" />
+      </valesdedespensa:Conceptos>
+    </valesdedespensa:ValesDeDespensa>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="056867c0-bcac-46d5-8904-09b5181c6135" FechaTimbrado="2016-05-13T19:09:49" selloCFD="WJKDE+J4WyIqtIzeadrevR2oUBQ9AJrSKlrquPxxe3CD5pLv1nruRmjwqAzeg2j6d4X3yk6C7DbtTznESEf08OZhS4/LW20GmTaySPcKZk4/mA8+wsLajk1HhDVGZYwmTHzzS8SDJFpwT4XFzAxKL7CNJ1Gy9OdgEFe/89uKIuA=" noCertificadoSAT="00001000000202693892" selloSAT="EdfflOPsyNqYnHScl36/g2MFbA5RlRrHuqMvjD40oEcuVKd2yJOHhAyXLIKgnpFA2gj5AQYXE5UUvHrQueOyG84lpigj3+mrnSVOyfykrTdBNE98yWeFS1134RvJCm7ncpZTpzPrfuC21ZtNoS8FKOggLR9lvtn3wJoBXB+wlMU=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

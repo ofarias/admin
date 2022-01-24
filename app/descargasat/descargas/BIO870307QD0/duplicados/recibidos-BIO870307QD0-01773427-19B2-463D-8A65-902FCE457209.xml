@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:implocal="http://www.sat.gob.mx/implocal" tipoDeComprobante="ingreso" metodoDePago="Tarjeta de Credito" total="1760.50" TipoCambio="1" Moneda="MXN" LugarExpedicion="Mexico, Veracruz" NumCtaPago="4322" fecha="2015-09-30T09:13:03" sello="FBZybmqTCMUZHBxXfcUsc1ik02B2owIm52o82H7sroaUURrx9IDQ/ZXtp6HHgcrq6Cd0OsFdg56JZrPxwmSYPsUS6q4Xkw2kmz2c+PATxrCZHZU9IUALBrotB/nBv6MYWpunPYrlM1jfevCE9I+js5fqp1XlXiOP5uhuaNrae/c=" folio="13868" version="3.2" serie="A" formaDePago="Pago en una sola exhibicion" subTotal="1496.04" descuento="0.00" condicionesDePago="Pago en una sola exhibicion" noCertificado="00001000000300609886" certificado="MIIEkDCCA3igAwIBAgIUMDAwMDEwMDAwMDAzMDA2MDk4ODYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA4MDIxOTQ3MDJaFw0xNzA4MDIxOTQ3MDJaMIHcMSowKAYDVQQDEyFPUEVSQURPUkEgREVDT1JJIE9SSVpBQkEgU0EgREUgQ1YxKjAoBgNVBCkTIU9QRVJBRE9SQSBERUNPUkkgT1JJWkFCQSBTQSBERSBDVjEqMCgGA1UEChMhT1BFUkFET1JBIERFQ09SSSBPUklaQUJBIFNBIERFIENWMSUwIwYDVQQtExxPRE8xMjA4MTBKNTEgLyBHT1BLODAwMTI0MUwxMR4wHAYDVQQFExUgLyBHT1BLODAwMTI0TVZaTlJSMDUxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAiwQh0gbKs5M2Kw/xyh+wK1oJhMOvcWToJNkotFxrF66+OkOAngDElyh4GaT4T/kv3FvAVua3MEiHRs3CC2pqz2RK/VyONSbSMzU7RHEcxft+r2PDtIqAIMwtQsczMej4uypuoa02WUTiY1nazKd/Y8e21rwevggXVJVWqvW0yMsCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAN6xFEscC/GLSeVrc5bmS9GPCq9moYPK+MBi8Lgg/XQtsQO58H9Eh+LmckvxGEDeGm+r5185xi8TZISzyFJJ5F/DDS+VBik+2FE0lXi0FucoEzWGtW+63Y99Jy/UggAX54DpsPckHdnH9jhaqW6mLWt58K4s9xhWSJFkRI/8F04nPGxvkfm/ohJqjISVZ0uXLxWUKkMyqtwt6kWdsZJvInbAMx7zcnPjf9WS2ogsldc3MSsKsP8LxX34zlwCb33m/t88X0aDJqrCYkbt9HoyJACW3BoGT+EhI/SqhcJGZnH4rx63woB4K3K3kcJGhnIqXvxPeKdVQyShaeCtdhToTsw=" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd">
+  <cfdi:Emisor nombre="Operadora Decori Orizaba SA de CV" rfc="ODO120810J51">
+    <cfdi:DomicilioFiscal calle="Sur 17 340" colonia="Centro" municipio="Orizaba" estado="Veracruz" pais="Mexico" codigoPostal="94300" />
+    <cfdi:ExpedidoEn calle="Sur 17 340" colonia="Centro" municipio="Orizaba" estado="Veracruz" pais="Mexico" codigoPostal="94300" />
+    <cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="Biotecsa SA de CV" rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="Blvd Manuel Avila Camacho 2900-804" colonia="Fracc Los Pirules" municipio="Tlalnepantla de Baz" estado="MC" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="Servicios de Hospedaje y/o Aliment (  3)" valorUnitario="1496.04" importe="1496.04" cantidad="1" unidad="No Aplica" noIdentificacion="1" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="239.37">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="239.37" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <implocal:ImpuestosLocales TotaldeTraslados="25.09" TotaldeRetenciones="0" version="1.0">
+      <implocal:TrasladosLocales ImpLocTrasladado="ISH" TasadeTraslado="2.00" Importe="25.09" />
+    </implocal:ImpuestosLocales>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="01773427-19b2-463d-8a65-902fce457209" FechaTimbrado="2015-09-30T09:17:06" selloCFD="FBZybmqTCMUZHBxXfcUsc1ik02B2owIm52o82H7sroaUURrx9IDQ/ZXtp6HHgcrq6Cd0OsFdg56JZrPxwmSYPsUS6q4Xkw2kmz2c+PATxrCZHZU9IUALBrotB/nBv6MYWpunPYrlM1jfevCE9I+js5fqp1XlXiOP5uhuaNrae/c=" noCertificadoSAT="00001000000300171326" selloSAT="qOXMbuNVJOmpjTz8UyyjudcPGJdc9cerc4kJSGinGhSLMu/FnTqpH009XrXFjQZRRt8zCvRVrGHi6Rep6qB3UZ+uVftmdmNoiGZWSyg6DP9qN3rGSZBgraLZ4hx26SrLEKLBFlyfQ6orMrtwSN4GvqzIo6FkYlNO6FViDWEAnmc=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

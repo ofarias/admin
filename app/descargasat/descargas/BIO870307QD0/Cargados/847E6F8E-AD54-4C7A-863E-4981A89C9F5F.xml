@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante Version="3.3" Serie="OVIDH" Folio="37222" Fecha="2018-08-06T10:33:17" Sello="JcN85Po4wQUaZrO32/LWWc/RNi4SlrOPTcm6pCuNcMQGww2P0b/UiItGyw7fIf00bL21sI1xXlPeUZnVd3vps1o8HoSJEgsWbWu0tgQq7EMDWK5ZJYiG++pvV/Rbw8RHTAeD4WIT88k8EZ7FhOBzcrTV6CznCfsbbPttSze/g2g=" FormaPago="04" NoCertificado="00001000000304843342" Certificado="MIIEnTCCA4WgAwIBAgIUMDAwMDEwMDAwMDAzMDQ4NDMzNDIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA4MDYxOTAzNTlaFw0xODA4MDYxOTAzNTlaMIHpMSUwIwYDVQQDExxPUEVSQURPUkEgVklQUyBTIERFIFJMIERFIENWMSUwIwYDVQQpExxPUEVSQURPUkEgVklQUyBTIERFIFJMIERFIENWMSUwIwYDVQQKExxPUEVSQURPUkEgVklQUyBTIERFIFJMIERFIENWMSUwIwYDVQQtExxPVkk4MDAxMzFHUTYgLyBQRUVFNjkwMTE5NjkzMR4wHAYDVQQFExUgLyBQRUVFNjkwMTE5TURGUk5MMDUxKzApBgNVBAsTIk9QRVJBRE9SQSBWSVBTLCBTLiBERSBSLkwuIERFIEMuVi4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKi+BFpoxu2GC8U5A+kX4HyvV/5ThEetZpo9zkQ5LPoM9fu7UWIhyvs59MeV2FAhyx/LcUeNKT5pAr9h0zCwQ9IJr31ouxP0lHR/Hb4o03CITry7ut5KhinhDoRtsBGlLBn1Gw45oQ9zJtpFdE/OgHeAadmVPO8mR2WcEv36pq0/AgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQBYonZHz1o4dRzM5JxuGfwwjyhfJgRMOjIWa1fsWju5Eoy0/LIIWTap5bKOuUOP5mskUa7LhkSK0wjJO8c8Oh2njYrtR6Wyv/wN7HCcYLWlclrccX0WFxctEqYxiMkuglYj05BLVZPwSA9PlTF6a7iI8zXsdfA+knw4hbpWDgKKJ+mKkcIRFHH0bMGXHhs5vU6QmWNAPqIDafIMVigbLVEXzYf4UDgU09lbow1+87Utvrp+C0meOTlSOM9kVhNykiVb/B3eKbGKIxqSr9f8YuVJd38Weyi17WBj8WoduDOs7Kq9YSr/f2F//VAJZPrIDrjiHkpbrTTPGJOXw72mZ5LX" CondicionesDePago="INMEDIATO" SubTotal="243.97" Moneda="MXN" Total="283.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="54040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="OVI800131GQ6" Nombre="OPERADORA VIPS S DE RL DE CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA SA DE CV" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="90101501" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="RESTAURANTES AL 16%" ValorUnitario="243.97" Importe="243.97">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="243.97" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="39.03" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="39.03">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="39.03" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital Version="1.1" UUID="847E6F8E-AD54-4C7A-863E-4981A89C9F5F" FechaTimbrado="2018-08-06T10:34:17" RfcProvCertif="INT020124V62" SelloCFD="JcN85Po4wQUaZrO32/LWWc/RNi4SlrOPTcm6pCuNcMQGww2P0b/UiItGyw7fIf00bL21sI1xXlPeUZnVd3vps1o8HoSJEgsWbWu0tgQq7EMDWK5ZJYiG++pvV/Rbw8RHTAeD4WIT88k8EZ7FhOBzcrTV6CznCfsbbPttSze/g2g=" NoCertificadoSAT="00001000000404598147" SelloSAT="z4AYXHXGsz3rxk5irYRTS4hog3B462ea7L8StKD+bgtL0fdxgI8maUYj3mgrfF+nDPcU1FYKfV5vdvcqo6oSzxi5bT6eqWoROmxq/jYJn5TG8TC1EfkLzDdquj3B95kpLbuRF6cGthhMAUdIjC5mDdr18z24KhZZiqfK+4RxwJ91DEpVbmRddQcJnwGld4gyqkiC4BelBwdNgjqueFXvxKRfDz2R/U0bn64dUYYEC/c6L7Orc499yVDTd+V+VUn/D45dCFDA8t/Iou9OLEX/Ra9YQf0j7L05EtXIlGeMy/SLZMHx1TeAHQJt05IG20LMnUUJ42Q6CVTJ0nLoNkSflw==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

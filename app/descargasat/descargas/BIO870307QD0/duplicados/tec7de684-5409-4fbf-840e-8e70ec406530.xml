@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="50062147" fecha="2014-12-18T09:39:58" sello="tYfWbKc6PNSbd+lPsQHCWjWS5itrxaCCI2aJYQKkHXLlmMnPnz2KlBx/ZPBIzbsDCdubtpHEzfI/C215EBC08krL7N4EBnMcHYHb+e7fSnuoXaHdyDBkclcLl093vkRKuJpDtBYB/pIwJbaRSqjM+I4uLtq/r/AbX25TCEZK/oE=" formaDePago="CONTADO" noCertificado="00001000000301452292" certificado="MIIEjzCCA3egAwIBAgIUMDAwMDEwMDAwMDAzMDE0NTIyOTIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMjgwMDAxMDdaFw0xNzExMjgwMDAxMDdaMIHbMSMwIQYDVQQDExpFTSBQQUNLIERFIE1FWElDTyBTQSBERSBDVjEjMCEGA1UEKRMaRU0gUEFDSyBERSBNRVhJQ08gU0EgREUgQ1YxIzAhBgNVBAoTGkVNIFBBQ0sgREUgTUVYSUNPIFNBIERFIENWMSUwIwYDVQQtExxFUE04MjA0MTlMTDYgLyBNVUlGNjIwNzE2VFg0MR4wHAYDVQQFExUgLyBNVUlGNjIwNzE2SERGUk5SMDAxIzAhBgNVBAsTGkVNIFBBQ0sgREUgTUVYSUNPIFNBIERFIENWMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDYejaA8cYJDGyKGfiO/oQUpRfEeGNcPq6VwTmVi6EeW35VZB76ovQ7wh2tn8wKQQSCZrSuUjHH18QpMT9VPymUY/FbyY0I251JSd0zzfLZrk5o/vPvIXjInqhoY5yWTgujeFsTedDxuOOTcqqxknMiUNlzQGyzisH6zcmXl0TVmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAboA+pN+bFFReuJ2k+PMvxJ9IhaPbVFP1LjlZ2nEd7NM9oTY2gU9Fu4N+ooJO/JwOBT4QMdZZXcUaF8lroQTTWB4/YNsxvVoGlSs8t+Xrn1IMKM7PNxX4yH9cr4v9n+phQVz8FWaeEHWrdpK9Zx1bFjct37kyfhoiQSvnBa563ZL2Vp/YJZcqUJ2Xczxu6klUw39mz9o7vDhPLXLLZSQtczBhX5rgQ243yvkS8KahXyoDbjjj0mpgfYH7KlEq80V6k20UnLcwDw3nPblYUFYUpLhs4ockhRTUihI+aI0OcRPNbT1JUt4ST56XJVclNEi0wihmrnDLiMtk6Ycv08usqw==" condicionesDePago="EFECTIVO" subTotal="224.00" descuento="0.00" TipoCambio="1.00" Moneda="MXN" total="259.84" tipoDeComprobante="ingreso" metodoDePago="EFECTIVO" LugarExpedicion="MEXICO, DISTRITO FEDERAL">
+  <cfdi:Emisor rfc="EPM820419LL6" nombre="EM PACK DE MEXICO, S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="LEBRIJA" noExterior="58" noInterior="IZTAPALAPA" colonia="DISTRITO FEDERAL" municipio="09860" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="09860" />
+    <cfdi:ExpedidoEn calle="DR. JIMENEZ CANTU" noExterior="406" noInterior="S/N" colonia="CENTRO URBANO" municipio="CUATITLAN IZCALLI" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54740" />
+    <cfdi:RegimenFiscal Regimen="GENERAL DE LEY PERSONA MORAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="DESP 804" colonia="FRACCIONAMIENTO LOS PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="25.00" unidad="PZA" noIdentificacion="1069" descripcion="CAJA RM-69 28.0X22.0X16.5" valorUnitario="5.60" importe="140.00" />
+    <cfdi:Concepto cantidad="25.00" unidad="PZA" noIdentificacion="19002" descripcion="CAJA MICROCORR. KRAFT 12X12X8&#xD;&#xA;ATADOS C/ 100 PZS." valorUnitario="3.36" importe="84.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="35.84">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="35.84" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="ec7de684-5409-4fbf-840e-8e70ec406530" FechaTimbrado="2014-12-18T09:45:06" selloCFD="tYfWbKc6PNSbd+lPsQHCWjWS5itrxaCCI2aJYQKkHXLlmMnPnz2KlBx/ZPBIzbsDCdubtpHEzfI/C215EBC08krL7N4EBnMcHYHb+e7fSnuoXaHdyDBkclcLl093vkRKuJpDtBYB/pIwJbaRSqjM+I4uLtq/r/AbX25TCEZK/oE=" noCertificadoSAT="00001000000300171326" selloSAT="FDErOGLSeolj/il12EcAR6zRz73x0wSFaGD90utUUO8au/jN4VKZ1K1P6jKFgQCAG+cTDi33C0vYOyXoh2Sz4fmqxIWAcFH/LQmuoXS/+4WaQ75dUJvbOgCwyOXAFy3FT6ZTm9Pv5qCV/cLxV9jCQ03MkB0P9vjiQL8jVjw6rEM=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento><cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T3350062147">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>1</ecfd:NroAprob>
+            <ecfd:AnoAprob>1900</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Folio>50062147</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:NumeroInterno>50062147</ecfd:NumeroInterno>
+            <ecfd:FechaEmis>2014-12-18T09:39:58</ecfd:FechaEmis>
+            <ecfd:FormaPago>CONTADO</ecfd:FormaPago>
+            <ecfd:MedioPago>EFECTIVO</ecfd:MedioPago>
+            <ecfd:CondPago>EFECTIVO</ecfd:CondPago>
+            <ecfd:TermPagoDias>1</ecfd:TermPagoDias>
+            <ecfd:FechaVenc>2014-12-19</ecfd:FechaVenc>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>EPM820419LL6</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>EM PACK DE MEXICO, S.A. DE C.V.</ecfd:NmbEmisor>
+            <ecfd:CodigoExEmisor>
+              <ecfd:TpoCdgIntEmisor>INT</ecfd:TpoCdgIntEmisor>
+            </ecfd:CodigoExEmisor>
+            <ecfd:CdgSucursal>150</ecfd:CdgSucursal>
+            <ecfd:Sucursal>CUATITLAN IZCALLI</ecfd:Sucursal>
+            <ecfd:CdgVendedor>929</ecfd:CdgVendedor>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>LEBRIJA</ecfd:Calle>
+              <ecfd:NroExterior>58</ecfd:NroExterior>
+              <ecfd:NroInterior>IZTAPALAPA</ecfd:NroInterior>
+              <ecfd:Colonia>DISTRITO FEDERAL</ecfd:Colonia>
+              <ecfd:Municipio>09860</ecfd:Municipio>
+              <ecfd:Estado>DISTRITO FEDERAL</ecfd:Estado>
+              <ecfd:Pais>MEXICO</ecfd:Pais>
+              <ecfd:CodigoPostal>09860</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>DR. JIMENEZ CANTU</ecfd:Calle>
+              <ecfd:NroExterior>406</ecfd:NroExterior>
+              <ecfd:NroInterior>S/N</ecfd:NroInterior>
+              <ecfd:Colonia>CENTRO URBANO</ecfd:Colonia>
+              <ecfd:Municipio>CUATITLAN IZCALLI</ecfd:Municipio>
+              <ecfd:Estado>ESTADO DE MEXICO</ecfd:Estado>
+              <ecfd:Pais>MEXICO</ecfd:Pais>
+              <ecfd:CodigoPostal>54740</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QD0</ecfd:RFCRecep>
+            <ecfd:NmbRecep>BIOTECSA SA DE CV</ecfd:NmbRecep>
+            <ecfd:CodigoExReceptor>
+              <ecfd:TpoCdgIntRecep>INT</ecfd:TpoCdgIntRecep>
+              <ecfd:CdgIntRecep>154901</ecfd:CdgIntRecep>
+            </ecfd:CodigoExReceptor>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>BLVD MANUEL AVILA CAMACHO</ecfd:Calle>
+              <ecfd:NroExterior>2900</ecfd:NroExterior>
+              <ecfd:NroInterior>DESP 804</ecfd:NroInterior>
+              <ecfd:Colonia>FRACCIONAMIENTO LOS PIRULES</ecfd:Colonia>
+              <ecfd:Municipio>TLALNEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>ESTADO DE MEXICO</ecfd:Estado>
+              <ecfd:Pais>MEXICO</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+            <ecfd:LugarRecep>
+              <ecfd:Calle>BLVD MANUEL AVILA CAMACHO 2900 DESP 804</ecfd:Calle>
+              <ecfd:NroExterior>0</ecfd:NroExterior>
+              <ecfd:NroInterior>S/N</ecfd:NroInterior>
+              <ecfd:Colonia>FRACC LOS PIRULES</ecfd:Colonia>
+              <ecfd:Municipio>TLALNEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>ESTADO DE MEXICO</ecfd:Estado>
+              <ecfd:Pais>MX</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:LugarRecep>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:FctConv>1.00</ecfd:FctConv>
+            <ecfd:SubTotal>224.00</ecfd:SubTotal>
+            <ecfd:MntDcto>0.00</ecfd:MntDcto>
+            <ecfd:MntBase>224.00</ecfd:MntBase>
+            <ecfd:MntImp>35.84</ecfd:MntImp>
+            <ecfd:VlrPagar>259.84</ecfd:VlrPagar>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16.00</ecfd:TasaImp>
+            <ecfd:MontoImp>35.84</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:CdgItem>
+            <ecfd:TpoCodigo>SELLER_ASSIGNED</ecfd:TpoCodigo>
+            <ecfd:VlrCodigo>1069</ecfd:VlrCodigo>
+          </ecfd:CdgItem>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>CAJA RM-69 28.0X22.0X16.5</ecfd:DscItem>
+          <ecfd:QtyItem>25.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>PZA</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>5.60</ecfd:PrcNetoItem>
+          <ecfd:DescuentoMonto>0.00</ecfd:DescuentoMonto>
+          <ecfd:MontoNetoItem>140.00</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>2</ecfd:NroLinDet>
+          <ecfd:CdgItem>
+            <ecfd:TpoCodigo>SELLER_ASSIGNED</ecfd:TpoCodigo>
+            <ecfd:VlrCodigo>19002</ecfd:VlrCodigo>
+          </ecfd:CdgItem>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>CAJA MICROCORR. KRAFT 12X12X8
+ATADOS C/ 100 PZS.</ecfd:DscItem>
+          <ecfd:QtyItem>25.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>PZA</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>3.36</ecfd:PrcNetoItem>
+          <ecfd:DescuentoMonto>0.00</ecfd:DescuentoMonto>
+          <ecfd:MontoNetoItem>84.00</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:TimeStamp>2014-12-18T09:40:25</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="Email">aestrada@biotecsa.com</ecfd:campoString>
+        <ecfd:campoString name="Banco" />
+        <ecfd:campoString name="TipoEKT" />
+        <ecfd:campoString name="Proveedor" />
+        <ecfd:campoString name="OrdenCompra" />
+        <ecfd:campoString name="ProcesoID" />
+        <ecfd:campoString name="SolicitanteFN" />
+        <ecfd:campoString name="SolicitanteSN" />
+        <ecfd:campoString name="MailDeloitte">aestrada@biotecsa.com</ecfd:campoString>
+        <ecfd:campoString name="ContactoProveedor">FERNANDO PEREZ</ecfd:campoString>
+        <ecfd:campoString name="MailProveedor" />
+        <ecfd:campoString name="OrigenFactura" />
+        <ecfd:campoString name="Oficina" />
+        <ecfd:campoString name="Template">EM-PACK</ecfd:campoString>
+        <ecfd:campoString name="RegimenFiscal">GENERAL DE LEY PERSONA MORAL</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago" />
+        <ecfd:campoString name="LugarDeExpedicion">MEXICO, DISTRITO FEDERAL</ecfd:campoString>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

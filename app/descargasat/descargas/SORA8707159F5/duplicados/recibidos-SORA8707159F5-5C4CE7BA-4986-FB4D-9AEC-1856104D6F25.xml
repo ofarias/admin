@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" Version="3.3" Serie="F" Folio="1519" Fecha="2020-03-10T10:18:53" Sello="eIv/cHszgnng677F1GdAu8lQ4IK/YI81U/ggyVJSr4iIM8dUs2KTsy9gCEzPbhj8UoZPWfYUW/c3fSYjmbpQrt9Hn/RCHPZvZLreFYvwZJMYEvz53aTOmu6MKfa8NR0mbA2yJkoAPDTIBGRBLl4eIUkK7x+vU611K1JH4uP2jN/61LbxtddPRjccQaKBBnB7FtW2AtTLSbV4BcjFEEvkeWQpzEqdvtwaIoqV7KvutxKmsuGybeq+hmI/Wbl82/5AZHekS3wgsZurjD7z6Tfx1JmBh4OOjok/JOGHccuGjAJhgxsa1Qj3+SYGE0hUB3cUqLXUnSXU6GM3tP4Y1Xo4Qw==" FormaPago="03" NoCertificado="00001000000406380787" Certificado="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" SubTotal="12306.02" Moneda="MXN" Total="14275.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="06000">
+  <cfdi:Emisor Rfc="ICO071016BT1" Nombre="IG COMICS SA DE CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="SORA8707159F5" Nombre="Alejandro Emilio Soriano Reyes" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698464574" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Marvel: Max Venom - Groot" ValorUnitario="169.75" Importe="169.75">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698466844" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Marvel: Black Widow - Taskmaster w/bow" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698362375" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Games: Pokémon - Bulbasaur" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698475259" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Disney: Cinderella - Fairy Godmother" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698456494" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Disney: Cinderella - Cinderella in Pink Dress" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698469524" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Marvel: 80th - First Appearance Spider-Man" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698459808" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Rocks: Iron Maiden - Killers (S" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698456579" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Movies: IT 2 - Shop Keeper (Stephen King)" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698456593" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Movies: IT 2 - Pennywise Without Make Up" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698456586" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Movies: IT 2 - Pennywise Meltdown" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698447539" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Keychain: Fortnite - Frozen Raven" ValorUnitario="94.827586" Importe="284.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="284.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698447553" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Keychain: Fortnite - Fishstick" ValorUnitario="94.827586" Importe="284.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="284.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698454209" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Keychain: Rick &amp; Morty - Space Suit Morty" ValorUnitario="94.827586" Importe="284.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="284.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698454193" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Keychain: Rick Space Suit" ValorUnitario="94.827586" Importe="284.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="284.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698464635" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Keychain: Marvel Venom - Iron Man" ValorUnitario="94.827586" Importe="284.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="284.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698464642" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Keychain: Marvel Venom - Groot" ValorUnitario="94.827586" Importe="284.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="284.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698464628" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Keychain: Marvel Venom - Captain America" ValorUnitario="94.827586" Importe="284.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="284.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698464611" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Keychain: Marvel Venom - Hulk" ValorUnitario="94.827586" Importe="284.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="284.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698485036" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Keychain: Ad Icons Tony the Tiger" ValorUnitario="94.827586" Importe="189.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="189.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698464536" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Marvel: Marvel Venom S3 - Punisher" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698464543" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Marvel: Marvel Venom S3 - Ultron" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698464581" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Marvel: Max Venom - Doctor Strange" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698467797" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Games: Pokemon S2- Eevve" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698447539" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Keychain: Fortnite - Frozen Raven" ValorUnitario="94.827586" Importe="189.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="189.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698466868" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Marvel: Black Widow - Red Guardian" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698452519" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Artists: Leonardo DaVinci" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698443760" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP DC: Harley Quinn (Roller Derby)" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698443692" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Heroes: Harley Quinn (Black Mask Club)" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698443784" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Heroes: Harley Quinnw/ Beaver" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698453271" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Disney: Mulan - Mushu w/Gong" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698453257" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Disney: Mulan - Mulan as Ping" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698455855" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Disney: Onward - Dad" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698455862" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Disney: Onward - Manticore" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698455831" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Disney: Onward - Barley Lightfoot" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698455848" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Disney: Onward - Ian Lightfoot" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698451178" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Animation: Evangelion - 6 Eva Unit 01" ValorUnitario="310.344828" Importe="310.34">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="310.34" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="49.6544" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698451185" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Animation: Evangelion - Shinji Ikari" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698451208" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Animation: Evangelion - Asuka Langly Soryu" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698451192" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Animation: Evangelion - Rei Ayanami" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698453240" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Rides: Mulan - Mulan on Khan" ValorUnitario="465.517241" Importe="465.52">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="465.52" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="74.4832" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698457422" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Disney: Mulan - 10 Mushu" ValorUnitario="603.448276" Importe="603.45">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="603.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="96.552" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698465861" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Ride: Elsa Riding Nokk" ValorUnitario="465.517241" Importe="1396.55">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1396.55" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="223.448" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698456609" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Funko POP Town: IT 2 - Demonic Pennywise w/Funhouse" ValorUnitario="465.517241" Importe="931.03">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="931.03" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="148.9648" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1968.98">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1968.98" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="5C4CE7BA-4986-FB4D-9AEC-1856104D6F25" FechaTimbrado="2020-03-10T10:18:59" RfcProvCertif="SCD110105654" SelloCFD="eIv/cHszgnng677F1GdAu8lQ4IK/YI81U/ggyVJSr4iIM8dUs2KTsy9gCEzPbhj8UoZPWfYUW/c3fSYjmbpQrt9Hn/RCHPZvZLreFYvwZJMYEvz53aTOmu6MKfa8NR0mbA2yJkoAPDTIBGRBLl4eIUkK7x+vU611K1JH4uP2jN/61LbxtddPRjccQaKBBnB7FtW2AtTLSbV4BcjFEEvkeWQpzEqdvtwaIoqV7KvutxKmsuGybeq+hmI/Wbl82/5AZHekS3wgsZurjD7z6Tfx1JmBh4OOjok/JOGHccuGjAJhgxsa1Qj3+SYGE0hUB3cUqLXUnSXU6GM3tP4Y1Xo4Qw==" NoCertificadoSAT="00001000000502000436" SelloSAT="kPh8LKIjpTq7WRAvZuB+hsQQCKdNaSIvCWNVrsRudMAjnpxLyzAb6Hg8KeAZb3D5sn6CVYh4K1UeVa+qBla1Yquuv3+LHQjwCi0N0qUWO/3CZ+PCQoqFCZ8uvWJ8lTM20N0v6tJcQlXjx7aQywfz6s5KqtFs0wgYej2oRbEuM6ryZ8kN1uzaC6c/jm2dPcjMBVxoWH+WJI4v2CmrMF2Tb2bEi6XCbB9XVUazqWbqwo0BjcKvLOZx2yt4rPPwG26aUFpqkTUGBBI+CNEitVk4hLuLRqkbqxWwjc00O8i5Lpigbd8oirVyUysm2W6i5xghhNihiVJMy2tHC6gqAlFunw==" />
+</cfdi:Complemento></cfdi:Comprobante>

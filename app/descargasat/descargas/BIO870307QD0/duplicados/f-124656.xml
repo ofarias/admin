@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="FRR" folio="124656" fecha="2015-09-22T10:05:29" sello="P3PHRS7oOB9d7PSng+eGFL5/z4YwYvhwFpUd4XLslw2QE43GQGyjW2FrKG4DYnUjnYeLx/nbIm8iahHyJlogKSqqOTz6WV/tZrtB4QohGXUly7aZtEsHPPz8b0svniP88Lscasn8Z0YEKiwAvnEGbfcyw6OI51P6UTnUm9UsB9M=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000301990434" certificado="MIIEljCCA36gAwIBAgIUMDAwMDEwMDAwMDAzMDE5OTA0MzQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjMxNzM0MzZaFw0xNzEyMjMxNzM0MzZaMIHiMSowKAYDVQQDEyFFTEVDVFJPTklDQSBST01FUk8gUlVCSU8gU0EgREUgQ1YxKjAoBgNVBCkTIUVMRUNUUk9OSUNBIFJPTUVSTyBSVUJJTyBTQSBERSBDVjEqMCgGA1UEChMhRUxFQ1RST05JQ0EgUk9NRVJPIFJVQklPIFNBIERFIENWMSUwIwYDVQQtExxFUlIwOTA2MTlSUTUgLyBHT0NBNDkwNTA2VE43MR4wHAYDVQQFExUgLyBHT0NBNDkwNTA2SEFTTlNSMDgxFTATBgNVBAsTDFJPTUVSTyBSVUJJTzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAlHFDyE7OVIVYbP0SZ9cM56v+maCPQBcYzLN7g78tmoIGGgnL6+nnyAnuC44HUXRAZDFDgAKGkvq1Kz3xKqsQdipi2OOcHhfr7t6laexBqS9lK8LZqP6QjoHEG3YwN9+eLZjbUKjx2pxWWCMGqVvu4/GPu2LR6dgLX8o+81gO9VkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAG3SdTNG20X9khux5+3LfEvFx98ajsMPVAKPe4Ei/dl72d/D4PV3Nr+SU6hhX3D9ZGg8brKL2irWvXeYGEYr1mKUMjBEfOm13QcyEuaXqerE/Bs1PXToWS+JPOK6P981g/e3UBrmdmEqlKCweCPlDQDFlrX/OcNFHKdH1msXnu8wexwYjuS0kIHXNDkv57ayzCVoOL+QVANH1avEGe5H8b95y93gI1U+O0QljXTbj+hsnP/KrkP2uIQeot1hTH6gMWKpanX76A0s2LE/8AFj2Y7KOKX8EVBVUTmW0rc+DU06VqVw4VUra0kq2fmTPbnNJbExrpUcbsEEm4UfMfqDAGI=" subTotal="241.380000" descuento="0.000000" Moneda="MXN" total="280.000000" tipoDeComprobante="ingreso" metodoDePago="Efectivo" LugarExpedicion="Cuautitlan, Estado de Mexico">
+  <cfdi:Emisor rfc="ERR090619RQ5" nombre="Electronica Romero Rubio S.A de C.V.">
+    <cfdi:DomicilioFiscal calle="Av. 20 de Noviembre" noExterior="125" colonia="Cuautitlan Centro" localidad="Cuautitlan" referencia="124656" municipio="Cuautitlan" estado="MEX" pais="Mexico" codigoPostal="54800" />
+    <cfdi:ExpedidoEn calle="Av. 20 de Noviembre" noExterior="125" colonia="Cuautitlan Centro" localidad="Cuautitlan" municipio="Cuautitlan" estado="MEX" pais="Mexico" codigoPostal="54800" />
+    <cfdi:RegimenFiscal Regimen="Regimen Fiscal de Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO" noExterior="2900-804" colonia="FRACC LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="MEX" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000000" unidad="Pieza" descripcion="BATERIA DE LITIO 6V P/FOTOGRAFIA" valorUnitario="241.380000" importe="241.380000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="0.000000" totalImpuestosTrasladados="38.620000">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="IVA" importe="0.000000" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.000000" importe="38.620000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="62f131e3-2b3a-4720-8a78-ebeaaf25f3cb" FechaTimbrado="2015-09-22T10:10:44" selloCFD="P3PHRS7oOB9d7PSng+eGFL5/z4YwYvhwFpUd4XLslw2QE43GQGyjW2FrKG4DYnUjnYeLx/nbIm8iahHyJlogKSqqOTz6WV/tZrtB4QohGXUly7aZtEsHPPz8b0svniP88Lscasn8Z0YEKiwAvnEGbfcyw6OI51P6UTnUm9UsB9M=" noCertificadoSAT="00001000000300171326" selloSAT="G+M4YphRQiPUNDXZ9J5IiP1YIPhUe5umdS0gq/XdgW+spSyaXIxmnCkuLQzT4qKv6Wjq9YGEHENYdxh3cU0AfeiqyPJzaT8+EohE/Dct9kMgbiUYcLSI9N48KVexXpUUSEYUAB0Ivdb5y0U2l+50lXJep6aOkDOYW+pKcWYosVw=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento><cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33FRR124656">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>1</ecfd:NroAprob>
+            <ecfd:AnoAprob>1900</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>FRR</ecfd:Serie>
+            <ecfd:Folio>124656</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:FechaEmis>2015-09-22T10:05:29</ecfd:FechaEmis>
+            <ecfd:FormaPago>PAGO EN UNA SOLA EXHIBICION</ecfd:FormaPago>
+            <ecfd:MedioPago>Efectivo</ecfd:MedioPago>
+            <ecfd:LugarExpedicion>Cuautitlan, Estado de Mexico</ecfd:LugarExpedicion>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>ERR090619RQ5</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>Electronica Romero Rubio S.A de C.V.</ecfd:NmbEmisor>
+            <ecfd:Sucursal>Steren Cuautitlan RR</ecfd:Sucursal>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>Av. 20 de Noviembre</ecfd:Calle>
+              <ecfd:NroExterior>125</ecfd:NroExterior>
+              <ecfd:Colonia>Cuautitlan Centro</ecfd:Colonia>
+              <ecfd:Localidad>Cuautitlan</ecfd:Localidad>
+              <ecfd:Referencia>124656</ecfd:Referencia>
+              <ecfd:Municipio>Cuautitlan</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>54800</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>Av. 20 de Noviembre</ecfd:Calle>
+              <ecfd:NroExterior>125</ecfd:NroExterior>
+              <ecfd:Colonia>Cuautitlan Centro</ecfd:Colonia>
+              <ecfd:Localidad>Cuautitlan</ecfd:Localidad>
+              <ecfd:Municipio>Cuautitlan</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>Mexico</ecfd:Pais>
+              <ecfd:CodigoPostal>54800</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QD0</ecfd:RFCRecep>
+            <ecfd:NmbRecep>BIOTECSA, S.A. DE C.V.</ecfd:NmbRecep>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>BOULEVARD MANUEL AVILA CAMACHO</ecfd:Calle>
+              <ecfd:NroExterior>2900-804</ecfd:NroExterior>
+              <ecfd:Colonia>FRACC LOS PIRULES</ecfd:Colonia>
+              <ecfd:Localidad>TLALNEPANTLA</ecfd:Localidad>
+              <ecfd:Municipio>TLALNEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>MX</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+            <ecfd:LugarRecep>
+              <ecfd:Calle>BOULEVARD MANUEL AVILA CAMACHO</ecfd:Calle>
+              <ecfd:NroExterior>2900-804</ecfd:NroExterior>
+              <ecfd:Colonia>FRACC LOS PIRULES</ecfd:Colonia>
+              <ecfd:Localidad>TLALNEPANTLA</ecfd:Localidad>
+              <ecfd:Referencia>BIOTECSA, S.A. DE C.V.</ecfd:Referencia>
+              <ecfd:Municipio>TLALNEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>MX</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:LugarRecep>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:SubTotal>241.38</ecfd:SubTotal>
+            <ecfd:MntDcto>0</ecfd:MntDcto>
+            <ecfd:MntBase>241.38</ecfd:MntBase>
+            <ecfd:MntImp>38.62</ecfd:MntImp>
+            <ecfd:MntRet>0</ecfd:MntRet>
+            <ecfd:VlrPagar>280</ecfd:VlrPagar>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16</ecfd:TasaImp>
+            <ecfd:MontoImp>38.62</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+          <ecfd:ExRetenciones>
+            <ecfd:TipoRet>IVA</ecfd:TipoRet>
+            <ecfd:TasaRet>0</ecfd:TasaRet>
+            <ecfd:MontoRet>0</ecfd:MontoRet>
+          </ecfd:ExRetenciones>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>BATERIA DE LITIO 6V P/FOTOGRAFIA</ecfd:DscItem>
+          <ecfd:QtyItem>1</ecfd:QtyItem>
+          <ecfd:UnmdItem>Pieza</ecfd:UnmdItem>
+          <ecfd:PrcBrutoItem>241.38</ecfd:PrcBrutoItem>
+          <ecfd:PrcNetoItem>241.38</ecfd:PrcNetoItem>
+          <ecfd:MontoBrutoItem>241.38</ecfd:MontoBrutoItem>
+          <ecfd:MontoNetoItem>241.38</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:Referencia>
+          <ecfd:NroLinRef>1</ecfd:NroLinRef>
+          <ecfd:ECB01>Material</ecfd:ECB01>
+          <ecfd:ECB02>NumSerie</ecfd:ECB02>
+          <ecfd:ECB04>Observaciones</ecfd:ECB04>
+          <ecfd:ECB05>RenglonNot</ecfd:ECB05>
+          <ecfd:ECB06>aRecepcion</ecfd:ECB06>
+        </ecfd:Referencia>
+        <ecfd:TimeStamp>2015-09-22T10:10:44</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="Leyenda1" />
+        <ecfd:campoString name="Formato">2</ecfd:campoString>
+        <ecfd:campoString name="SubTotalFact" />
+        <ecfd:campoString name="TextoLibre1" />
+        <ecfd:campoString name="TextoLibre2" />
+        <ecfd:campoString name="DLLs" />
+        <ecfd:campoString name="Pesos" />
+        <ecfd:campoString name="FolioFactura" />
+        <ecfd:campoString name="CorreoElecEmisor">cuautitlanromero@steren.com.mx</ecfd:campoString>
+        <ecfd:campoString name="OrdenCompra" />
+        <ecfd:campoString name="Transporte">Cliente Recoge</ecfd:campoString>
+        <ecfd:campoString name="TOTIMP">38.62</ecfd:campoString>
+        <ecfd:campoString name="TOTRET">0</ecfd:campoString>
+        <ecfd:campoString name="TOTDESCUENTO">0</ecfd:campoString>
+        <ecfd:campoString name="TASAIMP">16</ecfd:campoString>
+        <ecfd:campoString name="NumControl" />
+        <ecfd:campoString name="Vendedor">Luis</ecfd:campoString>
+        <ecfd:campoString name="NoCliente">3245</ecfd:campoString>
+        <ecfd:campoString name="Remision">210044</ecfd:campoString>
+        <ecfd:campoString name="CorreoElec">jesus.jimenez@biotecsa.com</ecfd:campoString>
+        <ecfd:campoString name="RefBanco1" />
+        <ecfd:campoString name="RefBanCuenta1" />
+        <ecfd:campoString name="RefBanClave1" />
+        <ecfd:campoString name="RefBanco2" />
+        <ecfd:campoString name="RefBanClave2" />
+        <ecfd:campoString name="RefBanCuenta2" />
+        <ecfd:campoString name="RefBanco3" />
+        <ecfd:campoString name="RefBanClave3" />
+        <ecfd:campoString name="RefBanCuenta3" />
+        <ecfd:campoString name="Leyenda2" />
+        <ecfd:campoString name="Leyenda3" />
+        <ecfd:campoString name="TASARET">0</ecfd:campoString>
+        <ecfd:campoString name="TOTRET">0</ecfd:campoString>
+        <ecfd:campoString name="EmisorRI" />
+        <ecfd:campoString name="ReceptorRI" />
+        <ecfd:campoString name="FechaEntrega" />
+        <ecfd:campoString name="NumProveedor" />
+        <ecfd:campoString name="FolioOrdenCompra" />
+        <ecfd:campoString name="TipoProveedorEKT" />
+        <ecfd:campoString name="Observaciones" />
+        <ecfd:campoString name="NombreSolicitante" />
+        <ecfd:campoString name="PaternoSolicitante" />
+        <ecfd:campoString name="MaternoSolicitante" />
+        <ecfd:campoString name="CorreoSolicitante" />
+        <ecfd:campoString name="Produccion" />
+        <ecfd:campoString name="ProcesoId" />
+        <ecfd:campoString name="PorcentajeDescuento" />
+        <ecfd:campoString name="PorcentajeMerma" />
+        <ecfd:campoString name="PorcentajeDescuentoPromo" />
+        <ecfd:campoString name="TotalDescuento" />
+        <ecfd:campoString name="TotalMerma" />
+        <ecfd:campoString name="Descuento" />
+        <ecfd:campoString name="FolioSolicitudNotaCredito" />
+        <ecfd:campoString name="NSAP">500192</ecfd:campoString>
+        <ecfd:campoString name="EmailNew" />
+        <ecfd:campoString name="ExchengeRate" />
+        <ecfd:campoString name="PoNnumber" />
+        <ecfd:campoString name="Costumercode" />
+        <ecfd:campoString name="RegimenFiscal">Regimen Fiscal de Personas Morales</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago" />
+        <ecfd:campoString name="LugarDeExpedicion">Cuautitlan, Estado de Mexico</ecfd:campoString>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>1</ecfd:CustDetNroLin>
+          <ecfd:CustDetAFN_01>GP-CRP2</ecfd:CustDetAFN_01>
+          <ecfd:CustDetAFN_02>04</ecfd:CustDetAFN_02>
+        </ecfd:CustDetalle>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

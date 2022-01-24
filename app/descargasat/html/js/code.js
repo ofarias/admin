@@ -98,12 +98,14 @@ $('#recibidos-form').on('submit', function() {
 
 				var items = response.data.items;
 				var html = '';
-
+				var num = 0;
 				for(var i in items) {
 					var item = items[i];
+					num++;
 					html += '<tr>'
-						+ '<td class="text-center">'+('<input type="checkbox" checked="checked" name="xml['+item.folioFiscal+']" value="'+item.urlDescargaXml+'"/>')+'</td>'
-						+ '<td class="text-center">'+(item.urlAcuseXml ? '<input type="checkbox" checked="checked" name="acuse['+item.folioFiscal+']" value="'+item.urlAcuseXml+'"/>' : '-')+'</td>'
+						+ '<td>'+ num +'</td>'
+						+ '<td class="text-center">'+('<input type="checkbox" class="sel" name="xml['+item.folioFiscal+']" value="'+item.urlDescargaXml+'"/>')+'</td>'
+						+ '<td class="text-center">'+(item.urlAcuseXml ? '<input type="checkbox" class="sel" name="acuse['+item.folioFiscal+']" value="'+item.urlAcuseXml+'"/>' : '-')+'</td>'
 						+ '<td>'+item.efecto+'</td>'
 						+ '<td class="blur">'+item.emisorNombre+'</td>'
 						+ '<td class="blur">'+item.emisorRfc+'</td>'
@@ -156,12 +158,14 @@ $('#emitidos-form').on('submit', function() {
 
 				var items = response.data.items;
 				var html = '';
-
+				var num =0;
 				for(var i in items) {
 					var item = items[i];
+					num++;	
 					html += '<tr>'
-						+ '<td class="text-center">'+('<input type="checkbox" checked="checked" name="xml['+item.folioFiscal+']" value="'+item.urlDescargaXml+'"/>')+'</td>'
-						+ '<td class="text-center">'+(item.urlAcuseXml ? '<input type="checkbox" checked="checked" name="acuse['+item.folioFiscal+']" value="'+item.urlAcuseXml+'"/>' : '-')+'</td>'
+						+ '<td>'+ num +'</td>'
+						+ '<td class="text-center">'+('<input type="checkbox" class="sel" name="xml['+item.folioFiscal+']" value="'+item.urlDescargaXml+'"/>')+'</td>'
+						+ '<td class="text-center">'+(item.urlAcuseXml ? '<input type="checkbox" class="sel" name="acuse['+item.folioFiscal+']" value="'+item.urlAcuseXml+'"/>' : '-')+'</td>'
 						+ '<td>'+item.efecto+'</td>'
 						+ '<td class="blur">'+item.receptorNombre+'</td>'
 						+ '<td class="blur">'+item.receptorRfc+'</td>'

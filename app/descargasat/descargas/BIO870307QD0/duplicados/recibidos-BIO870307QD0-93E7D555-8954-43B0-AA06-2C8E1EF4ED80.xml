@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" folio="32339" fecha="2016-11-16T09:05:51" noCertificado="00001000000302797980" formaDePago="Pago en una sola exhibicion" subTotal="781.00" descuento="0.00" Moneda="NAL" total="929.39" tipoDeComprobante="ingreso" sello="VF6WK74SM69xD/6efVhBAhIUmBQ/lJgTkiQdeZBplA1V+Yw12RTGIt5vFZAPiuE8tCjUY9XD/eY/9EZWb65R8KBWL+NzL8A8y5ARxv47GlDekmAekkXLePOZkhJSvJVwuhZjDfHLs7QAjtqEXpndpQu8P965c0nuHauYS7uWqno=" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDI3OTc5ODAwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAyMDUxNzUwNTJaFw0xODAyMDUxNzUwNTJaMIHVMSkwJwYDVQQDEyBJTk1PQklMSUFSSUEgUlVJWiBTT1VaQSBTQSBERSBDVjEpMCcGA1UEKRMgSU5NT0JJTElBUklBIFJVSVogU09VWkEgU0EgREUgQ1YxKTAnBgNVBAoTIElOTU9CSUxJQVJJQSBSVUlaIFNPVVpBIFNBIERFIENWMSUwIwYDVQQtExxJUlMxMTA3MDg0NTAgLyBSVVJINTcwMzEzNVg4MR4wHAYDVQQFExUgLyBSVVJINTcwMzEzSERGWlNDMDYxCzAJBgNVBAsTAkhPMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC25u7Lbwz7CGCiR5FuElYotzdHDDqtUVa0Z8DQRqX9jXGioMi49x9iynBeb/XWbTFxrKv8YquabEbm1GYa8DRozF02QYrb50qpGuA0bLnCM81qG92d1Pz2iADqBUcx30XDk6icfZkk7RtHzF2EWgVRuuIrOXdxR8+Mtn1fAfq2sQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAocXh9JJ63rJTHFtWbHu8q81h1OWJfKZvBdwvMgeXEBObHMIZjTXP/iPyshS5NTv/9mjtP7+vvJrU+Af6UNhQv/9Jbt0p2FAjhaNasga7lAZJkl/dVM2voP/BNgJVLInB1MRV2wNgitCHGpSwidLkFaJGmx5oxM9/1l3j6zCjL6dJKJ6eU+oB1uZx5/1LScYH3fqAjb31Ps5XORE5nUKHtogSMWZ8hCKxkR6eZnWGFSWPNvHafZj3a5/rulhJ5jlDchLV90alJzoMkEF1GhMOhhkvVslb4MgFwOiuA1BmgLw92UyyXLIq40Deh6KRFrGenyv8ZLO4Av3JurEdYw6I6A==" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd" metodoDePago="04" NumCtaPago="8305" LugarExpedicion="PERIFERICO ZAPOPAN JALISCO MEXICO">
+  <cfdi:Emisor rfc="IRS110708450" nombre="INMOBILIARIA RUIZ SOUZA SA DE CV">
+    <cfdi:DomicilioFiscal calle="MAR CARIBE" noExterior="1158" noInterior="B 2" colonia="COUNTRY CLUB" municipio="GUADALAJARA" estado="JALISCO" pais="MEXICO" codigoPostal="44610" />
+    <cfdi:ExpedidoEn calle="PERIFERICO" noExterior="7306" colonia="CD. GRANJA" municipio="ZAPOPAN" pais="MEXICO" codigoPostal="45010" estado="JALISCO" />
+    <cfdi:RegimenFiscal Regimen="NA" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO NO. 2900-804 FRACC. LOS PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="SERVICIO" noIdentificacion="RENHAB" descripcion="RENTA HABITACION" valorUnitario="781.00" importe="781.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="124.96">
+    <cfdi:Traslados>
+      <cfdi:Traslado tasa="16.00" importe="124.96" impuesto="IVA" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <implocal:ImpuestosLocales TotaldeRetenciones="0.00" TotaldeTraslados="23.43" version="1.0">
+      <implocal:TrasladosLocales ImpLocTrasladado="IMPUESTO SOBRE HOSPEDAJE" TasadeTraslado="3.00" Importe="23.43" />
+    </implocal:ImpuestosLocales>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="93e7d555-8954-43b0-aa06-2c8e1ef4ed80" FechaTimbrado="2016-11-16T09:05:54" selloCFD="VF6WK74SM69xD/6efVhBAhIUmBQ/lJgTkiQdeZBplA1V+Yw12RTGIt5vFZAPiuE8tCjUY9XD/eY/9EZWb65R8KBWL+NzL8A8y5ARxv47GlDekmAekkXLePOZkhJSvJVwuhZjDfHLs7QAjtqEXpndpQu8P965c0nuHauYS7uWqno=" noCertificadoSAT="00001000000202693892" selloSAT="tMCJtZq5I0Dve1oHxIDDvYgNXjf6Yx6H+S/F2uoCwWpsGXAta3metlmFQpvuUOAvx34VYLdvTWQ8/C9SOB/1+WCOGXYGac/0waLTD/C8wHI32jBdSOQ650DS77x4FoD2O044GgMC+82/XvTGH2rNw4kvB0xx4xMkCu1zYH2X1aw=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

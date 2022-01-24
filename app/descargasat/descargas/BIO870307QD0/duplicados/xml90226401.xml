@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" Moneda="MXP" metodoDePago="01" LugarExpedicion="Atlacomulco, Estado de Mexico" version="3.2" fecha="2016-07-26T15:06:57" sello="MDO+5lFlz5/FSFHQZcLLE7LCHYXMv5vte6SEzUP/1ipUGxadPHbUg1alYVfHVgyS9XMmqWhIwmSDBwQjYMWdZKrMVo5l+xdN1p10GNa/pS2jJHoLeVJ94e59MMugIusTiI9u6o/9Lr7T0WDRl9fv3un9TFlyOEvt04WD9sp6QKE=" formaDePago="Pago en una sola exhibición" tipoDeComprobante="ingreso" noCertificado="00001000000302769434" certificado="MIIEUTCCAzmgAwIBAgIUMDAwMDEwMDAwMDAzMDI3Njk0MzQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAyMDMyMjM5MzBaFw0xODAyMDMyMjM5MzBaMIGdMRswGQYDVQQDExJBQkFEIENPUlJFQSBHQVJDSUExGzAZBgNVBCkTEkFCQUQgQ09SUkVBIEdBUkNJQTEbMBkGA1UEChMSQUJBRCBDT1JSRUEgR0FSQ0lBMRYwFAYDVQQtEw1DT0dBNTMwNjEyQ0MzMRswGQYDVQQFExJDT0dBNTMwNjEySE1OUlJCMDcxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAu0/mIcoWfy5ZhkxAahtXo/WV7okog7aaPbSYZUpOR3bPyyyhn9RAaeQkZc55WWE6CsBCf4w5ffFduyiYaQCqueKOyZLHO7lMRqulPSUwU0lttuJP+1xTBiiTCfTEBVaLTR1Ug1CVvVJND/oa/N7KPbFxpzbqEponKqoyiwJCjd0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAHiz4bQ9qVmkTG+b0o69IrCl9D/9ZH56Ibr/mCd7dvtQkvnF89RGyyUyHzOXoppB4x7ju/4028lHIreLi14DHXHGoj12MVS0pg7bRAG11jYSg5Z0QpES73fI/C3BjTFKQY8I/5HLERJ0ln6t4R36uGpVWZAIS5LPM3SjgAOt1bJndQgHloeQil8m8o0Xc4blbqjnrdj5vcxzEKeszgObD9J1NFyoet+5GhtEH+YmHPSgXfM8LfTlT0B7GNutjok1OKdfQBnJJhm0W1tmdWTXJMoYh5kbHGGGNWPfkjE6SfLrJIp6SFXBuIGPRF4UTp9jBzyWmjXmFthJRdRngdShf2o=" condicionesDePago="CONTADO" subTotal="96.550000" total="111.998000" serie="R" folio="2264">
+	<cfdi:Emisor rfc="COGA530612CC3" nombre="Abad Correa García">
+		<cfdi:DomicilioFiscal calle="Circuito Vial Jorge Jimenez Cantu" noExterior="S/N" referencia="Restaurante Mirador" colonia="S/C" localidad="Atlacomulco de Fabela" municipio="Atlacomulco de Fabela" estado="Estado de Mexico" pais="México" codigoPostal="50450" />
+		<cfdi:RegimenFiscal Regimen="Regimen de Incorporación Fiscal"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S,A DE C,V.">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900-804" colonia="FRACC. LOS PIRULES" localidad="TLALNEPANTLA" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="N/A" descripcion="CONSUMO" valorUnitario="96.550000" importe="96.550000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="15.448000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="15.448000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2016-07-26T15:06:58" UUID="8E9B9DE0-CCA8-5D1B-5FA3-9562EB16D42F" noCertificadoSAT="00001000000203392777" selloCFD="MDO+5lFlz5/FSFHQZcLLE7LCHYXMv5vte6SEzUP/1ipUGxadPHbUg1alYVfHVgyS9XMmqWhIwmSDBwQjYMWdZKrMVo5l+xdN1p10GNa/pS2jJHoLeVJ94e59MMugIusTiI9u6o/9Lr7T0WDRl9fv3un9TFlyOEvt04WD9sp6QKE=" selloSAT="IVDc+Gnn61TkrXAT8NkWF3SLxztTAhWosm2fsRmte6YK3qR3q7SoqfEsOoXKCMFLzw1S5r3T7s1HgFg59nb5KwwkNEsSrv6YdPTNtS6Q2eHyF2L0hnqf+VaKMHjgqBdy/rpQEMU/QjfEARrN6CG9AepryS9P/z5bdCqYDABmHco=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

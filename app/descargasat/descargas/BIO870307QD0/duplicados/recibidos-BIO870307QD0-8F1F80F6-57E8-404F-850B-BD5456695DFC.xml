@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" LugarExpedicion="MEXICO" metodoDePago="Desconocido" tipoDeComprobante="ingreso" total="1238.3" subTotal="1238.3" formaDePago="PAGO EN UNA SOLA EXHIBICION" version="3.2" fecha="2015-09-30T14:34:16" certificado="MIIErDCCA5SgAwIBAgIUMDAwMDEwMDAwMDAzMDQ1NDE2MjIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA2MjcwMDA5NDBaFw0xODA2MjcwMDA5NDBaMIH4MS4wLAYDVQQDEyVJTlNUSVRVVE8gIE1FWElDQU5PIERFTCBTRUdVUk8gU09DSUFMMS4wLAYDVQQpEyVJTlNUSVRVVE8gIE1FWElDQU5PIERFTCBTRUdVUk8gU09DSUFMMS4wLAYDVQQKEyVJTlNUSVRVVE8gIE1FWElDQU5PIERFTCBTRUdVUk8gU09DSUFMMSUwIwYDVQQtExxJTVM0MjEyMzFJNDUgLyBTQUZBNTExMDA2OTc0MR4wHAYDVQQFExUgLyBTQUZBNTExMDA2TURGTFJEMDYxHzAdBgNVBAsTFkNVT1RBUyBPQlJFUk8gUEFUUk9OQUwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAI1hRQM0DUrYwV7OZaah2ylM+idJ0X3wkA3CuZB4gyACAD616ORbl14zFjd6l8ErNfsbmeFMUL912zLAYNqcxFqexzEOd28YVewIRRDYRLFOxuGzoTtZhQ2vyND51XvV+6ns8/q4wBVRu3dpOO5bUaUC3k962wTJmeVrN75wHSDzAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQBP5xNA11NlWxb1t+moCOBBpXCx55Auas/e/jYvi0fFx0U6av7oS2CzNSDD3lBHpXyPWLpQj94w4sRn1wqUx/xLEhU0kOyrTjsW6+Wm6YjrO1RdOiYUSfN1FBusb+pZRCLXhySqTysymDwon5kPA0B9+bz/geCa7X0QDimKf5k378b0k1kXullnPzpiajIfC9bGPE9s91FJHamXloJXm1elAqKxssiWCPR6CebWwDUvVWxeGVhW7uaxNfHoTsjCHBMDTAuNynKEmy5w/wmpuMZkQw5sMq8dhHVevDYV+WbJpSD+vETARHjhISiRBk9AlN0h297/hOpT1ODgqI4s7W6H" noCertificado="00001000000304541622" sello="PR2OByvxWmY43A+QcUc5481bW+rH7e6wV7ZvGVkibhuQofv28ZKV51gQK/iW0SzApqINzDdoZ1Bd2n3WduLuCFlDV5YSH2I3Au01hJm3znjpiqfLO5J2V7eU6ZZG6RSXYTD5IceCXaQKYHKTt25PREJuEkhi9Z/vQQCpFAsoYTk=" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor nombre="INSTITUTO MEXICANO DEL SEGURO SOCIAL" rfc="IMS421231I45">
+    <cfdi:DomicilioFiscal codigoPostal="06600" pais="MEXICO" estado="DISTRITO FEDERAL" municipio="CUAUHTEMOC" colonia="JUAREZ" noExterior="476" calle="REFORMA" />
+    <cfdi:ExpedidoEn codigoPostal="06600" pais="MEXICO" estado="DISTRITO FEDERAL" colonia="JUAREZ" noExterior="476" calle="REFORMA" />
+    <cfdi:RegimenFiscal Regimen="PERSONA MORAL CON FINES NO LUCRATIVOS" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0">
+    <cfdi:Domicilio pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto importe="1104.19" valorUnitario="1104.19" descripcion="Cuotas IMSS" unidad="No Aplica" cantidad="1.0" />
+    <cfdi:Concepto importe="0.0" valorUnitario="0.0" descripcion="Cuotas RCV" unidad="No Aplica" cantidad="1.0" />
+    <cfdi:Concepto importe="8.39" valorUnitario="8.39" descripcion="Actualizacion de Cuotas IMSS" unidad="No Aplica" cantidad="1.0" />
+    <cfdi:Concepto importe="0.0" valorUnitario="0.0" descripcion="Actualizacion de cuotas RCV" unidad="No Aplica" cantidad="1.0" />
+    <cfdi:Concepto importe="125.72" valorUnitario="125.72" descripcion="Recargos de Cuotas IMSS" unidad="No Aplica" cantidad="1.0" />
+    <cfdi:Concepto importe="0.0" valorUnitario="0.0" descripcion="Recargos de cuotas RCV" unidad="No Aplica" cantidad="1.0" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos />
+  <cfdi:Complemento xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="8F1F80F6-57E8-404F-850B-BD5456695DFC" FechaTimbrado="2015-09-30T20:34:18" selloCFD="PR2OByvxWmY43A+QcUc5481bW+rH7e6wV7ZvGVkibhuQofv28ZKV51gQK/iW0SzApqINzDdoZ1Bd2n3WduLuCFlDV5YSH2I3Au01hJm3znjpiqfLO5J2V7eU6ZZG6RSXYTD5IceCXaQKYHKTt25PREJuEkhi9Z/vQQCpFAsoYTk=" noCertificadoSAT="00001000000201748120" selloSAT="rdKUd8hvMfL21w1P5bCj6/a0LFanw/dqOkSIdlB56LPkED9WmIkwnRGxrnK7Pxd7Ogi628NEfXaz6VM6WCknkfY8aDtlIziV+EX8haHOeyphd/tJ74sqSQC4m18E8+4cM079xyhQx0lEybW5cbWRk83K4czpIrVSeTFqo4uotQw=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

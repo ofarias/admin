@@ -1,0 +1,723 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:ecc="http://www.sat.gob.mx/EstadoDeCuentaCombustible" xmlns:psgecfd="http://www.sat.gob.mx/psgecfd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/EstadoDeCuentaCombustible http://www.sat.gob.mx/sitio_internet/cfd/EstadoDeCuentaCombustible/ecc11.xsd" version="3.2" serie="ECL" folio="259756" fecha="2016-01-31T09:27:51" sello="KVvS95Bzt6otJ1O51ezsC73liiP/Fz/h5Y8tbIDGLlRHIROh/C706lCnebrzFLMNY9WEFQ88UD2EVL5kTjEjFjqulczOxAL/barBQssQ/aquoX4C0UdDf3H5a33yxYQs+wAwBEAO+JBaFRPTLdHVxSE1OHfSzq+YlvX2I4OU49k=" formaDePago="CONTADO" noCertificado="00001000000201364492" certificado="MIIEbzCCA1egAwIBAgIUMDAwMDEwMDAwMDAyMDEzNjQ0OTIwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDYxNTE5NTI1NVoXDTE2MDYxNTE5NTI1NVowgbAxHDAaBgNVBAMTE0VGRUNUSVZBTEUgU0EgREUgQ1YxHDAaBgNVBCkTE0VGRUNUSVZBTEUgU0EgREUgQ1YxHDAaBgNVBAoTE0VGRUNUSVZBTEUgU0EgREUgQ1YxJTAjBgNVBC0THEVGRTg5MDgwMTVMMyAvIEFBUko2NTA4MTdVRzgxHjAcBgNVBAUTFSAvIEFBUko2NTA4MTdIREZMTUwwNDENMAsGA1UECxMEQ09WRTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAu8t3Y10wVAnKVcy6t6r/YmwFiPO/PuGbwYa+k5/rPFjOEUGxUofIaTspM28/S/9SvX3sulevIWe/FFcW77c6hP8R5NEswYM02j1E24HLBjaG9vKD6Hl7kpWBiGSGT7DUPbqletQmLoa3KLlhbEZDU1KsDF4azx1mT2aYwlHSbJUCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADZD0d7Hi3SJH/DCMY/JeE8k0MyWgloLBmYR23UQwdZVSPaoZaYN70L/dp+11soC5MRcPw8MY5/O7kMjJRxxeQPFb1Vm+K9Rsuf/E5Df+6UKiMog5a9Tk2zcNAplgcqiotHG5gelL68s3lwg3gf9KUpeaNMFQTdaqFPHXkK/I8ccVqG94ldyaeHuSnTY32lmbcu/oRl7zq+QsQWQLbjzJ0cuotp2+XS1zpL9qg6TMXK/wJ3SsZtPTar6Zr5Byz3knFRCtULTTW0MgcabZPFaHGo+kL3EnvwsIt0Z2rId4KzKUCfllCfNzhjUg+a72yd4yRds6Z0ddD1MumK42QmSD8c=" condicionesDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="67783.16" total="67873.56" tipoDeComprobante="ingreso" LugarExpedicion="DF" metodoDePago="TRANSFERENCIA ELECTRONICA" Moneda="MXN" TipoCambio="1.0000">
+  <cfdi:Emisor rfc="EFE8908015L3" nombre="EFECTIVALE S. de R.L. de C.V.">
+    <cfdi:DomicilioFiscal calle="Saltillo" noExterior="19" noInterior="5o Piso" colonia="Condesa" municipio="CUAUHTEMOC" estado="DF" pais="MEXICO" codigoPostal="06140" />
+    <cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD.MANUEL AVILA CAMACHO" noExterior="2900" noInterior="PISO 8 DESP.804" colonia="FRACC.LOS PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="EDO DE MEXICO" pais="Mexico" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" descripcion="CONSUMOS" valorUnitario="67218.16" importe="67218.16" />
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" descripcion="COMISIONES" valorUnitario="520.00" importe="520.00" />
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" descripcion="COSTOS TARJETAS" valorUnitario="45.00" importe="45.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="90.40">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="90.40" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <ecc:EstadoDeCuentaCombustible Version="1.1" TipoOperacion="Tarjeta" NumeroDeCuenta="15236-0" SubTotal="57946.79" Total="67218.16">
+      <ecc:Conceptos>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61208" Fecha="2016-01-08T08:59:56" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="60.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="813" ValorUnitario="13.16" Importe="680.69">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="108.91" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61208" Fecha="2016-01-11T12:10:26" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="866" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61208" Fecha="2016-01-22T10:19:40" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1137" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61208" Fecha="2016-01-22T16:16:50" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1150" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-05T07:24:39" Rfc="STO9208202W3" ClaveEstacion="3967" Cantidad="80.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3536" ValorUnitario="13.16" Importe="907.59">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="145.21" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-06T14:49:15" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="65.93" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="767" ValorUnitario="13.16" Importe="747.93">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="119.67" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-08T09:01:19" Rfc="STO9208202W3" ClaveEstacion="3967" Cantidad="80.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3608" ValorUnitario="13.16" Importe="907.59">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="145.21" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-15T16:39:14" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="60.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="989" ValorUnitario="13.16" Importe="680.69">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="108.91" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-18T14:12:30" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1033" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-19T16:01:08" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1075" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-21T12:34:30" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1119" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-25T14:04:09" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="80.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1202" ValorUnitario="13.16" Importe="907.59">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="145.21" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-26T12:47:10" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="80.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1229" ValorUnitario="13.16" Importe="907.59">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="145.21" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-27T14:31:04" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1253" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-28T08:05:00" Rfc="STO9208202W3" ClaveEstacion="3967" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3956" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61212" Fecha="2016-01-29T14:21:01" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1310" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="61750" Fecha="2016-01-20T10:41:29" Rfc="PES050409E31" ClaveEstacion="8895" Cantidad="60.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3978" ValorUnitario="13.16" Importe="680.69">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="108.91" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="75451" Fecha="2016-01-27T18:50:56" Rfc="DBI960516AD6" ClaveEstacion="5063" Cantidad="41.91" NoIdentificacion="32012" Unidad="LTS" NombreCombustible="Premium" FolioOperacion="27181" ValorUnitario="13.98" Importe="505.06">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="80.81" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="88783" Fecha="2016-01-05T13:59:01" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="40.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="16853" ValorUnitario="13.77" Importe="474.83">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="75.97" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="88783" Fecha="2016-01-07T14:53:49" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="40.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="16922" ValorUnitario="13.77" Importe="474.83">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="75.97" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="88783" Fecha="2016-01-08T16:44:44" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="60.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="16966" ValorUnitario="13.77" Importe="712.24">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="113.96" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="88783" Fecha="2016-01-11T14:52:10" Rfc="SSR760906L2A" ClaveEstacion="2937" TAR="619" Cantidad="120.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="3790" ValorUnitario="13.77" Importe="1424.48">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="227.92" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="88783" Fecha="2016-01-11T19:29:56" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="140.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="17041" ValorUnitario="13.77" Importe="1661.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="265.90" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="88783" Fecha="2016-01-13T15:44:50" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="40.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="17120" ValorUnitario="13.77" Importe="474.83">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="75.97" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="88783" Fecha="2016-01-15T18:17:16" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="60.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="17189" ValorUnitario="13.77" Importe="712.24">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="113.96" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="88783" Fecha="2016-01-19T13:43:52" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="40.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="17281" ValorUnitario="13.77" Importe="474.83">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="75.97" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="88783" Fecha="2016-01-21T17:32:14" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="80.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="17361" ValorUnitario="13.77" Importe="949.66">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="151.94" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="88783" Fecha="2016-01-27T11:20:00" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="40.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="17533" ValorUnitario="13.77" Importe="474.83">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="75.97" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="88783" Fecha="2016-01-28T14:47:25" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="40.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="17573" ValorUnitario="13.77" Importe="474.83">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="75.97" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-05T12:20:31" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="742" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-06T13:44:29" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.62" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="765" ValorUnitario="13.16" Importe="233.97">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-07T15:23:57" Rfc="AHF060131G59" ClaveEstacion="12172" Cantidad="59.35" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="4913" ValorUnitario="13.16" Importe="673.28">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="107.72" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-08T11:08:12" Rfc="SSS981105E38" ClaveEstacion="5288" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="56" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-08T18:01:21" Rfc="SGR000807PD9" ClaveEstacion="11963" Cantidad="39.98" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="893" ValorUnitario="13.16" Importe="453.62">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.58" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-08T20:50:03" Rfc="SSS981105E38" ClaveEstacion="5288" Cantidad="39.98" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="64" ValorUnitario="13.16" Importe="453.62">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.58" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-11T17:09:24" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="875" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-13T16:01:37" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="932" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-14T15:30:08" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="60.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="960" ValorUnitario="13.16" Importe="680.69">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="108.91" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-15T18:32:26" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="994" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-20T11:16:16" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1087" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-27T13:19:15" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1251" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-28T17:44:42" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1287" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="151668" Fecha="2016-01-29T14:15:55" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1309" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="154376" Fecha="2016-01-07T15:27:10" Rfc="GLO780711IZ5" ClaveEstacion="3313" Cantidad="7.05" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="2741" ValorUnitario="13.16" Importe="80.00">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="12.80" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="154376" Fecha="2016-01-12T08:00:19" Rfc="ESH951010CG3" ClaveEstacion="4994" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="6089" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="154376" Fecha="2016-01-21T09:19:48" Rfc="ESH951010CG3" ClaveEstacion="4994" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="6178" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="154376" Fecha="2016-01-28T07:49:04" Rfc="ESH951010CG3" ClaveEstacion="4994" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="6245" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="172440" Fecha="2016-01-07T12:18:27" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="38.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="797" ValorUnitario="13.16" Importe="431.10">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="68.98" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="172440" Fecha="2016-01-26T14:00:34" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1232" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-04T14:37:54" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="723" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-05T08:23:03" Rfc="COP090211UW7" ClaveEstacion="7512" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1246" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-05T14:55:54" Rfc="COP090211UW7" ClaveEstacion="7512" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1252" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-05T18:03:45" Rfc="SQB130527TL5" ClaveEstacion="8516" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="5928" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-05T20:33:43" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="753" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-07T14:32:03" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="801" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-13T09:08:13" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="922" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-13T13:37:00" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="929" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-15T14:18:39" Rfc="SMO961212AC4" ClaveEstacion="5176" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3117" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-15T17:17:42" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="993" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-18T15:06:18" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1035" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-19T14:18:41" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1068" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-21T17:40:51" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1127" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-22T20:07:23" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1153" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-25T16:20:04" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1206" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-26T15:56:10" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1237" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-27T15:57:07" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1256" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="220836" Fecha="2016-01-28T18:13:38" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1290" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="231253" Fecha="2016-01-05T14:17:28" Rfc="DBI960516AD6" ClaveEstacion="5509" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="2388" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="231253" Fecha="2016-01-08T13:27:28" Rfc="OES070503PZ1" ClaveEstacion="5508" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="119" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="231253" Fecha="2016-01-12T08:42:51" Rfc="SES080714AW0" ClaveEstacion="6189" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="4237" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="231253" Fecha="2016-01-14T09:11:42" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="952" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="231253" Fecha="2016-01-16T15:59:42" Rfc="GMO080717LS5" ClaveEstacion="10225" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1510" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="231253" Fecha="2016-01-19T16:55:06" Rfc="SSD980908TS4" ClaveEstacion="6168" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="7019" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="231253" Fecha="2016-01-21T17:45:07" Rfc="GAS000818PH6" ClaveEstacion="6504" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="2587" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="231253" Fecha="2016-01-26T09:45:17" Rfc="SPE940701A32" ClaveEstacion="4347" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3207" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="231253" Fecha="2016-01-28T09:32:04" Rfc="SGC0607191L8" ClaveEstacion="9979" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1482" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="235880" Fecha="2016-01-11T19:24:33" Rfc="DBI960516AD6" ClaveEstacion="5063" Cantidad="35.00" NoIdentificacion="32012" Unidad="LTS" NombreCombustible="Premium" FolioOperacion="26664" ValorUnitario="13.98" Importe="421.81">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="67.49" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="235880" Fecha="2016-01-19T19:52:39" Rfc="DBI960516AD6" ClaveEstacion="5063" Cantidad="30.00" NoIdentificacion="32012" Unidad="LTS" NombreCombustible="Premium" FolioOperacion="26931" ValorUnitario="13.98" Importe="361.55">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="57.85" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="253878" Fecha="2016-01-13T09:49:50" Rfc="SCV0508246M6" ClaveEstacion="10483" Cantidad="39.97" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="4493" ValorUnitario="13.16" Importe="453.45">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.55" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="253878" Fecha="2016-01-14T18:11:52" Rfc="GHS0610106C2" ClaveEstacion="10679" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="216" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="253878" Fecha="2016-01-19T12:10:18" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1061" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="253878" Fecha="2016-01-20T12:50:08" Rfc="OIN980217KX2" ClaveEstacion="6920" Cantidad="15.20" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="138" ValorUnitario="13.16" Importe="172.41">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="27.59" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="253878" Fecha="2016-01-21T18:46:12" Rfc="ROBM6308225V4" ClaveEstacion="923" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="8762" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="253878" Fecha="2016-01-21T21:12:34" Rfc="PES050409E31" ClaveEstacion="8895" Cantidad="24.77" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3987" ValorUnitario="13.16" Importe="281.03">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="44.97" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="253878" Fecha="2016-01-22T15:41:06" Rfc="GAD0912157D2" ClaveEstacion="10374" Cantidad="19.98" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="636" ValorUnitario="13.16" Importe="226.72">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.28" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-04T09:00:18" Rfc="CUAR5204035W4" ClaveEstacion="1656" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3932" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-04T13:12:56" Rfc="ESE930624B79" ClaveEstacion="2910" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="4401" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-04T16:22:55" Rfc="SSS981105E38" ClaveEstacion="5288" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="17" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-05T16:37:52" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="748" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-08T09:08:36" Rfc="SGS020508BT8" ClaveEstacion="7716" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="2552" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-08T14:09:30" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="824" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-11T13:25:28" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="870" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-12T14:24:54" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="905" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-13T11:05:35" Rfc="SSS981105E38" ClaveEstacion="5288" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="105" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-15T16:48:31" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="990" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-21T17:07:24" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1126" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-22T10:27:30" Rfc="SSS981105E38" ClaveEstacion="5288" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="195" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-22T15:09:45" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1145" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-25T16:43:21" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1207" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-28T18:07:49" Rfc="PES070302NJ4" ClaveEstacion="10681" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1612" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-29T11:51:39" Rfc="SMO961212AC4" ClaveEstacion="5176" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3312" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="263908" Fecha="2016-01-29T15:28:31" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1314" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="273199" Fecha="2016-01-04T20:07:33" Rfc="DBI960516AD6" ClaveEstacion="5509" Cantidad="20.00" NoIdentificacion="32012" Unidad="LTS" NombreCombustible="Premium" FolioOperacion="2372" ValorUnitario="13.98" Importe="241.03">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="38.57" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="273199" Fecha="2016-01-11T18:24:11" Rfc="DBI960516AD6" ClaveEstacion="5509" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="2479" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="273199" Fecha="2016-01-25T18:38:47" Rfc="DBI960516AD6" ClaveEstacion="5509" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="2733" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-05T18:17:01" Rfc="ISA691014US9" ClaveEstacion="2921" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="275" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-07T13:01:34" Rfc="OSP000113M54" ClaveEstacion="5042" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="2289" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-07T17:52:55" Rfc="SCH021211EW4" ClaveEstacion="9192" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="876" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-17T22:46:44" Rfc="GDA9509146L5" ClaveEstacion="5536" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="5042" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-19T22:58:28" Rfc="CGP970522EE4" ClaveEstacion="161" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1729" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-20T08:52:53" Rfc="PSO1403072Z2" ClaveEstacion="874" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="5" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-20T18:17:04" Rfc="STA941012RF1" ClaveEstacion="4309" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="644" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-21T13:34:15" Rfc="RAM030716HZA" ClaveEstacion="7831" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="15" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-21T17:17:39" Rfc="SSG060829BP5" ClaveEstacion="616" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="708" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-23T18:23:27" Rfc="SMI6901105D1" ClaveEstacion="2825" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1055" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-26T21:18:27" Rfc="CGP970522EE4" ClaveEstacion="161" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1800" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-27T11:55:31" Rfc="WCO040218SR2" ClaveEstacion="6350" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="2127" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-28T11:29:03" Rfc="AETY340727K86" ClaveEstacion="642" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1493" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-28T15:46:53" Rfc="GAL960911LJ1" ClaveEstacion="5206" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="2005" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="295004" Fecha="2016-01-29T13:32:39" Rfc="MDU040615C98" ClaveEstacion="8853" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="7680" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="379862" Fecha="2016-01-06T10:29:02" Rfc="SCV0508246M6" ClaveEstacion="10483" TAR="696" Cantidad="82.50" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="4326" ValorUnitario="13.77" Importe="979.31">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="156.69" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="379862" Fecha="2016-01-06T16:25:59" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="61.87" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="16889" ValorUnitario="13.77" Importe="734.48">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="117.52" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="379862" Fecha="2016-01-12T15:49:39" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="80.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="17073" ValorUnitario="13.77" Importe="949.66">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="151.94" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="379862" Fecha="2016-01-20T13:47:52" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="80.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="17316" ValorUnitario="13.77" Importe="949.66">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="151.94" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="379862" Fecha="2016-01-22T15:49:19" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="80.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="17396" ValorUnitario="13.77" Importe="949.66">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="151.94" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="379862" Fecha="2016-01-27T12:36:34" Rfc="AAC970604LV8" ClaveEstacion="5184" TAR="699" Cantidad="80.00" NoIdentificacion="34006" Unidad="LTS" NombreCombustible="Diesel" FolioOperacion="17539" ValorUnitario="13.77" Importe="949.66">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="151.94" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="379863" Fecha="2016-01-07T08:33:42" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="790" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="379863" Fecha="2016-01-14T08:08:20" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="950" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="379863" Fecha="2016-01-21T07:57:03" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1113" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="379863" Fecha="2016-01-28T13:23:30" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1275" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="412427" Fecha="2016-01-18T12:10:14" Rfc="OMC100818GZ7" ClaveEstacion="5866" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3035" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="412427" Fecha="2016-01-20T12:13:38" Rfc="OMC100818GZ7" ClaveEstacion="5866" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3075" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="412427" Fecha="2016-01-21T19:49:34" Rfc="OMC100818GZ7" ClaveEstacion="5866" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="3111" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="412427" Fecha="2016-01-28T12:24:37" Rfc="GQL941129CY5" ClaveEstacion="4430" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="9135" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="457172" Fecha="2016-01-08T08:18:38" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="810" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="457172" Fecha="2016-01-12T08:47:06" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="20.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="889" ValorUnitario="13.16" Importe="226.90">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="36.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="457172" Fecha="2016-01-18T17:40:10" Rfc="SFE800728UU7" ClaveEstacion="3062" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="427" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="457172" Fecha="2016-01-28T08:33:46" Rfc="SEC940503BPA" ClaveEstacion="3692" Cantidad="40.00" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="1264" ValorUnitario="13.16" Importe="453.79">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="72.61" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible Identificador="465248" Fecha="2016-01-23T19:22:28" Rfc="DBI960516AD6" ClaveEstacion="5063" Cantidad="43.76" NoIdentificacion="32011" Unidad="LTS" NombreCombustible="Magna" FolioOperacion="27067" ValorUnitario="13.16" Importe="496.47">
+          <ecc:Traslados>
+            <ecc:Traslado Impuesto="IVA" TasaoCuota="0.16" Importe="79.44" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+      </ecc:Conceptos>
+    </ecc:EstadoDeCuentaCombustible>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="2be9acda-6e29-406f-8c24-f63b176bcaac" FechaTimbrado="2016-02-01T08:11:12" selloCFD="KVvS95Bzt6otJ1O51ezsC73liiP/Fz/h5Y8tbIDGLlRHIROh/C706lCnebrzFLMNY9WEFQ88UD2EVL5kTjEjFjqulczOxAL/barBQssQ/aquoX4C0UdDf3H5a33yxYQs+wAwBEAO+JBaFRPTLdHVxSE1OHfSzq+YlvX2I4OU49k=" noCertificadoSAT="00001000000202693892" selloSAT="28d4HqE5ksUgi1c8ZdhIEC4re/fgFsIncf1C46Zh0iVIiSXNEQOKsl4fcMcGOuo0+ckjT6sF+re3/3i8K5lFqjeMdNE3Z26TjzcPKeL87bcD1/jkq8+o8l6xeUtBTYufyPnwz4wbSkGKkEgZmbi6hGfYOeWDA6aenZrdtvcHPFs=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="IS" folio="18726" fecha="2015-06-10T13:27:14" sello="WxttE7RmhUkq1ZA8jHUWQXwRLhd85zUn0p3sX8Z311Os4sZTCdDN+AA8Akq4HYq/VmbOBOCjXyWCFubs2+8IsyeLGbhnhzhxFHYpnPNsxjS0e3tlQS3JnnnZ7Lr/XhywhQaDkfJRiDRtduMB0ljGPCoym7k4TUZa6LXcUxPO8R4=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000202668686" certificado="MIIEezCCA2OgAwIBAgIUMDAwMDEwMDAwMDAyMDI2Njg2ODYwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIyMDE3NDcxNloXDTE2MTIyMDE3NDcxNlowgbwxHDAaBgNVBAMTE1RPWU9NT1RPUlMgU0EgREUgQ1YxHDAaBgNVBCkTE1RPWU9NT1RPUlMgU0EgREUgQ1YxHDAaBgNVBAoTE1RPWU9NT1RPUlMgU0EgREUgQ1YxJTAjBgNVBC0THFRPWTAzMDEyOERNNyAvIEdPUEY3NTAxMTNUNTcxHjAcBgNVBAUTFSAvIEdPUEY3NTAxMTNIR1ROREIwNzEZMBcGA1UECxMQVE9ZT1RBIERFTCBCQUpJTzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAu49YdZIWUKNiFnXZj/5S1Wn82XynfnH9LqgOAoXefQWnu30yPeI6QU5VUeWP4fmp9yiizlciiZPTAELCd1RyXJYFRosSWxxy687WeI0sP3hhjQWB79dK6wxOp8rMfTqnB0WIuBSG5sq5Lr9xJWUgMbQI87sUJTTMySCxsmVhiLkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADDZ8bqCp70cPEhKc4ori4KBRkni4F6xdI/KB48h4kOBDxQdwg2n0QVeprz012zzEeaFKHi2PkJgryHke1o5d/E8BJ4XAQDhG50LKeSIXOfBXOXdZ6M3qRWWGIkpjVB3lTWDgv8tJgpZhz+Bo35KdHQ7XLAiu7upml2ol5QiyqfY+PoyL1c06EmwOYUYiaotOdkTxWcW+rQr7RARnv8c6zaY02ZPGkb6CbgP/+EXKqt5BePauNZCwSlGFewHDo+1xXxAi86a7HJ+VZgAKT2sQ3GrWNlXq2SruKI4xB25d8bpk5AgTYKMXE/YPjFpjv/5gXte76BTHp6LegQWPuYm0ak=" condicionesDePago="CONTADO" subTotal="2823.76" descuento="0.00" TipoCambio="1.0000" Moneda="MXN" total="3275.56" tipoDeComprobante="ingreso" metodoDePago="TRANSFERENCIA ELECTRONICA" LugarExpedicion="LEON,GUANAJUATO" NumCtaPago="4750">
+  <cfdi:Emisor rfc="TOY030128DM7" nombre="TOYOMOTORS S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="BLVD. J. ALONSO DE TORRES" noExterior="1716" colonia="EL MORAL 1" municipio="LEON, GTO." estado="GUANAJUATO" pais="MEXICO" codigoPostal="37180" />
+    <cfdi:ExpedidoEn calle="Blvd. Juan Alonso de Torres" noExterior="1716" colonia="El Moral 1" localidad="LEON" municipio="LEON" estado="GUANAJUATO" pais="MEXICO" codigoPostal="37180" />
+    <cfdi:RegimenFiscal Regimen="Regimen General de Ley, Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900-804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.0000" unidad="SERVICIO" noIdentificacion="01LAMO" descripcion="LAVADO DE MOTOR" valorUnitario="30.1700" importe="30.17" />
+    <cfdi:Concepto cantidad="1.0000" unidad="SERVICIO" noIdentificacion="COR09-100" descripcion="INSP 100 KM COROLLA" valorUnitario="2577.5900" importe="2577.59" />
+    <cfdi:Concepto cantidad="1.6300" unidad="No aplica" noIdentificacion="INSP13" descripcion="INSP 100 KM COROLLA" valorUnitario="0.0000" importe="0.00" />
+    <cfdi:Concepto cantidad="1.0000" unidad="No aplica" noIdentificacion="LA-009" descripcion="LAV CARROCERÍA CORTESÍA" valorUnitario="0.0000" importe="0.00" />
+    <cfdi:Concepto cantidad="1.0000" unidad="No aplica" noIdentificacion="LAV 04" descripcion="LAVADO DE MOTOR" valorUnitario="0.0000" importe="0.00" />
+    <cfdi:Concepto cantidad="1.0000" unidad="PIEZA" noIdentificacion="04152YZZA6" descripcion="REPLACEABLE ELEMENT" valorUnitario="0.0000" importe="0.00" />
+    <cfdi:Concepto cantidad="1.0000" unidad="PIEZA" noIdentificacion="87139YZZ20" descripcion="FILTRO A/C" valorUnitario="0.0000" importe="0.00" />
+    <cfdi:Concepto cantidad="1.0000" unidad="PIEZA" noIdentificacion="9043012031" descripcion="GASKET /ARANDELA" valorUnitario="0.0000" importe="0.00" />
+    <cfdi:Concepto cantidad="4.0000" unidad="PIEZA" noIdentificacion="9091901253" descripcion="PLUG, SPARK" valorUnitario="0.0000" importe="0.00" />
+    <cfdi:Concepto cantidad="1.0000" unidad="PIEZA" noIdentificacion="OP00890910415" descripcion="LIMPIADOR DE FRENOS" valorUnitario="0.0000" importe="0.00" />
+    <cfdi:Concepto cantidad="6.0000" unidad="PIEZA" noIdentificacion="OP98848N" descripcion="TOYOTA MOTOR OIL 5W/30" valorUnitario="0.0000" importe="0.00" />
+    <cfdi:Concepto cantidad="1.0000" unidad="PIEZA" noIdentificacion="OPCONS" descripcion="CONSUMIBLES" valorUnitario="0.0000" importe="0.00" />
+    <cfdi:Concepto cantidad="1.0000" unidad="PIEZA" noIdentificacion="MatDiv" descripcion="MATERIALES DIVERSOS" valorUnitario="5.6200" importe="5.62" />
+    <cfdi:Concepto cantidad="1.0000" unidad="PIEZA" noIdentificacion="8521406130" descripcion="HOJA" valorUnitario="105.1900" importe="105.19" />
+    <cfdi:Concepto cantidad="1.0000" unidad="PIEZA" noIdentificacion="8521428090" descripcion="RUBBER, WIPER BLADE" valorUnitario="105.1900" importe="105.19" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="451.80">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" importe="451.80" tasa="16.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="WxttE7RmhUkq1ZA8jHUWQXwRLhd85zUn0p3sX8Z311Os4sZTCdDN+AA8Akq4HYq/VmbOBOCjXyWCFubs2+8IsyeLGbhnhzhxFHYpnPNsxjS0e3tlQS3JnnnZ7Lr/XhywhQaDkfJRiDRtduMB0ljGPCoym7k4TUZa6LXcUxPO8R4=" FechaTimbrado="2015-06-10T13:32:28" UUID="9EF510A4-94E4-4AC4-A924-802001824CC0" noCertificadoSAT="00001000000300716428" version="1.0" selloSAT="BfGTmWkIE5abwjmxKgBd69IIe4I+90Ke5WyaMrZXItqfpjVim9qRx/s0WxDC8WUXPpj3EixNXfe/AXoUZLH1pQdQTV4X/8gzWWFisExgSQBfaiGCIs47gtM4izjIK3DPzGs1Um/B7MV3hsnl0BlvEOz1M34uFsTQwbZDsfYJCgQ=" /></cfdi:Complemento></cfdi:Comprobante>

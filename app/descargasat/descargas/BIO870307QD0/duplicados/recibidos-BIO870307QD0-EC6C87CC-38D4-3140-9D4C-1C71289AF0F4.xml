@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" folio="3007" fecha="2015-05-28T09:45:23" sello="ssfRajqPPWcx+Ioi5hI8s17X/931cPcqiazt2Cs+aNaCt2xdN5NHze3gKHGOQ4Vz/CzqTip7LtDGC5Qi2enhcLmlXOXIyHvmJZyxg/ZZW2zBcwrNEkwRA6vOLinvr5TmHneJAgXIr6UrhSftxcdgXHCs8HuPevOCKzRX/2Y15Jc=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000301820484" certificado="MIIElTCCA32gAwIBAgIUMDAwMDEwMDAwMDAzMDE4MjA0ODQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMTYyMTU1MDRaFw0xNzEyMTYyMTU1MDRaMIHhMSkwJwYDVQQDEyBQRVRSQSBQQVRSSUNJQSBNT05URVMgVklMTEFMT0JPUzEpMCcGA1UEKRMgUEVUUkEgUEFUUklDSUEgTU9OVEVTIFZJTExBTE9CT1MxKTAnBgNVBAoTIFBFVFJBIFBBVFJJQ0lBIE1PTlRFUyBWSUxMQUxPQk9TMRYwFAYDVQQtEw1NT1ZQNzIwMTEwQUU3MRswGQYDVQQFExJNT1ZQNzIwMTEwTUNITkxUMDExKTAnBgNVBAsTIFBFVFJBIFBBVFJJQ0lBIE1PTlRFUyBWSUxMQUxPQk9TMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDoI0qrfWXs9kuE84wqMl/zdbPKQmXphPZLUmNZKNJaiRsEHZ6HvJOYptrzb8OqSqfRyn5yYUyPYgKtpO6595qN8WuOAWdUa8X+HAMxCY51VuVamiX27Hy2oLrMWd/kySyRf690uyRGL2/ev2p0u77MtZBsecO6jnP6FMHaBtLegwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAAnbYfYV431OqM2H5ysZrKjpcq0TWB3yeUIOrwkelsDwnedzjrBo7HZaH+r+uI7XbCky7yPEr4G/GOAmDzNC0pI/6Ew07r8EEMfkgug2/N9IhEEGdoOYpdiacYoMKVSNzB8IQncMYnEXPBsXmU/4xcbCT6mKeLxmwuBRZ2+MaaCgaDgC9MeTX4x3jUh4f3kAuhuY7daw7xsgx573AuEavx3YO5Xd0zmdm7qqxee0As47fyikczB5JrsWbqj89qK7Dow+EFaMulqNiK/AsjScB2UQRWD+uyF/ZsmYcw2FyUM/hRGUk/ac3uf/kc99Obzo4oPNyS7t8+Lh+efbvLRl0KQ==" subTotal="181.04" TipoCambio="1.00" Moneda="MXN" total="210.01" metodoDePago="No aplica" LugarExpedicion="JIMENEZ, CHIHUAHUA" NumCtaPago="No aplica" tipoDeComprobante="ingreso">
+  <cfdi:Emisor rfc="MOVP720110AE7" nombre="PETRA PATRACIA MONTES VILLALOBOS">
+    <cfdi:DomicilioFiscal calle="AV. JUAREZ" noExterior="# 2000" colonia="COL. OBRERA" municipio="JIMENEZ" estado="CHIHUAHUA" pais="MEXICO" codigoPostal="33980" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN DE INCORPORACION FISCAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD MANUL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC LOS PIRULES" localidad="TLALNEPANTLA" municipio="ESTADO DE MEXICO" estado="DF" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="PZA" noIdentificacion="1" descripcion="CONSUMO" valorUnitario="181.04" importe="181.04">
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="28.97">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="28.97" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+
+<cfdi:Complemento> <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" UUID="EC6C87CC-38D4-3140-9D4C-1C71289AF0F4" FechaTimbrado="2015-05-28T10:47:44" selloCFD="ssfRajqPPWcx+Ioi5hI8s17X/931cPcqiazt2Cs+aNaCt2xdN5NHze3gKHGOQ4Vz/CzqTip7LtDGC5Qi2enhcLmlXOXIyHvmJZyxg/ZZW2zBcwrNEkwRA6vOLinvr5TmHneJAgXIr6UrhSftxcdgXHCs8HuPevOCKzRX/2Y15Jc=" noCertificadoSAT="00001000000200011997" selloSAT="aI4UIxVAWqwDD5KXgMW2m7S4DOf+2Rw4ixTuQs8x3sIs7aPUxeHdJgHJg4fGaj/0HlRSnpHIBhG8I5Z4OVr1Pid2ahelCid9AEcYy6hqM/YdWIk+p3AbxIcQ38buNE1oHwrDYLBSzNuzrvLLKqfSIdUpdQ7R64xFPAbYN+dcavs=" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

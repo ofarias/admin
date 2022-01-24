@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tipoDeComprobante="ingreso" metodoDePago="NO IDENTIFICADO" total="462.00" TipoCambio="1.0000" Moneda="MXN" LugarExpedicion="México, DISTRITO FEDERAL" fecha="2015-04-23T15:39:35" sello="Wx7f9D71gfdJdaiI7GXjaM7OA789K1Ir3ZURtPXfzCK4cIUfhwCI3Cn4AlnqOVkm5KZ6gZrfC+DRIwgMK0BrD0Luz8WRp6MRm6zI7zfcePBX3vYDN3sCdr2CAJWvMtfQETFWctQMnOYKq8mwr+ZmVw/lEQPHrBE67CQ3GbunLGw=" folio="4415" version="3.2" serie="VALLEDORAD" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="398.28" descuento="0.00" noCertificado="00001000000202340930" certificado="MIIEcTCCA1mgAwIBAgIUMDAwMDEwMDAwMDAyMDIzNDA5MzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTExMzIyMjY0OFoXDTE2MTExMzIyMjY0OFowgbIxHDAaBgNVBAMTE1BSQURPUyBUR0kgU0EgREUgQ1YxHDAaBgNVBCkTE1BSQURPUyBUR0kgU0EgREUgQ1YxHDAaBgNVBAoTE1BSQURPUyBUR0kgU0EgREUgQ1YxJTAjBgNVBC0THFBURzA5MTIwOE5ENiAvIFRPQVI2MDEyMjgxSjcxHjAcBgNVBAUTFSAvIFRPQVI2MDEyMjhIREZSTEwwMTEPMA0GA1UECxMGVU5JREFEMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDF8kbafqHy3uzScdVjUpZFwwJ+L9QPzi3Eoxeb4FEEFqQAtDiTgTV7AHzkxVejcDevGEBSnBXXlKdRH0UuiQUKmm5RJgaPYMMOUbdcC1B3rGaLB/6rvSrc6v/WwxhBFHTmntp6sUyJ2yd+txpD+KT6yGCq8JAZlaRLlq8/jYNNbwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAQZtM23W5JoQhP/sjyGv9xWUhQDkdY4552VdrcJvf94Flbt30McaTtgZ+bb1J9u2OHkZ/w2sf3WqPBD/MZ+/CwLJ0AzdVI7NKqd3m9sdTuzmKXcq8wbRm5CHhfr6PWYYXoGOv5/T2fZGQHlNWY4b/RvHzjhgMXXhosxCaaVUSOVN4xAkZ1fJpKpHWauKY2UE8PXh6PrddexmXcOL20CtLaSxxVw5KdNf9i+zHtwLC+SuiNDMM7XxiOHr4zqK7+cVKC8K7gCTkzq3z5cAe+vBiPhnO7h+aT/IhQBD3eAPS1UPP1T01Ma2iMSGmGUV9e4seyuX8QeAsFJpMifTYgcM4PQ==" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="PRADOS TGI S.A. DE C.V." rfc="PTG091208ND6">
+    <cfdi:DomicilioFiscal calle="Descartes" noExterior="54" noInterior="1er Piso" colonia="Nueva Anzures" municipio="Miguel Hidalgo" estado="DISTRITO FEDERAL" pais="México" codigoPostal="11590" />
+    <cfdi:ExpedidoEn calle="Autopista Mexico, Qro" noExterior="3130" noInterior="Local 201" colonia="Valle Dorado" municipio="Tlalnepantla de Baz" estado="ESTADO DE MEXICO" pais="México" codigoPostal="54020" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+    <cfdi:Domicilio calle="MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="Consumo según Ticket anexo" valorUnitario="398.28" importe="398.28" cantidad="1.00" unidad="SVC" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="63.72">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="63.72" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="645f1c1f-2447-4ba0-aa0b-4a34daee4017" FechaTimbrado="2015-04-23T15:43:15" selloCFD="Wx7f9D71gfdJdaiI7GXjaM7OA789K1Ir3ZURtPXfzCK4cIUfhwCI3Cn4AlnqOVkm5KZ6gZrfC+DRIwgMK0BrD0Luz8WRp6MRm6zI7zfcePBX3vYDN3sCdr2CAJWvMtfQETFWctQMnOYKq8mwr+ZmVw/lEQPHrBE67CQ3GbunLGw=" noCertificadoSAT="00001000000300171326" selloSAT="xhNPTem5EAmikzVBzA6Pchb+bcTRXUdVaXobUjBfLaBxuW/RciIHjGKX6ouF24e+ryTandmhA5+RyVsJXGaHvXdjuInyBcu298by9C9EED145PBc/IGUHIk034AIna6pRgNUz1nOsg3a2aYpRui7d2eeubdV+2LoftxLFiCNJT4=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

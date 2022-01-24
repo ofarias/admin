@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfdi:Comprobante xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="TLAJOMULCO DE ZUÑIGA, JALISCO" tipoDeComprobante="ingreso" metodoDePago="01" total="550.00" Moneda="PESO" descuento="0.00" subTotal="474.14" condicionesDePago="CONTADO" certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDM5NzAwNDAwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA0MjkwMDEzMjBaFw0xODA0MjkwMDEzMjBaMIGvMSEwHwYDVQQDExhFRlJBSU4gR09NRVogREUgTEEgVE9SUkUxITAfBgNVBCkTGEVGUkFJTiBHT01FWiBERSBMQSBUT1JSRTEhMB8GA1UEChMYRUZSQUlOIEdPTUVaIERFIExBIFRPUlJFMRYwFAYDVQQtEw1HT1RFNTkwOTIxM0MzMRswGQYDVQQFExJHT1RFNTkwOTIxSEpDTVJGMDQxDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAm2NGhYyGnxXgPrqiw5v2mYSM+p6knP08K1tVAgj3s2H2PYKn8q3ajYWxATSeUsavIFMktjHUZYtZsqqjm8uvjilF32Urqwj9h/XZuZlJCmrZegfzqxTPKOkjxI5Bl3rWrGeFyJJyJ2oKYgKLSnaQXT8d6kqVq6w0LWsuUzlJx5MCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBABwmK2T6I3zhVpC3AyM5BPlx7TIy4FswOO5FAILHHJwT09le2fxMW6kGj4xTMA3xwIjQL0khbkaQPWWQPw6JefSczHE7i1mwurtm8CIZuUQ2besi4rrLa3zv/FOVemNHgcQm+BkfPmrOl0F+B05gQpVbKIFTGLT9Jff386WBoGLoWKO6DqHuhJOI0wmV0sf//R4jwlcT/XG6nM0EkSHWuxj61xGjDkx+T+PxQoXNE8o/s1FqRHG5d5S2U2fyFf5bKAGA60IqFSuLsWGigVMpN/1BrkNnrVauI5iInJjouWdHvZNFnrP4q4CNV4Bx1jXyT2VZd+Qmk9O7S9mF3MB71ZU=" noCertificado="00001000000303970040" formaDePago="PAGO EN UNA SOLA EXHIBICION" sello="WyqT2VuEM6Ob+fXmZAIJ2EK10sF1sA8scS3Yj7xWWUDq8UH9666X5T/a7eAc8FJkgeN1zvpqFYTHXjMyoNN3kZ02dl+dCqn9SYHpzZVO7LOjumWADaI0Ji1qwsTAubBzwlZ4dBPpT36ly7rMtT4X7SEl+PlhdXTtVMnTG/ZKGs0=" fecha="2017-05-08T15:36:24" folio="06502" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+	<cfdi:Emisor nombre="EFRAIN GOMEZ DE LA TORRE" rfc="GOTE5909213C3">
+		<cfdi:DomicilioFiscal codigoPostal="45640" pais="MEXICO" estado="JALISCO" municipio="TLAJOMULCO DE ZUÑIGA" colonia="SANTA CRUZ DE LAS FLORES" noExterior="22" calle="CARRETERA MORELIA KM 21"/>
+		<cfdi:RegimenFiscal Regimen="PERSONA FISICA CON ACTIVIDAD EMPRESARIAL Y PROFESIONAL"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+		<cfdi:Domicilio codigoPostal="54040" pais="MEXICO" estado="ESTADO DE MEXICO" municipio="TLALNEPANTLA" colonia="LOS PIRULES" noExterior="2900-804" calle="BLVD. MANUEL AVILA CAMACHO"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto importe="474.14" valorUnitario="474.1379" descripcion="CONSUMO DE ALIMENTOS" noIdentificacion="CM" unidad="NA" cantidad="1.0000"/>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="75.86">
+		<cfdi:Traslados>
+			<cfdi:Traslado importe="75.86" tasa="16" impuesto="IVA"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital FechaTimbrado="2017-05-08T15:37:39" UUID="2e352f3d-235d-4d75-90c1-cd19e9d49c36" noCertificadoSAT="00001000000300171291" selloCFD="WyqT2VuEM6Ob+fXmZAIJ2EK10sF1sA8scS3Yj7xWWUDq8UH9666X5T/a7eAc8FJkgeN1zvpqFYTHXjMyoNN3kZ02dl+dCqn9SYHpzZVO7LOjumWADaI0Ji1qwsTAubBzwlZ4dBPpT36ly7rMtT4X7SEl+PlhdXTtVMnTG/ZKGs0=" selloSAT="g303mbjF0KJx84h6mK6xoiGdoggj3lW6fJKSE5pU0miuoep1519p7v4w9eOl5HaNmOnRmFbCRaZuSsWDdcMu4RySmZ2PgOKUDQiYi6csrY4QeBV8hear6zdQtLDZ2lnZicwyuC8lSBZdKOJXBeAcTLM4v0H7XNs12rXWmkomvrE=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

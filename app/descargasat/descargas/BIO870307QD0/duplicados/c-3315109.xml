@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante Version="3.3" Serie="C" Folio="3315109" Fecha="2018-06-29T12:46:07" Sello="MbnNG/NUsiHXhqZ0krw2A3ApLGpOayOs8lD01AVOojmeMLDnT7oIw78wSHjgmqOCL0NmD3mrH8TnuiUNyDOAa4SEHWoU1Ve69hGiSD8udK+BlcrsCaf6hb83alQ3OmE0teAZjvZo+AwzYPPz09uvcDAdy59Jb3YrqMDMA523OKISU1V/OHukoJLNm8F428+x8JHGYRc07YtAeaBDax2v7Itjzn3BlJn5eiKz0/CKgmf1M3HNsjDqH16xuRnK9w25vcz+3g5kV16eH+FSVu56P+QinJGepS/whB9o6WKQP2I+ARuok5R4XjpzU/3ldRmFSHvjX4gTaBdVi0dF4AMpPA==" FormaPago="04" NoCertificado="00001000000402994311" Certificado="MIIGFzCCA/+gAwIBAgIUMDAwMDEwMDAwMDA0MDI5OTQzMTEwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTYwNzAxMTgyOTA2WhcNMjAwNzAxMTgyOTA2WjCBtzEeMBwGA1UEAxMVSSArIEQgTUVYSUNPIFNBIERFIENWMR4wHAYDVQQpExVJICsgRCBNRVhJQ08gU0EgREUgQ1YxHjAcBgNVBAoTFUkgKyBEIE1FWElDTyBTQSBERSBDVjElMCMGA1UELRMcSVNEOTUwOTIxSEU1IC8gU09GUjYyMDMwNFVKNzEeMBwGA1UEBRMVIC8gU09GUjYyMDMwNEhHUkJSTTA1MQ4wDAYDVQQLEwVVTklDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALdgaDTAOWoI5In+H3NhUiml6Lg/qSU9g7eSJ16SEFG7+ziFDXUOSbe9EzCR728iFy1RB/giBR3UrXEnJkJ/BOlmSLRbUUcGbGXxGiBtbzKroaMe+hFmq5mGMVZUqtjG1+7Mw3N5IayVZ1UlVKBCt6584DCLvVzO1qwdLqerqvm2szFJUzWeczp2WGFxNDiFo/vTgvh0PW3XHZmL0BzLYZ9uAePvueADECSbH0kvlSSE1sYii5v/I1zDs/tM7BFs+7HX8L5V5/UdeeRQSHlz284bknMWNWgj6rwnvw47XJSJrLKZzDjANDLulP5vxjWKa3CR1QllWm0KofUM9ZwVzOMCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAEuJK1Ts/SzIYxZrRMXfBQCG42IbsrY6NYsDUe46QRN52voSvKq3tjVsV9hXAwX1+YUI8yU75TnwEv8FPXzxw/8tKdREnDrKpelSYw39HsopKghuq3TREuiSWEXgdmV4mUqMXtVuAZA6F3C26Leo+5utgNw53gHWS7NHguJY69W3w+V5oIyb9jGBS14TIj97WBB5Ta5LhoSgrm9RtTybDWA7JodBfxukxh++NV4i+HQRBdDuY9FYzvVfi+8PnhWF5rj9nz49y7pR2yGaV8qwXTq2uDRyvP8cFxrf7+pw5oBn+F3JvOnGIQSYPe4sAIVdxUEfStAjcmnkROBLP4dlKt1ls5yZOeUC3LOCMexXLEmE8HwJ2sXCB4SXf0HVUiALvMH+1WMz+ZnWDlDpXUGk0pmjh0JseolisRA5R0v84zv0VjDuiqblwLCVK4kGr5A/0Va/Im80ec1qsNUM+VpqdSYuwSDYlBMz68h4RHqY1Aibhlb3uvCBuCuTWpQorNZ4P/t2aZe3vB7LjsAI42xS2uPcw5SwBPHB3YZY0/T8S7hUw1a0dxxNg6n9chCnPyaqWkEBITQe/50NfdDFfgG5lfBufwUHyDXi95lLhIZlgaf3LRpQey+TjQ/Hwmuo0GRgoEFKBAxOYHIF0BQ4gXr8AZ05ZHitybFNNVuHJIXaTmho" SubTotal="43728.09" Moneda="MXN" TipoCambio="1"
+ Total="50724.59" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="11529" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+	<cfdi:Emisor Rfc="ISD950921HE5" Nombre="I+D MEXICO S.A DE C.V." RegimenFiscal="601"/>
+<cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA S.A. de C.V." UsoCFDI="G03"/>
+<cfdi:Conceptos>
+<cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE AMOZOC" ValorUnitario="55.172414" Importe="110.344828">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="110.344828" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17.655172"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE A.NAUCALPAN ECATEPEC" ValorUnitario="16.379310" Importe="16.379310">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="16.379310" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.620690"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="8.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE A.NAUCALPAN ECATEPEC" ValorUnitario="34.482759" Importe="275.862069">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="275.862069" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="44.137931"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="4.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE A.NAUCALPAN ECATEPEC" ValorUnitario="22.413793" Importe="89.655172">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="89.655172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="14.344828"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE A.NAUCALPAN ECATEPEC" ValorUnitario="18.103448" Importe="36.206897">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="36.206897" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.793103"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="9.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE A.NAUCALPAN ECATEPEC" ValorUnitario="52.586207" Importe="473.275862">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="473.275862" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="75.724138"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE A.NAUCALPAN ECATEPEC" ValorUnitario="37.068966" Importe="74.137931">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="74.137931" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.862069"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE A.NAUCALPAN ECATEPEC" ValorUnitario="79.310345" Importe="79.310345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="79.310345" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.689655"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE A.NAUCALPAN ECATEPEC" ValorUnitario="41.379310" Importe="41.379310">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="41.379310" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.620690"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE APASEO EL GRANDE" ValorUnitario="100.862069" Importe="100.862069">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="100.862069" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.137931"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE ATIZAPAN" ValorUnitario="5.172414" Importe="5.172414">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="5.172414" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="0.827586"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE ATLACOMULCO" ValorUnitario="81.896552" Importe="81.896552">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="81.896552" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.103448"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE ATLACOMULCO SUR" ValorUnitario="35.344828" Importe="35.344828">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="35.344828" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.655172"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE ATLACOMULCO-BANOBRAS" ValorUnitario="40.517241" Importe="40.517241">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="40.517241" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.482759"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE ATLACOMULCO-LIB QRO" ValorUnitario="100.862069" Importe="201.724138">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="201.724138" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="32.275862"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE ATLACOMULCO-LIB QRO" ValorUnitario="210.344828" Importe="210.344828">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="210.344828" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="33.655172"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CERRO GORDO" ValorUnitario="36.206897" Importe="72.413793">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="72.413793" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.586207"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="3.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CERRO GORDO" ValorUnitario="77.586207" Importe="232.758621">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="232.758621" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="37.241379"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CHALCO" ValorUnitario="15.517241" Importe="15.517241">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="15.517241" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.482759"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CHAMAPA INBURSA" ValorUnitario="122.413793" Importe="244.827586">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="244.827586" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="39.172414"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CHICHIMEQUILLAS" ValorUnitario="40.517241" Importe="81.034483">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="81.034483" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.965517"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CHICHIMEQUILLAS" ValorUnitario="66.379310" Importe="132.758621">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="132.758621" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="21.241379"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CONTEPEC" ValorUnitario="40.517241" Importe="40.517241">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="40.517241" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.482759"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="4.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="41.379310" Importe="165.517241">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="165.517241" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="26.482759"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="3.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="21.551724" Importe="64.655172">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="64.655172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.344828"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="14.655172" Importe="14.655172">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="14.655172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.344828"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="4.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="42.241379" Importe="168.965517">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="168.965517" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.034483"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="4.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="97.413793" Importe="389.655172">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="389.655172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="62.344828"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="5.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="44.827586" Importe="224.137931">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="224.137931" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="35.862069"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="5.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="64.655172" Importe="323.275862">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="323.275862" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="51.724138"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="6.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="27.586207" Importe="165.517241">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="165.517241" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="26.482759"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="6.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="28.448276" Importe="170.689655">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="170.689655" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.310345"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="6.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="67.241379" Importe="403.448276">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="403.448276" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="64.551724"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="8.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="35.344828" Importe="282.758621">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="282.758621" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.241379"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="8.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="94.827586" Importe="758.620690">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="758.620690" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="121.379310"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="10.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="62.931034" Importe="629.310345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="629.310345" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="100.689655"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="36.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CTO EXT MEXIQUENSE" ValorUnitario="23.275862" Importe="837.931034">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="837.931034" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="134.068966"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE CUAUTITLAN" ValorUnitario="193.103448" Importe="193.103448">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="193.103448" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.896552"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE ECATEPEC VIAPASS" ValorUnitario="66.379310" Importe="66.379310">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="66.379310" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.620690"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE ECATEPEC VIAPASS" ValorUnitario="127.586207" Importe="255.172414">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="255.172414" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="40.827586"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE ECUANDUREO" ValorUnitario="14.655172" Importe="14.655172">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="14.655172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.344828"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE EL DORADO" ValorUnitario="35.344828" Importe="35.344828">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="35.344828" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.655172"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE INTERLOMAS" ValorUnitario="50.862069" Importe="50.862069">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="50.862069" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.137931"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE INTERLOMAS" ValorUnitario="64.655172" Importe="64.655172">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="64.655172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.344828"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE IXTAPALUCA" ValorUnitario="15.517241" Importe="31.034483">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="31.034483" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.965517"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE JOROBAS" ValorUnitario="44.827586" Importe="44.827586">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="44.827586" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.172414"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE LA VENTA" ValorUnitario="193.103448" Importe="193.103448">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="193.103448" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.896552"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE LA VENTA" ValorUnitario="153.448276" Importe="306.896552">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="306.896552" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="49.103448"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="3.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE LA VENTA" ValorUnitario="122.413793" Importe="367.241379">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="367.241379" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="58.758621"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="6.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE LA VENTA" ValorUnitario="163.793103" Importe="982.758621">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="982.758621" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="157.241379"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="21.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE LA VENTA" ValorUnitario="207.758621" Importe="4362.931034">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="4362.931034" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="698.068966"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE LEON" ValorUnitario="34.482759" Importe="68.965517">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="68.965517" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.034483"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE LIB. LA PIEDAD" ValorUnitario="43.965517" Importe="87.931034">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="87.931034" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="14.068966"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE LIB. PUEBLA" ValorUnitario="31.896552" Importe="31.896552">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="31.896552" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.103448"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE LIB. PUEBLA" ValorUnitario="47.413793" Importe="47.413793">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="47.413793" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.586207"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE LOMAS VERDES" ValorUnitario="75.862069" Importe="75.862069">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="75.862069" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.137931"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="3.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE LOMAS VERDES" ValorUnitario="163.793103" Importe="491.379310">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="491.379310" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="78.620690"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE MADIN" ValorUnitario="5.172414" Importe="5.172414">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="5.172414" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="0.827586"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE MADIN" ValorUnitario="153.448276" Importe="153.448276">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="153.448276" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24.551724"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="3.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE MADIN" ValorUnitario="50.862069" Importe="152.586207">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="152.586207" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24.413793"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE MARQUESA T2" ValorUnitario="45.689655" Importe="45.689655">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="45.689655" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.310345"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE MARQUESA T2" ValorUnitario="81.034483" Importe="162.068966">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="162.068966" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="25.931034"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE MARQUESA T2" ValorUnitario="116.379310" Importe="232.758621">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="232.758621" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="37.241379"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="24.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE MARQUESA VIAPASS" ValorUnitario="70.689655" Importe="1696.551724">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="1696.551724" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="271.448276"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="43.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE MARQUESA VIAPASS" ValorUnitario="35.344828" Importe="1519.827586">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="1519.827586" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="243.172414"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE MENDOZA" ValorUnitario="42.241379" Importe="84.482759">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="84.482759" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.517241"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE MENDOZA" ValorUnitario="85.344828" Importe="170.689655">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="170.689655" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.310345"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE OCOTLAN" ValorUnitario="43.965517" Importe="87.931034">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="87.931034" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="14.068966"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="4.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE OJO DE AGUA (TIZAYUC" ValorUnitario="44.827586" Importe="179.310345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="179.310345" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="28.689655"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE OJO DE AGUA (TIZAYUC" ValorUnitario="90.517241" Importe="90.517241">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="90.517241" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="14.482759"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE OZUMBA" ValorUnitario="40.517241" Importe="81.034483">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="81.034483" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.965517"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="8.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE PALMILLAS" ValorUnitario="70.689655" Importe="565.517241">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="565.517241" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="90.482759"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="18.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE PALMILLAS" ValorUnitario="141.379310" Importe="2544.827586">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="2544.827586" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="407.172414"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE PALMILLAS" ValorUnitario="141.379310" Importe="141.379310">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="141.379310" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="22.620690"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="3.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE PALMILLAS BIS" ValorUnitario="70.689655" Importe="212.068966">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="212.068966" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="33.931034"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE PALMILLAS BIS" ValorUnitario="141.379310" Importe="141.379310">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="141.379310" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="22.620690"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE PANINDICUARO" ValorUnitario="170.689655" Importe="170.689655">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="170.689655" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.310345"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE PUERTO INTERIOR" ValorUnitario="62.931034" Importe="62.931034">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="62.931034" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.068966"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE PUERTO INTERIOR" ValorUnitario="128.448276" Importe="256.896552">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="256.896552" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="41.103448"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="4.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE QUERETARO" ValorUnitario="65.517241" Importe="262.068966">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="262.068966" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="41.931034"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="11.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE QUERETARO" ValorUnitario="125.862069" Importe="1384.482759">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="1384.482759" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="221.517241"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="3.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SALAMANCA" ValorUnitario="68.103448" Importe="204.310345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="204.310345" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="32.689655"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="7.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SAN MARCOS" ValorUnitario="103.448276" Importe="724.137931">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="724.137931" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="115.862069"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SAN MARCOS" ValorUnitario="15.517241" Importe="15.517241">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="15.517241" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.482759"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="4.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SAN MARCOS" ValorUnitario="196.551724" Importe="786.206897">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="786.206897" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="125.793103"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SAN MIGUEL" ValorUnitario="85.344828" Importe="85.344828">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="85.344828" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.655172"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="27.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SAN MIGUEL" ValorUnitario="207.758621" Importe="5609.482759">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="5609.482759" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="897.517241"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SAN MIGUEL" ValorUnitario="29.310345" Importe="29.310345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="29.310345" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.689655"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SAN MIGUEL" ValorUnitario="75.862069" Importe="75.862069">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="75.862069" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.137931"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="7.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SAN MIGUEL" ValorUnitario="50.862069" Importe="356.034483">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="356.034483" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="56.965517"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="20.767241" Importe="20.767241">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="20.767241" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.322759"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="9.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="32.922414" Importe="296.301724">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="296.301724" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="47.408276"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="7.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="28.603448" Importe="200.224138">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="200.224138" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="32.035862"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="8.543103" Importe="8.543103">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="8.543103" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.366897"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="8.982759" Importe="8.982759">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="8.982759" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.437241"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="12.982759" Importe="12.982759">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="12.982759" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.077241"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="19.836207" Importe="19.836207">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="19.836207" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.173793"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="20.413793" Importe="20.413793">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="20.413793" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.266207"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="21.327586" Importe="21.327586">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="21.327586" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.412414"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="21.939655" Importe="21.939655">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="21.939655" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.510345"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="22.500000" Importe="22.500000">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="22.500000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.600000"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="23.370690" Importe="23.370690">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="23.370690" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.739310"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="31.508621" Importe="31.508621">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="31.508621" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.041379"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="31.870690" Importe="31.870690">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="31.870690" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.099310"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="32.500000" Importe="32.500000">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="32.500000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.200000"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="33.870690" Importe="33.870690">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="33.870690" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.419310"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="34.732759" Importe="34.732759">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="34.732759" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.557241"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="42.689655" Importe="42.689655">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="42.689655" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.830345"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="49.189655" Importe="49.189655">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="49.189655" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.870345"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="3.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="52.603448" Importe="157.810345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="157.810345" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="25.249655"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="4.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEG PISO A.U. NORTE" ValorUnitario="36.077586" Importe="144.310345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="144.310345" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="23.089655"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE SEGUNDO PISO" ValorUnitario="10.293103" Importe="20.586207">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="20.586207" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.293793"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="6.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE S.MARTIN PUE." ValorUnitario="31.034483" Importe="186.206897">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="186.206897" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="29.793103"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="4.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE S.MARTIN PUE." ValorUnitario="75.862069" Importe="303.448276">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="303.448276" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="48.551724"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE TEHUACAN" ValorUnitario="35.344828" Importe="70.689655">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="70.689655" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.310345"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE TEPEXPAN VIAPASS" ValorUnitario="44.827586" Importe="44.827586">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="44.827586" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.172414"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="24.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE TEPOTZOTLAN" ValorUnitario="70.689655" Importe="1696.551724">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="1696.551724" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="271.448276"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="24.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE TEPOTZOTLAN" ValorUnitario="151.724138" Importe="3641.379310">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="3641.379310" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="582.620690"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE TLALPAN" ValorUnitario="84.482759" Importe="168.965517">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="168.965517" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.034483"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="6.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE TLALPAN" ValorUnitario="159.482759" Importe="956.896552">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="956.896552" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="153.103448"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE TULANCINGO" ValorUnitario="142.241379" Importe="142.241379">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="142.241379" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="22.758621"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="13.146552" Importe="13.146552">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="13.146552" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.103448"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="21.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="27.750000" Importe="582.750000">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="582.750000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="93.240000"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="13.887931" Importe="13.887931">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="13.887931" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.222069"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="16.965517" Importe="16.965517">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="16.965517" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.714483"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="17.224138" Importe="17.224138">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="17.224138" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.755862"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="31.482759" Importe="31.482759">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="31.482759" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.037241"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="36.948276" Importe="36.948276">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="36.948276" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.911724"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="37.284483" Importe="37.284483">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="37.284483" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.965517"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="81.655172" Importe="81.655172">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="81.655172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.064828"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="81.982759" Importe="81.982759">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="81.982759" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.117241"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="14.370690" Importe="28.741379">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="28.741379" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.598621"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="17.879310" Importe="35.758621">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="35.758621" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.721379"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="18.379310" Importe="36.758621">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="36.758621" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.881379"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="27.818966" Importe="55.637931">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="55.637931" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.902069"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="27.965517" Importe="55.931034">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="55.931034" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.948966"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="47.431034" Importe="94.862069">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="94.862069" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15.177931"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="47.905172" Importe="95.810345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="95.810345" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15.329655"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="2.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="53.000000" Importe="106.000000">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="106.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.960000"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="3.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="17.603448" Importe="52.810345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="52.810345" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.449655"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="3.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="17.775862" Importe="53.327586">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="53.327586" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.532414"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE VIADUC BICENTENARIO" ValorUnitario="13.560345" Importe="13.560345">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="13.560345" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.169655"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="3.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE XONACATLAN" ValorUnitario="49.137931" Importe="147.413793">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="147.413793" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="23.586207"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE ZINAPECUARO" ValorUnitario="130.172414" Importe="130.172414">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="130.172414" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="20.827586"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto ClaveProdServ="95111615" Cantidad="1.000000" ClaveUnidad="E54" Unidad="NO APLICA" Descripcion="PEAJE AJUSTE" ValorUnitario="86.206897" Importe="86.206897">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="86.206897" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.793103"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto></cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="6996.50">
+<cfdi:Traslados>
+<cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6996.495172"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="4E1DEAFD-7BC4-11E8-ABDE-00155D014007" FechaTimbrado="2018-06-29T12:46:08" RfcProvCertif="TBN040609RKA" SelloCFD="MbnNG/NUsiHXhqZ0krw2A3ApLGpOayOs8lD01AVOojmeMLDnT7oIw78wSHjgmqOCL0NmD3mrH8TnuiUNyDOAa4SEHWoU1Ve69hGiSD8udK+BlcrsCaf6hb83alQ3OmE0teAZjvZo+AwzYPPz09uvcDAdy59Jb3YrqMDMA523OKISU1V/OHukoJLNm8F428+x8JHGYRc07YtAeaBDax2v7Itjzn3BlJn5eiKz0/CKgmf1M3HNsjDqH16xuRnK9w25vcz+3g5kV16eH+FSVu56P+QinJGepS/whB9o6WKQP2I+ARuok5R4XjpzU/3ldRmFSHvjX4gTaBdVi0dF4AMpPA==" NoCertificadoSAT="00001000000403557578" SelloSAT="khT6IUvLLLYQPon5LPvr075/Y5t30jbBWt1D7txSsquQjNDt0MxfhS0cMqu/bCnZ4KlYiTJSPN8QShLAKAz7pbBXuAcmCeehtBlhIjZEze9uUR92c9ZyIlmhMRDHdVMzyxhpcMq9A38Qh/ltbz/kcgPwahBjr7p6irE3RBHtkKCr2KHdKraQ6JZfKtVlFvezbTebTPQ4OwxV7S+1pqK9AtkLce873/NQCX2HAxfNYR4wItgOfwk/ysI8C6tpO5jZ7fGoeLpw/JDuomc/Rwliybr/GsVVW3BE0gmUc98a3L+jna8LEQyEadBqb95fPoiVe5xa0vOwn/DaiHlFL+mmvQ=="/>
+	</cfdi:Complemento>
+
+<cfdi:Addenda>
+<ext:ElementosExtra xmlns:ext="http://idmexico.sicofi.com.mx">  
+ <ext:Conector>13098</ext:Conector>
+ <ext:tipoDocumento>FACTURA</ext:tipoDocumento>
+ <ext:periodo>PERIODO 140-R DEL 27 MAYO AL 26 DE JUNIO DEL 2018</ext:periodo>
+ </ext:ElementosExtra>
+</cfdi:Addenda>
+</cfdi:Comprobante>

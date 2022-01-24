@@ -1,0 +1,822 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:ecc="http://www.sat.gob.mx/ecc" xmlns:psgecfd="http://www.sat.gob.mx/psgecfd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/ecc http://www.sat.gob.mx/sitio_internet/cfd/ecc/ecc.xsd" version="3.2" serie="ECL" folio="233978" fecha="2015-10-31T11:48:11" sello="Utt1ydWKg0ahCdN2SgmNGvUccS5pOuAY31w2+IDKjpv3W1jU0oYiq1umsZMy30Tz38Yn1MqA2K69uqQGaEJt8MLukI11Ot4Znp9qdrNleqaRLS5pZQhYs9Sh/pBNLiQU6oCReBXRUQC+s93pMskaJxETHtsA0P/BDhIaiWBa7cs=" formaDePago="CONTADO" noCertificado="00001000000201364492" certificado="MIIEbzCCA1egAwIBAgIUMDAwMDEwMDAwMDAyMDEzNjQ0OTIwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDYxNTE5NTI1NVoXDTE2MDYxNTE5NTI1NVowgbAxHDAaBgNVBAMTE0VGRUNUSVZBTEUgU0EgREUgQ1YxHDAaBgNVBCkTE0VGRUNUSVZBTEUgU0EgREUgQ1YxHDAaBgNVBAoTE0VGRUNUSVZBTEUgU0EgREUgQ1YxJTAjBgNVBC0THEVGRTg5MDgwMTVMMyAvIEFBUko2NTA4MTdVRzgxHjAcBgNVBAUTFSAvIEFBUko2NTA4MTdIREZMTUwwNDENMAsGA1UECxMEQ09WRTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAu8t3Y10wVAnKVcy6t6r/YmwFiPO/PuGbwYa+k5/rPFjOEUGxUofIaTspM28/S/9SvX3sulevIWe/FFcW77c6hP8R5NEswYM02j1E24HLBjaG9vKD6Hl7kpWBiGSGT7DUPbqletQmLoa3KLlhbEZDU1KsDF4azx1mT2aYwlHSbJUCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADZD0d7Hi3SJH/DCMY/JeE8k0MyWgloLBmYR23UQwdZVSPaoZaYN70L/dp+11soC5MRcPw8MY5/O7kMjJRxxeQPFb1Vm+K9Rsuf/E5Df+6UKiMog5a9Tk2zcNAplgcqiotHG5gelL68s3lwg3gf9KUpeaNMFQTdaqFPHXkK/I8ccVqG94ldyaeHuSnTY32lmbcu/oRl7zq+QsQWQLbjzJ0cuotp2+XS1zpL9qg6TMXK/wJ3SsZtPTar6Zr5Byz3knFRCtULTTW0MgcabZPFaHGo+kL3EnvwsIt0Z2rId4KzKUCfllCfNzhjUg+a72yd4yRds6Z0ddD1MumK42QmSD8c=" condicionesDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="88815.64" total="89071.64" tipoDeComprobante="ingreso" LugarExpedicion="DF" metodoDePago="TRANSFERENCIA ELECTRONICA" Moneda="MXN" TipoCambio="1.0000">
+  <cfdi:Emisor rfc="EFE8908015L3" nombre="EFECTIVALE S. de R.L. de C.V.">
+    <cfdi:DomicilioFiscal calle="Saltillo" noExterior="19" noInterior="5o Piso" colonia="Condesa" municipio="CUAUHTEMOC" estado="DF" pais="MEXICO" codigoPostal="06140" />
+    <cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD.MANUEL AVILA CAMACHO" noExterior="2900" noInterior="PISO 8 DESP.804" colonia="FRACC.LOS PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="EDO DE MEXICO" pais="Mexico" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" descripcion="CONSUMOS" valorUnitario="87215.64" importe="87215.64" />
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" descripcion="COMISIONES" valorUnitario="1600.00" importe="1600.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="256.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="256.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <ecc:EstadoDeCuentaCombustible tipoOperacion="Tarjeta" numeroDeCuenta="15236-0" total="89071.64">
+      <ecc:Conceptos>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61208" fecha="2015-10-06T14:35:46" rfc="SEC940503BPA" claveEstacion="3692" cantidad="60.00" nombreCombustible="Magna" folioOperacion="4051" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61208" fecha="2015-10-09T09:11:06" rfc="SEC940503BPA" claveEstacion="3692" cantidad="60.00" nombreCombustible="Magna" folioOperacion="4141" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61208" fecha="2015-10-12T14:15:16" rfc="SEC940503BPA" claveEstacion="3692" cantidad="60.00" nombreCombustible="Magna" folioOperacion="4204" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61208" fecha="2015-10-13T10:25:19" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4230" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61208" fecha="2015-10-13T16:26:48" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4249" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61208" fecha="2015-10-14T14:54:56" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4291" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61208" fecha="2015-10-15T13:24:26" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4342" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61208" fecha="2015-10-29T07:34:13" rfc="SEC940503BPA" claveEstacion="3692" cantidad="60.00" nombreCombustible="Magna" folioOperacion="4693" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61208" fecha="2015-10-29T14:41:47" rfc="SCO130531P47" claveEstacion="9621" cantidad="40.00" nombreCombustible="Magna" folioOperacion="873" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61208" fecha="2015-10-29T18:08:07" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4716" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-01T12:37:53" rfc="SEC940503BPA" claveEstacion="3692" cantidad="60.00" nombreCombustible="Magna" folioOperacion="3942" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-02T17:52:33" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="3981" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-05T09:06:59" rfc="STO9208202W3" claveEstacion="3967" cantidad="40.00" nombreCombustible="Magna" folioOperacion="1942" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-06T06:32:15" rfc="SSS981105E38" claveEstacion="5288" cantidad="40.00" nombreCombustible="Magna" folioOperacion="2353" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-06T17:00:34" rfc="SQB130527TL5" claveEstacion="8516" cantidad="60.00" nombreCombustible="Magna" folioOperacion="1420" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-06T19:15:35" rfc="SSS981105E38" claveEstacion="5288" cantidad="40.00" nombreCombustible="Magna" folioOperacion="2362" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-07T14:49:51" rfc="STO9208202W3" claveEstacion="3967" cantidad="80.00" nombreCombustible="Magna" folioOperacion="2011" valorUnitario="13.57" importe="1085.60">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="149.74" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-09T14:10:05" rfc="SEC940503BPA" claveEstacion="3692" cantidad="80.00" nombreCombustible="Magna" folioOperacion="4148" valorUnitario="13.57" importe="1085.60">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="149.74" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-12T14:36:17" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4205" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-14T08:45:33" rfc="SEC940503BPA" claveEstacion="3692" cantidad="60.00" nombreCombustible="Magna" folioOperacion="4260" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-14T14:13:01" rfc="OES070503PZ1" claveEstacion="10246" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4761" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-14T15:57:11" rfc="SEC940503BPA" claveEstacion="3692" cantidad="39.97" nombreCombustible="Magna" folioOperacion="4299" valorUnitario="13.57" importe="542.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.81" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-15T17:23:02" rfc="SEC940503BPA" claveEstacion="3692" cantidad="45.23" nombreCombustible="Magna" folioOperacion="4362" valorUnitario="13.57" importe="613.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="84.66" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-20T08:56:48" rfc="STO9208202W3" claveEstacion="3967" cantidad="60.00" nombreCombustible="Magna" folioOperacion="2254" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-23T07:04:45" rfc="STO9208202W3" claveEstacion="3967" cantidad="80.00" nombreCombustible="Magna" folioOperacion="2310" valorUnitario="13.57" importe="1085.60">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="149.74" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-26T15:51:20" rfc="SEC940503BPA" claveEstacion="3692" cantidad="80.00" nombreCombustible="Magna" folioOperacion="4615" valorUnitario="13.57" importe="1085.60">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="149.74" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-27T12:57:06" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4645" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-28T14:04:34" rfc="OMC100818GZ7" claveEstacion="4888" cantidad="60.00" nombreCombustible="Magna" folioOperacion="942" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-29T13:05:20" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4698" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-30T07:23:39" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4721" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-30T11:44:48" rfc="GDD110106F82" claveEstacion="11115" cantidad="60.00" nombreCombustible="Magna" folioOperacion="2963" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61212" fecha="2015-10-30T15:06:40" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4737" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="61750" fecha="2015-10-13T12:30:39" rfc="PES050409E31" claveEstacion="8895" cantidad="60.00" nombreCombustible="Magna" folioOperacion="3497" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="88783" fecha="2015-10-01T16:18:01" rfc="AAC970604LV8" claveEstacion="5184" cantidad="40.00" nombreCombustible="Diesel" folioOperacion="14446" valorUnitario="14.20" importe="568.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="78.34" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="88783" fecha="2015-10-02T15:32:08" rfc="AAC970604LV8" claveEstacion="5184" cantidad="40.00" nombreCombustible="Diesel" folioOperacion="14479" valorUnitario="14.20" importe="568.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="78.34" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="88783" fecha="2015-10-08T16:22:54" rfc="AAC970604LV8" claveEstacion="5184" cantidad="80.00" nombreCombustible="Diesel" folioOperacion="14632" valorUnitario="14.20" importe="1136.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="156.69" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="88783" fecha="2015-10-09T14:55:37" rfc="AAC970604LV8" claveEstacion="5184" cantidad="40.00" nombreCombustible="Diesel" folioOperacion="14656" valorUnitario="14.20" importe="568.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="78.34" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="88783" fecha="2015-10-13T13:14:52" rfc="AAC970604LV8" claveEstacion="5184" cantidad="40.00" nombreCombustible="Diesel" folioOperacion="14734" valorUnitario="14.20" importe="568.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="78.34" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="88783" fecha="2015-10-15T18:03:12" rfc="AAC970604LV8" claveEstacion="5184" cantidad="80.00" nombreCombustible="Diesel" folioOperacion="14800" valorUnitario="14.20" importe="1136.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="156.69" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="88783" fecha="2015-10-20T17:58:43" rfc="AAC970604LV8" claveEstacion="5184" cantidad="160.00" nombreCombustible="Diesel" folioOperacion="14905" valorUnitario="14.20" importe="2272.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="313.38" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="88783" fecha="2015-10-22T14:07:15" rfc="AAC970604LV8" claveEstacion="5184" cantidad="40.00" nombreCombustible="Diesel" folioOperacion="14960" valorUnitario="14.20" importe="568.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="78.34" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="88783" fecha="2015-10-23T13:12:01" rfc="AAC970604LV8" claveEstacion="5184" cantidad="40.00" nombreCombustible="Diesel" folioOperacion="14995" valorUnitario="14.20" importe="568.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="78.34" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="88783" fecha="2015-10-29T14:45:31" rfc="AAC970604LV8" claveEstacion="5184" cantidad="40.00" nombreCombustible="Diesel" folioOperacion="15123" valorUnitario="14.20" importe="568.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="78.34" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="88783" fecha="2015-10-30T14:27:40" rfc="AAC970604LV8" claveEstacion="5184" cantidad="100.00" nombreCombustible="Diesel" folioOperacion="15151" valorUnitario="14.20" importe="1420.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="195.86" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-01T13:34:31" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="3944" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-02T15:02:41" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="3972" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-06T08:07:50" rfc="SSS981105E38" claveEstacion="5288" cantidad="60.00" nombreCombustible="Magna" folioOperacion="2356" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-06T18:41:01" rfc="SGR000807PD9" claveEstacion="11963" cantidad="60.00" nombreCombustible="Magna" folioOperacion="5245" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-06T21:04:43" rfc="SSS981105E38" claveEstacion="5288" cantidad="80.00" nombreCombustible="Magna" folioOperacion="2366" valorUnitario="13.57" importe="1085.60">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="149.74" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-07T17:08:28" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4089" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-08T14:40:09" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4124" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-09T15:58:08" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4152" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-14T15:01:37" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4294" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-15T16:12:27" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4357" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-16T15:27:34" rfc="MDU040615C98" claveEstacion="8853" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4136" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-16T19:12:52" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4390" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-20T06:50:50" rfc="SSS981105E38" claveEstacion="5288" cantidad="60.00" nombreCombustible="Magna" folioOperacion="2539" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-20T18:55:47" rfc="GJA0611296P7" claveEstacion="9758" cantidad="60.00" nombreCombustible="Magna" folioOperacion="290" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-20T23:15:03" rfc="SSS981105E38" claveEstacion="5288" cantidad="77.98" nombreCombustible="Magna" folioOperacion="2552" valorUnitario="13.57" importe="1058.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="145.96" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-21T15:19:48" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4487" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-22T17:57:05" rfc="SEC940503BPA" claveEstacion="3692" cantidad="60.00" nombreCombustible="Magna" folioOperacion="4526" valorUnitario="13.57" importe="814.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="112.30" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-26T16:58:02" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4623" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-30T08:44:39" rfc="SEC940503BPA" claveEstacion="3692" cantidad="80.00" nombreCombustible="Magna" folioOperacion="4725" valorUnitario="13.57" importe="1085.60">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="149.74" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="151668" fecha="2015-10-30T15:34:14" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4740" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="154376" fecha="2015-10-07T08:23:33" rfc="ESH951010CG3" claveEstacion="4994" cantidad="40.00" nombreCombustible="Magna" folioOperacion="5083" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="154376" fecha="2015-10-13T15:54:32" rfc="GLO780711IZ5" claveEstacion="3313" cantidad="20.00" nombreCombustible="Magna" folioOperacion="20396" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="154376" fecha="2015-10-19T17:39:04" rfc="GLO780711IZ5" claveEstacion="3313" cantidad="40.00" nombreCombustible="Magna" folioOperacion="20601" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="154376" fecha="2015-10-27T08:05:55" rfc="ESH951010CG3" claveEstacion="4994" cantidad="40.00" nombreCombustible="Magna" folioOperacion="5305" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="172440" fecha="2015-10-01T09:11:22" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="3935" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="172440" fecha="2015-10-06T08:52:30" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4035" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="172440" fecha="2015-10-15T08:26:30" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4317" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="172440" fecha="2015-10-20T09:01:58" rfc="EST000107SZ2" claveEstacion="11050" cantidad="20.00" nombreCombustible="Magna" folioOperacion="2636" valorUnitario="13.57" importe="271.39">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="172440" fecha="2015-10-20T13:42:00" rfc="SCH021211EW4" claveEstacion="9192" cantidad="20.00" nombreCombustible="Magna" folioOperacion="197" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="172440" fecha="2015-10-28T14:16:30" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4677" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="172440" fecha="2015-10-30T19:34:04" rfc="GAR7208149S2" claveEstacion="3003" cantidad="20.00" nombreCombustible="Magna" folioOperacion="7717" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-02T12:20:23" rfc="SMO961212AC4" claveEstacion="5176" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1655" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-02T16:56:36" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="3976" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-05T15:08:07" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4014" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-07T14:28:18" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4085" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-15T13:32:25" rfc="MDU040615C98" claveEstacion="8853" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4080" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-15T16:27:11" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4358" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-16T13:40:23" rfc="SMO961212AC4" claveEstacion="5176" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1893" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-16T18:27:48" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4388" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-19T09:56:06" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4419" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-20T16:52:27" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4462" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-21T12:04:03" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4476" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-22T15:49:21" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4518" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-23T13:48:14" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4548" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-27T13:41:55" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4648" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-30T07:52:59" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4722" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-30T14:16:57" rfc="SMO961212AC4" claveEstacion="5176" cantidad="20.00" nombreCombustible="Magna" folioOperacion="2115" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="220836" fecha="2015-10-30T18:27:24" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4745" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="231253" fecha="2015-10-03T14:28:29" rfc="IVC720804HY8" claveEstacion="4858" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1425" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="231253" fecha="2015-10-06T09:11:09" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4036" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="231253" fecha="2015-10-08T10:38:04" rfc="SPE940701A32" claveEstacion="4347" cantidad="20.00" nombreCombustible="Magna" folioOperacion="708" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="231253" fecha="2015-10-12T09:23:53" rfc="ECV1110047I1" claveEstacion="6813" cantidad="20.00" nombreCombustible="Magna" folioOperacion="6105" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="231253" fecha="2015-10-15T11:04:09" rfc="SPE940701A32" claveEstacion="4347" cantidad="20.00" nombreCombustible="Magna" folioOperacion="886" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="231253" fecha="2015-10-16T10:15:02" rfc="SGV901113NB2" claveEstacion="2501" cantidad="20.00" nombreCombustible="Magna" folioOperacion="12271" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="231253" fecha="2015-10-20T18:19:56" rfc="IVC720804HY8" claveEstacion="4858" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1539" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="231253" fecha="2015-10-22T12:36:10" rfc="SPE940701A32" claveEstacion="4347" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1063" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="231253" fecha="2015-10-26T10:54:08" rfc="AGA0303266C6" claveEstacion="8243" cantidad="20.00" nombreCombustible="Magna" folioOperacion="5946" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="231253" fecha="2015-10-27T14:47:39" rfc="SGO9707105D5" claveEstacion="5413" cantidad="20.00" nombreCombustible="Magna" folioOperacion="621" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="231253" fecha="2015-10-30T10:44:14" rfc="IVC720804HY8" claveEstacion="4858" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1598" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="235880" fecha="2015-10-09T12:39:54" rfc="VEX101109SK7" claveEstacion="11425" cantidad="20.01" nombreCombustible="Premium" folioOperacion="854" valorUnitario="14.38" importe="287.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="39.70" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="235880" fecha="2015-10-13T10:32:43" rfc="SPR090925LYA" claveEstacion="3456" cantidad="33.76" nombreCombustible="Premium" folioOperacion="1694" valorUnitario="14.38" importe="485.45">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="66.96" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="253878" fecha="2015-10-01T08:25:40" rfc="SCV0508246M6" claveEstacion="10483" cantidad="37.66" nombreCombustible="Magna" folioOperacion="2356" valorUnitario="13.57" importe="511.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="70.48" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="253878" fecha="2015-10-02T12:53:12" rfc="ESS100324C30" claveEstacion="5262" cantidad="22.34" nombreCombustible="Magna" folioOperacion="844" valorUnitario="13.57" importe="303.20">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="41.82" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="253878" fecha="2015-10-02T14:48:57" rfc="OES070503PZ1" claveEstacion="10247" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4111" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="253878" fecha="2015-10-26T10:01:43" rfc="SSM940314DI0" claveEstacion="4086" cantidad="40.00" nombreCombustible="Magna" folioOperacion="2021" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="253878" fecha="2015-10-27T13:34:15" rfc="GHS0610106C2" claveEstacion="10679" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1225" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-01T09:03:06" rfc="CUAR5204035W4" claveEstacion="1656" cantidad="40.00" nombreCombustible="Magna" folioOperacion="3481" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-01T13:07:08" rfc="GBE960115LW9" claveEstacion="5022" cantidad="40.00" nombreCombustible="Magna" folioOperacion="219" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-01T19:27:52" rfc="SQB130527TL5" claveEstacion="8516" cantidad="40.00" nombreCombustible="Magna" folioOperacion="1166" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-02T08:49:00" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="3961" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-02T15:54:15" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="3975" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-05T16:32:32" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4018" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-06T15:34:59" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4053" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-09T10:30:21" rfc="SMO961212AC4" claveEstacion="5176" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1758" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-09T14:11:24" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4149" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-13T15:49:21" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4248" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-16T14:08:46" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4374" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-19T16:16:16" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4428" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-21T13:40:34" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4483" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-22T15:32:26" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4517" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-26T09:50:01" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4592" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-27T12:30:39" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4642" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-28T15:21:36" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4681" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="263908" fecha="2015-10-30T14:30:31" rfc="SEC940503BPA" claveEstacion="3692" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4735" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="273199" fecha="2015-10-05T18:46:46" rfc="DBI960516AD6" claveEstacion="5509" cantidad="40.00" nombreCombustible="Magna" folioOperacion="824" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="273199" fecha="2015-10-12T18:30:35" rfc="DBI960516AD6" claveEstacion="5509" cantidad="20.00" nombreCombustible="Magna" folioOperacion="940" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="273199" fecha="2015-10-21T19:21:54" rfc="DBI960516AD6" claveEstacion="5509" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1111" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="273199" fecha="2015-10-31T13:31:27" rfc="OES070503PZ1" claveEstacion="5508" cantidad="32.65" nombreCombustible="Magna" folioOperacion="10637" valorUnitario="13.57" importe="443.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="61.10" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="295004" fecha="2015-10-02T09:56:28" rfc="OMC100818GZ7" claveEstacion="5866" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1012" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="295004" fecha="2015-10-12T22:39:45" rfc="GDA9509146L5" claveEstacion="5536" cantidad="20.00" nombreCombustible="Magna" folioOperacion="4096" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="295004" fecha="2015-10-13T11:00:56" rfc="GGR1202213G0" claveEstacion="12464" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1126" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="295004" fecha="2015-10-13T18:29:57" rfc="HES0612147W5" claveEstacion="11578" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1064" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="295004" fecha="2015-10-14T13:26:35" rfc="SSR760906L2A" claveEstacion="2937" cantidad="20.00" nombreCombustible="Magna" folioOperacion="2463" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="295004" fecha="2015-10-14T16:07:29" rfc="GJI060227A17" claveEstacion="9778" cantidad="20.00" nombreCombustible="Magna" folioOperacion="3304" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="295004" fecha="2015-10-20T06:46:59" rfc="OEN940801RB5" claveEstacion="86" cantidad="40.00" nombreCombustible="Magna" folioOperacion="8327" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="295004" fecha="2015-10-27T17:46:33" rfc="OMC100818GZ7" claveEstacion="5866" cantidad="20.00" nombreCombustible="Magna" folioOperacion="1521" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379862" fecha="2015-10-05T07:22:49" rfc="AAC970604LV8" claveEstacion="5184" cantidad="80.00" nombreCombustible="Diesel" folioOperacion="14530" valorUnitario="14.20" importe="1136.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="156.69" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379862" fecha="2015-10-07T14:58:09" rfc="AAC970604LV8" claveEstacion="5184" cantidad="80.00" nombreCombustible="Diesel" folioOperacion="14599" valorUnitario="14.20" importe="1136.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="156.69" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379862" fecha="2015-10-13T15:32:43" rfc="AAC970604LV8" claveEstacion="5184" cantidad="80.00" nombreCombustible="Diesel" folioOperacion="14737" valorUnitario="14.20" importe="1136.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="156.69" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379862" fecha="2015-10-14T14:29:42" rfc="SSR760906L2A" claveEstacion="2937" cantidad="100.00" nombreCombustible="Diesel" folioOperacion="2464" valorUnitario="14.20" importe="1420.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="195.86" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379862" fecha="2015-10-15T10:19:57" rfc="AAC970604LV8" claveEstacion="5184" cantidad="100.00" nombreCombustible="Diesel" folioOperacion="14785" valorUnitario="14.20" importe="1420.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="195.86" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379862" fecha="2015-10-15T14:49:13" rfc="AAC970604LV8" claveEstacion="5184" cantidad="60.00" nombreCombustible="Diesel" folioOperacion="14795" valorUnitario="14.20" importe="852.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="117.52" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379862" fecha="2015-10-19T15:21:48" rfc="AAC970604LV8" claveEstacion="5184" cantidad="80.00" nombreCombustible="Diesel" folioOperacion="14868" valorUnitario="14.20" importe="1136.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="156.69" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379862" fecha="2015-10-22T15:08:38" rfc="AAC970604LV8" claveEstacion="5184" cantidad="80.00" nombreCombustible="Diesel" folioOperacion="14962" valorUnitario="14.20" importe="1136.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="156.69" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379862" fecha="2015-10-27T13:45:41" rfc="AAC970604LV8" claveEstacion="5184" cantidad="80.00" nombreCombustible="Diesel" folioOperacion="15069" valorUnitario="14.20" importe="1136.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="156.69" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379862" fecha="2015-10-29T16:04:30" rfc="SGR000807PD9" claveEstacion="11963" cantidad="80.00" nombreCombustible="Diesel" folioOperacion="6000" valorUnitario="14.20" importe="1136.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="156.69" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379862" fecha="2015-10-29T18:07:21" rfc="SSS981105E38" claveEstacion="5288" cantidad="80.00" nombreCombustible="Diesel" folioOperacion="2660" valorUnitario="14.20" importe="1136.00">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="156.69" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379863" fecha="2015-10-06T07:43:58" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4033" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379863" fecha="2015-10-13T07:20:47" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4223" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379863" fecha="2015-10-15T08:38:48" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4318" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379863" fecha="2015-10-20T07:34:58" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4441" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="379863" fecha="2015-10-29T17:15:25" rfc="SEC940503BPA" claveEstacion="3692" cantidad="40.00" nombreCombustible="Magna" folioOperacion="4713" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="412427" fecha="2015-10-09T08:45:25" rfc="SAL0004108M8" claveEstacion="945" cantidad="40.00" nombreCombustible="Magna" folioOperacion="1848" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="412427" fecha="2015-10-13T17:31:11" rfc="GTE941124DN6" claveEstacion="4431" cantidad="40.00" nombreCombustible="Magna" folioOperacion="396" valorUnitario="13.57" importe="542.80">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="74.87" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+        <ecc:ConceptoEstadoDeCuentaCombustible identificador="412427" fecha="2015-10-25T11:32:54" rfc="SFA670525BR0" claveEstacion="2569" cantidad="20.00" nombreCombustible="Magna" folioOperacion="903" valorUnitario="13.57" importe="271.40">
+          <ecc:Traslados>
+            <ecc:Traslado impuesto="IVA" tasa="16" importe="37.43" />
+          </ecc:Traslados>
+        </ecc:ConceptoEstadoDeCuentaCombustible>
+      </ecc:Conceptos>
+    </ecc:EstadoDeCuentaCombustible>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="3fd08a54-456e-47fd-9257-29bf891395a6" FechaTimbrado="2015-11-01T10:31:31" selloCFD="Utt1ydWKg0ahCdN2SgmNGvUccS5pOuAY31w2+IDKjpv3W1jU0oYiq1umsZMy30Tz38Yn1MqA2K69uqQGaEJt8MLukI11Ot4Znp9qdrNleqaRLS5pZQhYs9Sh/pBNLiQU6oCReBXRUQC+s93pMskaJxETHtsA0P/BDhIaiWBa7cs=" noCertificadoSAT="00001000000202693892" selloSAT="am+Q3rUHEgWbANVscwi/9QE4dKZesFDzLBDanUARSsXIH1oZpyMVTYwR930kn7TvSHf5upPyQ0vTBTyHccZP2g/JI1H/pE5XVfw+X6512tzDzaSXe3xv9QcCXY4Go/haaUBkdWjBcthi56/geinzXvD9cFwxmp3xy5vEcE531oA=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

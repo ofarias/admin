@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="EDO. MEX." Moneda="PESOS" NumCtaPago="No identificado" TipoCambio="1.0000" certificado="MIIEXTCCA0WgAwIBAgIUMDAwMDEwMDAwMDAzMDI3NDMyMDAwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMzAyMzUxMDZaFw0xODAxMzAyMzUxMDZaMIGpMR8wHQYDVQQDExZCRUFUUklaIFJFWUVTIEVTUVVJVkVMMR8wHQYDVQQpExZCRUFUUklaIFJFWUVTIEVTUVVJVkVMMR8wHQYDVQQKExZCRUFUUklaIFJFWUVTIEVTUVVJVkVMMRYwFAYDVQQtEw1SRUVCNzQwNzA3TUZBMRswGQYDVQQFExJSRUVCNzQwNzA3TU1DWVNUMDYxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArv5sxXKWlAsQKnnOWoASP/EI7gUQtKnAom2s5NBRY1iGdaCoOu/FWb7hH4O+xM8n9wPtiLI4NJj7gHQzLrWgRCTU0UV/OJ4ozR4pfUZsTO23HDNMplp2Y/GOzCsG7DVYn+AmV53wIrH/nqOFTiCwZGcgBN57n8b+V8FH5jX8SvUCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAMe5dTDlNEe4ySgAVXMInbqk96uImsSL/CLq0tlalno/+kgBBn1IRKY2gUOYHgUTRFdsVB788Sb5+sNwtMME487K/l4YWlRi3a4vX45YlpZvs9wHeuYyL3T+XG7bgYvzKTxpGdRXtVJ+/t/YJUOebxDy0/Or7b9L10B6uH0ekL+FoIfQ/fokIcd38QlqgXqyzdrGbqcxcROtpJZrwAIjjEuq6QP6TnvqFEawkEfEMFaZMbHJ/8q9uf+g7BBQ5qEO5a7msAxS3RF9plqk50WeklgJDk+04p77stkJdsMvM4EWBwvaJBsPP2xxl7xs0mQ7AgVSQwl+7WW5ZYt3BvXU8vI=" fecha="2014-12-19T10:56:09" formaDePago="Pago en una sola exhibición" metodoDePago="No identificado" noCertificado="00001000000302743200" sello="Uz6hQTmqnA7ngBSoR7HqM6drSTgxKebu85XteQ5WzOSyeBKMFEacZfkAHIEB21Fjr5d9xPerp/ypUkiCMRgS1opd10IHWTU/pOMXisvKt3m5FA9Xhy9UStFwxJ9rqQd9FPePuLizyGqQBu+mOox6zlZSeLsrnRLDG6zF9+G6sRI=" subTotal="89820.00" tipoDeComprobante="ingreso" total="104191.20" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+<cfdi:Emisor nombre="BEATRIZ REYES ESQUIVEL" rfc="REEB740707MFA">
+<cfdi:DomicilioFiscal calle="CERRADA QUETZALES" codigoPostal="54474" colonia="GRANJAS GUADALUPE" estado="MEXICO" municipio="NICOLAS ROMERO" noExterior="96" pais="MEX"/>
+<cfdi:RegimenFiscal Regimen="GENERAL"/>
+</cfdi:Emisor>
+<cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" codigoPostal="54040" colonia="FRACC. LOS PIRULES" estado="MEXICO" municipio="TLALNEPANTLA" noExterior="2900" noInterior="804" pais="MEX"/>
+</cfdi:Receptor>
+<cfdi:Conceptos>
+<cfdi:Concepto cantidad="98.00" descripcion="Excavación de zanja de 40x60 cm x 98 ML" importe="5880.00" unidad="ML" valorUnitario="60.00"/>
+<cfdi:Concepto cantidad="50.00" descripcion="Excavación de dados de 60x60x100cm" importe="9500.00" unidad="PZA" valorUnitario="190.00"/>
+<cfdi:Concepto cantidad="98.00" descripcion="Armado de 98 ML de cadena de 10x25 cm" importe="3920.00" unidad="ML" valorUnitario="40.00"/>
+<cfdi:Concepto cantidad="150.00" descripcion="Armado de 150 ML de castillos de 10x20 cm" importe="6000.00" unidad="ML" valorUnitario="40.00"/>
+<cfdi:Concepto cantidad="50.00" descripcion="Armado de dados de 60x60x100 cm" importe="10000.00" unidad="PZA" valorUnitario="200.00"/>
+<cfdi:Concepto cantidad="396.00" descripcion="cimbrado y colado de 396 ML de cadenas y castillos" importe="27720.00" unidad="ML" valorUnitario="70.00"/>
+<cfdi:Concepto cantidad="250.00" descripcion="Colocación de 250 m2 de block aparente de 12x20x40 cm" importe="17500.00" unidad="m2" valorUnitario="70.00"/>
+<cfdi:Concepto cantidad="98.00" descripcion="Colocación de 98 ML de concrtina de doble arpón" importe="4900.00" unidad="MLl" valorUnitario="50.00"/>
+<cfdi:Concepto cantidad="98.00" descripcion="Colocación de 98 ML de puntas de solera" importe="3920.00" unidad="ML" valorUnitario="40.00"/>
+<cfdi:Concepto cantidad="1.00" descripcion="Retiro de escombros" importe="480.00" unidad="NO APLICA" valorUnitario="480.00"/>
+</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="14371.20">
+<cfdi:Traslados>
+<cfdi:Traslado importe="14371.20" impuesto="IVA" tasa="16.00"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2014-12-19T10:56:22" UUID="7EC7ACD5-543D-4D59-9A75-EAF82964BE50" noCertificadoSAT="00001000000203285726" selloCFD="Uz6hQTmqnA7ngBSoR7HqM6drSTgxKebu85XteQ5WzOSyeBKMFEacZfkAHIEB21Fjr5d9xPerp/ypUkiCMRgS1opd10IHWTU/pOMXisvKt3m5FA9Xhy9UStFwxJ9rqQd9FPePuLizyGqQBu+mOox6zlZSeLsrnRLDG6zF9+G6sRI=" selloSAT="Tg2dVYT/XrOO6ksmcsHZmgxnoQmr/tsZJ9eoCXCdDoOjuieOMGuR47OFWHuH+5S/Iac/Mqbxxi0XOn+buvnvZ95nLSq6trL8tXs+4zh1s26Xpqjy82xWJr9gCr1+9Z/Y0SVAvNeHdg4/DLtfOW2RjLxmtygAvnxklNuB3sAjB4k=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/></cfdi:Complemento></cfdi:Comprobante>

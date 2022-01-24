@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:nomina="http://www.sat.gob.mx/nomina" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/nomina http://www.sat.gob.mx/sitio_internet/cfd/nomina/nomina11.xsd" version="3.2" serie="NOMINA" folio="1451" fecha="2015-06-19T08:57:26" sello="Ngj50ZHAqeICHCv1gy+vqTZA82fkPs1/w+2l2/0tk9HSTMGvzmsHDAspEZZiRcRysCuA9dX8uwaLc23PL1+fNjlnl8+0nU7JJ3mSe5TDfEvFIYP5PLcBZQmx+zTQ3QLAkDRH5hPu8/R7yqqlmw5WxAfkgn3epPws8b6FeeA5SAs=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302350628" certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDIzNTA2MjgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMTAyMzM4MjdaFw0xODAxMTAyMzM4MjdaMIGvMRowGAYDVQQDExFCSU9URUNTQSBTQSBERSBDVjEaMBgGA1UEKRMRQklPVEVDU0EgU0EgREUgQ1YxGjAYBgNVBAoTEUJJT1RFQ1NBIFNBIERFIENWMSUwIwYDVQQtExxCSU84NzAzMDdRRDAgLyBUT1RINDcwMjE4S1VBMR4wHAYDVQQFExUgLyBUT1RINDcwMjE4SFBMUU5SMDQxEjAQBgNVBAsTCU5BVUNBTFBBTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsBMBohzkflDRJ8xRQBCGqnRB8oVG+zbrsxiceijIEkSNXAhCIrRBKCzxYqNWu4FV/thzUN45bAMOGqzR2XBwXAnJgTv2sKoPsxkAqJe9/61+AKHKhvYFyTXQCYRLqeU4ws7UF/TajZyteHQyd9VhWD1Y6aOqvZb2tdMmuI/Pv3UCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEmboZgwm6i1c+Ds2z/M2Fdp0fVb/KWmLa1bSVxVIxdq96H12NzmWvTGRkxS78LpEsVFsHFzkaMpfRFICXyQ6Fwxt0+vGzCCCrLpvcbuEVKIIvgLToQXbL00fpCugWhbiEIMgQBv0p6ua9o2KiZPCvK4T/QaXQovJvxqPTJJo8H7DGFUyn9bwT/9zqDFe4xBXZ9lstT+tXBnmwqzdDs+/myn9odD3UpDmm5DDDmqPCbRJ4ahJQYQKnmFoO2aI1E9ioMvAQJagvjWnSiSwPGjqrbXDptW+mP3vVCeQmrE+JOrSJlf3Y93RZRFZ6kpSIO/pHnJLtC8yGqt01qTsgpLnds=" subTotal="1983.12" descuento="132.63" motivoDescuento="Deducciones nómina" TipoCambio="1.00" Moneda="Pesos" total="1850.49" tipoDeComprobante="egreso" metodoDePago="Transferencia" LugarExpedicion="Tlalnepantla de Baz, Estado de Mexico" NumCtaPago="2880646830">
+  <cfdi:Emisor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:DomicilioFiscal calle="Blvd. Manuel Avila Camacho" noExterior="2900" municipio="Tlalnepantla de Baz" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:ExpedidoEn calle="Blvd. Manuel Avila Camacho" noExterior="2900" municipio="Tlalnepantla de Baz" estado="Estado de Mexico" pais="Mexico" codigoPostal="54040" />
+    <cfdi:RegimenFiscal Regimen="LEY GENERAL DE PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="LUAL700301R18" nombre="JOSE LUIS LUNA AVALOS">
+    <cfdi:Domicilio calle="MEXICO 68 #44" colonia="SAN PEDRO BARRIENTOS" localidad="TLALNEPANTLA" estado="Estado de México" pais="MEXICO" codigoPostal="54010" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000000" unidad="Servicio" descripcion="Pago de Nómina" valorUnitario="1983.12" importe="1983.12" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos />
+  <cfdi:Complemento>
+    <nomina:Nomina Version="1.1" RegistroPatronal="C53-20744-10-0" NumEmpleado="46" CURP="LUAL700301HMCNVS08" TipoRegimen="2" NumSeguridadSocial="92877043957" FechaPago="2015-06-19" FechaInicialPago="2015-06-06" FechaFinalPago="2015-06-19" NumDiasPagados="14.000000" Departamento="EMBARQ" Banco="012" FechaInicioRelLaboral="2015-05-04" Puesto="AYUDANTE DE CHOFER" PeriodicidadPago="CATORCENAL" SalarioBaseCotApor="150.07" SalarioDiarioIntegrado="150.07">
+      <nomina:Percepciones TotalGravado="1983.12" TotalExento="0">
+        <nomina:Percepcion TipoPercepcion="001" Clave="P001" Concepto="SUELDO" ImporteGravado="1842.12" ImporteExento="0.00" />
+        <nomina:Percepcion TipoPercepcion="016" Clave="P022" Concepto="GRATIFICACION" ImporteGravado="141.00" ImporteExento="0.00" />
+        <nomina:Percepcion TipoPercepcion="017" Clave="D099" Concepto="SUBSIDIO P/ EL EMPLEO" ImporteGravado="0.00" ImporteExento="57.47" />
+      </nomina:Percepciones>
+      <nomina:Deducciones TotalGravado="132.63" TotalExento="0">
+        <nomina:Deduccion TipoDeduccion="001" Clave="D002" Concepto="IMSS" ImporteGravado="49.90" ImporteExento="0.00" />
+        <nomina:Deduccion TipoDeduccion="004" Clave="D006" Concepto="ALIMENTACION" ImporteGravado="140.20" ImporteExento="0.00" />
+      </nomina:Deducciones>
+    </nomina:Nomina>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" version="1.0" UUID="7CBD3D36-670F-4EF7-8C8A-0129155FEC8C" FechaTimbrado="2015-06-19T08:59:07" noCertificadoSAT="00001000000301160463" selloCFD="Ngj50ZHAqeICHCv1gy+vqTZA82fkPs1/w+2l2/0tk9HSTMGvzmsHDAspEZZiRcRysCuA9dX8uwaLc23PL1+fNjlnl8+0nU7JJ3mSe5TDfEvFIYP5PLcBZQmx+zTQ3QLAkDRH5hPu8/R7yqqlmw5WxAfkgn3epPws8b6FeeA5SAs=" selloSAT="V/p0DD2jcF3tqrzBAFWPAlIqI8h35Qas3i548E9AlznnbYLAIwesVZ3K6BR1GTQjE0yANa7OgNyFJnXVdji5xi49IEPcaoyraWCyVk5f5IkEQkakNejPQi3gefN0w9wV6/q6Fcmlkt6Q0M8f0pvhz4EhyaWH2EJo3EYIWvO8Xlk=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfdi:Comprobante xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="MEXICO D.F." tipoDeComprobante="ingreso" metodoDePago="Transferencia Electrónica" total="6000.00" Moneda="Pesos" TipoCambio="1.00" descuento="0.00" subTotal="5172.41" certificado="MIIEYzCCA0ugAwIBAgIUMDAwMDEwMDAwMDAzMDIwNTk5NTAwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjYyMjU3MDFaFw0xNzEyMjYyMjU3MDFaMIGvMSEwHwYDVQQDExhDRVNBUiBDUlVaIE9SVElaIFNBTkNIRVoxITAfBgNVBCkTGENFU0FSIENSVVogT1JUSVogU0FOQ0hFWjEhMB8GA1UEChMYQ0VTQVIgQ1JVWiBPUlRJWiBTQU5DSEVaMRYwFAYDVQQtEw1PSVNDNzMxMTI3UzNBMRswGQYDVQQFExJPSVNDNzMxMTI3SERGUk5TMDExDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA5TOD5aXpD75eKgNMW/LFqZ8/K3e6Evf4HHqrfb/Ru5QKNH0/Zu0nxnDli+6aOUTJseZQyowDvrvxHFixaJhGRsIUzfaptc6gdXzWUGOSJphazyjjNJxeGGB/TDtZ2sHbKb+RfOZBZSAwWQWT0jvqj6IHvXR3N4lyW3M9m6sQeEsCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAMDqO5dZFhHtUTkXpKEqtHlqAXWlOYV4DcGSgqYcO4Qov188o2oHA9z6XN3nFyMF2EuNuXULuo+OFX+Ibxr5N1k1Fbq+llfh9tdWcWDANkm1NdZTAMnZiF0A3S0Yij5mCXAiC1ZoV4EXL4YIInjTrEkHGDjyi5WX2H2hHZyT576R7SEccYJ5opDy/jq13GrhJ5D6MCqLZNU2O6DMmszcht3t/kP0aHNr4ZLdBPoIUg75nEtq5slv289SwiCBOA/0ImC+05zgaml8he8OJnhusrZedMyRs09DMbxC65Oq29lKHXzZYWJ3U3X2WpO7xmw9zSJqzogX7uuH+NEP1LPLn6Q=" noCertificado="00001000000302059950" formaDePago="Pago en una sola exhibición" sello="LRV5l45b7EWiTLSmzIwXtRjBs5jujcmUF6eqr9pMO1e+WZ3ij3aWAoZ7taVTFG5iNRyD0Med55g+y6Scimx7+Sb5v//nbj4i7SXZLbkqYO8/1XYJBXq9C/39DWQd1M3LMdmErisQbrGkqkcPyNP+foqd35npwhZHWNngELQp5Hk=" fecha="2015-11-19T10:08:05" folio="99" serie="A" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor nombre="CESAR CRUZ ORTIZ SANCHEZ" rfc="OISC731127S3A">
+        <cfdi:DomicilioFiscal codigoPostal="13310" pais="MEXICO" estado="D.F." municipio="TLAHUAC" localidad="MEXICO D.F." colonia="ZAPOTITLA" calle="AUGUSTO AGUIRRE MORALES MZ.19 LT. 24" />
+        <cfdi:RegimenFiscal Regimen="de Personas Fisica con Actividad Empresarial" />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+        <cfdi:Domicilio codigoPostal="54040" pais="MEXICO" estado="EDO. DE MEXICO" municipio="NAUCALPAN" colonia="PIRULES" noExterior="804" calle="BLVD. MANUEL AVILA CAMACHO 2900" />
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="5172.41" valorUnitario="5172.41" descripcion="RENTA DE AUTOBUS PARA TRASLADO DE CUAUTITLAN MEX. A TEPOJACO HIDALGO." unidad="SERVICIO" cantidad="1" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="827.59">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="827.59" tasa="16" impuesto="IVA" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2015-11-19T10:08:14" UUID="c5c090a8-397c-4eda-8a36-2ff1083052be" noCertificadoSAT="00001000000300171291" selloCFD="LRV5l45b7EWiTLSmzIwXtRjBs5jujcmUF6eqr9pMO1e+WZ3ij3aWAoZ7taVTFG5iNRyD0Med55g+y6Scimx7+Sb5v//nbj4i7SXZLbkqYO8/1XYJBXq9C/39DWQd1M3LMdmErisQbrGkqkcPyNP+foqd35npwhZHWNngELQp5Hk=" selloSAT="eNnK6bUZxtnacf6nryByeBruqbLN1fJrKOmhpm5Cha3SufH6qiowdIGiS3gCZ2FoQek8ZcsjgDMBRbrtXSkkYHCUZVN5riO3DAlJOIKvV2IibdpIYJc/uyTodYMDl/76/NhiyKJQS9/0MOOnsF/xrYiINREh3F/HtYbumr3pMcA=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

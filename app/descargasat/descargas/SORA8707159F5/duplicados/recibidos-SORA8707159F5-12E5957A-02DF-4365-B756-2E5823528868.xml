@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns="http://www.sat.gob.mx/terceros" xmlns:amazonaddenda="http://www.amazon.com.mx/AmazonAddenda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIEvjCCA6agAwIBAgIUMDAwMDEwMDAwMDAzMDUwNzk5MjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA5MTAxNTA2NDhaFw0xODA5MTAxNTA2NDhaMIIBCTE6MDgGA1UEAxMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjE6MDgGA1UEKRMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjE6MDgGA1UEChMxQU1aIE5FR09DSU9TIEVTVFJBVEVHSUNPUyBERSBNRVhJQ08gUyBERSBSTCBERSBDVjElMCMGA1UELRMcQU5FMTQwNjE4UDM3IC8gRk9BTDUzMDMwOTQyMzEeMBwGA1UEBRMVIC8gRk9BTDUzMDMwOUhERkxMUzA0MQwwCgYDVQQLEwNTQVQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIbf/xsQbF6kt2UC2IYjAj5k6BLEXWMg3oBi/ySVas+67pduKKa7Q126OfRV8DRBcl755gnv7gyMOY3qjklYzyl/livuP3ihzOGQYhmITPXBnZ/sPl2jUXY7CzQiRA8yfwbwQiwAFLLTUTFdoED3HtoNh8fdHjaLpCvd00BBasB7AgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQDP187yR1fYkmmbllT9fDR6lD7W6DFripIgTc2AVgqnKUhLrDleQtHRF4zb6jliP4w5sI85MHkPC4Jvu+3bFdIj0ORhgpuBjFXiTGT8uBcP68MeeFpRi1sulUd+mPHRvikXEC56BhYEfxx6+uk7Zg9FsK+L1sP72TRt/X1AT/rTHN4qigZz2JLuTZmbtj8fU6hScxCv2DEZ4FWrPr5Zr9LT3tSlyL5T10aYkC7VVQI2UN2mNfq6dX8hHhy6jYT0eqT0+MDp1/6cRVefgRvl0VP0bX1TQn4HL9Xv6dD/AlWiNJNtiV1i0p6CIIV7BhKN94CzOzQAcsQ2qrkGL5CEP5X/" Descuento="309.97" Fecha="2018-07-18T02:26:15" Folio="2447062" FormaPago="04" LugarExpedicion="05348" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000305079927" Sello="KACdlYsQhBUUunz7Q8qy2aFBOCWvN2Jl5Yl56LEuouVmzkXB4EVGOlJMg7cR4J9tZrCDQAtxAO3CtRDes1EBQp5VAkYUdsqHzGbRf04ei8BQgP18yqV+0NwLbfNSB05mP3v/Au03Jb8fC5qsrUEHYd+EpJAKtkaykpsnSw4xY+k=" Serie="CSale" SubTotal="1722.38" TipoDeComprobante="I" Total="1638.39" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:Emisor Nombre="Servicios Comerciales Amazon México S. de R.L. de C.V." RegimenFiscal="601" Rfc="ANE140618P37" />
+    <cfdi:Receptor Rfc="SORA8707159F5" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="2" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="Funko Figura Game Of Thrones - Drogon and Daenerys" Descuento="209.44" Importe="1163.78" NoIdentificacion="1_B01AW5VFP6_1990626561918" Unidad="pieza" ValorUnitario="581.89">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="954.34" Importe="152.69" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="FUNKO POP! DELUXE: Star Wars - Chewbacca in AT-ST" Descuento="100.53" Importe="558.60" NoIdentificacion="2_B078PF1XXP_1990626561918" Unidad="pieza" ValorUnitario="558.60">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="458.07" Importe="73.29" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="225.98">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="225.98" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="12E5957A-02DF-4365-B756-2E5823528868" FechaTimbrado="2018-07-18T02:26:28" SelloCFD="KACdlYsQhBUUunz7Q8qy2aFBOCWvN2Jl5Yl56LEuouVmzkXB4EVGOlJMg7cR4J9tZrCDQAtxAO3CtRDes1EBQp5VAkYUdsqHzGbRf04ei8BQgP18yqV+0NwLbfNSB05mP3v/Au03Jb8fC5qsrUEHYd+EpJAKtkaykpsnSw4xY+k=" NoCertificadoSAT="00001000000404477432" SelloSAT="d68ufjc2ExRac13baVIVE5rTKjQXGHeyyETOsNViT8mv8HVIIBhvNHR+kC2zCPVScxkzmT+5U4t1/kC7Ri1jeaO9PoAlsD1n95laRjFUEAEfXhhzymMMMoU5p6CulyWDh1uBRzmbtY/7kNo+qEyJsiKRfkzSou+siVaj1gRpA8GiAKo2Lhl3qvG3W7oXGyL6MzuTX7lHGZW1n9MfjiUvmV0IegfIRqO3N219uO3Op0rilsMusIaZiIpcE6bgq0Zy2emEJ1niNpsJzW9pfkcJJ4zkRXDcz3iJGw1lLN7myWO9XSJSfVrJX4cJT9Z0LOlURxjiiP1poDC5M5pH/L6mBw==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

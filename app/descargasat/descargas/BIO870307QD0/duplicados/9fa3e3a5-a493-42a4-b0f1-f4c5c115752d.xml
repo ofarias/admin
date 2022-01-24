@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="A" folio="006356" fecha="2016-01-08T12:30:16" sello="GiMMMN+F8d2LR7K3WiRas6JFSayYMiuO+gNVR0863cMa746u1ZNWl2ZyRwGUVGhgmfLWm0e5tuZNRPtbpz9hlDhtH3+zo/H7UPwLUCMuWt7/B1+++MrcKfQBGtER4sHVBJJyQEgt5Qd8A26FH6lZeB8ofH/jr44JHXnz/7J5sCE=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000301538687" certificado="MIIEezCCA2OgAwIBAgIUMDAwMDEwMDAwMDAzMDE1Mzg2ODcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMDMyMzMxMTNaFw0xNzEyMDMyMzMxMTNaMIHHMSMwIQYDVQQDExpFQ09TSVNURU1BUyBTQUxBUyBTQSBERSBDVjEjMCEGA1UEKRMaRUNPU0lTVEVNQVMgU0FMQVMgU0EgREUgQ1YxIzAhBgNVBAoTGkVDT1NJU1RFTUFTIFNBTEFTIFNBIERFIENWMSUwIwYDVQQtExxFU0ExMDA0MjI1QkEgLyBTQUVBNjAwNjA1RkE5MR4wHAYDVQQFExUgLyBTQUVBNjAwNjA1SERGTExSMDkxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAte3QKygCG9FKVs66OBjfD3FJ2dP+kuch7wkGbjk+ZgDMfIVzUYgTKjP2L+AbX25gFOOdVqFXkLQ7EQMBXh0UWyAiksih3ccs7WzwI+/Bs/ER9D6F4tRHGw+uXQiCZ3HU9/3Kd8fwU8egHDTvxr60FF3MUYEy44COWBL9Hx43tfcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAKPLn8iGN+kq4I23iVFD1lhAWFIJOBh3UDgWFGldf5T8S77+6FoCwGq0hE+V94HZAs35SFlRyUzN/GXQvZzt8WrL1kUymDf7KVei+W2qMH4tEIfO0CSUIh9ww12IrgbxORDCVROGgfcM+G9XetWfpB6fO9R64e+2X4kIt2pkHacxGy1l+/Vc5hIYC0wcNgkE37fCdIzOoVkIdcdU9jgTVCo9bO7sCU33y1/SH2xE1/NlB23KZ0tuVHF/q2UO6f8DFkLewMCV0WIaaDe3bxqBkACb/khsA4OX1GLkCICeLM7kqQ3NSzr1mbcFJrJM1iaTNfy4UQoNlxaGUtp1GNrT9gU=" subTotal="248.28" TipoCambio="1" Moneda="Peso Mexicano" total="288.00" tipoDeComprobante="ingreso" metodoDePago="EFECTIVO" LugarExpedicion="TLALNEPANTLA, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="ESA1004225BA" nombre="ECOSISTEMAS SALAS SA DE CV">
+    <cfdi:DomicilioFiscal calle="OLIVAR DEL CONDE" noExterior="54080" colonia="VIVEROS DE LA LOMA" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54080" />
+    <cfdi:ExpedidoEn calle="ROBLE" noExterior="17" colonia="INDUSTRIAL TABLA HONDA" municipio="TLALNEPANTLA" estado="MEXICO" pais="MEXICO" codigoPostal="54140" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900" colonia="FRACC LOS PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="SERVICIO" descripcion="SERV FISICO MECANICA Y DE SEG C 2" valorUnitario="248.28" importe="248.28" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="39.72">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="39.72" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="9FA3E3A5-A493-42A4-B0F1-F4C5C115752D" FechaTimbrado="2016-01-08T12:29:30" selloCFD="GiMMMN+F8d2LR7K3WiRas6JFSayYMiuO+gNVR0863cMa746u1ZNWl2ZyRwGUVGhgmfLWm0e5tuZNRPtbpz9hlDhtH3+zo/H7UPwLUCMuWt7/B1+++MrcKfQBGtER4sHVBJJyQEgt5Qd8A26FH6lZeB8ofH/jr44JHXnz/7J5sCE=" noCertificadoSAT="00001000000203159375" selloSAT="oSe73ILgvTY84+Vxr5DcHBdawdfLScQ/onRY79L/XDVoHS8DXGwqObnIzupum0LIDG6TQWRrdrS8cVQdS//1Txn5wzJXlkJ2y7PFsZXwu1FUcLgmsujPkRj0ldn4eJy2aN0F4nOeQ38ddDevmLfhjeOm2yRnD4pVeZvXEKzYxmw=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

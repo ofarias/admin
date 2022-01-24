@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="MRCLERMA" folio="46626" fecha="2016-01-25T10:38:02" sello="byWSZXvgVajTY2ov58rfcOUR4rdcMa0u0ftA9QI5/zD8jkemZWt1tXn6h6H/Q2Ik/lqWorFBPS2jnwConncfYtPqwOXk9OJ7OkuGNHRucPUzbE2h89VBCIRT80Fyb+EMC4fR4YWtdjpg6XPZXapplz3Cfi0Pl5S296dV8DqpBWk=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000202462341" certificado="MIIEqDCCA5CgAwIBAgIUMDAwMDEwMDAwMDAyMDI0NjIzNDEwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyOTAxNDcwMFoXDTE2MTEyOTAxNDcwMFowgekxMDAuBgNVBAMTJ0NPQ0lOQSBZIFBBTkFERVJJQSBISURBTEdVRU5TRSBTQSBERSBDVjEwMC4GA1UEKRMnQ09DSU5BIFkgUEFOQURFUklBIEhJREFMR1VFTlNFIFNBIERFIENWMTAwLgYDVQQKEydDT0NJTkEgWSBQQU5BREVSSUEgSElEQUxHVUVOU0UgU0EgREUgQ1YxJTAjBgNVBC0THENQSDA2MDUyNDNTMiAvIExVTUM2ODEyMThLUjExHjAcBgNVBAUTFSAvIExVTUM2ODEyMThISEdOUlIwNzEKMAgGA1UECxMBIDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy7HMvce9p3SIWJEUqqI8dxIU/MV0IaJLx+IiL4FpK+m6Pi16Yy4DeynuCzOmQgfscnRLthNC/Iw3hkFXZk9xukbPXvXmC6JcmkuHxon1rnCusfhAT1nVTjWkdYIjhj4oNob0v96TYsvO7zkWBdX4UQsQR/3eDCuYAv9zteaxVJ0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAFD9dRIT/9Ec+tpOcbubs9D0bchmhtgtszoxpA4Z52eKsDwn+NS4ZevXnKzgDXhRUxgWHfJlo++ZiLYsWoEyp3y3pKAQQHm/+fWvA5Mds/XkTGosnd+6hLSMx0bpOdlTpaNwuc9v7pVGgHkAAt1r+HgabGGbCE/e/u/CuotQRVTddyvkHdtjyIGbzZCioGyFRtBJHlJQ3ICVkmCKF+iIf8sYM6mq4+OaHlYu3EpHyLl+YAnmggSu6IL8i//bmX67UtWTEvt8GRi9RiwEtgTer7ZC+28zA3RGJtMr2TO0zzZwBRYATc4REPN78ub/lV2rnnn+RzGZSS//uOMoVgdDrfk=" subTotal="494.83" descuento="0.00" TipoCambio="1.0000" Moneda="MXN" total="574.00" tipoDeComprobante="ingreso" metodoDePago="TARJETA" LugarExpedicion="México, HIDALGO" MontoFolioFiscalOrig="0.00">
+  <cfdi:Emisor rfc="CPH0605243S2" nombre="COCINA Y PANADERIA HIDALGUENSE SA DE CV">
+    <cfdi:DomicilioFiscal calle="CALLE  1" noExterior="32" colonia="FRACC INDUSTRIAL REFORMA" municipio="MINERAL DE LA REFORMA" estado="HIDALGO" pais="México" codigoPostal="42186" />
+    <cfdi:ExpedidoEn calle="Boulevard Aeropuerto Miguel Alemán" noExterior="55" noInterior="esq. Tollocán" colonia="Parque Industrial de Lerma" municipio="Lerma" estado="Estado de México" pais="México" codigoPostal="42186" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+    <cfdi:Domicilio calle="Blvd. Manuel Avila Camacho" noExterior="2900" noInterior="804" colonia="Los Pirules" localidad="Tlalnepantla" municipio="Tlalnepantla" estado="México" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="3.00" unidad="EA" descripcion="PAQUETE COMIDA" valorUnitario="51.72" importe="155.17" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="BISTEC  ENCEBOLLADO" valorUnitario="111.21" importe="111.21" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="MILANESA MADERO" valorUnitario="121.55" importe="121.55" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="PECHUGA MADERO" valorUnitario="93.97" importe="93.97" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="FRIJOLES REFRITOS" valorUnitario="12.93" importe="12.93" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="79.17">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="79.17" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="e917e771-0be9-4b59-a530-dcf207907119" FechaTimbrado="2016-01-25T10:37:38" selloCFD="byWSZXvgVajTY2ov58rfcOUR4rdcMa0u0ftA9QI5/zD8jkemZWt1tXn6h6H/Q2Ik/lqWorFBPS2jnwConncfYtPqwOXk9OJ7OkuGNHRucPUzbE2h89VBCIRT80Fyb+EMC4fR4YWtdjpg6XPZXapplz3Cfi0Pl5S296dV8DqpBWk=" noCertificadoSAT="00001000000300171326" selloSAT="vKiIgBDqnlh2zgTJNtxjv/CsKjN4Eyy43s/hCDyaBemm3Qd1AusSr5lmb86gnQZtgeUDQ8tyZ8H/dtAzsgo45+E+1KZVqAwIxNcX6EXLBthRHkBX1tGf+ZKfbmAul+FLDQNjYAni3ll7fDsMw8tX81i/sBtSyeqEl3atMaxuReI=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento><cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33MRCLERMA46626">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>123</ecfd:NroAprob>
+            <ecfd:AnoAprob>2013</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>MRCLERMA</ecfd:Serie>
+            <ecfd:Folio>46626</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:FechaEmis>2016-01-25T10:38:02</ecfd:FechaEmis>
+            <ecfd:FormaPago>PAGO EN UNA SOLA EXHIBICION</ecfd:FormaPago>
+            <ecfd:MedioPago>TARJETA</ecfd:MedioPago>
+            <ecfd:MontoFolioFiscalOrig>0.0000</ecfd:MontoFolioFiscalOrig>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>CPH0605243S2</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>COCINA Y PANADERIA HIDALGUENSE SA DE CV</ecfd:NmbEmisor>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>CALLE  1</ecfd:Calle>
+              <ecfd:NroExterior>32</ecfd:NroExterior>
+              <ecfd:Colonia>FRACC INDUSTRIAL REFORMA</ecfd:Colonia>
+              <ecfd:Municipio>MINERAL DE LA REFORMA</ecfd:Municipio>
+              <ecfd:Estado>HIDALGO</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>42186</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>Boulevard Aeropuerto Miguel Alemán</ecfd:Calle>
+              <ecfd:NroExterior>55</ecfd:NroExterior>
+              <ecfd:NroInterior>esq. Tollocán</ecfd:NroInterior>
+              <ecfd:Colonia>Parque Industrial de Lerma</ecfd:Colonia>
+              <ecfd:Municipio>Lerma</ecfd:Municipio>
+              <ecfd:Estado>Estado de México</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>42186</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QD0</ecfd:RFCRecep>
+            <ecfd:NmbRecep>BIOTECSA S.A. DE C.V.</ecfd:NmbRecep>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>Blvd. Manuel Avila Camacho</ecfd:Calle>
+              <ecfd:NroExterior>2900</ecfd:NroExterior>
+              <ecfd:NroInterior>804</ecfd:NroInterior>
+              <ecfd:Colonia>Los Pirules</ecfd:Colonia>
+              <ecfd:Localidad>Tlalnepantla</ecfd:Localidad>
+              <ecfd:Municipio>Tlalnepantla</ecfd:Municipio>
+              <ecfd:Estado>México</ecfd:Estado>
+              <ecfd:Pais>MX</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:FctConv>1.0000</ecfd:FctConv>
+            <ecfd:SubTotal>494.83</ecfd:SubTotal>
+            <ecfd:MntDcto>0.00</ecfd:MntDcto>
+            <ecfd:MntImp>79.17</ecfd:MntImp>
+            <ecfd:VlrPagar>574.00</ecfd:VlrPagar>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16.00</ecfd:TasaImp>
+            <ecfd:MontoImp>79.17</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>PAQUETE COMIDA</ecfd:DscItem>
+          <ecfd:QtyItem>3.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>EA</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>51.7241</ecfd:PrcNetoItem>
+          <ecfd:MontoNetoItem>155.1724</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>2</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>BISTEC  ENCEBOLLADO</ecfd:DscItem>
+          <ecfd:QtyItem>1.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>EA</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>111.2069</ecfd:PrcNetoItem>
+          <ecfd:MontoNetoItem>111.2069</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>3</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>MILANESA MADERO</ecfd:DscItem>
+          <ecfd:QtyItem>1.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>EA</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>121.5517</ecfd:PrcNetoItem>
+          <ecfd:MontoNetoItem>121.5517</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>4</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>PECHUGA MADERO</ecfd:DscItem>
+          <ecfd:QtyItem>1.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>EA</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>93.9655</ecfd:PrcNetoItem>
+          <ecfd:MontoNetoItem>93.9655</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>5</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>FRIJOLES REFRITOS</ecfd:DscItem>
+          <ecfd:QtyItem>1.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>EA</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>12.9310</ecfd:PrcNetoItem>
+          <ecfd:MontoNetoItem>12.9310</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:TimeStamp>2016-01-25T10:32:31</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="IdCertificate">85</ecfd:campoString>
+        <ecfd:campoString name="VlrPalabras">(Quinientos setenta y cuatro pesos 00/100 M.N.)</ecfd:campoString>
+        <ecfd:campoString name="Fuente">pticket</ecfd:campoString>
+        <ecfd:campoString name="Email">emunoz@biotecsa.com</ecfd:campoString>
+        <ecfd:campoString name="Template">Pred</ecfd:campoString>
+        <ecfd:campoString name="RegimenFiscal">Régimen General de ley Personas Morales</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago" />
+        <ecfd:campoString name="LugarDeExpedicion">México, HIDALGO</ecfd:campoString>
+        <ecfd:campoNumero name="Propinas">0.00</ecfd:campoNumero>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" serie="A" folio="22115" fecha="2016-01-26T16:29:55" sello="VJEAhKT5kH1rN2jLsuKeUgH+qGzx3T5sMsZnvBAKZdqA0KlyGZD4mvT22iCVlhIB8tTvKHWwaLAvVpoeF2GdRYpwGseer+0qan+ixu3hmyvzwqlamGt6NldeRgLZB7AVd4KIsjRPU0kDvFzPvmzh5GaDpTX5CjNU/MePDEZRg5k=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000202623502" certificado="MIIEgTCCA2mgAwIBAgIUMDAwMDEwMDAwMDAyMDI2MjM1MDIwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIxNzE2MzkzM1oXDTE2MTIxNzE2MzkzM1owgcIxIzAhBgNVBAMTGlZFTklOVkVMIEVMRUNUUklDIFNBIERFIENWMSMwIQYDVQQpExpWRU5JTlZFTCBFTEVDVFJJQyBTQSBERSBDVjEjMCEGA1UEChMaVkVOSU5WRUwgRUxFQ1RSSUMgU0EgREUgQ1YxJTAjBgNVBC0THFZFTDExMDMxNzJWOCAvIExBRkU4MzEwMTlLNDMxHjAcBgNVBAUTFSAvIExBRkU4MzEwMTlITUNSR0QwMzEKMAgGA1UECxMBIDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAunRzbML283G2hqlrfBjLsmrgD78HuG0+fuYWafuxIbureq8iVpv/THl52SOwj5V4+4uoyN1qtypRWSdIRASSMbxabese9G5/bWyBWGYjKtPNOg+sk0TDdXposJ45faig+NC4sNOKBiZtj3PnfImoZ12Vhj9kxJ/idiG8FRwQcYECAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAIjWOkjuUOskiV4oabD3kqvmLXEkjAoNloKejgtIHekJ5T858j5Tfajtwf1PmyOF63KBVvg0bRAZyJLxrZpbUb+0bgA4yBX/cQTLWi//Ua/COWDxdMmD+JMKrxzSlN2QBfPLINR/5XIu6of6KPDJ4rRjz83do3E/HMW2r/+jSLceiedb+GwIh8ValL2mDxx1AVXTYBFNV+DZgI2b6DmNx4vxtQijMQ98I+9s/TcDo3tz14GHYrOJRyh8kgq+RkqaIkyBn71VMlhYVRvWPV4wIBn/7jB3wJrFxzUHghSUZf1dnuqRHoPVr+W6h6dkbD9rKGpA/yH/m04ZkAnYkGsfDic=" condicionesDePago="Paguese a mas tardar el 26/01/2016. Condiciones de pago: CONTADO." subTotal="2671.68" Moneda="MXN" total="3099.15" metodoDePago="Tarjeta de débito" tipoDeComprobante="ingreso" LugarExpedicion="Estado de México" NumCtaPago="BANCOMER 849" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="VEL1103172V8" nombre="VENINVEL ELECTRIC SA DE CV">
+<cfdi:DomicilioFiscal calle="Calle Ignacio Zaragoza" noExterior="104" colonia="El Nopalito" localidad="Cuautitlán" municipio="Cuautitlán" estado="Estado de México" pais="México" codigoPostal="54810" />
+<cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales" />
+</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A DE C.V">
+<cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO" noExterior="2900-804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA" estado="Estado de México" pais="México" codigoPostal="54040" />
+</cfdi:Receptor>
+<cfdi:Conceptos>
+<cfdi:Concepto cantidad="10.0" unidad="PZA" noIdentificacion="DE2B" descripcion="LUMINARIA LED PLAFON REDONDA 8W 127V ATENUABLE" valorUnitario="253.02" importe="2530.20" />
+<cfdi:Concepto cantidad="3.0" unidad="PZA" noIdentificacion="17560" descripcion="SELLADOR BLANCO CARTUCHO" valorUnitario="47.16" importe="141.48" />
+</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="427.47">
+<cfdi:Traslados>
+<cfdi:Traslado impuesto="IVA" tasa="16.00000" importe="427.47" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2016-01-26T16:29:56" UUID="A182BFDE-A005-D29F-B9F3-A1AEB70221DA" noCertificadoSAT="00001000000202771790" selloCFD="VJEAhKT5kH1rN2jLsuKeUgH+qGzx3T5sMsZnvBAKZdqA0KlyGZD4mvT22iCVlhIB8tTvKHWwaLAvVpoeF2GdRYpwGseer+0qan+ixu3hmyvzwqlamGt6NldeRgLZB7AVd4KIsjRPU0kDvFzPvmzh5GaDpTX5CjNU/MePDEZRg5k=" selloSAT="G964sg//bmI2iudCsLaKZkOrK5kHziRfHAeOvqa4eZFEIJM/bl7bOFllD5x4K6vgpoUf+mLOATO4vW/b4lA6u6XtaoHj0BKs2tbyZg6Vawkdl1fFiqPM8W9HmQ8IuK5bqMX0tk60HRUL/hvXzDNE0WdTgJChaQf7CS9Pyymubns=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:aerolineas="http://www.sat.gob.mx/aerolineas" version="3.2" serie="F" folio="1392170348400" fecha="2017-03-29T12:23:59" sello="n38VtPHy17Btp6HUlrH/fFNSIKJ2A59AcnWBTagMV4AAFboF03k35f6aainyUQxqiVys0U1scf9cm1L4LL8gs6V6NHco5rAsZe9XdVgWgbvvrT27JqeQjnrOueoEHLzp2Ol8oorfD5gEEq/CTnzb/9OUq1nbozX/YSSDSmTLu7Q=" formaDePago="Pago en una sola Exhibicion" noCertificado="00001000000300243643" certificado="MIIEfzCCA2egAwIBAgIUMDAwMDEwMDAwMDAzMDAyNDM2NDMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA2MDQyMDU5MDdaFw0xNzA2MDQyMDU5MDdaMIHLMSQwIgYDVQQDExtBRVJPVklBUyBERSBNRVhJQ08gU0EgREUgQ1YxJDAiBgNVBCkTG0FFUk9WSUFTIERFIE1FWElDTyBTQSBERSBDVjEkMCIGA1UEChMbQUVST1ZJQVMgREUgTUVYSUNPIFNBIERFIENWMSUwIwYDVQQtExxBTUU4ODA5MTJJODkgLyBIRVBTNjAxMTI0NjYxMR4wHAYDVQQFExUgLyBIRVBTNjAxMTI0SERGUlhMMDYxEDAOBgNVBAsTB1JFRk9STUEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMeBKFkR0z98i7/GQxlSbWqmw78EEvwgiG+8Xs6PSL20HmpfWEzMmB/cOlWA3vNqq0EY4BrGSWSBGBteq/khOPz6//xgwz4nINhSdGaI7zGou6rLhWRFr7OgyrRKjl1jeJgFUA0MDxSCZWktBXK30Cg8fLp2dlDlHSG5sjc0hD6VAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQAGuRNol+lUJp0tTPxafYsbmJKqRARV3gsHE6OdEv5OX5qnFTYsM+E0QEUiNwFtrFt3kDm353pGyjto1z2FJX6Q4EctkMJLwg7YpvAXlpzkQGLKjO9YfGeM8Jx9l20lvSuBMfwh2JmaKSoSKZGHMAgEMKLb/r8/I5BNp+9ETLZlnTiAeRT5jFTCgL2ocjvNoTCX7hXWnEV1TYiiW9v96ccM/Gc2TWK6pnAR8feoFKennScmHqRl+iRJtHAqjOZ3oRZFVlbFBJ/nqpqVfohz1OolWJ1OMd/tHf7mEmW4WdAYe4MGVVqbSuPTl6KbwiqF5Yl65FvObZPByTTMaRlVuAOn" subTotal="2465.0000" TipoCambio="1" Moneda="MXN" total="2772.0000" tipoDeComprobante="ingreso" metodoDePago="04" LugarExpedicion="CIUDAD DE MÉXICO" NumCtaPago="***********2008" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/aerolineas http://www.sat.gob.mx/sitio_internet/cfd/aerolineas/aerolineas.xsd">
+  <cfdi:Emisor rfc="AME880912I89" nombre="AEROVIAS DE MEXICO SA DE CV">
+    <cfdi:DomicilioFiscal calle="PASEO DE LA REFORMA" noExterior="445" noInterior="A Y B" colonia="CUAUHTEMOC" municipio="CUAUHTEMOC" estado="CIUDAD DE MÉXICO" pais="MÉXICO" codigoPostal="06500" />
+    <cfdi:RegimenFiscal Regimen="General de Ley P. M." />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="ESTADO DE MÉXICO" pais="MÉXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.0000" unidad="NA" noIdentificacion="1392170348400" descripcion="TRANSPORTACION AEREA" valorUnitario="1913.0000" importe="1913.0000" />
+    <cfdi:Concepto cantidad="1.0000" unidad="NA" noIdentificacion="1392170348400" descripcion="TUA" valorUnitario="537.0000" importe="537.0000" />
+    <cfdi:Concepto cantidad="1.0000" unidad="NA" noIdentificacion="1392170348400" descripcion="YRI" valorUnitario="15.0000" importe="15.0000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="307.0000">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.0000" importe="307.0000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <aerolineas:Aerolineas Version="1.0" TUA="537.00">
+      <aerolineas:OtrosCargos TotalCargos="15.00">
+        <aerolineas:Cargo CodigoCargo="YRI" Importe="15.00" />
+      </aerolineas:OtrosCargos>
+    </aerolineas:Aerolineas>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="4b35c6e3-d6de-4297-a524-4173bc0d67dd" FechaTimbrado="2017-03-29T12:24:00" selloCFD="n38VtPHy17Btp6HUlrH/fFNSIKJ2A59AcnWBTagMV4AAFboF03k35f6aainyUQxqiVys0U1scf9cm1L4LL8gs6V6NHco5rAsZe9XdVgWgbvvrT27JqeQjnrOueoEHLzp2Ol8oorfD5gEEq/CTnzb/9OUq1nbozX/YSSDSmTLu7Q=" noCertificadoSAT="00001000000300171326" selloSAT="kbk0+6cdpMI3lVqK/3uR0NhwchiaILY0Joah2fYhZMtV6MFSLdSinB6pxM4IwnWBcnxcTtl/FokSglpTRfWXwxcZ4j3tYFfYIFPmzMLY/aGdRWBsBvrJapRz4hxAn0uM4JK85OQN5zc3atnwKfpBDMuxWxaxSKXfnwEVFT/FuIU=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

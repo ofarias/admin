@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="AVENIDA MARIO PANI SANTA FE CUAJIMALPA CUAJIMALPA DE MORELOS 05109" tipoDeComprobante="ingreso" metodoDePago="04" total="71.00" Moneda="PESOS" subTotal="61.21" certificado="MIIEcTCCA1mgAwIBAgIUMDAwMDEwMDAwMDAzMDIyOTI5MjYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMDkwNzQ2MzZaFw0xODAxMDkwNzQ2MzZaMIG9MSAwHgYDVQQDExdBVklWIEFMQkVSVCBBUkFaSSBDT0hFTjEgMB4GA1UEKRMXQVZJViBBTEJFUlQgQVJBWkkgQ09IRU4xIDAeBgNVBAoTF0FWSVYgQUxCRVJUIEFSQVpJIENPSEVOMRYwFAYDVQQtEw1BQUNBOTEwMTE5UExBMRswGQYDVQQFExJBQUNBOTEwMTE5SERGUkhWMDYxIDAeBgNVBAsTF0FWSVYgQUxCRVJUIEFSQVpJIENPSEVOMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnzS+F6pRHrlv0w9xopuNmI3H5IWBrqXZCiINYMzvY56PR/f6wQz/fSnDRxdTA1Eq6c8wkpQXT00hbdqg7IodBurIxfvRpRiqTSga63QE6sAZPrUKkeF0KKDUO4EDwFXan/4PFt8eycrNDn/Zsv6X0C3BU+7i+jCeOLyhjPiZRZwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAMCdczJg1ADCQaueKRDoGr1thsuvREb4hc+3XypfmNORkAWebrldsMO65gcgpJrXqa1WKIsbxHNP5//PmyZsBdpFx84/HQCWGtFaT5RznBHyRork0ijgoyymzbGaNirWXv31dczFFJrzlsaqzWBcP1mW3t8oIYRBuDmLXCAyl+opkZTqjkLUv+4o6R/w3++Sj4dH0BGW2opqT0wpmyWEUpx4Zw78uUWM4oQ6ysk+keqfcEScDy9Ne1xvzzkCAWNaQCbp20VkhOii80I/T937u1aPKA/js30NUdmhXkOCVbw+QQkVWl8MF9ChiIYfZPUUEFr5VF2EZWfuky5IIhIh0qg==" noCertificado="00001000000302292926" formaDePago="EN UNA SOLA EXHIBICIÓN" sello="jb3pqOEvuNAmmKHBfHjXGrYFjcwNN1icU/o0pTM58U1x8IpkM8fEm8ntoJhpmWjGY5klGHEf1QVub7s6+AMMudH4qVxbHkKCxCG59Mf6ejrm1/DCoVBbOy6W7NzFm2C0HBSJEu0Z7u/PrdXWilqkR/TsqJzv8C+upLhXxnaFY88=" fecha="2016-10-21T12:50:13" folio="0001673" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor nombre="AVIV ALBERT ARAZI COHEN" rfc="AACA910119PLA">
+        <cfdi:DomicilioFiscal codigoPostal="05348" pais="MEXICO" estado="Ciudad de M" municipio="CUAJIMALPA DE MORELOS" colonia="SANTA FE CUAJIMALPA" noExterior="400" calle="AVENIDA MARIO PANI" />
+        <cfdi:RegimenFiscal Regimen="REGIMEN DE LAS PERSONAS FISICAS CON ACTIVIDADES EMPRESARIALES Y PROFESIONALES" />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+        <cfdi:Domicilio codigoPostal="54040" pais="MEXICO" estado="ESTADO DE MÉXICO" municipio="TLALNEPANTLA DE BAZ	" colonia="PIRULES" noInterior="804" noExterior="2900" calle="BLVD MANUEL AVILA CAMACHO" />
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="61.21" valorUnitario="61.21" descripcion="CONSUMO DE ALIMENTOS" noIdentificacion="111ABCONSUMO" unidad="NO APLICA" cantidad="1.00" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="9.79">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="9.79" tasa="16.00" impuesto="IVA" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2016-10-21T12:56:39" UUID="f64a6c3a-0c94-4109-a93e-8de9ab977f00" noCertificadoSAT="00001000000300171291" selloCFD="jb3pqOEvuNAmmKHBfHjXGrYFjcwNN1icU/o0pTM58U1x8IpkM8fEm8ntoJhpmWjGY5klGHEf1QVub7s6+AMMudH4qVxbHkKCxCG59Mf6ejrm1/DCoVBbOy6W7NzFm2C0HBSJEu0Z7u/PrdXWilqkR/TsqJzv8C+upLhXxnaFY88=" selloSAT="cXQxN5MKcFMGwMil7YPdWxp/KVJOaUTIpAECgGv77XAjU7raVraL2RdQsBQkeLPhAphjoDmUPWhmCzt+zJMvBBOCrC0AgBBei2epkB9i6LMnvxcfiOGAjK4vdixKg3QG8D1y2iriS48qqVLI+teQcAU0SkJGF67u6QE64ZNO/Nc=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

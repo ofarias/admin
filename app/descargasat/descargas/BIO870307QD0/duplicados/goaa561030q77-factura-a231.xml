@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="México, D.F." tipoDeComprobante="ingreso" metodoDePago="Efectivo" total="417.58" Moneda="Pesos" TipoCambio="1.00" descuento="0.00" subTotal="359.98" certificado="MIIEXTCCA0WgAwIBAgIUMDAwMDEwMDAwMDAzMDE0OTY3ODQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMzAyMTMwMjZaFw0xNzExMzAyMTMwMjZaMIGpMR8wHQYDVQQDExZBTElFVEEgR09OWkFMRVogQU5HVUxPMR8wHQYDVQQpExZBTElFVEEgR09OWkFMRVogQU5HVUxPMR8wHQYDVQQKExZBTElFVEEgR09OWkFMRVogQU5HVUxPMRYwFAYDVQQtEw1HT0FBNTYxMDMwUTc3MRswGQYDVQQFExJHT0FBNTYxMDMwTURGTk5MMDAxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAn47QzcfHKhf3MuSFDHIaJBXKYSC9shvFmN1dnNkPRCoirW6BVkqcVO7NIx/i9y3nFoNQc/F0k62ocaePmhW9tBImwMQHVFP34rNSYius6z3CzTRl1bofIkKWm85QxffnwFsTfqsCrNkMBy3apNT22uD7riC9KAFQs60HUaQNVOMCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAJCziY+IzMN+LKsaIOVLHak0gg1jPoqFO/ssYhXf0EmvU1a3LVOxiHQWVxHiInCBA2tlCt2jP1L/kBO3eIXhCAdFgAsQLKDl3vy8I7zwYCQUP567zkf+qJ0Ut1BPCWrSdOtv2ZDuDLFIgRYzkuLW4APcexTxf4xccdXYiVPLWkV4aT+IdqG7+ynfFL9SlhdEBntnh7LO5uJfAIIvPfOfsczLWI8sf9clPBg0Tbebh6NEJMehSkto3jAf1OV9oBhrm347FP/QlAuE+gGFl816wvuE+CS/skQ0Idy+tXxmTJwB0+SH11j86j+KjheyMFf+wKx+sRYf15AkEjp+JoKRh8Q=" noCertificado="00001000000301496784" formaDePago="Pago en una sola exhibición" sello="GdAWeRxEHErjdoj2WLTWm6nroq1Gf5jx8jPBnl2mUKiztQCYps4dHNmYLmzR/LReDUg85ndAeLKmBBcXXoDoPdKzyTXm4cyGSMk/5rixEF2rT1Y4+vMo1PX5ilqyWHBEMaH4kYUaks1VKDeOtyddX4HZ1hriULw0OI5+izJp5ts=" fecha="2015-10-25T12:12:38" folio="231" serie="A" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor nombre="ALIETA GONZÁLEZ ANGULO" rfc="GOAA561030Q77">
+        <cfdi:DomicilioFiscal codigoPostal="07300" pais="MEXICO" estado="Distrito Federal" municipio="Gustavo A. Madero" localidad="México" colonia="Lindavista" noExterior="125" calle="Montevideo"/>
+        <cfdi:RegimenFiscal Regimen="Persona física con actividad empresarial y profesional"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA , S.A. DE C.V." rfc="BIO870307QD0">
+        <cfdi:Domicilio codigoPostal="54040" pais="MEXICO" estado="ESTADO DE MEXICO" municipio="TLALNEPANTLA" colonia="LOS PIRULES" noInterior="DESPACHO 804" noExterior="2900" calle="BLVD. MANUEL AVILA CAMACHO"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="38.02" valorUnitario="38.02" descripcion="ESCALERA 1:50 &quot;U&quot;" unidad="PIEZA" cantidad="1"/>
+        <cfdi:Concepto importe="13.19" valorUnitario="13.19" descripcion="MONTACARGAS 1:100" unidad="PIEZA" cantidad="1"/>
+        <cfdi:Concepto importe="4.31" valorUnitario="4.31" descripcion="ACETATO" unidad="PIEZA" cantidad="1"/>
+        <cfdi:Concepto importe="22.16" valorUnitario="22.16" descripcion="AUTOS 1:100 (3 PZ)" unidad="PAQUETE" cantidad="1"/>
+        <cfdi:Concepto importe="11.81" valorUnitario="11.81" descripcion="BARRILES (4 PZ)" unidad="PAQUETE" cantidad="1"/>
+        <cfdi:Concepto importe="27.59" valorUnitario="27.59" descripcion="GENTE CON ROPA CASUAL 1:100 (6 PZ)" unidad="PAQUETE" cantidad="1"/>
+        <cfdi:Concepto importe="52.07" valorUnitario="52.07" descripcion="ANAQUEL  LARGO" unidad="PAQUETE" cantidad="1"/>
+        <cfdi:Concepto importe="102.40" valorUnitario="25.60" descripcion="MALLA CICLÓNICA" unidad="PAQUETE" cantidad="4"/>
+        <cfdi:Concepto importe="25.86" valorUnitario="8.62" descripcion="TRAILER" unidad="PAQUETE" cantidad="3"/>
+        <cfdi:Concepto importe="17.98" valorUnitario="17.98" descripcion="ANAQUEL CHICO" unidad="PAQUETE" cantidad="1"/>
+        <cfdi:Concepto importe="11.81" valorUnitario="11.81" descripcion="OFICINA 1:100 (4 PZ)" unidad="PAQUETE" cantidad="1"/>
+        <cfdi:Concepto importe="32.78" valorUnitario="32.78" descripcion="ANAQUEL MEDIANO" unidad="PIEZA" cantidad="1"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="57.60">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="57.60" tasa="16" impuesto="IVA"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2015-10-25T12:12:23" UUID="fabd08da-c5cf-4fbd-af5b-324611184eb9" noCertificadoSAT="00001000000300171291" selloCFD="GdAWeRxEHErjdoj2WLTWm6nroq1Gf5jx8jPBnl2mUKiztQCYps4dHNmYLmzR/LReDUg85ndAeLKmBBcXXoDoPdKzyTXm4cyGSMk/5rixEF2rT1Y4+vMo1PX5ilqyWHBEMaH4kYUaks1VKDeOtyddX4HZ1hriULw0OI5+izJp5ts=" selloSAT="Wy3EPmn0achxqG5QIyGq7jFvGMOVme/m3Vd5HmWfy5LNHU2I3uLjRb1KTDRkEP2QJTYhk5oUFU2hHLRjailpPQ/P4C3B0TAmlfBvEYZChIqc3iJbwJ0kch6SscFWGiXKpEftOrvCLqGE3nihMJLW+IxJTjHsIBw4jINoVQnDkKs=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+    </cfdi:Complemento>
+</cfdi:Comprobante>

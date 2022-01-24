@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:compac="http://www.cfdi.com.mx/ContpaqiSchemas/addendas/1" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.cfdi.com.mx/ContpaqiSchemas/addendas/1 http://www.cfdi.com.mx/ContpaqiSchemas/addendas/1/Compac.xsd http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="FS" folio="22304" fecha="2014-09-13T13:13:00" sello="Un14asOfUrCsVXBVYRGjQAhtwlxMDo1aWOPdIsTuarDBsdjayi0xvo7gAy5jAqn7egsnUnq0P5HEhVbVYhUbakSqbsR54O1DQgEzWT7pdp2Ayq+udB2aUVo05CIW8s/yTdco8vzw59Z1YR/vTKjVpXZjrmkpnfKIvBuFPu1eIgM=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000202667219" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAyMDI2NjcyMTkwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIyMDE2NTMwMVoXDTE2MTIyMDE2NTMwMVowgcoxJDAiBgNVBAMTG0ZVTUlHQUNJT05FUyBTT0xJUyBTQSBERSBDVjEkMCIGA1UEKRMbRlVNSUdBQ0lPTkVTIFNPTElTIFNBIERFIENWMSQwIgYDVQQKExtGVU1JR0FDSU9ORVMgU09MSVMgU0EgREUgQ1YxJTAjBgNVBC0THEZTTzk0MDkwMVNHOSAvIENFQ0w1NDAzMTlVNEExHjAcBgNVBAUTFSAvIENFQ0w1NDAzMTlIVlpSTlMwODEPMA0GA1UECxMGVU5JREFEMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7jSPKw1YA6+v3qf+xwgp35y4Na0eSalgn+rvEK9UTztrd+dVWXwILftA2RuN3D7uO+Lo+dBIr+Gz9thvPBYtm1RHUp/O6tqQc/io6o2tiRlJpjMna32GOFI5oxKjV7jjlc9rRFUkBKLT+hSXWygMpsgjqEgzy8CDKmPlm6FV7pQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAXDSuwfX08aF2VVAHHQojXABProjFZcwND+y4pEmyyO6qT8AwPHPCoYv/NPMJxYU51stay2ww6XojoYRYABOpKbziU+CgEXxr9hvhIXFk0NPbiRx4zO81Zu3R6SnYziEApY/n4Sp19yMtllKIDpxcPQ3ENFmNw8vJwKxnY+kq41FAYd3C86sxUjF5nUZVZ1TN5nYUOwy1VzqvmS1Nv/J++UksI8CZ4EoLhLBd+hNQt6b9SLxf8hihdaoIacsAJEEWSqTI3xwc3VwrqF1oXszdf5hKcPm7gM8SGso+SF76mEcbDMGWMWC4YMB7SUa8Kvv+JykWmqSV2QgsBJJK5dRQ8w==" subTotal="46.09" TipoCambio="1.00" Moneda="Peso Mexicano" total="53.46" tipoDeComprobante="ingreso" metodoDePago="CHEQUE NOMINATIVO" LugarExpedicion="AV. 5 DE MAYO 976 205, CENTRO, 91700, VERACRUZ, VERACRUZ, VERACRUZ, MEXICO">
+	<cfdi:Emisor rfc="FSO940901SG9" nombre="FUMIGACIONES SOLIS S.A. DE C.V.">
+		<cfdi:DomicilioFiscal calle="AV. 5 DE MAYO" noExterior="976" noInterior="205" colonia="CENTRO" localidad="VERACRUZ" municipio="VERACRUZ" estado="VERACRUZ" pais="MEXICO" codigoPostal="91700"/><cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales"/></cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A DE C.V.">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="LOS PIRULES" localidad="TLALNEPANTLA" municipio="MEXICO" estado="MEXICO" pais="MEXICO" codigoPostal="54040"/></cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="35.45" unidad="No aplica" noIdentificacion="02" descripcion="ASPERSION" valorUnitario="1.30" importe="46.09"/></cfdi:Conceptos><cfdi:Impuestos totalImpuestosTrasladados="7.37">
+		<cfdi:Traslados><cfdi:Traslado impuesto="IVA" tasa="16.00" importe="7.37"/></cfdi:Traslados></cfdi:Impuestos><cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="Un14asOfUrCsVXBVYRGjQAhtwlxMDo1aWOPdIsTuarDBsdjayi0xvo7gAy5jAqn7egsnUnq0P5HEhVbVYhUbakSqbsR54O1DQgEzWT7pdp2Ayq+udB2aUVo05CIW8s/yTdco8vzw59Z1YR/vTKjVpXZjrmkpnfKIvBuFPu1eIgM=" FechaTimbrado="2014-09-13T13:13:33" UUID="C5B23EB2-7B7B-471B-AE96-68EF80FD20E6" noCertificadoSAT="00001000000202864883" version="1.0" selloSAT="nnbJPdJQgCttphZA6kDOSPjDlAsedLtsqA7hRKwYkh7Xj8JE1/4uazqts0XTeEmZO7malZqO6zLTunGDqLbRbeQ5iHwcNpfibc+wN+PnMSydFIgrrPSIcfsO7eXKK3KQOUNvOSe4QtO0LTZZed6gB0lzv7Qq2i/W3JIF9da77Ao="/></cfdi:Complemento><cfdi:Addenda><compac:Compac>
+			<compac:Encabezado>
+				<compac:MGW10008 cSerieDo01="FS" cFolio="22304" cReferen01="77078" cFechaVencimiento="Septiembre 13 2014" cObserva01="48515/14" cTextoEx01="" cTextoEx02="" cTextoEx03="" cFechaEx01="Diciembre 30 1899" cImporte01="0.00" cImporte02="0.00" cImporte03="0.00" cImporte04="0.00" cTotalUn01="35.45" cTipoCam01="1.0000" cPendiente="53.46" cDescuen01="0.00" cDescuen04="0.00" cFechaEn01="30/12/1899" cDestina01="" cNumerog01="" cMensaje01="" cNumeroc01="0.00" cCuentam01="" cPeso="0.00" cImpuesto1="7.37" cImpuesto2="0.00" cImpuesto3="0.00" cRetenci01="0.00" cRetenci02="0.00" cMetodoPag="CHEQUE NOMINATIVO" cCondiPago="" cNumCtaPag="" cLugarExpe="AV. 5 DE MAYO 976 205, CENTRO, 91700, VERACRUZ, VERACRUZ, VERACRUZ, MEXICO">
+					<compac:MGW10045 cEsTrad="3">
+					</compac:MGW10045>
+					<compac:MGW10007 cDescrip01="Factura">
+					</compac:MGW10007>
+					<compac:MGW10034 cNombreM01="Peso Mexicano">
+					</compac:MGW10034>
+					<compac:MGW10002 cCodigoC01="035" cDiasCre01="0" cCurp="" cTextoExtra1="" cTextoExtra2="" cTextoExtra3="" cTextoExtra4="" cTextoExtra5="" cFechaExtra="Diciembre 30 1899" cImporteExtra1="0.00" cImporteExtra2="0.00" cImporteExtra3="0.00" cImporteExtra4="0.00" cImporteExtra5="0.00" cLimiteC01="0.00" cInteres01="0.00" CDenCome01="">
+					</compac:MGW10002>
+					<compac:MGW10001 cCodigoA01="(Ninguno)" cNombreA01="(Ninguno)" cTextoEx01="" cTextoEx02="" cTextoEx03="" cFechaEx01="30/12/1899" cImporte01="0.00" cImporte02="0.00" cImporte03="0.00" cImporte04="0.00">
+					</compac:MGW10001>
+					<compac:MGW10000 cCurpEmp01="" cReprese01="JOSE LUIS CERECEDO CANDELARIA" cNumDonat="" cFecDonat="30 de Diciembre de 1899">
+					</compac:MGW10000>
+					<compac:DirCteEnv cNombreC01="" cNumeroE01="" cNumeroI01="" cColonia="" cCodigoP01="" cTelefono1="" cTelefono2="" cTelefono3="" cTelefono4="" cEmail="" cDireccI01="" cPais="" cEstado="" cCiudad="" cTextoEx01="" cMunicipio="">
+					</compac:DirCteEnv>
+					<compac:DirCteFis cNombreC01="BLVD. MANUEL AVILA CAMACHO" cNumeroE01="2900" cNumeroI01="804" cTelefono1="" cTelefono2="" cTelefono3="" cTelefono4="" cEmail="" cDireccI01="" cTextoEx01="">
+					</compac:DirCteFis>
+					<compac:DirEmp cNombreC01="AV. 5 DE MAYO" cNumeroE01="976" cNumeroI01="205" cTelefono1="9315929" cTelefono2="9315970" cTelefono3="" cTelefono4="" cEmail="fumigacionessolis@prodigy.net.mx" cDireccI01="www.fumigacionessolis.com" cTextoEx01="">
+					</compac:DirEmp>
+					<compac:Funciones f_DoctoOrigen=" " f_NETOCONDESC="46.09" f_TOTALLETRA="CINCUENTA Y TRES PESOS 46/100 " f_TOTALIMPMILLARLETRA1="CUARENTA Y SEIS PESOS 09/100 " f_TOTALIMPMILLARLETRA2="CINCUENTA Y TRES PESOS 46/100 " f_TOTALIMPMILLARLETRA3="CINCUENTA Y TRES PESOS 46/100 " f_TOTALIMPMILLARLETRA4="CINCUENTA Y TRES PESOS 46/100 " f_TOTALIMPMILLARLETRA5="CINCUENTA Y TRES PESOS 46/100 " f_TOTALLETRAING="FIFTY THREE PESOS 46/100 " f_TOTALDESC1MOVTOS="0.00" f_TOTALDESC2MOVTOS="0.00" f_TOTALDESC3MOVTOS="0.00" f_TOTALDESC4MOVTOS="0.00" f_REGIMENFISCAL="Regimen General de Ley Personas Morales" f_EFECTOPAGO="0.00" f_TOTALEFECTOPAGO="53.46" f_TOTALEFECTOPAGOLETRA="CINCUENTA Y TRES PESOS 46/100 " f_NETOSEIMPUESTOSDOC="53.46" f_NETODESCIVADOC0="0.00" f_NETODESCIVADOCEX="0.00" f_NETODESCIVADOC11="0.00" f_NETODESCIVADOC16="46.09" f_NOMBRECONCEPTO="FACTURA CFDI" f_CLASIFCLIENTE1=" " f_CLASIFCLIENTE2=" " f_CLASIFCLIENTE3=" " f_CLASIFCLIENTE4=" " f_CLASIFCLIENTE5=" " f_CLASIFCLIENTE6=" " f_SUBTOTALIEPS="53.46" f_SUBTOTALSINRETCONDESC="53.46" f_SUBTOTALSINRETSINDESC="53.46" f_NETODOCTOIEPSSINDESC="46.09" f_DESCTODOCTOPUNITARIOIEPS="0.00">
+					</compac:Funciones>
+					<compac:Imagenes e_ADMINPAQ=".jpg" i_ADMINPAQ="IMG_ADMINPAQ" e_LOGOEMPRESA=".jpg" i_LOGOEMPRESA="IMG_LOGOEMPRESA" e_CEDULAEMPRESA=".jpg" i_CEDULAEMPRESA="IMG_CEDULAEMPRESA" e_CBB=".bmp" i_CBB="IMG_CBB">
+					</compac:Imagenes>
+				</compac:MGW10008>
+			</compac:Encabezado>
+			<compac:Detalle>
+				<compac:MGW10010 cNumeroM01="1" cSCMovto="" cImpuesto1="7.37" cPorcent01="16.00" cImpuesto2="0.00" cPorcent02="0.00" cImpuesto3="0.00" cPorcent03="0.00" cRetenci01="0.00" cPorcent04="0.00" cRetenci02="0.00" cPorcent05="0.00" cNeto="46.09" cTotal="53.46" cImporte01="0.00" cImporte02="0.00" cImporte03="0.00" cImporte04="0.00" cFechaEx01="30/12/1899" cUnidade02="35.45" cDescuen01="0.00" cPorcent06="0.00" cDescuen02="0.00" cPorcent07="0.00" cDescuen03="0.00" cPorcent08="0.00" cDescuen04="0.00" cPorcent09="0.00" cDescuen05="0.00" cPorcent10="0.00" cReferen01="" cObserva01="ENZIMAS" cTextoEx01="" cTextoEx02="" cTextoEx03="">
+					<compac:MGW10005 cCodigoP01="02" cDescrip01="		" cCodAltern="" cCtaPred="" cNomAltern="" cDescCorta="" cTextoEx01="" cTextoEx02="" cTextoEx03="" cImporte01="0.00" cImporte02="0.00" cImporte03="0.00" cImporte04="0.00" cFechaEx01="30/12/1899">
+					</compac:MGW10005>
+					<compac:MGW10003 cCodigoA01="(Ninguno)" cNombreA01="(Ninguno)">
+					</compac:MGW10003>
+					<compac:Funciones f_CLASIFPRODUCTOMOVTO1=" " f_CLASIFPRODUCTOMOVTO2=" " f_CLASIFPRODUCTOMOVTO3=" " f_CLASIFPRODUCTOMOVTO4=" " f_CLASIFPRODUCTOMOVTO5=" " f_CLASIFPRODUCTOMOVTO6=" " f_NETOCONDESC="46.09" f_NETOMOVTO="1.30" f_NETOMOVTOIEPS="46.09" f_IVANETOMOVTO="0.21" f_PRECIOIVAMOVTO="1.51" f_ABREVIATURAUNIDADNC=" " f_CANTIDADUNIDADNC=" " f_NETODESCIVA16="53.46" f_NUMPARTIDA="1" f_PRECIOUNITCONDESC="1.30" f_PRECIOUNITCONIMPUESTOS="1.5080394744873" f_TOTALPRECIOUNIT="1.30" f_TOTALENTREUNIDSMOVTO="1.51" f_PRECIOUNITARIOCONIEPS="1.30" f_PRECIOUNITCONDESCIEPS="1.30" f_DESCTOPUNITARIOIEPS="0.00" f_IVAMOVTODESCTOIEPS="0.21" f_NETOMOVTOIEPSSINDESC="46.09" f_PRECIOUNITARIOCONIEPSSINDESC="1.30">
+					</compac:Funciones>
+					<compac:MGW10000 cPrecios01="0">
+					</compac:MGW10000>
+				</compac:MGW10010>
+			</compac:Detalle>
+		</compac:Compac>
+	</cfdi:Addenda>
+</cfdi:Comprobante>
+ 

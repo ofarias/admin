@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " folio="85" fecha="2015-09-02T11:36:24" sello="V7p/3/Uhl8eAiF4OvYsJCMkCvmeU2avUaiWVey2LiMdEYBSiOY+DHUWom9Sw8/4f6iTk/hWZOIpkGQ8eXUwhnQvo4GI9Ohcd3Vw30Bm8XD1ttwVLhUN4pY/8epuGQ1LgDMgorQheJIhhQjxOXKOoUkmKwwEQxiPlSHMRi+vJgeA=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000200486045" certificado="MIIEazCCA1OgAwIBAgIUMDAwMDEwMDAwMDAyMDA0ODYwNDUwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDMwNjE2MjAyNloXDTE2MDMwNjE2MjAyNlowgawxIDAeBgNVBAMTF0RJQU5BIERFTCBCT1NRVUUgUk9CTEVTMSAwHgYDVQQpExdESUFOQSBERUwgQk9TUVVFIFJPQkxFUzEgMB4GA1UEChMXRElBTkEgREVMIEJPU1FVRSBST0JMRVMxFjAUBgNVBC0TDUJPUkQ4MTA2MTlBMjYxGzAZBgNVBAUTEkJPUkQ4MTA2MTlNREZTQk4wNzEPMA0GA1UECxMGTWF0cml6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDLhqnf5CCcxiUOWPLciiSokDf0RgiqxX+PUrH7vjr93WQosAXMfhLaTCZcEVvdk4szPD35ZyKsfsUbDyHbiXplSP7gsZLvCfFuCV0MRV8UY/Z6RmmycRcxYyXNo24lburAp7jWiocybBeYIPXbcE+e7BVLfMG/bFY8hBx7ywEBlwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAKGOeHoGA2IDqK3rF49I55exvW2V9LVam6Mc68n7Sj5TA7mIBoL+GRbykuKxQg4Wc1RZK6QBY+M9a1COkBVYbOzvCbwn1ClxCq2quqWi6PAP7UzZMoKC1JrgRKKqMREhNiKdWk1OUXW9Hf2M7tfc7djxuGXg60x2qNUpYpVk6in4kcrj++VTfth2qCHf2jzKpg3y154vmrzgxyryA4Tg6eTbkTQMXicN8NONinpwWGMFidC+yeEeVkbmuK0PWI0L5pcZ35SR6FeZYAE2X3BL1pTfDlE758zbOr82Jm6v6dqKRN54O3T1S9UUszea1Q2sHxqnaW0P2WZMhcnuP16uodg==" subTotal="350.000000" Moneda="MXP" total="406.000000" metodoDePago="no aplica" tipoDeComprobante="ingreso" LugarExpedicion="Estado de Mexico" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="BORD810619A26" nombre="Diana del Bosque Robles">
+		<cfdi:DomicilioFiscal calle="Circuito Fundadores" noExterior="17" noInterior="Local B" colonia="Ciudad Satélite" localidad="Naucalpan de Juárez" municipio="Naucalpan de Juárez" estado="Estado de Mexico" pais="México" codigoPostal="53100" />
+		<cfdi:RegimenFiscal Regimen="no aplica" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="Biotecsa SA de CV">
+		<cfdi:Domicilio calle="Blvd. Manuel Avila Camacho" noExterior="2900" noInterior="804" colonia="Fracc. Los Pirules" municipio="Tlalnepantla" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="N/A" descripcion="CONSUMO" valorUnitario="350.000000" importe="350.000000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="56.000000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="56.000000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2015-09-02T11:36:24" UUID="4FB2422D-20F2-1479-32E7-755C690E6909" noCertificadoSAT="00001000000203392777" selloCFD="V7p/3/Uhl8eAiF4OvYsJCMkCvmeU2avUaiWVey2LiMdEYBSiOY+DHUWom9Sw8/4f6iTk/hWZOIpkGQ8eXUwhnQvo4GI9Ohcd3Vw30Bm8XD1ttwVLhUN4pY/8epuGQ1LgDMgorQheJIhhQjxOXKOoUkmKwwEQxiPlSHMRi+vJgeA=" selloSAT="XryGV+yVvZwHV/sMHg9JsG08atXDsYYaib79gcGlXUWSXgitefIQ9EdWi74hcLlczM4o1XZr69xXXDoOu4lZAv65Pf+9YH4IcEuHoI80qbb3rnb9Je71kEGnfO5wlv/vu0FWrW6l2MFAagspdxgfmuUEIOgwsJ2tSCCo70Lq6+Y=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" tipoDeComprobante="ingreso" serie="B" folio="16290" fecha="2015-06-03T17:23:25" LugarExpedicion="MEXICO DISTRITO FEDERAL 06470" sello="DYLPghWx8bEpoZIjDsaUQmhcp/yIMMN47nVGzT6komFvaN22KsJNQycMcYod2/2wxyWydiCgqKOkyax/JfkqdfBFi68eBi6+hbw/OkI09BoodANgvNGU/kFYiRPY3oLfvrd26BmD8Oc/vMB8q0Hlam3X3tPMlEn43oyKzG/CVGA=" noCertificado="00001000000202174530" certificado="MIIEijCCA3KgAwIBAgIUMDAwMDEwMDAwMDAyMDIxNzQ1MzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTAxOTE2MjMwMloXDTE2MTAxOTE2MjMwMlowgcsxJDAiBgNVBAMTG1BST1ZFRURPUkEgT0ZJRkFJUiBTQSBERSBDVjEkMCIGA1UEKRMbUFJPVkVFRE9SQSBPRklGQUlSIFNBIERFIENWMSQwIgYDVQQKExtQUk9WRUVET1JBIE9GSUZBSVIgU0EgREUgQ1YxJTAjBgNVBC0THFBPRjA1MDQxOUQ4OCAvIEhBQUo2MTExMDhETjMxHjAcBgNVBAUTFSAvIEhBQUo2MTExMDhIUExDTEMwMzEQMA4GA1UECxMHT0ZJRkFJUjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA8naZz5kLR16OmHfL9RCRLfrt+DBh3syR+NJclcOpTzVt4rYEe66HgRVZM0iCybBAoIwzp6fki6o6ikKp0JhDg5uiKZ1KknI4FMHTFol3AVY8Gn0r15g74Z9StxvXYq4cWkyEH9oSVVeVYySqLjgQivyYeJL1PKAFtxVj7mvmYycCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAFoeA0dDoye7IX+pULs1fZT7nm7eFuBDvTDUdePDj6qNQkMQBRmsvXhS5/EkQZBvGwdLKszL8FPJJoZFxiZnjWthPAgPBur1JpiWWZPhoaEKpVEbvAXlNSHr5oTbd3IxqgMIVaM2Kh1Tem7bdtORgphO7LL/7diPbeO/CBp/uftti71FyIB92QZdMOl8iiLQZAxBnwhB6uq7889NcvnW6Z556+P2Gcl+uww48X8EV+WARhhfgGJaWc/Cpg2jS0WFy4zoeuUyNVK2I1+UE8Wem5VEbPaPxZ2L4doe12AG4AHFM2UULdOzM5xVmRTMi0kIV2sfsi39ceeXFDiSFT+oOEQ=" total="2213.42" subTotal="1908.12" Moneda="MXN" formaDePago="PAGO EN UNA SOLA EXHIBICION" condicionesDePago="CREDITO" metodoDePago="TRANSFERENCIA" NumCtaPago="4750">
+	<cfdi:Emisor rfc="POF050419D88" nombre="PROVEEDORA OFIFAIR SA DE CV">
+		<cfdi:DomicilioFiscal calle="MANUEL MA. CONTRERAS" noExterior="49" colonia="SAN RAFAEL" municipio="MEXICO" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06470" />
+		<cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S. A. DE C. V.,">
+		<cfdi:Domicilio calle="BLVD. M. AVILA CAMACHO" noExterior="#2900-804" colonia="COL. LOS PIRULES," municipio="TLALNEPANTLA," estado="EDO. DE MEXICO, C.P." pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="2.00" unidad="CAJA" noIdentificacion="1003" descripcion="PAPEL BOND FACIA CARTA 37KG BLANCO" valorUnitario="503.75" importe="1007.50">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.00" unidad="CIENTOS" noIdentificacion="7017" descripcion="PAPEL OPALINAFORTEC BLANCA CARTA 120G" valorUnitario="38.80" importe="38.80">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.00" unidad="PIEZA" noIdentificacion="2735" descripcion="BANDERAS PARA SEÑALAR POST-IT #683-5CF MINI C/5 COL." valorUnitario="41.40" importe="207.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="2507" descripcion="ENGRAPADORA BOSTITCH B-400" valorUnitario="66.56" importe="66.56">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="12.00" unidad="PIEZA" noIdentificacion="4521A" descripcion="BOLIGRAFO BIC ROLLER CRISTAL GEL AZUL" valorUnitario="4.93" importe="59.16">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="12.00" unidad="PIEZA" noIdentificacion="4521N" descripcion="BOLIGRAFO BIC ROLLER CRISTAL GEL NEGRO" valorUnitario="4.93" importe="59.16">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="0594" descripcion="CUADERNO SCRIBE # S2970/7970 PROF 100H RAY" valorUnitario="9.11" importe="18.22">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="0597" descripcion="CUADERNO SCRIBE # S2973/7973 PROF 100H C/7MM" valorUnitario="11.03" importe="22.06">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4.00" unidad="PIEZA" noIdentificacion="0491N" descripcion="BLOCK NOTAS ADHESIVAS CUBO 3X3&quot; NEON C/400" valorUnitario="27.78" importe="111.12">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="3961" descripcion="BLOCK NOTAS ADHESIVAS MINI CUBO 2X2&quot; NEON C/400" valorUnitario="13.77" importe="27.54">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.00" unidad="PIEZA" noIdentificacion="9365" descripcion="BROCHE PARA GAFETE TIPO YOYO" valorUnitario="11.05" importe="221.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.00" unidad="PIEZA" noIdentificacion="5907" descripcion="GAFETE DE VINIL 8.5X10 CHICO HORIZONTAL" valorUnitario="3.50" importe="70.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="305.30">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="305.30" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+	<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="DYLPghWx8bEpoZIjDsaUQmhcp/yIMMN47nVGzT6komFvaN22KsJNQycMcYod2/2wxyWydiCgqKOkyax/JfkqdfBFi68eBi6+hbw/OkI09BoodANgvNGU/kFYiRPY3oLfvrd26BmD8Oc/vMB8q0Hlam3X3tPMlEn43oyKzG/CVGA=" FechaTimbrado="2015-06-03T17:29:19" UUID="E8AE793A-59BF-49F9-BBBE-311EF8BA4CED" noCertificadoSAT="00001000000202864530" version="1.0" selloSAT="ZLgoxhhXnE0l81CEZbgPRim8rzrVXlmXkdCbC3YwKceDOPcSAavdbOJJntTxzkUcdtd1Ose7VNVyt1UFJS9G3X+3biu05tO2t2fsANotKWw1lv31mvdV8UpnoIWz55r3JAY6TZvjzx8agZCk1hXhtICXkuYMrqEcoFnihN5+6Pk=" /></cfdi:Complemento>
+</cfdi:Comprobante>

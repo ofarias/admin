@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" Version="3.3" Serie="F" Folio="1426" Fecha="2020-01-21T11:01:55" Sello="geounIT+xTtZUKMxEMuh4XKtumXBxcQWEhUGqrO8JnBJgUJEKF52jX73VeFO+lJNruF8l1B8JfUOOuxb2aoxhddp+lUM/2uD7aLQ3XuL3WYtMGBME975yXnaFye+vQtbaczRXl6U81jLZiKNwY6+7fZLiQqvpFOJ4BuKX+J/tEQZjh8kLR11d8rh9EIWmGOR+j4LDg8AM5wkXxJbvNRcnbQ6b16PumrvoZHo4legRGmDmLTFENhqXfRCZVSmNe2eFRA8gsXulEpqblQjrSm8/c2he3hzYCYj+qbIW37kVT9XbduoOdnQ9xJnWlGjMXcZbANrWgqcyN4QzuZ6G++PKg==" FormaPago="03" NoCertificado="00001000000406380787" Certificado="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" SubTotal="16878.42" Moneda="MXN" Total="19579.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="06000">
+  <cfdi:Emisor Rfc="ICO071016BT1" Nombre="IG COMICS SA DE CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="SORA8707159F5" Nombre="Alejandro Emilio Soriano Reyes" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698411462" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Disney: Hunchback of ND - Quasimodo - Fool" ValorUnitario="169.74" Importe="339.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698411479" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Disney: Hunchback of ND - Esmeralda" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698411455" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Disney: Hunchback of ND - Quasimodo" ValorUnitario="169.827586" Importe="509.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="509.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="81.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698449908" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: Fantastic Four - Mole Man" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698449922" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: Fantastic Four - Silver Surfer (MT)" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698449946" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: Fantastic Four - Super-Skrull" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698449861" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: Fantastic Four - Invisible Girl" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698449939" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: Fantastic Four - H.E.R.B.I.E." ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698449878" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: Fantastic Four - Human Torch" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698450096" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: Fantastic Four - Galactus" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698450065" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: Fantastic Four - Human Torch (Suited)" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698449915" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: Fantastic Four - Doctor Doom" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698449854" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: Fantastic Four - Mister Fantastic " ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698449885" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: Fantastic Four - The Thing" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698472432" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Star Wars: Rise Of Skywalker - KOR Scyt" ValorUnitario="206.896552" Importe="206.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="206.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="33.104" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698472418" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Star Wars: Rise Of Skywalker - KOR Blas" ValorUnitario="206.896552" Importe="206.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="206.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="33.104" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698445993" Cantidad="6" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Star Wars: Rise Of Skywalker - Kylo Ren (Electronic)" ValorUnitario="241.37931" Importe="1448.28">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1448.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="231.7248" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698445146" Cantidad="6" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Umbrella Academy - Number Five w/CHASE" ValorUnitario="169.827586" Importe="1018.97">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1018.97" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="163.0352" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698445122" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Umbrella Academy - Allison Hargreeves" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698450553" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Umbrella Academy - Hazel w/Mask" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698445153" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Umbrella Academy - Ben Hargreeves" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698445115" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Umbrella Academy - Diego Hargreeves" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698445139" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Umbrella Academy - Klaus Hargreeves" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698445160" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Umbrella Academy - Vanya Hargreeves w/CHASE " ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698450546" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Umbrella Academy - Cha Cha w/Mask" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698445177" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Umbrella Academy - Pogo" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698446587" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP NFL: Packers - Aaron Rodgers (SB Champions XLV" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698442602" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Animation: DBZ - Goku (BU) (World Tournament)" ValorUnitario="169.827586" Importe="509.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="509.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="81.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698430081" Cantidad="6" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Animation: DBZ S6 - SS2 Vegeta w/ Chase (GW)" ValorUnitario="169.827586" Importe="1018.97">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1018.97" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="163.0352" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698372626" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Heroes: Batman 80th - Batman (1997)" ValorUnitario="169.827586" Importe="509.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="509.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="81.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698443678" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP DC: Harley Quinn (Caution Tape)" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698443760" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP DC: Harley Quinn (Roller Derby)" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698408158" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Movies: Gladiator - Maximus" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698445108" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Umbrella Academy - Luther Hargreeves" ValorUnitario="169.827586" Importe="339.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="339.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698344562" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Riverdale - Dream Sequence - Veronica" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698385800" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Big Bang Theory S2 - Sheldon" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698335140" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: MS 10 - Groot (Chrome)" ValorUnitario="189.655172" Importe="189.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="189.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698407144" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Marvel: 80th - First Appearance - Cyclops" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698401722" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Comics: Garfield - Garfield" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698387217" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Animation: Yu Yu Hakusho - Kuwabara" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698402422" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Animation: BT21 - Koya" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698401029" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Disney: Little Mermaid - Ariel w/bag" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698401012" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Disney: Little Mermaid - Ariel (Purple Dress)" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698448192" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: GoT - Arya w/Two Headed Spear" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698435024" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Movies: Dark Fate - Sarah Connor w/ Chase" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698332514" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Movies: LOTR/Hobbit S4 - Witch King" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698352734" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="VYNL: Fortnite S1a -2PK- Rex &amp; Tricera Ops" ValorUnitario="232.758621" Importe="232.76">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="232.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="37.2416" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="10111301" NoIdentificacion="889698394932" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Keychains: GB - Stay Puft" ValorUnitario="94.827586" Importe="379.31">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="379.31" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="60.6896" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698377522" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Keychain: Alien 40th - Xenomorph" ValorUnitario="94.827586" Importe="379.31">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="379.31" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="60.6896" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698370554" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Keychain: Toy Story - Alien" ValorUnitario="94.827586" Importe="379.31">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="379.31" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="60.6896" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698385787" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP TV: Big Bang Theory S2 - Howard" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698317511" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Keychain: Monsters Inc. - Sulley" ValorUnitario="94.827586" Importe="379.31">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="379.31" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="60.6896" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698370134" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP: Toy Story - Bullseye" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698367219" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP Games: First Light S1 - Pop 23" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141000" NoIdentificacion="889698370110" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="POP: Toy Story - Mrs. Nesbit" ValorUnitario="169.827586" Importe="169.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="169.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="2700.58">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2700.58" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="A00A14B8-A4BA-C84D-8987-2609A86E7C0C" FechaTimbrado="2020-01-21T11:01:59" RfcProvCertif="SCD110105654" SelloCFD="geounIT+xTtZUKMxEMuh4XKtumXBxcQWEhUGqrO8JnBJgUJEKF52jX73VeFO+lJNruF8l1B8JfUOOuxb2aoxhddp+lUM/2uD7aLQ3XuL3WYtMGBME975yXnaFye+vQtbaczRXl6U81jLZiKNwY6+7fZLiQqvpFOJ4BuKX+J/tEQZjh8kLR11d8rh9EIWmGOR+j4LDg8AM5wkXxJbvNRcnbQ6b16PumrvoZHo4legRGmDmLTFENhqXfRCZVSmNe2eFRA8gsXulEpqblQjrSm8/c2he3hzYCYj+qbIW37kVT9XbduoOdnQ9xJnWlGjMXcZbANrWgqcyN4QzuZ6G++PKg==" NoCertificadoSAT="00001000000502000436" SelloSAT="q9ktz08PyaZo/5IXicxcFt8tnRSQq2VWteaDKNSOYaBTR9Hu80uAYLWaQvTnySY4HX1U1FIr56PwAyy5I+NB6VPjO+z0nMKU+R8TvsAkZjXkmYg8FeAb9xvOj0PNsgOdVuYPoIqTSVtOtd8fE9lXT2ljL1IpnbMMnOdmoR37EqmiRYgChEUFnn6DGO9E8ecLaKxSSdc+gu892HCQwD1mUWWMQLTSLTsJjLVVF1kQOevxLcDWN90N2cQNxAOziqLBPihqdBunZXQE3R/RsAFQ7SPoiGUSL6Bw0CtLeU3Vwqs8T8/Qjjc1iQPdnmc+buMFjY3udyAFrn7WpHYkdhYINw==" />
+</cfdi:Complemento></cfdi:Comprobante>

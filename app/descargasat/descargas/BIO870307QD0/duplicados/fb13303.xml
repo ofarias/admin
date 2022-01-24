@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" tipoDeComprobante="ingreso" serie="B" folio="13303" fecha="2015-02-23T17:20:22" LugarExpedicion="MEXICO DISTRITO FEDERAL 06470" sello="JM90X1ejn3z4mQkwXC7BLMg7TXRjnUSWHSpdCKHRR0/kFH1alcqsETSi10LdbduqiK/BfSMXnyKoaObJBOMUW3rIMvK7EcWPI+Burobr41yzxI/0rg2d9axfzC0Nm8Q7nqJOFTXQRH2jyEZ0+NFFIYxHpQhtsFbH7xxaPVpM2ZM=" noCertificado="00001000000202174530" certificado="MIIEijCCA3KgAwIBAgIUMDAwMDEwMDAwMDAyMDIxNzQ1MzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTAxOTE2MjMwMloXDTE2MTAxOTE2MjMwMlowgcsxJDAiBgNVBAMTG1BST1ZFRURPUkEgT0ZJRkFJUiBTQSBERSBDVjEkMCIGA1UEKRMbUFJPVkVFRE9SQSBPRklGQUlSIFNBIERFIENWMSQwIgYDVQQKExtQUk9WRUVET1JBIE9GSUZBSVIgU0EgREUgQ1YxJTAjBgNVBC0THFBPRjA1MDQxOUQ4OCAvIEhBQUo2MTExMDhETjMxHjAcBgNVBAUTFSAvIEhBQUo2MTExMDhIUExDTEMwMzEQMA4GA1UECxMHT0ZJRkFJUjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA8naZz5kLR16OmHfL9RCRLfrt+DBh3syR+NJclcOpTzVt4rYEe66HgRVZM0iCybBAoIwzp6fki6o6ikKp0JhDg5uiKZ1KknI4FMHTFol3AVY8Gn0r15g74Z9StxvXYq4cWkyEH9oSVVeVYySqLjgQivyYeJL1PKAFtxVj7mvmYycCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAFoeA0dDoye7IX+pULs1fZT7nm7eFuBDvTDUdePDj6qNQkMQBRmsvXhS5/EkQZBvGwdLKszL8FPJJoZFxiZnjWthPAgPBur1JpiWWZPhoaEKpVEbvAXlNSHr5oTbd3IxqgMIVaM2Kh1Tem7bdtORgphO7LL/7diPbeO/CBp/uftti71FyIB92QZdMOl8iiLQZAxBnwhB6uq7889NcvnW6Z556+P2Gcl+uww48X8EV+WARhhfgGJaWc/Cpg2jS0WFy4zoeuUyNVK2I1+UE8Wem5VEbPaPxZ2L4doe12AG4AHFM2UULdOzM5xVmRTMi0kIV2sfsi39ceeXFDiSFT+oOEQ=" total="667.78" subTotal="575.67" formaDePago="PAGO EN UNA SOLA EXHIBICION" condicionesDePago="CREDITO" metodoDePago="TRANSFERENCIA" NumCtaPago="4750">
+	<cfdi:Emisor rfc="POF050419D88" nombre="PROVEEDORA OFIFAIR SA DE CV">
+		<cfdi:DomicilioFiscal calle="MANUEL MA. CONTRERAS" noExterior="49" colonia="SAN RAFAEL" municipio="MEXICO" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06470"/>
+		<cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S. A. DE C. V.,">
+		<cfdi:Domicilio calle="BLVD. M. AVILA CAMACHO" noExterior="#2900-804" colonia="COL. LOS PIRULES," municipio="TLALNEPANTLA," estado="EDO. DE MEXICO, C.P." pais="MEXICO" codigoPostal="54040"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="2.00" unidad="PIEZA" noIdentificacion="8917D" descripcion="CARPETA FORTEC VINIL F-TRANS CTA4&quot; EN D BLANCA" valorUnitario="68.39" importe="136.78">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="200.00" unidad="PIEZA" noIdentificacion="3128" descripcion="MICA KINERA PROTECTOR HOJA 360 CARTA" valorUnitario="0.75" importe="150.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="100.00" unidad="PIEZA" noIdentificacion="2321C" descripcion="FOLDER CARTULINA IRASA CARTA CREMA" valorUnitario="0.69" importe="69.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="100.00" unidad="PIEZA" noIdentificacion="2321A" descripcion="FOLDER CARTULINA IRASA CARTA AZUL" valorUnitario="0.84" importe="84.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="100.00" unidad="PIEZA" noIdentificacion="2321D" descripcion="FOLDER CARTULINA IRASA CARTA ROSA" valorUnitario="0.84" importe="84.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="3172" descripcion="PORTACLIP SABLON HUMO CON IMAN" valorUnitario="25.48" importe="25.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.00" unidad="CIENTOS" noIdentificacion="3033C" descripcion="PAPEL COPY COLOR CARTA COLORES SURTIDOS C/100" valorUnitario="23.71" importe="23.71">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.00" unidad="PIEZA" noIdentificacion="0276" descripcion="REFUERZO ENGOMADO LESA PAQ. C/100" valorUnitario="2.70" importe="2.70">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="92.11">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="92.11"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="JM90X1ejn3z4mQkwXC7BLMg7TXRjnUSWHSpdCKHRR0/kFH1alcqsETSi10LdbduqiK/BfSMXnyKoaObJBOMUW3rIMvK7EcWPI+Burobr41yzxI/0rg2d9axfzC0Nm8Q7nqJOFTXQRH2jyEZ0+NFFIYxHpQhtsFbH7xxaPVpM2ZM=" FechaTimbrado="2015-02-23T17:25:48" UUID="618F3AE7-1DAF-41A4-A7F9-8667FF7CCA1D" noCertificadoSAT="00001000000202864530" version="1.0" selloSAT="nphBy/bt+1BZaoAMUrnN/Vvpc/9STcKncPXkyh5Snyk8gevI6G7fEb5O8UXwFUOe6Tyfaj6gBekf5rocrJGrFA2TE5kerM6MgV0AOKksOgluGlGrOaOXa1zGpRs3WwDGqDlZfXfbfmKDXMkxqvHZDx4iLPl+ouJkTzByGVAZFXo="/></cfdi:Complemento>
+</cfdi:Comprobante>

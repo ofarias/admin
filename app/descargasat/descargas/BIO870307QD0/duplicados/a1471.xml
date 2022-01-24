@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="MEXICO,df" Moneda="MXN" TipoCambio="1" certificado="MIIETjCCAzagAwIBAgIUMDAwMDEwMDAwMDAzMDIwOTAyNDcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjcyMzU4MDBaFw0xNzEyMjcyMzU4MDBaMIGaMRowGAYDVQQDExFFREdBUiBBUkNFIEdBUkNJQTEaMBgGA1UEKRMRRURHQVIgQVJDRSBHQVJDSUExGjAYBgNVBAoTEUVER0FSIEFSQ0UgR0FSQ0lBMRYwFAYDVQQtEw1BRUdFODAxMjE2NVUzMRswGQYDVQQFExJBRUdFODAxMjE2SERGUlJEMDgxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAgwWrSt2J4umq6Lhxg8agAUawc6SEpKLXwbT8rH7Uy+WQOT3cGrqa+UruxSJOSFX7p4RrqTNHiyMIXcoTHJrJ5QxsBZaIhj2VMqZpv9geHrn59hm8kbMkZLMT1U94tMkKZESgdKFyjLxSa91upJYboyWzGsKuUd/i0cEpmL3hoJkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAG0nK4ICOVyF59T4x/arjxTe0rRRRxeqYvQxo203cetsRG/CFC7soRuf+gBtXCSxNa7jeMmjv4Fyeivb0TzFNm5rFuweFxL/HIhMX5WX34Yla+JIicVMIKwoLxzDnFj/KT1zLs4oPSj8JJJ7SpXbiCQXMLzHZZGSeQ7e71F2IsHicUiJ/D31FvgBP3SUaV+1T19h8lttXP8l5mPIeZZS5FeChSoe25H/JrnP29XdRbG5Ukm4RdVQ1mIlPfyRTtV/10RRL/tQHBu9wDkpTCG46fir6mPN/wJq6xTzu9G4pmVicvwoBC7LV0LwbmfaeLigb8m27FthJVAnM8S+f6pQKJ8=" fecha="2014-10-30T10:45:26" folio="1471" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="EFECTIVO" noCertificado="00001000000302090247" sello="KbmIZpzGiqhUQ10cK0/CyiZ9dlbgGasGWI1CiOcc5P+n8DKcuEIi3F5/lVWEE/y39Y56MjZxXaeoZyF9tHT+ENnlIq3JosTLAGdeEAtuRXz1BFfgMKc5WcxDIlMrSZdJNyj16kKdxOwQHqvmiC2q5C5j+S/yrjDKVRPVDzQfsvw=" serie="A" subTotal="411.21" tipoDeComprobante="ingreso" total="477.00" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+<cfdi:Emisor nombre="EDGAR ARCE GARCIA" rfc="AEGE8012165U3">
+<cfdi:DomicilioFiscal calle="CARRETERA CUAUTITLAN TEOLOYUCAN 14" codigoPostal="54714" colonia="PARQUE INDUSTRIAL XHALA" estado="MEXICO" municipio="CUAUTITLAN IZCALLI" pais="MEXICO"/>
+<cfdi:ExpedidoEn calle="CARRETERA CUAUTITLAN TEOLOYUCAN 14" codigoPostal="54714" colonia="PARQUE INDUSTRIAL XHALA" estado="MEXICO" municipio="CUAUTITLAN IZCALLI" pais="MEXICO"/>
+<cfdi:RegimenFiscal Regimen="REGIMEN DE ACTIV. EMPRESARIALES DE PERSONAS FISICAS"/>
+</cfdi:Emisor>
+<cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+<cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO 804 29000" codigoPostal="54040" colonia="FRACC LOS PIRULES" estado="EDO MEX" municipio="TLALNEPANTLA" pais="MEXICO"/>
+</cfdi:Receptor>
+<cfdi:Conceptos>
+<cfdi:Concepto cantidad="1.00" descripcion="14238 FAJA CON TIRANTES AJUSTABLES," importe="137.07" unidad="Pieza" valorUnitario="137.07"/>
+<cfdi:Concepto cantidad="2.00" descripcion="10953 FAJA CON TIRANTES AJUSTABLES,T" importe="274.14" unidad="Pieza" valorUnitario="137.07"/>
+</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosRetenidos="0.00" totalImpuestosTrasladados="0.00">
+<cfdi:Retenciones>
+<cfdi:Retencion importe="0.00" impuesto="IVA"/>
+<cfdi:Retencion importe="0.00" impuesto="ISR"/>
+</cfdi:Retenciones>
+<cfdi:Traslados>
+<cfdi:Traslado importe="65.79" impuesto="IVA" tasa="16"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital FechaTimbrado="2014-10-30T10:56:18" UUID="6346410A-A7F7-4906-9DD0-E44B96D1D67C" noCertificadoSAT="00001000000200005634" selloCFD="KbmIZpzGiqhUQ10cK0/CyiZ9dlbgGasGWI1CiOcc5P+n8DKcuEIi3F5/lVWEE/y39Y56MjZxXaeoZyF9tHT+ENnlIq3JosTLAGdeEAtuRXz1BFfgMKc5WcxDIlMrSZdJNyj16kKdxOwQHqvmiC2q5C5j+S/yrjDKVRPVDzQfsvw=" selloSAT="lZbBTha5t60PsHBVC/APIVJ8zGNvBIPiYjNOCD5kXGns9rhSxm22Aia9Y0fssA6ywNvCJCiDl+piGrvEfm7ElWrp+wscIQ18xsxGFY9vY1I6wA1rLzBoApOg37eIY5L7/hoSv5gop36gEqQBMY6ldDrcmZdlI2v1BUrk+y7B5mw=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital"/>
+
+</cfdi:Complemento>
+</cfdi:Comprobante>

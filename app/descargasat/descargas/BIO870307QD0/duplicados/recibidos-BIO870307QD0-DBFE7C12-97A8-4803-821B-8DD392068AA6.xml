@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" serie="VALLEDORAD" folio="7642" fecha="2016-06-07T16:10:04" sello="oTcraIs4Clj6O7FSGw6woNd+CqSQdI2cftK6Xdz3qlaMWW5wlWvPog+in2x6BTAI3hRBpknJKxGjYPycdfhK0ZiU8rNksgiN9EcDSmzAq3pga0+gwKvdKs2uFLJR45YbD0p9Th8d+Xq7FE/6HVSFHB6s6ua3ABxwvKUgQzwYH7E=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000202340930" certificado="MIIEcTCCA1mgAwIBAgIUMDAwMDEwMDAwMDAyMDIzNDA5MzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTExMzIyMjY0OFoXDTE2MTExMzIyMjY0OFowgbIxHDAaBgNVBAMTE1BSQURPUyBUR0kgU0EgREUgQ1YxHDAaBgNVBCkTE1BSQURPUyBUR0kgU0EgREUgQ1YxHDAaBgNVBAoTE1BSQURPUyBUR0kgU0EgREUgQ1YxJTAjBgNVBC0THFBURzA5MTIwOE5ENiAvIFRPQVI2MDEyMjgxSjcxHjAcBgNVBAUTFSAvIFRPQVI2MDEyMjhIREZSTEwwMTEPMA0GA1UECxMGVU5JREFEMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDF8kbafqHy3uzScdVjUpZFwwJ+L9QPzi3Eoxeb4FEEFqQAtDiTgTV7AHzkxVejcDevGEBSnBXXlKdRH0UuiQUKmm5RJgaPYMMOUbdcC1B3rGaLB/6rvSrc6v/WwxhBFHTmntp6sUyJ2yd+txpD+KT6yGCq8JAZlaRLlq8/jYNNbwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAQZtM23W5JoQhP/sjyGv9xWUhQDkdY4552VdrcJvf94Flbt30McaTtgZ+bb1J9u2OHkZ/w2sf3WqPBD/MZ+/CwLJ0AzdVI7NKqd3m9sdTuzmKXcq8wbRm5CHhfr6PWYYXoGOv5/T2fZGQHlNWY4b/RvHzjhgMXXhosxCaaVUSOVN4xAkZ1fJpKpHWauKY2UE8PXh6PrddexmXcOL20CtLaSxxVw5KdNf9i+zHtwLC+SuiNDMM7XxiOHr4zqK7+cVKC8K7gCTkzq3z5cAe+vBiPhnO7h+aT/IhQBD3eAPS1UPP1T01Ma2iMSGmGUV9e4seyuX8QeAsFJpMifTYgcM4PQ==" subTotal="1480.16" descuento="0.00" TipoCambio="1.0000" Moneda="MXN" total="1717.00" tipoDeComprobante="ingreso" metodoDePago="TARJETA" LugarExpedicion="México, DISTRITO FEDERAL" MontoFolioFiscalOrig="0.00" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor rfc="PTG091208ND6" nombre="PRADOS TGI S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="Descartes" noExterior="54" noInterior="Piso 1" colonia="Nueva Anzures" municipio="Miguel Hidalgo" estado="DISTRITO FEDERAL" pais="México" codigoPostal="11590" />
+    <cfdi:ExpedidoEn calle="Autopista Mexico, Qro" noExterior="3130" noInterior="Local 201" colonia="Valle Dorado" municipio="Tlalnepantla de Baz" estado="ESTADO DE MEXICO" pais="México" codigoPostal="54020" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MX" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="4.00" unidad="EA" descripcion="Jalapenos" valorUnitario="0.00" importe="0.00" />
+    <cfdi:Concepto cantidad="4.00" unidad="EA" descripcion="Mayonesa" valorUnitario="0.00" importe="0.00" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Ciel Blue Agua Mineral" valorUnitario="33.62" importe="33.62" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Hamburguesa con queso" valorUnitario="142.24" importe="142.24" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Brownie de Chocolate" valorUnitario="100.00" importe="100.00" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Cafe Americano" valorUnitario="29.31" importe="29.31" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Limonada" valorUnitario="35.34" importe="35.34" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Hamburguesa con queso" valorUnitario="142.24" importe="142.24" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Cafe Capuchino" valorUnitario="34.48" importe="34.48" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Limonada" valorUnitario="35.34" importe="35.34" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Cowboy Burger" valorUnitario="159.48" importe="159.48" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Cafe Capuchino" valorUnitario="34.48" importe="34.48" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Limonada" valorUnitario="35.34" importe="35.34" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Hamburguesa Jack Daniels" valorUnitario="182.76" importe="182.76" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="XX 20 oz Barril" valorUnitario="61.21" importe="61.21" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Hamburguesa Jack Daniels" valorUnitario="182.76" importe="182.76" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Ciel Blue Agua Mineral" valorUnitario="33.62" importe="33.62" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="XX 20 oz Barril" valorUnitario="61.21" importe="61.21" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Hamburguesa con queso" valorUnitario="142.24" importe="142.24" />
+    <cfdi:Concepto cantidad="1.00" unidad="EA" descripcion="Cafe Capuchino" valorUnitario="34.48" importe="34.48" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="236.83">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="236.83" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="dbfe7c12-97a8-4803-821b-8dd392068aa6" FechaTimbrado="2016-06-07T16:09:07" selloCFD="oTcraIs4Clj6O7FSGw6woNd+CqSQdI2cftK6Xdz3qlaMWW5wlWvPog+in2x6BTAI3hRBpknJKxGjYPycdfhK0ZiU8rNksgiN9EcDSmzAq3pga0+gwKvdKs2uFLJR45YbD0p9Th8d+Xq7FE/6HVSFHB6s6ua3ABxwvKUgQzwYH7E=" noCertificadoSAT="00001000000300171326" selloSAT="DLf7Wdsg9BE04KoxElVNTKLWyOp70D1pyIjNAXlmu8H1IxlLyAS4bvRndJCRxtliSN4Z101ETMtV7+nLo41w9TVXVMQo6xAwSi/Dd9rTeqGBHOSqQilYIPc1ZKuObWfEYnzAcwvtOXjOdAmaw7QENA3d5CabQC+xNsAC6UmfUPU=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

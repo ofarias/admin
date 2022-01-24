@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd" serie="SL" folio="470" fecha="2016-06-13T22:47:05" sello="QX8udK4GoUnzPqKpsScM/tlnVStwN3d1q0M1eV6rQL9gEZnAcSV9W5yWNt/lOEvHIxfaWkmUSERU5ZZ+81XnYRDNEawuHnT24UXBWVulIY+abycrOvPm4iuZHhEkMEiFy0EfbizvcuPZuj2md5wDk34xx/ZK/P/6fXn0EFVblNM=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000305436429" certificado="MIIEZTCCA02gAwIBAgIUMDAwMDEwMDAwMDAzMDU0MzY0MjkwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDExMDQxNzE0MTVaFw0xODExMDQxNzE0MTVaMIGxMRgwFgYDVQQDEw9FWERFVkkgU0EgREUgQ1YxGDAWBgNVBCkTD0VYREVWSSBTQSBERSBDVjEYMBYGA1UEChMPRVhERVZJIFNBIERFIENWMSUwIwYDVQQtExxFWEQxNDAxMjk5TTMgLyBHT0ZKNzIwOTE0MkcxMR4wHAYDVQQFExUgLyBHT0ZKNzIwOTE0SFNQTkxOMDAxGjAYBgNVBAsTEVRBUkFOVE8gTlVNRVJPIDMxMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCfNyoQZ4s7QgViXxY5NxjzlC2/64O0vCk/HEd+Teqk3RVvzz6u3TVD/227QG5U+18OHwN4QWxabJTwBIkw7I/84dMfVAaYZUes63apBjN/dnZxnfTH6f+5ja/E4tTsXbGBPt/sAqivMcTVNnMnvMm3rkad//uwQ9H2lQ1Ocnlv3QIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAS750XQXWCMbUKSB9N0NfamS04VACoxalQkKk1IHr1iwr5uVt0MsS3apOy4Bh3BvrftqTdcJPPbfIVdQML5LLAnbRj4wkz51zb5EBJBXzyz8yw9qq3g9rDMWZy5Y4YrJCIRT37Zaw/kXzi0964i3KtQKh29xYwDtwj2j4QM+YTrRJdjhTCAfAGbrrzARpLFlRSLbxZoGaZ84qMoPLKgcKGODIOeeDGDO3Tf9rl+3PkzVgvgfvFxbFUMbcZMt6x3X4FwpHvU0K3HMlOM70Rg1wsuaTMhWLXTPOjzFDl1tcgryW8GtQlApMd3ZvfP7Ljs5mIrgLirnymLyycLm4DmX8ZQ==" subTotal="2592.000000" Moneda="MXP" total="3084.480000" metodoDePago="no aplica" tipoDeComprobante="ingreso" LugarExpedicion="San Luis Potosi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:implocal="http://www.sat.gob.mx/implocal">
+<cfdi:Emisor rfc="EXD1401299M3" nombre="EXDEVI SA DE CV">
+		<cfdi:DomicilioFiscal calle="TARANTO" noExterior="31" colonia="LAS MERCEDES" localidad="San Luis Potosi" municipio="SAN LUIS POTOSI" estado="San Luis Potosí" pais="mex" codigoPostal="78394" />
+		<cfdi:RegimenFiscal Regimen="no aplica" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" localidad="TLALNEPANTLA" municipio="TLALNEPANTLA" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="2.000000" unidad="Servicio" descripcion="SERVICIO DE HOSPEDAJE" valorUnitario="1296.000000" importe="2592.000000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="414.720000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="414.720000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<implocal:ImpuestosLocales version="1.0" TotaldeRetenciones="0.00" TotaldeTraslados="77.76">
+			<implocal:TrasladosLocales ImpLocTrasladado="IMPUESTO SOBRE HOSPEDAJE" TasadeTraslado="3.00" Importe="77.76" />
+		</implocal:ImpuestosLocales>
+<tfd:TimbreFiscalDigital FechaTimbrado="2016-06-13T22:47:05" UUID="6D997198-26DC-FD2D-144B-EE4612239845" noCertificadoSAT="00001000000203392777" selloCFD="QX8udK4GoUnzPqKpsScM/tlnVStwN3d1q0M1eV6rQL9gEZnAcSV9W5yWNt/lOEvHIxfaWkmUSERU5ZZ+81XnYRDNEawuHnT24UXBWVulIY+abycrOvPm4iuZHhEkMEiFy0EfbizvcuPZuj2md5wDk34xx/ZK/P/6fXn0EFVblNM=" selloSAT="JAcPr2VZDrmh4blaHNyLqnR19JMotAbWWAyQ3+NSWdKQunCta8EQPC6DfpcqVGiif6+mQwGW28kkDTXM5IFD6sAFtQp4TP9kmF8T7wcaohuP6y3TpGogIZl7/wNqPHbRdc34IFJIdlEwtp1Iesd6je7Ef/yClOUVSH5nG6vw/Xw=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

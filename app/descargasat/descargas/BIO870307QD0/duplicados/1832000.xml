@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="TLALNEPANTLA, ESTADO DE MEXICO" Moneda="MXN" TipoCambio="1.00000" certificado="MIIEizCCA3OgAwIBAgIUMDAwMDEwMDAwMDAyMDIzNDIxMTUwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTExNDAwNDYyM1oXDTE2MTExNDAwNDYyM1owgcwxJDAiBgNVBAMTG0NPTUVSQ0lBTCBBTkZPUkFNQSBTQSBERSBDVjEkMCIGA1UEKRMbQ09NRVJDSUFMIEFORk9SQU1BIFNBIERFIENWMSQwIgYDVQQKExtDT01FUkNJQUwgQU5GT1JBTUEgU0EgREUgQ1YxJTAjBgNVBC0THENBTjk0MDcwNUFNNyAvIFBFTVM2NzA2MzA3WjYxHjAcBgNVBAUTFSAvIFBFTVM2NzA2MzBIREZSUk4wODERMA8GA1UECxMIQU5GT1JBTUEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKlMfh+h3jFMMzLBx3WiBcd1dReH+fIf1fV9XokGUC//8GR/7ynbnMHJgHAo7w1sKuL3ojOWQMDC+IzAoekZ4R1pQfHa+Fa0BJh+yG0uiScfy3Qk3pSGzVYedakr/DhLhfqFdLawn0ERw5k2HubNilmDRUobvb/7B0ru83Cz32eJAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQBvV0/iGSji7/71fJCf+henHrj43D5Oos/Aynw5GSI1y2eq5c2/NxeoIEpiWNDN+SGAgGkjEnh+0beRBUWUyEhKCupfMo494Xb0Wv+zjR8bCRbOrsB4Q3by2jdYibtAroofLqB2O3YpSTWZ04g3QFxpEGcaJoIGsrzqLc+eLIAzSbwWOeKq+HF/yoC8VolcEVCjy0j9KFPcDFOFf6FaMxP7nlV+svw516VOA5AeNy7gDrgjttiWkK2c8eonwMHiG1oKJiJINpQxJNxBDBD3AnjvdGw+eh/CaqvalUe80hopjdodnzpHijA+qD4K+vN7GAU5/w0Y0tRyZhF7OX/fadln" descuento="3.45000" fecha="2016-01-05T13:26:47" folio="10175" formaDePago="Pago en una sola exhibicion" metodoDePago="NO IDENTIFICADO" noCertificado="00001000000202342115" sello="GkRLFMbfJ2WqyQwm/Hi/zD8f7YXEZxC1zOsWrqat3mdKb6jUINZXl1hEnh3Rl+/2CFt0oHixGNPtrpBcWUbhfcwQTRfwm+q9z+z55tUd4Vwzb07ly89ofkOnx3ORNRludN8Zv9TWvw6D30CULBd/IkhNkBg7+oM+XBalPNcIbWg=" serie="FF" subTotal="121.50000" tipoDeComprobante="ingreso" total="136.95000" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor nombre="COMERCIAL ANFORAMA S.A. DE C.V." rfc="CAN940705AM7">
+        <cfdi:DomicilioFiscal calle="PALMA" codigoPostal="06000" colonia="CENTRO" estado="DISTRITO FEDERAL" municipio="CUAUHTEMOC" noExterior="33" pais="MEXICO"/>
+        <cfdi:ExpedidoEn calle="ALLENDE" codigoPostal="54000" colonia="CENTRO" estado="ESTADO DE MEXICO" municipio="TLALNEPANTLA" noExterior="19" pais="MEXICO"/>
+        <cfdi:RegimenFiscal Regimen="Regimen General de Personas Morales"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA S.A DE C.V" rfc="BIO870307QD0">
+        <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" codigoPostal="54040" colonia="FRACC.LOS PIRULES" estado="MÉXICO" municipio="TLALNEPANTLA" noExterior="2900" noInterior="804" pais="MÉXICO"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto cantidad="1.00000" descripcion="Juego 3 espátulas reposteria 22686 -Li" importe="29.30000" noIdentificacion="M00270417" unidad="Pza" valorUnitario="29.30000"/>
+        <cfdi:Concepto cantidad="1.00000" descripcion="Cucharas medidoras 5 piezas 252606 -Li" importe="25.85000" noIdentificacion="M00480004" unidad="Pza" valorUnitario="25.85000"/>
+        <cfdi:Concepto cantidad="1.00000" descripcion="Juego de 3 espátulas de repostería 252521 -Li" importe="17.23000" noIdentificacion="M00480249" unidad="Pza" valorUnitario="17.23000"/>
+        <cfdi:Concepto cantidad="1.00000" descripcion="Juego de 3 Cucharónes p/cereal (12/15/19 ) 252607 -Li" importe="31.89000" noIdentificacion="M00480250" unidad="Pza" valorUnitario="31.89000"/>
+        <cfdi:Concepto cantidad="1.00000" descripcion="Jarra 1.0 L apróx. de plástico c/tapa -Lo" importe="17.23000" noIdentificacion="M10150027" unidad="Pza" valorUnitario="17.23000"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="18.90000">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="18.90000" impuesto="IVA" tasa="16.00000"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2016-01-05T13:25:59" UUID="77F6E4E1-1A26-4845-91AE-00ACAF780874" noCertificadoSAT="00001000000202864285" selloCFD="GkRLFMbfJ2WqyQwm/Hi/zD8f7YXEZxC1zOsWrqat3mdKb6jUINZXl1hEnh3Rl+/2CFt0oHixGNPtrpBcWUbhfcwQTRfwm+q9z+z55tUd4Vwzb07ly89ofkOnx3ORNRludN8Zv9TWvw6D30CULBd/IkhNkBg7+oM+XBalPNcIbWg=" selloSAT="NuwYnAy8aafxr7KW47oCQjnyqT5/LRuehyAfmaTb1sfk/pMHIUk1UqtRIpzalSpHOoaVqT6e2/oUHHZEOBA8ShYXO88GRtj1zmA+InfL54huZ/9h+vbKPD7bXowpDZ55o4fcZfd376Ybic0FXO5MKbFNWl4El6D71y0AfwMboRg=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+    </cfdi:Complemento>
+</cfdi:Comprobante>

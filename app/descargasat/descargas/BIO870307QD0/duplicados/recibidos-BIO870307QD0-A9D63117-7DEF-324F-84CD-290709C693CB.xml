@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="LM" folio="1890" fecha="2016-11-04T15:02:01" sello="kZOiZh8IW8cw/ZQiKfRaeYMTcdOsvsRP1URmvh6Bz+hlYrBJkHEJ2zO2fhMq2SNSgwIZQDaprIsELFDG5NGE5q6LnTmZUcFsIrjUiim2/PdZ/28Q7K9jYm8Pqlpl4uhb/18s18JxS5mo/ar7yhiUADeQNmdc+ZzmWYXIdTG82Cg=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306437051" certificado="MIIEgjCCA2qgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MzcwNTEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTgwMTUyMzRaFw0xOTAzMTgwMTUyMzRaMIHOMSswKQYDVQQDEyJFTU1BIFBBVFJJQ0lBIENSVVogWSBDT1JSTyBTQU5DSEVaMSswKQYDVQQpEyJFTU1BIFBBVFJJQ0lBIENSVVogWSBDT1JSTyBTQU5DSEVaMSswKQYDVQQKEyJFTU1BIFBBVFJJQ0lBIENSVVogWSBDT1JSTyBTQU5DSEVaMRYwFAYDVQQtEw1DVVNFNjkwNTA0NFVBMRswGQYDVQQFExJDVVNFNjkwNTA0TVBMUk5NMDkxEDAOBgNVBAsTB0xBTUFSSUEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALw12TwP3CCpwJcagYt93fPPE75u/VjykqXiAFlf1Eu8TRHwYmdJo7M781njt8k8dloFINo+21z8s+h36H8XGmJllN/2/ef1WgA9F5O7tpohokvpgETsaj+J3NFDXiNPaWNQhGYmPMNzsbBkDnEcRNdSDoDvEHMr70+C8lTLMKNBAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQBjhAd1VLjN9jPndU9t9FILmsEqBzkvDFbHapOC4MqAbWWLoHqJ+PLnfRN175L/WBYCaNQEnno/H5WoP71b8d4ujSU8vQUFf0OENL1JVc5zpF1my1z2tFhqZjS2BTAG6huo9+kiYMm98BkxAkClXIo0QHeLVGOjEY/1CeBFG9NRgad118gzmNuwQSfr60+6gvhR7hnuYY1+TSrTegphRUptb38ttyfvUPbxh4GDoUrWWOf1YhYFruy6dDjdOXvgLv/dw54gPFnPsl+Y4QYyksWg2A4buWey4h7Yn4E7xdZ0AQrQ78N6byOQQzKBxWkHKxrUjK4ZB+soeLF8Oe1UVddz" subTotal="212.93" TipoCambio="1.00" Moneda="MXN" total="247.00" metodoDePago="01 Efectivo" LugarExpedicion="PUEBLA, PUEBLA" tipoDeComprobante="ingreso">
+  <cfdi:Emisor rfc="CUSE6905044UA" nombre="EMMA PATRICIA CRUZ Y CORRO SANCHEZ">
+    <cfdi:DomicilioFiscal calle="CARRETERA PUEBLA TLAXCALA" noExterior="720" colonia="INDEPENDENCIA CALERAS C.P. 72100 PUEBLA, PUE" municipio="PUEBLA" estado="PUEBLA" pais="MEXICO" codigoPostal="72100" />
+    <cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BOULEVARD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" referencia="TLALNEPANTLA" municipio="ESTADO DE MEXICO" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="PZA" noIdentificacion="CVE368" descripcion="(RF) PAQUETE 1 COMEDOR" valorUnitario="179.310345" importe="179.31">
+    </cfdi:Concepto>
+    <cfdi:Concepto cantidad="1" unidad="ORDEN" noIdentificacion="28" descripcion="COMP. ARROZ A LA MEXICANA" valorUnitario="0.00" importe="0.00">
+    </cfdi:Concepto>
+    <cfdi:Concepto cantidad="1" unidad="PZA" noIdentificacion="CVE392" descripcion="PAPAS A LA FRANCESA COMEDOR" valorUnitario="33.62069" importe="33.62">
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="34.07">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="0.00" importe="0.00" />
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="34.07" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento> <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" UUID="A9D63117-7DEF-324F-84CD-290709C693CB" FechaTimbrado="2016-11-04T15:02:05" selloCFD="kZOiZh8IW8cw/ZQiKfRaeYMTcdOsvsRP1URmvh6Bz+hlYrBJkHEJ2zO2fhMq2SNSgwIZQDaprIsELFDG5NGE5q6LnTmZUcFsIrjUiim2/PdZ/28Q7K9jYm8Pqlpl4uhb/18s18JxS5mo/ar7yhiUADeQNmdc+ZzmWYXIdTG82Cg=" noCertificadoSAT="00001000000401041203" selloSAT="Jt9HzFUeXIGYNSpovfcVFj2ey2s+9sOoqRaCD4Y3WJU6B5Jvo9XEHCtEJIc5Uwe/ndryc/xRgjOD9RP3SU3P8FnIiZdJMbT96MaSXugIEB/NkrJcIPTVLHvXkXCQ68UPIWFY5kghKx3RLJZkPyDy2uMIddTqkWxDQI87PK39YGBbwUgDpg0qrtaKj+6yAgwUGMmcpUL4LU7L246Ez7cnwGX0fClUUpjGM8koQmz3OeDbsPQnaov3/wm0N3GqNSM1sgiVN9RfW4cTsI9mR0hnbp3DIvG3+fOHYv/psUPdYWA4ccu/gxBO8yobakrpCCtA/dW/VzRRUrQf35EwUKTTpw==" />
+</cfdi:Complemento></cfdi:Comprobante>

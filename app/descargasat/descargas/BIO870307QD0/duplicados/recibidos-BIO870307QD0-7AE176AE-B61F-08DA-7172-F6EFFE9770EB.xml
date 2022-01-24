@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " folio="249" fecha="2016-06-26T10:56:34" sello="UzM5AD/RFO23Vy8fx+VPeap3b2lSck9TBEELiuElgC7ma27QsOSSudiRvd7Iu2oUugCZETbmX1jpYDpC7VJI+0+ga8h156sZFh0ELeT3I2+6kE090ryMIGoLtwltRPYXsuSp4g3SRe+kVPvVLbpkdARV1VugIQiFe2qfNDz9PQQ=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302458158" certificado="MIIEmTCCA4GgAwIBAgIUMDAwMDEwMDAwMDAzMDI0NTgxNTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMTYxOTUyMjFaFw0xODAxMTYxOTUyMjFaMIHlMSkwJwYDVQQDEyBSRVNFTkRJWiBST1NTRVRUSSBZIEFTT0NJQURPUyBTQzEpMCcGA1UEKRMgUkVTRU5ESVogUk9TU0VUVEkgWSBBU09DSUFET1MgU0MxKTAnBgNVBAoTIFJFU0VORElaIFJPU1NFVFRJIFkgQVNPQ0lBRE9TIFNDMSUwIwYDVQQtExxSUkExMTAyMDk4VDEgLyBSRVJSODMwMTA1TEs4MR4wHAYDVQQFExUgLyBSRVJSODMwMTA1SERGU1NNMDkxGzAZBgNVBAsTElJSQTExMDIwOThUMTE2MDExNDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAnOMiP6JE82/2TzHFF1Q+pziK3x8DfhtZmOHNqMutcB8Lk93l4kNXc6q5tUpmsn56bfBpCnWlm/Dc/hg7u81iXnzwgF55t1yXbsOnkJxV9j1pleu12bQuew2bcwOavxGZkb3UL4ptcPK5nxORghLKETsyy1Wssqp5v/oBVsn88jkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAJgLQNQillUB++Vqf6PwqofdBxAo/1LMvWHY/fzKDYU6GfAj8C0d8EcquUDINkeAWnmGRq3nIugnVzCAVZCdzW7j826UPunLCMVjlG6jvScGsBST73UdVWHXvkA37D+NWNPwz/oIIsmktMjnTxoNTIUP4TVGPv76D30Wq15SzWrBBenfqNW1g9J28McarKinXoE985XBqNQEWlAicNgXMxhRGajVfvUOk8RO/1ZlDubCOQYEjK+WdvM/2COFfkZlBCCgUnTA/iOQvWsXsfMovmjVcfhscEDbTMHatdLd6s6CdYsmJdfFZj0QR6zIu8mcYUs18Aivq0GRYHAit39w5vo=" subTotal="800.000000" Moneda="MXP" total="928.000000" metodoDePago="no aplica" tipoDeComprobante="ingreso" LugarExpedicion="Distrito Federal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="RRA1102098T1" nombre="RESENDIZ ROSSETTI Y ASOCIADOS S.C.">
+		<cfdi:DomicilioFiscal calle="AVE. TALISMAN" noExterior="118" colonia="ESTRELLA" localidad="MEXICO" municipio="GUSTAVO A. MADERO" estado="Distrito Federal" pais="MEXICO" codigoPostal="07810" />
+		<cfdi:RegimenFiscal Regimen="PERSONA MORAL" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C. V.">
+		<cfdi:Domicilio calle="BLVD.MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACCIONAMIENTO LOS PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pza." descripcion="ESTUDIO SOCIOECONOMICO JOSÉ BENITO REYES OROZCO" valorUnitario="800.000000" importe="800.000000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="128.000000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="128.000000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2016-06-26T10:56:34" UUID="7AE176AE-B61F-08DA-7172-F6EFFE9770EB" noCertificadoSAT="00001000000203392777" selloCFD="UzM5AD/RFO23Vy8fx+VPeap3b2lSck9TBEELiuElgC7ma27QsOSSudiRvd7Iu2oUugCZETbmX1jpYDpC7VJI+0+ga8h156sZFh0ELeT3I2+6kE090ryMIGoLtwltRPYXsuSp4g3SRe+kVPvVLbpkdARV1VugIQiFe2qfNDz9PQQ=" selloSAT="ul2pTjOTUPR7uCMDMyJ3mDeRtvh5hho3DvIlM4Xa42sJD6ZCy8o+Keu5YVgCJu/jKPXK2R3XCNsU+ZpVoIKb3T7TlMHsmBbtXuc+0hQEZUcT2Zi1Fy7oXnQ5hiXKlZMuRf9blpLkxzCjuWKvEsJ8hWqQ1hEqq+bDBgtouyrOKfE=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,21 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="04370" MetodoPago="PPD" TipoDeComprobante="I" Total="14181.00" Moneda="MXN" Certificado="MIIEvjCCA6agAwIBAgIUMDAwMDEwMDAwMDAzMDE3NTEyODQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMTMwMzA4NDhaFw0xNzEyMTMwMzA4NDhaMIIBCTE6MDgGA1UEAxMxQU5BTElTSVMgWSBERVNBUlJPTExPIERFIFNPTFVDSU9ORVMgRU4gR0VTVElPTiBTQzE6MDgGA1UEKRMxQU5BTElTSVMgWSBERVNBUlJPTExPIERFIFNPTFVDSU9ORVMgRU4gR0VTVElPTiBTQzE6MDgGA1UEChMxQU5BTElTSVMgWSBERVNBUlJPTExPIERFIFNPTFVDSU9ORVMgRU4gR0VTVElPTiBTQzElMCMGA1UELRMcQUREMTMwNDEySU4xIC8gQk9MSTcyMDIwMkxXNzEeMBwGA1UEBRMVIC8gQk9MSTcyMDIwMk1QTE5QWDAyMQwwCgYDVQQLEwNTSUcwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIXMCOVrmvTIavYYxjrQ9cSXvdzcpPprG5FeUA6JYvZ0U0Do67xyPZt61aiJPrKBTh05tH8+2+GUwJp+q8gRd7YVtM2BBZCZkBHYS2zCltIMHp+aJyUJVpdObMJZSfypKdGwZUjYNnY1TiZeNU3GTZESFWC9hgv4SM6jqigrOrABAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQC7qM21UxklehBsyBlHu+IwQ/OzFuDKmIjO3YMBt7611YoUuEaZzRciCkVhvdyUFpcYEnNT73KVy2BtG8ZOsEC+UwtsW9o9DtpRuIwH6kzcU2epp3AoBVh9oa5OgXd10NHWBYyrV6myo/3ieQNjdwNZSZxvIKLJHr9F/UCx1ookE9d4BeFlpxwB/jNEzQg35ldVcEGhi+ye/H10r5dGbEjDqdbkEbvB6hkgQfs70zL49IHgWw5OSpWtamsKatI7Nz9DDlF8e/oFazV+MbIyEJywze7YIq0f5jNYD6nC1VVrP4OeZO2hZnmyQC1SG/Qmvhn1a5TRi0cLqpXbIO/qJ3ui" SubTotal="12225.00" NoCertificado="00001000000301751284" FormaPago="99" Sello="amtCEnTyo8REasPij0jhdv1yjPbJuJNnauUfm/9WoE8FLuHBonnyLAwOG9ksTUGfvF1AY08oZVQfSflAoUZCl/e5wcC9mld1nuec0UEcfVM3z30hRSHcGzrzdQqzYGDpI5iv2eFpRjd2x/ZtghYSadDY+QmfuilZlW7UrpDIqqs=" Fecha="2017-09-04T13:09:03" Folio="152" Serie="B" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="ADD130412IN1" Nombre="ANALISIS Y DESARROLLO DE SOLUCIONES EN GESTION SC" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA, SA DE CV" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="80101504" Cantidad="1" ClaveUnidad="E48" Descripcion="IMPLEMENTACIÓN DE LA LEY DE MODERNIZACIÓN DE LA INOCUIDAD ALIMENTARIA (FSMA) 3/4" ValorUnitario="12225.00" Importe="12225.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12225.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1956.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1956.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1956.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="E96214BA-A89A-4220-B7F5-F38D46F1F782" FechaTimbrado="2017-09-04T13:11:35" RfcProvCertif="SAT970701NN3" SelloCFD="amtCEnTyo8REasPij0jhdv1yjPbJuJNnauUfm/9WoE8FLuHBonnyLAwOG9ksTUGfvF1AY08oZVQfSflAoUZCl/e5wcC9mld1nuec0UEcfVM3z30hRSHcGzrzdQqzYGDpI5iv2eFpRjd2x/ZtghYSadDY+QmfuilZlW7UrpDIqqs=" NoCertificadoSAT="00001000000403258748" SelloSAT="FctP8cNzgRxRWGwbNiVUDpV28rv/vGZmDPOraUDeDp6IdpeeUVHR/yCnpySV3sW68sUUmGYMnpwlzYVcDfAsYOkS6yrfk91WcJAEPBoZiFtrh7cAtARxjrthrjm9avq6YaLWA/HcNFFPAyhBQR1VBWihrSdaVmb1Ma7v7hRkXwJ007q02fE7WwqGQh9po3+ZzDjLY/owhz4ericBLBdvTjrnQlBYLHno7zkelFMgJCHHWmV5qsb/N3KMN9YzSbHrcjW08dVKqYjnLOiVK2A7vV9nocHmGS44RenEnrI95pMx64mNv8ACOfQjAR8hMbLrZr8nJG4UvRWVvr8y+5d5+Q==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

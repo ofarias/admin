@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " version="3.2" serie="IOR2" folio="1407" fecha="2015-12-09T12:35:41" sello="pyTszXHGlMq1gkflUJ2eogvhIiqrxg/mcLNSZYC5MGF4Xq7Q+veKZVgIttU7c274jXnCyzQaY0TEgTBjKTljNOSXTo3B6MiHgjgNIS4fJxzAjDPfCRzlZzu1lQluxiLK50gKZ6uEPODoZ6BBhn0+uMGgHTz0euHSSJUfo2WGnw8=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000202382349" certificado="MIIEjDCCA3SgAwIBAgIUMDAwMDEwMDAwMDAyMDIzODIzNDkwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyMDE5NTE0NVoXDTE2MTEyMDE5NTE0NVowgc0xJTAjBgNVBAMTHElOTU9CSUxJQVJJQSBPUlJBQ0EgU0EgREUgQ1YxJTAjBgNVBCkTHElOTU9CSUxJQVJJQSBPUlJBQ0EgU0EgREUgQ1YxJTAjBgNVBAoTHElOTU9CSUxJQVJJQSBPUlJBQ0EgU0EgREUgQ1YxJTAjBgNVBC0THElPUjkzMDgzMTZCQSAvIEFJTVM2NzAyMjUzUTcxHjAcBgNVBAUTFSAvIEFJTVM2NzAyMjVIREZMUkwwODEPMA0GA1UECxMGTUFUUklaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2qI1L2k87nDhjdJdMXlWgFALVX8WAV66P7HbGReahCQ3e40Qgg5BdRhQkvBOIakm24a6TDcyUPCGUeEpjO+P63TaolKDnzFoF7UxPElGIleMHfrxqpFLed9wNc7cvFyECW5wYhHRoMD+aEXT8cM/iIbi//3Go1TaC4K4sxUNpjQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAgVci7QwpbnUHLsr/LVBvsGBBUiajlxG94orQo3Psn2MRKUPoRZI0FCazCLfp8ACQyHfMUPm99lcsbeqnroKX4Y7hg4mrP6Qp6PlvAwCJjyZ+yoOzVxqSrpO8fkBjZ/fEk1kfBFvtPiPseiPs+KoGWIhWf0dLWbIRjDe2fS/6h9P9vzrhy9PKI/kqIuzlUJOhscUkvw8uue2Rgtf+h7rsWKQ6vB1bvdizA26ibmcTVj7BaI5OFXe6qaO9XVSbRSyVra7Yr2mLOtpaYOub7QwzkWl+1f8ziy8reJEsg4Ck2Ly2qamdFXz0ZFpdagyuoYdAHjgv5dTScw1syjxf+wO4qw==" subTotal="31807.76" descuento="0.00" TipoCambio="1.00" Moneda="MXN" total="36897.00" tipoDeComprobante="ingreso" metodoDePago="NO IDENTIFICADO" LugarExpedicion="MÉXICO, DISTRITO FEDERAL">
+  <cfdi:Emisor rfc="IOR9308316BA" nombre="INMOBILIARIA ORRACA, S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="HAVRE" noExterior="30" colonia="JUAREZ" localidad="MEXICO" municipio="CUAUHTEMOC" estado="DISTRITO FEDERAL" pais="MÉXICO" codigoPostal="06600" />
+    <cfdi:RegimenFiscal Regimen="Personas Morales, Régimen General de Ley." />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MÉXICO" pais="MÉXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="NA" noIdentificacion="GRA1" descripcion="CONSUMO" valorUnitario="31807.76" importe="31807.76" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="5089.24">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="5089.24" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="07c52b51-77b6-4e22-b62f-81d8344b90e3" FechaTimbrado="2015-12-09T12:40:16" selloCFD="pyTszXHGlMq1gkflUJ2eogvhIiqrxg/mcLNSZYC5MGF4Xq7Q+veKZVgIttU7c274jXnCyzQaY0TEgTBjKTljNOSXTo3B6MiHgjgNIS4fJxzAjDPfCRzlZzu1lQluxiLK50gKZ6uEPODoZ6BBhn0+uMGgHTz0euHSSJUfo2WGnw8=" noCertificadoSAT="00001000000300171326" selloSAT="uq9vn+0WqoUWqWvoyT9+0P52AtiJ57xtrifU+UOl6Ew1Stm19aOyic9mEI/vFqc4ZbIzXu0oigKYULYzaWAw3sKccgP1dd+knVsnY/ZCqk+Mbu/9yjHjNXnVeMRhqzrIcrpjAsfc93zs0QLD5Ebc3JIbAAJoE1WVrZ5ztEWH+MU=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento><cfdi:Addenda xmlns:ecfd="http://www.southconsulting.com/schemas/strict" xsi:schemaLocation="http://www.southconsulting.com/schemas/strict http://www.southconsulting.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33IOR21407">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>123</ecfd:NroAprob>
+            <ecfd:AnoAprob>2010</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>IOR2</ecfd:Serie>
+            <ecfd:Folio>1407</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:NumeroInterno>32726</ecfd:NumeroInterno>
+            <ecfd:FechaEmis>2015-12-09T12:35:41</ecfd:FechaEmis>
+            <ecfd:FormaPago>PAGO EN UNA SOLA EXHIBICION</ecfd:FormaPago>
+            <ecfd:MedioPago>NO IDENTIFICADO</ecfd:MedioPago>
+            <ecfd:LugarExpedicion>MÉXICO, DISTRITO FEDERAL</ecfd:LugarExpedicion>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>IOR9308316BA</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>INMOBILIARIA ORRACA, S.A. DE C.V.</ecfd:NmbEmisor>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>HAVRE</ecfd:Calle>
+              <ecfd:NroExterior>30</ecfd:NroExterior>
+              <ecfd:Colonia>JUAREZ</ecfd:Colonia>
+              <ecfd:Localidad>MEXICO</ecfd:Localidad>
+              <ecfd:Municipio>CUAUHTEMOC</ecfd:Municipio>
+              <ecfd:Estado>DISTRITO FEDERAL</ecfd:Estado>
+              <ecfd:Pais>MÉXICO</ecfd:Pais>
+              <ecfd:CodigoPostal>06600</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QD0</ecfd:RFCRecep>
+            <ecfd:NmbRecep>BIOTECSA, S.A. DE C.V.</ecfd:NmbRecep>
+            <ecfd:Contacto>mespinoza@cmr.mx</ecfd:Contacto>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>BLVD. MANUEL AVILA CAMACHO</ecfd:Calle>
+              <ecfd:NroExterior>2900</ecfd:NroExterior>
+              <ecfd:NroInterior>804</ecfd:NroInterior>
+              <ecfd:Colonia>FRACC. LOS PIRULES</ecfd:Colonia>
+              <ecfd:Municipio>TLALNEPANTLA</ecfd:Municipio>
+              <ecfd:Estado>ESTADO DE MÉXICO</ecfd:Estado>
+              <ecfd:Pais>MÉXICO</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:FctConv>1.00</ecfd:FctConv>
+            <ecfd:SubTotal>31807.76</ecfd:SubTotal>
+            <ecfd:MntDcto>0</ecfd:MntDcto>
+            <ecfd:PctDcto>0</ecfd:PctDcto>
+            <ecfd:MntBase>31807.76</ecfd:MntBase>
+            <ecfd:MntImp>5089.24</ecfd:MntImp>
+            <ecfd:VlrPagar>36897</ecfd:VlrPagar>
+            <ecfd:VlrPalabras>(TREINTA Y SEIS MIL OCHOCIENTOS NOVENTA Y SIETE PESOS 00/100 MXN)</ecfd:VlrPalabras>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16.00</ecfd:TasaImp>
+            <ecfd:MontoImp>5089.24</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:CdgItem>
+            <ecfd:TpoCodigo>CdgInterno</ecfd:TpoCodigo>
+            <ecfd:VlrCodigo>GRA1</ecfd:VlrCodigo>
+          </ecfd:CdgItem>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>CONSUMO</ecfd:DscItem>
+          <ecfd:QtyItem>1</ecfd:QtyItem>
+          <ecfd:UnmdItem>NA</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>31807.76</ecfd:PrcNetoItem>
+          <ecfd:DescuentoPct>0</ecfd:DescuentoPct>
+          <ecfd:DescuentoMonto>0</ecfd:DescuentoMonto>
+          <ecfd:MontoNetoItem>31807.76</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:TimeStamp>2015-12-09T11:59:12</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="Personalizado1" />
+        <ecfd:campoString name="Personalizado2" />
+        <ecfd:campoString name="Personalizado3" />
+        <ecfd:campoString name="Personalizado4" />
+        <ecfd:campoString name="Personalizado5" />
+        <ecfd:campoString name="Personalizado6" />
+        <ecfd:campoString name="Personalizado7" />
+        <ecfd:campoString name="Personalizado8" />
+        <ecfd:campoString name="Personalizado9" />
+        <ecfd:campoString name="Personalizado10" />
+        <ecfd:campoString name="Personalizado11" />
+        <ecfd:campoString name="Personalizado12" />
+        <ecfd:campoString name="Personalizado13" />
+        <ecfd:campoString name="Personalizado14" />
+        <ecfd:campoString name="Personalizado15" />
+        <ecfd:campoString name="Personalizado16" />
+        <ecfd:campoString name="Personalizado17" />
+        <ecfd:campoString name="Personalizado18" />
+        <ecfd:campoString name="Personalizado19" />
+        <ecfd:campoString name="Personalizado20" />
+        <ecfd:campoString name="Personalizado21" />
+        <ecfd:campoString name="Personalizado22" />
+        <ecfd:campoString name="Personalizado23" />
+        <ecfd:campoString name="Personalizado24" />
+        <ecfd:campoString name="Personalizado25" />
+        <ecfd:campoString name="Personalizado26" />
+        <ecfd:campoString name="Personalizado27" />
+        <ecfd:campoString name="Personalizado28" />
+        <ecfd:campoString name="Personalizado29" />
+        <ecfd:campoString name="Personalizado30" />
+        <ecfd:campoString name="PersCampoStringClase" />
+        <ecfd:campoString name="PersCampoStringSociedad" />
+        <ecfd:campoString name="PersCampoStringDivision" />
+        <ecfd:campoString name="PersCampoStringCorreo" />
+        <ecfd:campoString name="PersCampoStringHojaServicio" />
+        <ecfd:campoString name="PersCampoStringTransporte" />
+        <ecfd:campoString name="PersCampoStringEjercicio" />
+        <ecfd:campoString name="PersCampoStringNoCtaxPag" />
+        <ecfd:campoString name="PersCampoStringFechaInicio" />
+        <ecfd:campoString name="PersCampoStringFechaFin" />
+        <ecfd:campoString name="PersCampoStringCita" />
+        <ecfd:campoString name="PersCampoStringFolioProvConsignacion" />
+        <ecfd:campoString name="PersCampoStringPlantaEntrega" />
+        <ecfd:campoString name="PersCampoStringFolioOC" />
+        <ecfd:campoString name="PersCampoStringFechaOC" />
+        <ecfd:campoString name="PersCampoStringFolioContrarecibo" />
+        <ecfd:campoString name="PersCampoStringFechaContrarecibo" />
+        <ecfd:campoString name="EMail">mespinoza@cmr.mx</ecfd:campoString>
+        <ecfd:campoString name="SI_ZZZ1">(TREINTA Y SEIS MIL OCHOCIENTOS NOVENTA Y SIETE PESOS 00/100 MXN)</ecfd:campoString>
+        <ecfd:campoString name="VERSIONFAC">**EDXSPOOLVERSION3.2**</ecfd:campoString>
+        <ecfd:campoString name="MedioPago">NO IDENTIFICADO</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago" />
+        <ecfd:campoString name="comentario1">PAGO POR CONCEPTO DE SERVICO DEL 15% POR $6,285.00</ecfd:campoString>
+        <ecfd:campoString name="comentario2" />
+        <ecfd:campoString name="comentario3" />
+        <ecfd:campoString name="comentario4" />
+        <ecfd:campoString name="comentario4" />
+        <ecfd:campoString name="RegimenFiscal">Personas Morales, Régimen General de Ley.</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago" />
+        <ecfd:campoString name="LugarDeExpedicion">MÉXICO, DISTRITO FEDERAL</ecfd:campoString>
+        <ecfd:campoNumero name="Otros">0</ecfd:campoNumero>
+        <ecfd:campoNumero name="Propinas">0</ecfd:campoNumero>
+        <ecfd:campoNumero name="TotalRef">36897</ecfd:campoNumero>
+        <ecfd:campoNumero name="TasaIVA">16.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="MontoIVA">5089.24</ecfd:campoNumero>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>1</ecfd:CustDetNroLin>
+          <ecfd:CustDetAFN_02>GRA1</ecfd:CustDetAFN_02>
+        </ecfd:CustDetalle>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

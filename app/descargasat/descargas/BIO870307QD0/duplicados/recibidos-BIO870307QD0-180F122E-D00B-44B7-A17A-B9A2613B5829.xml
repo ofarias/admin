@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="E" folio="526" fecha="2015-11-17T13:44:55" sello="lGjgnFoRkL9gIJOXBrobi8vdW6T3bgHSlhaha/+B5VdL8mX5s/+hsqHRuvHnhYkC+n1QjveEdp4cmneJVwTZ7WWNju1lSeygnkTJO+8slJORdzK6vYykKVlgStt/AIdKp/wKfVlFOC4goz5A4REjSZy38UIV3SFLweSRdImQLXk=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300517591" certificado="MIIETjCCAzagAwIBAgIUMDAwMDEwMDAwMDAzMDA1MTc1OTEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA3MTgxOTM0MzhaFw0xNzA3MTgxOTM0MzhaMIGaMRowGAYDVQQDExFBQkVMIE1PTlRPWUEgTUFZQTEaMBgGA1UEKRMRQUJFTCBNT05UT1lBIE1BWUExGjAYBgNVBAoTEUFCRUwgTU9OVE9ZQSBNQVlBMRYwFAYDVQQtEw1NT01BNTQwNzMwSEM3MRswGQYDVQQFExJNT01BNTQwNzMwSE1DTllCMDgxDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvyXGKQGtEpEIWkplJbCTyHY4FdVd2Cq32I70H+vrA/CLGUIRMGnlriLuuYaKWQHUm4Okz2q0uXbidE8dAIS/vbyuoUv+kcATltVERyyhOqdXvH/e7zAseZX2dzseL98djSxU+QrFJ33+HTOReGmZigw46nZ7gxCkCbqqimvJOJcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEygcAKaT1CGUsdQRxENQS3+UODG5y08ny4W9qhYAz/db6ve9cqa+rp9fLha+qJ5F+EktMnyG3M2lcGuIibUEzWwWdOR5DjE1PKKdEjCuK2IFJ0DFMaGHr2rhXORLWqzsxbvSlHK5PDbFyHbDVgRzgNq1s0s8CVi0ZNCYFpu5E/9g+ovrXxSDPpTuGLFwCMeaNrO+0y4BP+cjxFL4Oa2GpTTjKC9/pIFbJcjcK5XTu2eEm//lpQUV6kuMS98/YfLgpViLk/DDqu2JteHp6uytwRpEFSjhMPcT6bcB7jvpt1iRwGGI8EWReGqhneeU9hVqUAdVKe329+bd+SDp3/dqwQ=" subTotal="580.00" TipoCambio="1.00" Moneda="MXN" total="672.80" metodoDePago="Efectivo" tipoDeComprobante="ingreso" LugarExpedicion="MÉXICO, D.F.">
+  <cfdi:Emisor rfc="MOMA540730HC7" nombre="ABEL MONTOYA MAYA">
+    <cfdi:DomicilioFiscal calle="Av. Rio Lerma" noExterior="111" colonia="La Romana" localidad="Mëxico" municipio="Tlalnepantla" estado="Estado de México" pais="México" codigoPostal="54030" />
+    <cfdi:ExpedidoEn calle="Articulo 123" noExterior="85-E" colonia="CENTRO" localidad="DEL. CUAUHTEMOC" municipio="MÉXICO" estado="D.F." pais="MÉXICO" codigoPostal="06050" />
+    <cfdi:RegimenFiscal Regimen="Arrendamiento" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO 2900-804" colonia="FRACC. LOS PIRULES" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="México" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="2.00" unidad="PZ" noIdentificacion="CAHB-0042" descripcion="ENGRANE BATIDORA KITCHEN AID" valorUnitario="290.00" importe="580.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="92.80">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="92.80" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="180F122E-D00B-44B7-A17A-B9A2613B5829" FechaTimbrado="2015-11-17T13:44:56" selloCFD="lGjgnFoRkL9gIJOXBrobi8vdW6T3bgHSlhaha/+B5VdL8mX5s/+hsqHRuvHnhYkC+n1QjveEdp4cmneJVwTZ7WWNju1lSeygnkTJO+8slJORdzK6vYykKVlgStt/AIdKp/wKfVlFOC4goz5A4REjSZy38UIV3SFLweSRdImQLXk=" noCertificadoSAT="00001000000203352843" selloSAT="aTQWxBgNdfwvnj8kvxcO5jtwGQj7lX5I8TJUfw80t2KS7qiIJobq66PfshDg/q/J36ldfQ9/LcVwwMnCYTUoIueHzIXnh99KrbGqjEavSgpApKf04nu9rjKsNpTRvoehbFCq+7yZqmmAkBYKcZwY6kwtSqp70vyvimumA28NdsY=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

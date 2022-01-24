@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="D" folio="48553" fecha="2015-11-04T16:10:44" sello="KrCNh4b6ER91rpE4C1Vke6OljuoGLn8Ee+iVtXyv3PqMINDmSz3nxOCa/npi/FK1T6cRczO8QQl7BLv87eSPmRAyn6knrZnhnrR3U0b3SEZzaal2WavlJBK1CBZ6h9TPuxanX4hUk92nkyrE2KSx1FmGGqnbSd515RbmEDQiW98=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000202518281" certificado="MIIEbjCCA1agAwIBAgIUMDAwMDEwMDAwMDAyMDI1MTgyODEwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIwNTE5MDMxMloXDTE2MTIwNTE5MDMxMlowga8xGzAZBgNVBAMTElZJU0FQTEFTVCBTQSBERSBDVjEbMBkGA1UEKRMSVklTQVBMQVNUIFNBIERFIENWMRswGQYDVQQKExJWSVNBUExBU1QgU0EgREUgQ1YxJTAjBgNVBC0THFZJUzkyMDExMDRCMSAvIFJBQkE0MTA2MTRHSkExHjAcBgNVBAUTFSAvIFJBQkE0MTA2MTRIREZZTEwwMDEPMA0GA1UECxMGdW5pZGFkMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHyofJ+l84Y/ELjmGcBOMug6id9SHVnflA+gZPcCuZppKj/jalDCgC92wcu8cdIHbEXp8ctNTQBwZhKViTVR/ZmQpIIi/IOr2EvJMJBkJtoG6GNuCihJvjbuKwGhquJMN0dLc51L+Ag4qJ2CIGsh3BejSe3kR2Oa+sk6Tatf1vgQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAqCqt+fAunqO1z2HRniUz/sKpSQGGnkA/bQulkjvyn9S7YEgGVrgFnftvtp/sDFLUgHax/L4Z/7VVwJy26ephj1WKP/lr5MBytEvQkCDs0Uo7BOgTa/R3xi1MZGmldvvlrliSlEsNujCINirOIOual5qg91XFlAOerGwZu/CoAKyvlRL81cTtmtxQ1AGM1uAytQrnroBoO4/sNcQnDo7srWrSv6hVFmyRt2DLrQEIosCAhHLkVkIzPI5wKULeekfmQ3sdIJsxFah/j3jvMBkfkVj7gTNuIGyKpd/3eQBuAOO7r1iwMXl2CAvRrwCjMOBd3TTAsW2TL/ZbeJ//cYZBNQ==" subTotal="13920.00" TipoCambio="1.00" Moneda="Pesos" total="16147.20" tipoDeComprobante="ingreso" metodoDePago="NA" LugarExpedicion="TLALNEPANTLA DE BAZ, ESTADO DE MEXICO">
+  <cfdi:Emisor rfc="VIS9201104B1" nombre="VISAPLAST, S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="HENRY FORD" noExterior="31" noInterior="B-1" colonia="FRAC.IND.SAN NICOLAS" municipio="TLALNEPANTLA" estado="MEXICO" pais="MEXICO" codigoPostal="54030" />
+    <cfdi:ExpedidoEn calle="HENRY FORD" noExterior="31" noInterior="B-1" colonia="FRAC.IND.SAN NICOLAS" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54030" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO 2900 DESP 804" colonia="FRACC LOS PIRULES" municipio="TLALNEPANTLA" estado="EDO DE MEX" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="40" unidad="pz" descripcion="K-TECHNODRUM 220LT STANDARD" valorUnitario="348.00" importe="13920.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="2227.20">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IEPS" tasa="0.00" importe="0.00" />
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="2227.20" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="KrCNh4b6ER91rpE4C1Vke6OljuoGLn8Ee+iVtXyv3PqMINDmSz3nxOCa/npi/FK1T6cRczO8QQl7BLv87eSPmRAyn6knrZnhnrR3U0b3SEZzaal2WavlJBK1CBZ6h9TPuxanX4hUk92nkyrE2KSx1FmGGqnbSd515RbmEDQiW98=" FechaTimbrado="2015-11-04T16:10:50" UUID="a350c559-c6b9-4500-a703-d306f0274ec2" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="O4CIfD93SXpdCXn/6J15elHyX0DGRJIYm5gSmOT7sjH8riKPxP4big5iA8uN4vZY4C/Dc44C+SBRBRgy3nxqOcXj2/aVymz2pycbDkJJPEeKV54ndmJbt60Te1n7RreikUMGbT0Ish9QaylkZgoiF3h+H0qTZ656waqg6/6+ARo=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

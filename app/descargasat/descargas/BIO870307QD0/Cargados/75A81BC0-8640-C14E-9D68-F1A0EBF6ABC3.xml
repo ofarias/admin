@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" Version="3.3" Serie="FI" Folio="19158" Fecha="2018-01-17T14:08:58" Sello="BrutbsnSCxmHeBR+HXvM0WbZsYQou4rgtOo5pgeTLXoSmgI/7NbR/8xT04vszoPfgXqGIYXTD8i+UFz/ZrZeMZSoGN8LqkMzHMLMPovNWIPWnutk0BzHZ/pwxsxKbAHlPbitL7nlJaJ6MQ01Dnjagsf8p6xtsLQ9C4WI+SA8JYQ=" FormaPago="04" NoCertificado="00001000000304745825" Certificado="MIIEbzCCA1egAwIBAgIUMDAwMDEwMDAwMDAzMDQ3NDU4MjUwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDA3MjMyMjM3MzVaFw0xODA3MjMyMjM3MzVaMIG7MR8wHQYDVQQDExZDT01BUkNBIFRBQ09TIFNBIERFIENWMR8wHQYDVQQpExZDT01BUkNBIFRBQ09TIFNBIERFIENWMR8wHQYDVQQKExZDT01BUkNBIFRBQ09TIFNBIERFIENWMSUwIwYDVQQtExxDVEEwNDAxMjY4SDMgLyBNQUFHNzAxMDMwTk02MR4wHAYDVQQFExUgLyBNQUFHNzAxMDMwSENMUlZMMDcxDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwXxy+E8bLJti+qX68GdWNv54mClSgKU1SCee2e3EUW6XPLSzKF8dHSYfpvqYtIe8cVU1rwqH7FX/ighr2MuNw3QCfgnR+Gyrm6Qv3/C0BSx7WpJtwdvZ1QV+fYSJjsT6m1w33Fxvi3QaIeUZ27nrLmtQWKWvh3BBxlXkM4q7YwUCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAKI3jepqSrJQYRyDM82tWHTFetYeD2y6msmyicFZxFiWLc7b5mhJ6t7UuPFjhgrG+n4mqOm/ym4aWts8/rZ8Crukh2Ongvs4nFzU32cxmuAXATfCqPkPxN9pCl97YxiTkd0POrzVhmkOrmTBTW3+9eQsLAAlFU3CHpRI7NsoQXodt9sQdw3vnZBM7Y7WyaCwIPQvhUlQDoRi1Vf9FcQ8CuRhYef/ywNtPZOJUM89fly8KR4D/CYWY3LBLOTH1Insoa1b1Rt6fy5vCGlv2aAv39GzAabAscGSi9hskwZMI/fsgpjskyxJPdzObHofHiApd04QOmVUcmdBTbOyjjdRHqw=" CondicionesDePago="CONTADO" SubTotal="277.59" Moneda="MXN" Total="322.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="27000">
+  <cfdi:Emisor Rfc="CTA0401268H3" Nombre="COMARCA TACOS S.A. DE C.V." RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="BIOTECSA SA DE CV" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="90101500" NoIdentificacion="CON" Cantidad="1" ClaveUnidad="E48" Unidad="NO APLICA" Descripcion="CONSUMO" ValorUnitario="277.59" Importe="277.59">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="277.59" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="44.4144" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="44.41">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="44.41" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="75A81BC0-8640-C14E-9D68-F1A0EBF6ABC3" FechaTimbrado="2018-01-17T14:10:23" RfcProvCertif="SCD110105654" SelloCFD="BrutbsnSCxmHeBR+HXvM0WbZsYQou4rgtOo5pgeTLXoSmgI/7NbR/8xT04vszoPfgXqGIYXTD8i+UFz/ZrZeMZSoGN8LqkMzHMLMPovNWIPWnutk0BzHZ/pwxsxKbAHlPbitL7nlJaJ6MQ01Dnjagsf8p6xtsLQ9C4WI+SA8JYQ=" NoCertificadoSAT="00001000000401041203" SelloSAT="WPv8WsDpttzcxcq/t/K6XjCz+YBy0j/lmN2KNsjGyr+ksZ0alIGyojwxSfwxIsvhroQ8xZCrh83uQ3A2RIF9jRgHFDmjdeBXh0bKVBpcMSOCPXLTMDciN4/su1gQte8bEIPSPBHdJcq+nxMA9OZQrotv6DwBLydYm97pEJ1DX595NI68TEvWICacLoV55GinPpIj3J+aQeFNDcFPPVxooDhaLRiXeckFbJrC2aR85+q3lhcOjqRrorWK9NCLIfS6MvER2GzNjvsMxL25FzfeuWQHXqAzKIUEQXyudXCWhbGiSqoZDABxhXH7LwoQlsZtD404V6cFTrtLf4qr/jGPcQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

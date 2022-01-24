@@ -272,14 +272,14 @@ class pegaso_controller{
 		}
 	}
 
-	function cargaLogo($fileName, $ide){
+	function cargaLogo($fileName, $ide, $file, $target_file, $ext){
 		if ($_SESSION['user']) {
 			$data= new ftc;
 			$data2 = new pegaso;
-			$carga=$data->cargarLogo($fileName, $ide);
+			$carga=$data->cargarLogo($fileName, $ide, $file, $target_file, $ext);
 			$emp = $data->traeEmpresa($ide);
 			if($carga['status'] == 'ok'){
-				$actLogo =$data2->cargarLogo($fileName, $emp);
+				$actLogo =$data2->cargarLogo($fileName, $emp,$file, $target_file, $ext);
 			}
 			$this->Empresas();
 		}

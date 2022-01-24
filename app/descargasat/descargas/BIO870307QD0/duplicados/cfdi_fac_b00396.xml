@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cfdi:Comprobante LugarExpedicion="Sucursal" certificado="MIIEZTCCA02gAwIBAgIUMDAwMDEwMDAwMDAzMDUzMjI3NjMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDEwMTYyMTAxNDBaFw0xODEwMTYyMTAxNDBaMIGxMSEwHwYDVQQDExhKT0hOQVRBTiBCVVNUSUxMT1MgT1JPTkExITAfBgNVBCkTGEpPSE5BVEFOIEJVU1RJTExPUyBPUk9OQTEhMB8GA1UEChMYSk9ITkFUQU4gQlVTVElMTE9TIE9ST05BMRYwFAYDVQQtEw1CVU9KODkwODE5VEw4MRswGQYDVQQFExJCVU9KODkwODE5SENIU1JIMDIxETAPBgNVBAsTCGpvaG5hdGFuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBQnS5ix3QvOXvuKOWxomP6R2XvIvpdW47+hfRqwmA1+3MscapPnJoVfOEGTYpjebMZ7gMqQByGJnfdh78ux2R8xMWyq6MAuCN7tRHzXriKsiAkZcd9D2mW2EfG7qykXNzeoOxMMf6hygGKANYES0OXJ4ZxtqmdRqeUKsfvmMd8wIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAzgsaM+TyA5b2H5S6hf0VNFNCuC5D7yM4WZb1z6TokKUXcgbbViRcVnQFhK7pjjQNg/xvHql9WbhGx1pEpvH8WpE9SzgAwyMAZC9BvyQICg2XBBu/PFxm5soSvv66B0P1xhVSZEDmHyijGy5vBL2R4aTjOBFA7FVkNl8MLUS9UJEX1fRhoapgnPx+69qN9zzthaAbNOkgPMnGuusrkbQ0JBtYci4pXUuTE/K2EudPnSNDglZkq6ap+CTWz+4rlLDMj/MupmrCJ7YVOQOFme+9bqrVUyK2kg34D85s2RM5gGQ12S5JXGn7I0SfgYy5nHfIHa1TEKysmpeM2TiOvWk+1w==" fecha="2015-08-03T16:41:47" folio="396" formaDePago="Pago en una sola exhibición" metodoDePago="Tarjeta" noCertificado="00001000000305322763" sello="cYsFDBb1UEuWfYJZaX/hEvrgyiTH2/G+n/iX3mzzblytRFjv522oR1wLKOxEsEqYyTm+sJsdpJmF50C/8SLmR8UV+xOMW7OSqNB88TouO5S8+hyVUdi2taaJotrmjGf4Xm0lhbihVbELpCCF33o+ggu6RjbME7YfFZiGsK+nGSE=" serie="B" subTotal="2100.00" tipoDeComprobante="ingreso" total="2499.00" version="3.2" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd  http://www.sat.gob.mx/implocal   http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd">
+<cfdi:Emisor nombre="JOHNATAN BUSTILLOS ORONA" rfc="BUOJ890819TL8">
+<cfdi:DomicilioFiscal calle="C.Ignacio Allende " codigoPostal="31000" colonia="Zona Centro" estado="Chihuahua" localidad="Chihuahua" municipio="CHIHUAHUA" noExterior="810" pais="Mexico"></cfdi:DomicilioFiscal>
+<cfdi:ExpedidoEn calle="DOMICILIO CONOCIDO " colonia="Barrio Campo de Beisbol" estado="CHIHUAHUA" localidad="Creel" municipio="Creel" noExterior="s/n" pais="México"></cfdi:ExpedidoEn>
+<cfdi:RegimenFiscal Regimen="PERSONA FISICA"></cfdi:RegimenFiscal>
+</cfdi:Emisor>
+<cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+<cfdi:Domicilio calle="Blvd. Manuel Avila Camacho" codigoPostal="54040" colonia="Fracc. Los Pirules " estado="MEXICO" municipio="Tlalnepantla, Edo. De" noExterior="2900-804" pais="México"></cfdi:Domicilio>
+</cfdi:Receptor>
+<cfdi:Conceptos>
+<cfdi:Concepto cantidad="2.00" descripcion="HOSPEDAJE" importe="2100.00" unidad="Pieza" valorUnitario="1050.00"></cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="399.00">
+<cfdi:Traslados>
+<cfdi:Traslado importe="336.00" impuesto="IVA" tasa="16.00"></cfdi:Traslado>
+<cfdi:Traslado importe="63.00" impuesto="IEPS" tasa="3.00"></cfdi:Traslado>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento>
+<implocal:ImpuestosLocales TotaldeRetenciones="0.00" TotaldeTraslados="0.00" version="1.0"></implocal:ImpuestosLocales>
+<tfd:TimbreFiscalDigital FechaTimbrado="2015-08-03T17:42:34" UUID="2ADA3BFF-9AB2-4B5F-9201-34D39994EA87" noCertificadoSAT="00001000000203220518" selloCFD="cYsFDBb1UEuWfYJZaX/hEvrgyiTH2/G+n/iX3mzzblytRFjv522oR1wLKOxEsEqYyTm+sJsdpJmF50C/8SLmR8UV+xOMW7OSqNB88TouO5S8+hyVUdi2taaJotrmjGf4Xm0lhbihVbELpCCF33o+ggu6RjbME7YfFZiGsK+nGSE=" selloSAT="2m1b7HhA9Vk8Kub6W2p0zKOAYfOvqGL6VNVIc53s/LFlJ7JKATi1sQf20R9TaOPlmH2IZTvEWYmmqOMFkAiR8DWsCErTzTlrGrqAhnZ0Wm+//Fl71qwnyTctq9i7X5717spaSkxhVkGjSKoUyXFYfBvl114lTp+YDklYVwTPvik=" version="1.0" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"></tfd:TimbreFiscalDigital>
+</cfdi:Complemento>
+</cfdi:Comprobante>

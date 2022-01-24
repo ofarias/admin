@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante LugarExpedicion="México, Ciudad de México" Moneda="MXN" TipoCambio="1.000000" certificado="MIIEkTCCA3mgAwIBAgIUMDAwMDEwMDAwMDAzMDM1MDQ1MzEwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAzMjcxNzExMjFaFw0xODAzMjcxNzExMjFaMIHdMSkwJwYDVQQDFCBDT01QQdFJQSBQQU5BTUXRQSBERSBBVklBQ0lPTiBTQTEpMCcGA1UEKRQgQ09NUEHRSUEgUEFOQU1F0UEgREUgQVZJQUNJT04gU0ExKTAnBgNVBAoUIENPTVBB0UlBIFBBTkFNRdFBIERFIEFWSUFDSU9OIFNBMSUwIwYDVQQtExxQQVY5MTA3MjRIV0EgLyBBRU1NNjUxMTA2UUE5MR4wHAYDVQQFExUgLyBBRU1NNjUxMTA2SERGUlJSMDExEzARBgNVBAsTCkNBU1NDT1BBTVgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANFIb36RfpP1oTmQDdR6zDYShgY+rwa0CYuGrrQn23hFuVclkEyyNrTrDsNKzuJZV/IZc+zFBrn/Y9K8z9QFWtIu0v2fjsytxBkkMEwWBz4p/NnV59531RmGAq7YmQSGuuzi1MV89lJXF8D6N/aW5b0abF+aTaJKHzMfUjtID+89AgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQBNxSFH5V7g4gmDkiRNm/4JNUBifPREoxUZU7DAmr94Ljo02agLInfqUQuDlJ2MOur0PtBzH5L/lhs8YzUvW0b/SuntBayouVCpxePzywPuFjj2hHkn3HUX6kWF0caX52v/OdPuKmBOx0Uy8JS9DIKhUly2VwN0xsTlraq0dQ4e1XwB++Yl5W1jdfHSflRJur0to/8f35EYDCNhYEvDlCCcpmbT+INCkGwbcqHw8MATGInFNruhaKm8OzIfGLXfkcd9LEFsTxdckOB20z8cOMHVdMwGoH6qxoIrVMecuW36i/CcUKsXvwX5hW4EkHZ5CMtgz8zUuAJ0mIZMFF6acZkk" descuento="0.000000" fecha="2017-10-25T10:31:20" folio="2302168519285" formaDePago="Pago en una sola exhibición" metodoDePago="04" noCertificado="00001000000303504531" sello="tMnZsDy4e4gE3rfBb0S1zUfTqY06C31MCCqDPDW76c/ZnhQiUfeZq8xfnmUk3x4OSfmAL1lSE9CiGlG0f+4lgroxbnvrheE8hplz7j07+WAkR4hNxJd+DPU+W3bdz9a47qOrHq0GD35cPsle4efHKKiMPOEAXbX77biy5a80mq8=" subTotal="16285.000000" tipoDeComprobante="ingreso" total="16863.000000" version="3.2" xmlns:aerolineas="http://www.sat.gob.mx/aerolineas" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/aerolineas http://www.sat.gob.mx/sitio_internet/cfd/aerolineas/aerolineas.xsd">
+    <cfdi:Emisor nombre="COMPAÑIA PANAMEÑA DE AVIACION SA" rfc="PAV910724HWA">
+        <cfdi:DomicilioFiscal calle="Berna" codigoPostal="06600" colonia="Juárez" estado="Ciudad de México" localidad="México" municipio="Cuauhtémoc" noExterior="6" noInterior="P.B" pais="México"/>
+        <cfdi:ExpedidoEn pais="MEXICO, CIUDAD DE MEXICO"/>
+        <cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+        <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" codigoPostal="54040" colonia="FRACC. LOS PIRULES" estado="ESTADO DE MÉXICO" municipio="TLALNEPANTLA" noExterior="2900" noInterior="804" pais="MX"/>
+    </cfdi:Receptor>
+    
+    
+<cfdi:Conceptos>
+        <cfdi:Concepto cantidad="1.0000" descripcion="AIR TICKET" importe="14430.000000" noIdentificacion="2302168519285" unidad="No aplica" valorUnitario="14430.000000"/>
+        <cfdi:Concepto cantidad="1.0000" descripcion="NW" importe="286.000000" unidad="No aplica" valorUnitario="286.000000"/>
+        <cfdi:Concepto cantidad="1.0000" descripcion="IK" importe="58.000000" unidad="No aplica" valorUnitario="58.000000"/>
+        <cfdi:Concepto cantidad="1.0000" descripcion="FS" importe="110.000000" unidad="No aplica" valorUnitario="110.000000"/>
+        <cfdi:Concepto cantidad="1.0000" descripcion="B1" importe="514.000000" unidad="No aplica" valorUnitario="514.000000"/>
+        <cfdi:Concepto cantidad="1.0000" descripcion="A1" importe="38.000000" unidad="No aplica" valorUnitario="38.000000"/>
+        <cfdi:Concepto cantidad="1.0000" descripcion="AH" importe="48.000000" unidad="No aplica" valorUnitario="48.000000"/>
+        <cfdi:Concepto cantidad="1.0000" descripcion="XD" importe="801.000000" unidad="No aplica" valorUnitario="801.000000"/>
+    </cfdi:Conceptos><cfdi:Impuestos totalImpuestosTrasladados="578.000000">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="578.000000" impuesto="IVA" tasa="16.000000"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos><cfdi:Complemento>
+        <aerolineas:Aerolineas TUA="801.000000" Version="1.0">
+            <aerolineas:OtrosCargos TotalCargos="1054.000000">
+                <aerolineas:Cargo CodigoCargo="NW" Importe="286.000000"/>
+                <aerolineas:Cargo CodigoCargo="IK" Importe="58.000000"/>
+                <aerolineas:Cargo CodigoCargo="FS" Importe="110.000000"/>
+                <aerolineas:Cargo CodigoCargo="B1" Importe="514.000000"/>
+                <aerolineas:Cargo CodigoCargo="A1" Importe="38.000000"/>
+                <aerolineas:Cargo CodigoCargo="AH" Importe="48.000000"/>
+            </aerolineas:OtrosCargos>
+        </aerolineas:Aerolineas>
+    <tfd:TimbreFiscalDigital FechaTimbrado="2017-10-25T10:31:22" UUID="5B894EE5-2AAC-408A-A943-384F6C6F6E2D" noCertificadoSAT="00001000000404477432" selloCFD="tMnZsDy4e4gE3rfBb0S1zUfTqY06C31MCCqDPDW76c/ZnhQiUfeZq8xfnmUk3x4OSfmAL1lSE9CiGlG0f+4lgroxbnvrheE8hplz7j07+WAkR4hNxJd+DPU+W3bdz9a47qOrHq0GD35cPsle4efHKKiMPOEAXbX77biy5a80mq8=" selloSAT="C53MAH4p5PfR+xi5XTPlMv3QTteypauAynMxPzlSO0MbzBhIdrVTvRpACCqor/fr+a9hNp8suuTsVkMW5+PRnQJbme5V+QLmaDZ3BtH3tUyI1W9p/C673tsRWPKM6+v02enO4Oc+vmBlvu3LXKy/TaCeki8xzOtegF8BfXl6xvJ6ivcJm2r5NW6sMESx/hAju2/rGy20MSEhSop7FQRcP0CeY47xiPvEOcYEcLI58mbBzdmfnIuCMgNWdIT14DIBe+rXbniY0S6330dFrOgIBcxqZO3h1zxSt+exQo8fUlPg4wIzJpXd39QkBcb4rRbBa9p23Wap9x80ivG0j4mq/g==" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/></cfdi:Complemento><cfdi:Addenda>
+        <customized xmlns="http://repository.edicomnet.com/schemas/mx/cfd/addenda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://repository.edicomnet.com/schemas/mx/cfd/addenda http://repository.edicomnet.com/schemas/mx/cfd/addenda/customized.xsd">
+            <AEROLINEAS>
+                <TicketNumber>2302168519285</TicketNumber>
+                <IssueDate>19/10/2017</IssueDate>
+            </AEROLINEAS>
+        </customized>
+    </cfdi:Addenda></cfdi:Comprobante>

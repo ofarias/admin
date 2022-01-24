@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " serie="M" folio="47514" fecha="2016-03-09T16:57:23" sello="eV1AfFfmPgTbJkYgbmhuF0BxBYAxfEdnnvYJGL+uXlPTrHRP/NwPSZ7UR0aRqWuNRtShIOG8iSiTurZr6BQjgQSSzI0PGBOHBsd1j7TmnPqKN4bVKXfQ4foaFlLA2tbRISSkq0LOo8Ox2OkofW7GWWPxEwm8+/2jxwY1gSFDVyY=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000300556257" certificado="MIIEgTCCA2mgAwIBAgIUMDAwMDEwMDAwMDAzMDA1NTYyNTcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA3MjUxNjUyMDBaFw0xNzA3MjUxNjUyMDBaMIHNMSQwIgYDVQQDExtOVUVWTyBDQVJMT1MgUkVHSU8gU0EgREUgQ1YxJDAiBgNVBCkTG05VRVZPIENBUkxPUyBSRUdJTyBTQSBERSBDVjEkMCIGA1UEChMbTlVFVk8gQ0FSTE9TIFJFR0lPIFNBIERFIENWMSUwIwYDVQQtExxOQ1IwMjA5MDMxMzUgLyBST0dBNjcwOTI0SjUyMR4wHAYDVQQFExUgLyBST0dBNjcwOTI0TU5MSk5MMDIxEjAQBgNVBAsTCU1vbnRlcnJleTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA27anyNGKaTgJxS+gbmsuOVgGNIfg98aE4iH14Pz2siHshUTVxJ/vv3xVSNtuOIcOlOoCqapDVg5lHNV/h2hKhvAIGqOIyj39nO14USGIUR3oTzFMmOAVtuHDG+WG6MAUX9yV7OArqPqPo+NalgdLd3iodws++FIRnAtrFb3SrvcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAIBKjzQ4ljyrbLiT+Ag7+3a56t8CfXg9QWhyVybj7GgkTb9WAZmXokgPpTSA2YZ0UONXjnNNxiMut7niDfguqw9sB3LHBKbhmgai8ZZRCkEOiqzrFr2c/4B2x92BLOMOkWTEjjoGdL1wd3p2YkFfFNbEJluJfts5KBtgOMV9s65H2iNAkVx+cycP6GfPpcXRsxGpWsNtRNAWINaW1OzVq86BhSAKWLiW3fTy53DuIvNZUu2krEx8zqux+XAiSvSHqRCHcQVOL68kIJFKOAhQElMXnVPRk0qwLwjk8R2oSOTvLjpYmLu+gLSiVoMRYE2niYA5eGqgDhBxAlz8oEPiKpg=" subTotal="1665.350000" Moneda="MXP" total="1903.006000" metodoDePago="no aplica" tipoDeComprobante="ingreso" LugarExpedicion="Nuevo Leon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="NCR020903135" nombre="NUEVO CARLOS REGIO, S.A. DE C.V.">
+		<cfdi:DomicilioFiscal calle="Ave. Madero Ote." noExterior="1160" referencia="Luis Carbajal y de la Cueva y Diego de Montemayor" colonia="Monterrey Centro" localidad="Monterrey" municipio="Monterrey" estado="Nuevo León" pais="MEXICO" codigoPostal="64000" />
+		<cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900-804" colonia="FRACC. LOS PIRULES" localidad="TLALNEPANTLA" estado="Estado de Mexico" pais="MEXICO" codigoPostal="54040" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="No aplica" descripcion="Consumo del dia" valorUnitario="1485.350000" importe="1485.350000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="no aplica" descripcion="Propinas" valorUnitario="180.000000" importe="180.000000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="237.656000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="237.656000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2016-03-09T16:57:25" UUID="5C9B811A-F9A3-185C-E0F0-7EA93355E5F5" noCertificadoSAT="00001000000203392777" selloCFD="eV1AfFfmPgTbJkYgbmhuF0BxBYAxfEdnnvYJGL+uXlPTrHRP/NwPSZ7UR0aRqWuNRtShIOG8iSiTurZr6BQjgQSSzI0PGBOHBsd1j7TmnPqKN4bVKXfQ4foaFlLA2tbRISSkq0LOo8Ox2OkofW7GWWPxEwm8+/2jxwY1gSFDVyY=" selloSAT="LmmqTkGOF6jiCcT3aaHLPgGq/X5XFTxW5j9N28fq+KbsF6JPnL809IJRdBDc1qHTw9/z8nzlj5RkfZzv5JQme8LbNpPqU5Z7BTfId/ENUpQ/iAkt1bTOzyBdZtQQy24uuj1xYL5DDBapaZ8lQaI3nlKkW9bOfKd4qIlYOMnzMWc=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

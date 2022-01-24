@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="P" folio="85226" fecha="2015-03-06T16:18:51" sello="lXpzJKutZFyPiHu7YPomwsgMJ48809mtmyKZ4a72elpOtOKzPY45Tnb0ekfL33ktwn9E/8CUK7EooYfwuvkUQPbi7xYVHMPGpWmuj4V78Q8RWSVWPM/vxAYkjG2beNleZ5WXg2/Z1ucMZlsy0oF0eliBrhpvmIiuIVEY2aaEBGg=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000202632744" certificado="MIIElDCCA3ygAwIBAgIUMDAwMDEwMDAwMDAyMDI2MzI3NDQwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIxNzIzMzA0NloXDTE2MTIxNzIzMzA0NlowgdUxKDAmBgNVBAMTH0dBU09MSU5FUkEgTE9TIEFOR0VMRVMgU0EgREUgQ1YxKDAmBgNVBCkTH0dBU09MSU5FUkEgTE9TIEFOR0VMRVMgU0EgREUgQ1YxKDAmBgNVBAoTH0dBU09MSU5FUkEgTE9TIEFOR0VMRVMgU0EgREUgQ1YxJTAjBgNVBC0THEdBTjkyMTAyOVQyOCAvIE5PVkI2NTExMTBRVTQxHjAcBgNVBAUTFSAvIE5PVkI2NTExMTBIQ0xHU04wMTEOMAwGA1UECxMFR0xBU0EwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANV5kgzsAF/MWeQKcQlzN4zkFr3pPRYPndESgeI8KqEK7PnU8laE6zI0mru7NP0FyxKtKNHDW8rnBVvOCxxdSg8ccO27GCtT2SsciU23cmt86SR1fu9Z5cLCV9jw+2hApIRtujFS5jS3GIg5nH/1gWKuBlqYqThPpm0QgsBjA6HPAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQCGNf35OMR4rb8KyTWpAAUSfTvLwbG69zE7JGQhYkMtYN8G/yrPyNQWh6uWxiJ1/T5shqoHGadPgq72dHMCZkBJ+CdlrGWu/cjceOxUzQPp8rwodq4F/4UDTaTy3SxXrfSTouM0dAA5So3lzFPk/poBzHBjTJ9KGpXtfkPKIbiZcXWNumsn0K+74n/HJMcFaXm7OlMkXXZMvadE7sRAmcmloFEvk2XeVSSwPklsLXoJidnIyV7L/1kpcJzddV3anY++i04iocvTUeOovB/WIXrTWlaTMZVO6kYiOLl1k7hnkJEXfZzd/yYzobpG6Tl4Nav6pWKmeY4v8qzjZr4T9CXZ" subTotal="865.73" TipoCambio="1.00" Moneda="MXN" total="1000.00" metodoDePago="No aplica" LugarExpedicion="TORREON, COAHUILA" tipoDeComprobante="ingreso">
+  <cfdi:Emisor rfc="GAN921029T28" nombre="GASOLINERA LOS ANGELES S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="BLVD. INDEPENDENCIA" noExterior="501 OTE" colonia="LOS ANGELES" municipio="TORREON" estado="COAHUILA" pais="MEXICO" codigoPostal="27140" />
+    <cfdi:RegimenFiscal Regimen="Régimen general de ley personas morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO N.2900-804" colonia="LOS PIRULES" municipio="TLALNEPANTLA" estado="EDO.DE MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="73.69197" unidad="LITROS" noIdentificacion="MG" descripcion="MAGNA" valorUnitario="11.747931" importe="865.73">
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="134.27">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="134.27" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+
+<cfdi:Complemento> <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" UUID="616A97C3-FB46-9A4A-8722-D2097BBFFE09" FechaTimbrado="2015-03-06T16:18:53" selloCFD="lXpzJKutZFyPiHu7YPomwsgMJ48809mtmyKZ4a72elpOtOKzPY45Tnb0ekfL33ktwn9E/8CUK7EooYfwuvkUQPbi7xYVHMPGpWmuj4V78Q8RWSVWPM/vxAYkjG2beNleZ5WXg2/Z1ucMZlsy0oF0eliBrhpvmIiuIVEY2aaEBGg=" noCertificadoSAT="00001000000200011997" selloSAT="It4wbUs28bmOJvUWGHe9ePxTwve+itGDYzBbBdkNqTEvfkcar9YtqHzeT300VIW9ATTnqTkC2hsbuaQvPxrDVsPq98jTeB/XNZmnKw5KLAvBlTxyHgMgQe8Hmb9wYN0Fkwhs55DR4C2gYLu3aGUOL6HqZQK2TjescK0NiPaPP40=" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

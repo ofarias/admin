@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="VIA" folio="2720047" fecha="2016-12-06T16:49:02" sello="PUTKuKX3SzifQz9rMy9rRyOgQYamEXIcqc5Zm+Rtvnm6gwnE67Q0tSWI7VhjzdXNWV6owhAyFVOJBmaGdWaW4ZZU6r2/+vPx8b74IyxQzNteLwKH+FvJIrFbVRldFD20dLdCvVhIDv0+l0dWeW5p412BBtxR18nF2PU75ZCOOdQ=" formaDePago="PAGO EN UNA SOLA EXHIBICIÓN" noCertificado="00001000000301269724" certificado="MIIEaDCCA1CgAwIBAgIUMDAwMDEwMDAwMDAzMDEyNjk3MjQwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMTAwMzM3MDhaFw0xNzExMTAwMzM3MDhaMIG0MRswGQYDVQQDExJMSU5FQSBWSUEgU0EgREUgQ1YxGzAZBgNVBCkTEkxJTkVBIFZJQSBTQSBERSBDVjEbMBkGA1UEChMSTElORUEgVklBIFNBIERFIENWMSUwIwYDVQQtExxMVkk5MzA2MjNSTjQgLyBHT1ZDNjMwODI2N0VBMR4wHAYDVQQFExUgLyBHT1ZDNjMwODI2SERGTUxSMDUxFDASBgNVBAsTC0JsdmQuIE5vcnRlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCQMdbfBdEi2LPgN4WHQUOMCbnrnHk4x2AwWnaepk086Ku1opWS1NxeQrx8W3GA/PidsKujE6Djm9qc/Akkfy3QA0ulKM0e+Q/2/Z5ttPfS5rML7pIcqxfGOY/UacI3PQaQMibjxm1x7VT6TGyZ5TO2sUYl7ygOWp0AKxZRwlg9PQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAilubywklaFCdoSQn6G6HNwuR6BLgh/+E6Zg4D96acOFVQR8uwq2HnUPM/ZxCjFL94xnaVt8jEKSWWij8rcsFr9c9u7zHSUnA1IvcjKymoAny6gZBtt+zl1o/lEQJmdSj8O9G401I7kO6RKu6Ht2qUYwfNBRiZ0x6MOdL/GDPT4Pb0BAnQyNrdvdXGKwhcsOWstUF6I1JDI9vXMMrnWq3QzW5338OE9Q13y5iVvu5qCK560BHO1ElGzSQECcO72x0jUqG2kNCaqqDEadSNNuchjYq7PVR9MUJ/Uimvv9YxqDfcZWM5t/v5974D4TDj90sfRMHZpm7OnaOOoVlErFDbg==" subTotal="717.24" TipoCambio="1" Moneda="MXN" total="832.00" tipoDeComprobante="ingreso" metodoDePago="01" LugarExpedicion="PUEBLA, PUEBLA">
+  <cfdi:Emisor rfc="LVI930623RN4" nombre="LINEA VIA S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="BLVD NORTE" noExterior="4222" colonia="LAS CUARTILLAS" localidad="PUEBLA" municipio="PUEBLA" estado="PUEBLA" pais="México" codigoPostal="72050" />
+    <cfdi:ExpedidoEn calle="BLVD. NORTE" noExterior="4222" colonia="LAS CUARTILLAS" municipio="PUEBLA" estado="PUEBLA" pais="MEXICO" codigoPostal="72050" />
+    <cfdi:RegimenFiscal Regimen="Persona Moral del Régimen de los Coordinados" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA, S. A. DE C. V.">
+    <cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="LOS PIRULES" municipio="TLALNEPANTLA" estado="MEXICO" pais="MEXICO" codigoPostal="54040" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="SERVICIOS DE VIAJE VIA INTERMEDIO TEZIUTLAN PUE-PUEBLA FOL. 020094551766 ASIENTO. 3 03/12/2016" valorUnitario="179.31" importe="179.31" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="SERVICIOS DE VIAJE VIA INTERMEDIO TEZIUTLAN PUE-PUEBLA FOL. 020094551767 ASIENTO. 4 03/12/2016" valorUnitario="179.31" importe="179.31" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="SERVICIOS DE VIAJE VIA INTERMEDIO PUEBLA-TEZIUTLAN PUE FOL. 020094606072 ASIENTO. 15 04/12/2016" valorUnitario="179.31" importe="179.31" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="SERVICIOS DE VIAJE VIA INTERMEDIO PUEBLA-TEZIUTLAN PUE FOL. 020094606073 ASIENTO. 16 04/12/2016" valorUnitario="179.31" importe="179.31" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="114.76">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="114.76" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="E6E177F6-5A95-402A-AF8A-1F3842BEC45A" FechaTimbrado="2016-12-06T16:50:04" selloCFD="PUTKuKX3SzifQz9rMy9rRyOgQYamEXIcqc5Zm+Rtvnm6gwnE67Q0tSWI7VhjzdXNWV6owhAyFVOJBmaGdWaW4ZZU6r2/+vPx8b74IyxQzNteLwKH+FvJIrFbVRldFD20dLdCvVhIDv0+l0dWeW5p412BBtxR18nF2PU75ZCOOdQ=" noCertificadoSAT="00001000000202865018" selloSAT="htETV+KPs6A9P1qd04GuKx7w0hs2C/MeuhBBWvsASTgW8TQe+tGeKL0UfPUOPXMCD0qfFkL/tdmr9oKW7ZwpSvkwWTY4vTtd1La1Yq83MyxZyqX9FgrI+3TgYpCN8EPcodQhh7xCoAGajrMsi5XzPiplMDGyqDLbyeWVT6hho8g=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

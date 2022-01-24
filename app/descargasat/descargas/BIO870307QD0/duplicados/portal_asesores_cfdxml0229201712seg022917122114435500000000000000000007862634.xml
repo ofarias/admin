@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:add="http://207.248.129.110/xsdGFIWeb/xsd/seguros/addenda0029" xmlns:detallista="http://www.sat.gob.mx/detallista" xmlns:divisas="http://www.sat.gob.mx/divisas" xmlns:donat="http://www.sat.gob.mx/donat" xmlns:ecbc="http://www.sat.gob.mx/ecbc" xmlns:ecc="http://www.sat.gob.mx/ecc" xmlns:iedu="http://www.sat.gob.mx/iedu" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:ine="http://www.sat.gob.mx/ine" xmlns:leyendasFisc="http://www.sat.gob.mx/leyendasFiscales" xmlns:nomina12="http://www.sat.gob.mx/nomina12" xmlns:pfic="http://www.sat.gob.mx/pfic" xmlns:psgcfdsp="http://www.sat.gob.mx/psgcfdsp" xmlns:psgecfd="http://www.sat.gob.mx/psgecfd" xmlns:terceros="http://www.sat.gob.mx/terceros" xmlns:tpe="http://www.sat.gob.mx/TuristaPasajeroExtranjero" xmlns:ventavehiculos="http://www.sat.gob.mx/ventavehiculos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/EstadoDeCuentaCombustible http://www.sat.gob.mx/sitio_internet/cfd/EstadoDeCuentaCombustible/ecc11.xsd http://www.sat.gob.mx/detallista http://www.sat.gob.mx/sitio_internet/cfd/detallista/detallista.xsd http://www.sat.gob.mx/psgecfd http://www.sat.gob.mx/sitio_internet/cfd/psgecfd/psgecfd.xsd http://www.sat.gob.mx/donat http://www.sat.gob.mx/sitio_internet/cfd/donat/donat11.xsd http://www.sat.gob.mx/divisas http://www.sat.gob.mx/sitio_internet/cfd/divisas/divisas.xsd http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd http://www.sat.gob.mx/terceros http://www.sat.gob.mx/sitio_internet/cfd/terceros/terceros11.xsd http://www.sat.gob.mx/TuristaPasajeroExtranjero http://www.sat.gob.mx/sitio_internet/cfd/TuristaPasajeroExtranjero/TuristaPasajeroExtranjero.xsd http://www.sat.gob.mx/iedu http://www.sat.gob.mx/sitio_internet/cfd/iedu/iedu.xsd http://www.sat.gob.mx/ventavehiculos http://www.sat.gob.mx/sitio_internet/cfd/ventavehiculos/ventavehiculos.xsd http://www.sat.gob.mx/pfic http://www.sat.gob.mx/sitio_internet/cfd/pfic/pfic.xsd http://www.sat.gob.mx/leyendasFiscales http://www.sat.gob.mx/sitio_internet/cfd/leyendasFiscales/leyendasFisc.xsd http://www.sat.gob.mx/psgcfdsp http://www.sat.gob.mx/sitio_internet/cfd/psgcfdsp/psgcfdsp.xsd http://www.sat.gob.mx/nomina12 http://www.sat.gob.mx/sitio_internet/cfd/nomina/nomina12.xsd http://www.sat.gob.mx/ine http://www.sat.gob.mx/sitio_internet/cfd/ine/ine11.xsd http://207.248.129.110/xsdGFIWeb/xsd/seguros/addenda0029 http://207.248.129.110/xsdGFIWeb/xsd/seguros/addenda0029/addenda0029.xsd" version="3.2" serie="AAI" folio="7862634" fecha="2017-12-21T14:43:55" sello="Buy38n32MY29grX1IF3W8NRy+1BcDSn8KVOyp5alg0RrtqShaoNzQo6CkHl0smuy/Xu0F4ue9bvHm6o8NKq9lIyxBvBFLLfawNIGGHxReXtau83GFIJVUtoxpfG5abJMsXrxVl512dUq8OKQp8iSSI/r4ID+9Z3YFcIlApT9ItF4lYW/fbP2Vk5djhaA46tBzwF8MYyekFlZmeA+8h/eGdhYlV4skfxukrE6Wvts/wOu+egKi0rh8kpd7h902r9CCguJgHqfmk0cKnXQDyMfQm05wcdaNpp/PZRyqjyxeYolxTt5rTBy7vNR1AGu25FUuOrWFLN8cRiMEept7+sJ9Q==" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000404274975" certificado="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" subTotal="32305.00" total="37473.80" metodoDePago="99                                                                                                                                                    " tipoDeComprobante="ingreso" LugarExpedicion="Ciudad de Mexico">
+  <cfdi:Emisor rfc="SIN9408027L7" nombre="SEGUROS INBURSA, S.A., GRUPO FINANCIERO INBURSA">
+    <cfdi:DomicilioFiscal calle="AV. INSURGENTES SUR " noExterior="3500" colonia="PEÑA POBRE" localidad="TLALPAN" municipio="TLALPAN" estado="CIUDAD DE MEXICO" pais="MEXICO" codigoPostal="14060"/>
+    <cfdi:ExpedidoEn calle="Av. Insurgentes Sur" noExterior="3500" colonia="Peña Pobre" municipio="Tlalpan" estado="CD DE MEX" pais="México" codigoPostal="14060"/>
+    <cfdi:RegimenFiscal Regimen="RÉGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV                                                                                                                                                                                       ">
+    <cfdi:Domicilio calle="BLVD MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="PIRULES" municipio="TLALNEPANTLA DE BAZ" estado="MEX" pais="MEXICO" codigoPostal="54040"/>
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="SERVICIO" descripcion="PRIMA NETA" valorUnitario="31805.00" importe="31805.00"/>
+    <cfdi:Concepto cantidad="1.00" unidad="SERVICIO" descripcion="GASTOS DE EXPEDICION" valorUnitario="500.00" importe="500.00"/>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="5168.80">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="5168.80"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="Buy38n32MY29grX1IF3W8NRy+1BcDSn8KVOyp5alg0RrtqShaoNzQo6CkHl0smuy/Xu0F4ue9bvHm6o8NKq9lIyxBvBFLLfawNIGGHxReXtau83GFIJVUtoxpfG5abJMsXrxVl512dUq8OKQp8iSSI/r4ID+9Z3YFcIlApT9ItF4lYW/fbP2Vk5djhaA46tBzwF8MYyekFlZmeA+8h/eGdhYlV4skfxukrE6Wvts/wOu+egKi0rh8kpd7h902r9CCguJgHqfmk0cKnXQDyMfQm05wcdaNpp/PZRyqjyxeYolxTt5rTBy7vNR1AGu25FUuOrWFLN8cRiMEept7+sJ9Q==" FechaTimbrado="2017-12-21T14:46:21" UUID="993830d2-10da-46e7-a4fb-75bf94cf25ef" version="1.0" noCertificadoSAT="00001000000404624465" selloSAT="Rnlm5yfLV93s+JhO85+HZHfyvXPu8lG62N8LqDP9ppW4AZOBkCuPMaVFSTE2z2qMmoRrXMkvJjOI2R6FqYf3Hj5AJ7kh4pQklANnDFJ5neAEFRzaee53kJuLoxBJSAy5tdRBsbkkYtLIQEzbYc49YB/YzGs6vPENnMf9Ra0DqsOcUXGhZqNgAtIrul5FP6Mzgs3PXjEArG8JCweeHMSqHLnmWtDo8B87jhdlqzk5j/gRA6DQiOkcGQTtImszxoc/dO3hCXqeO8mFV0FJ0gCxinsyo76DUEV+8Nlk5u8/mevP9nGX5WaKMZwq0WCaCpQlZU8GJztfL1wdXTuQJdQLew=="/>
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <add:SegurosInbursaRecibos>
+      <add:Recibos etiqueta="Tipo CFDI" valor="ISR"/>
+      <add:Recibos etiqueta="Tipo de Recibo que se imprime" valor="INICIAL"/>
+      <add:Recibos etiqueta="Emisor:" valor="14511"/>
+      <add:Recibos etiqueta="Poliza:" valor="20004406"/>
+      <add:Recibos etiqueta="Agrupacion:" valor="20004344"/>
+      <add:Recibos etiqueta="Recibo:" valor="20026446"/>
+      <add:Recibos etiqueta="A?o:" valor="17"/>
+      <add:Recibos etiqueta="Periodo que cubre desde:" valor="22/DIC/2017"/>
+      <add:Recibos etiqueta="Periodo que cubre hasta:" valor="22/DIC/2018"/>
+      <add:Recibos etiqueta="Fecha Vencimiento:" valor="22/DIC/2017"/>
+      <add:Recibos etiqueta="Tipo de Seguro:" valor="CAMIONES INDIVIDUAL"/>
+      <add:Recibos etiqueta="Termino maximo para el pago de prima posterior a l" valor="Termino maximo para el pago de prima posterior a la fecha de vencimiento 30 dias."/>
+      <add:Recibos etiqueta="Agente:" valor="263954 ARIADNA  TOLEDO CASAREZ"/>
+      <add:Recibos etiqueta="Forma de Pago:" valor="PAGO UNICO"/>
+      <add:Recibos etiqueta="UNIDAD DE MEDIDA" valor="SERVICIO"/>
+      <add:Recibos etiqueta="CANTIDAD" valor="1"/>
+      <add:Recibos etiqueta="Importe total con letra" valor="Treinta y siete mil cuatrocientos setenta y tres  pesos  80/100 M.N."/>
+      <add:Recibos etiqueta="TOTPESOS" valor="37473.80"/>
+      <add:Recibos etiqueta="IMPTOTPESOS" valor="5168.80"/>
+      <add:Recibos etiqueta="Descripcion Obj. Aseg.:" valor="MERCEDES BENZ FL M2 25K/20 4X2 C.CAB 4/6CIL.STD. 9.00 T."/>
+      <add:Recibos etiqueta="Modelo Obj. Aseg.:" valor="2015"/>
+      <add:Recibos etiqueta="Leyenda:" valor="1. ESTE DOCUMENTO ES UNA REPRESENTACION IMPRESA DE UN  CFDI."/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="Av.: Avenida"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="CIS: Certificado Individual de Seguros"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="Col.: Colonia"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="C.P.: Codigo Postal"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="Del.: Delegacion"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="Cd de Mex: Ciudad de Mexico"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="MEX.: Mexico"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="ISR: Impuesto Sobre la Renta"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="I.V.A.: Impuesto al Valor Agregado"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="NA: La expresion NA corresponde a la facilidad otorgada a traves de resolucion miscelanea para sustituir algunos requisitos fiscales"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="No.: Numero"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="R.F.C.: Registro Federal de Contribuyentes"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="S.A.: Sociedad Anonima"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="C.U.R.P.: Clave Unica de Registro de Poblacion"/>
+      <add:Recibos etiqueta="ABREVIATURA" valor="CFDI: Comprobante Fiscal Digital por Internet"/>
+    </add:SegurosInbursaRecibos>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

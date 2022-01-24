@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" metodoDePago="TARJETA DE DÉBITO" LugarExpedicion="AV. AZCAPOTZALCO 538 AZCAPOTZALCO AZCAPOTZALCO DISTRITO FEDERAL MEXICO 02000" version="3.2" NumCtaPago="8195" folio="334163" fecha="2015-06-30T14:58:29" sello="DtQdHmtc032oidlhyFw9hf3Iqp4tyizMacVhT2JvqsCf1aAk50VEEgmXW53qAT7nnaDJ9PIjK1uGy41I6TYP3pM5NM7LmsWw4lZw9195jLOFjq2/3S5cJSeQ2N81OapQypE3i5hAXdRZczMBQtI73fZSlaEFNEoj7zVYBZf/Q5A=" formaDePago="Pago en una sola exhibición" tipoDeComprobante="ingreso" noCertificado="00001000000301964798" certificado="MIIEijCCA3KgAwIBAgIUMDAwMDEwMDAwMDAzMDE5NjQ3OTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjExNjU1MDlaFw0xNzEyMjExNjU1MDlaMIHWMScwJQYDVQQDEx5FU1BFQ0lBTElTVEFTIE9QVElDT1MgU0EgREUgQ1YxJzAlBgNVBCkTHkVTUEVDSUFMSVNUQVMgT1BUSUNPUyBTQSBERSBDVjEnMCUGA1UEChMeRVNQRUNJQUxJU1RBUyBPUFRJQ09TIFNBIERFIENWMSUwIwYDVQQtExxFT1A4NDAxMTA3ODYgLyBBSUhFNDgwMzE0TVA1MR4wHAYDVQQFExUgLyBBSUhFNDgwMzE0SE1DTFJGMDkxEjAQBgNVBAsTCUVvc2EgQ2ZkaTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAlqrlNBw1mfRlVsOeCaGdQMZCKcBuDN5C6B54g2FwoF4V8MtX216PgsYyK9+9uHUWOyn8YA8zvow8l4s36IW3zxMk2DShOGjGV3yIkYQlMYQn8d0gHeABUofRnYYis6DFVYtoydvMgVdXd788EI4DNHmccsGUmQTdhNOEWEZndD0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBACf1NXCLR1afMQYWc4G0tgIQjjpOze1DKhx62c/BmfvMF13K832/Gp1mhe90scKF0VpFX+IQR4YyKWXt8ElEReTg24JHefeoIAQpQTTJKuGZJsQ/EATVT/6//3DPtQDYPIVOrRHTHGd78rdqAF5G+BXV4vrB1bTwI/g575shdDsb9RttvGQsOlHxG0ub05NT2BUa47NR9wRiJdiO/YxftgxCtue6SrLNiP9XMiCE50ox9NvE59g1SGFnS/AREFZlJZI4LskaZgYJYUcdXhgIFlIv+AMHcXL+85xUncJtPxvf4lJn1ZpPQFV0LGF7nD8dvXOcXybcbbvqZkoJw0yDeIw=" subTotal="862.070000" total="1000.000000" serie="C">
+	<cfdi:Emisor rfc="EOP840110786" nombre="ESPECIALISTAS OPTICOS SA DE CV">
+		<cfdi:DomicilioFiscal calle="MORELOS" noExterior="39" colonia="MARIA DEL CARMEN" localidad="DISTRITO FEDERAL" municipio="BENITO JUAREZ" estado="Distrito Federal" pais="MEXICO" codigoPostal="03540" />
+		<cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA SA DE CV">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC. LOS PIRULES" localidad="MEXICO" municipio="TLALNEPANTLA" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="54010" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="SERVICIOS" descripcion="UN PAR DE LENTE DE CONTACTO RIGIDO GAS PERMEABLE" valorUnitario="862.070000" importe="862.070000"/>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="137.930000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.000000" importe="137.930000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2015-06-30T14:58:30" UUID="F439FF30-26D2-08B0-36AD-D3F9FD1AB31A" noCertificadoSAT="00001000000203392777" selloCFD="DtQdHmtc032oidlhyFw9hf3Iqp4tyizMacVhT2JvqsCf1aAk50VEEgmXW53qAT7nnaDJ9PIjK1uGy41I6TYP3pM5NM7LmsWw4lZw9195jLOFjq2/3S5cJSeQ2N81OapQypE3i5hAXdRZczMBQtI73fZSlaEFNEoj7zVYBZf/Q5A=" selloSAT="hKcl/2115VTM3H1MXdHQ5CyJX6GsiMerUfuMxa19XekbPn5VFh7OYqEk+O7pWR8ZIkuJJXFBlJaLaMNioSX0J+WnOWRJTUtdzYjHKKWEf0BjPcr1caCaf4nGB1E3NBlqovaBEC2J5bxF6/bomhrl1V0MFfI5l1KvX35ntM1NFoE=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+	<cfdi:Addenda>
+		<informacionGral  tipoDocumento="FACTURA" estatus="ACTIVA" emailCliente="facturacion@biotecsa.com" cantidadConLetra="(UN  MIL PESOS 00/100 M.N.)" lugarDeEntrega="AV. AZCAPOTZALCO 538  AZCAPOTZALCO   AZCAPOTZALCO DISTRITO FEDERAL MEXICO 02000">
+	<cadenaComplementoSat>||1.0|F439FF30-26D2-08B0-36AD-D3F9FD1AB31A|2015-06-30T14:58:30|DtQdHmtc032oidlhyFw9hf3Iqp4tyizMacVhT2JvqsCf1aAk50VEEgmXW53qAT7nnaDJ9PIjK1uGy41I6TYP3pM5NM7LmsWw4lZw9195jLOFjq2/3S5cJSeQ2N81OapQypE3i5hAXdRZczMBQtI73fZSlaEFNEoj7zVYBZf/Q5A=|00001000000203392777||</cadenaComplementoSat>
+</informacionGral>
+
+	</cfdi:Addenda>
+</cfdi:Comprobante>

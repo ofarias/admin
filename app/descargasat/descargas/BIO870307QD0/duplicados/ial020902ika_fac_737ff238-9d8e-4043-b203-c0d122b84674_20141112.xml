@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:bfa2="http://www.buzonfiscal.com/ns/addenda/bf/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="TEOLOYUCAN. MEXICO" metodoDePago="No identificado" tipoDeComprobante="ingreso" total="375.38" Moneda="MXN" TipoCambio="1.0" subTotal="323.6" condicionesDePago="Contado" certificado="MIIEhzCCA2+gAwIBAgIUMDAwMDEwMDAwMDAyMDMyMDc2NzgwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDMwODIzNTQ0OVoXDTE3MDMwODIzNTQ0OVowgcgxIjAgBgNVBAMTGUlaQ0FMTEkgQUxVTUlOSU8gU0EgREUgQ1YxIjAgBgNVBCkTGUlaQ0FMTEkgQUxVTUlOSU8gU0EgREUgQ1YxIjAgBgNVBAoTGUlaQ0FMTEkgQUxVTUlOSU8gU0EgREUgQ1YxJTAjBgNVBC0THElBTDAyMDkwMklLQSAvIE1BU0Y0NTEyMTIxVjYxHjAcBgNVBAUTFSAvIE1BU0Y0NTEyMTJIREZSUlIwOTETMBEGA1UECxMKVEVPTE9ZVUNBTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1hZQ/XBeEaFc5bCmHlmX+1pzhuLfSEmVWs3MQmJuIpj+uu7xcLeetPOj835S7xWm5A0z9MFiDAgIicixyz4BI7QW0t6rhlKjUXqsNVPRKI+HaA51eyPZzeZkNVmD5b7xqruvbfbPk3LxV5R15/kHkeJkrBhLfA9vguQ7fYqrxJcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBACC1YuDaG/5x5l2H+Xbmqq6lbrdiw6X2M709fy00NoQx0vo/2BLwDwBzkGU0khFFg76vEtTNIfF0W7xUi96HH0kMta1T+27soFXjy7LzSZy4e0VqoJCOllf96osv8uaqsRr8MlnakJ/nSQNzE9hOQS7/Xi+FMj2Jks8tjXbmt2IHIV+a3+ovH915dIUzppPj3Q1SRRl44oEcLgXA8x5OoR0ZSQzQUk7sNoyPjV8e5cd7KV5hNfc6u6ADjyFZCyqdRSUQVGl39jbAVRhKl47JQbzL6Q66ja3M/P3HRKPKyoPzwwq6CoK3krqY8SHxO4IRbUWwwUh0Lm24o3XopRhbw7I=" noCertificado="00001000000203207678" formaDePago="Pago en una sola exhibicion" sello="uXDoVbCF/66RjdMCKW8gHfNxbfxgHp4JgQn82nTcljH4GzlbFQTeX4l7Ae0UFB3PfSSAgx6/yijCo4j2Xs8qD11yiiRAqV2lgTWZvLQFFzwrSo5HxBODLFwdUBa5JfiJe47M0NCqB81dehLJ78O5W6yGMcmZSVHlQ1qILBax9cc=" fecha="2014-11-12T13:52:42" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.buzonfiscal.com/ns/addenda/bf/2 http://www.buzonfiscal.com/schema/xsd/Addenda_BF_v20.xsd">
+    <cfdi:Emisor nombre="IZCALLI ALUMINIO SA DE CV" rfc="IAL020902IKA">
+        <cfdi:DomicilioFiscal codigoPostal="54743" pais="MEXICO" estado="MEXICO" municipio="CUAUTITLAN IZCALLI" colonia="SANTIAGO TEPALCAPA" noExterior="10" calle="AVENIDA PRIMERO DE MAYO MZ 7" />
+        <cfdi:ExpedidoEn codigoPostal="54770" pais="MEXICO" estado="MEXICO" municipio="TEOLOYUCAN" calle="AV. 5 DE MAYO NO. 5-B BARRIO TEPANQUIAHUAC" />
+        <cfdi:RegimenFiscal Regimen="PERSONA MORAL" />
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="BIOTECSA SA DE CV" rfc="BIO870307QD0">
+        <cfdi:Domicilio codigoPostal="54040" pais="MEXICO" estado="MEXICO" municipio="FRACC. LOS PIRULES" colonia="TLALNEPANTLA" calle="BOULEVARD MANUEL AVILA CAMACHO 2900-804" />
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="167.57" valorUnitario="83.78" descripcion="JUNQUILLO P/PESADA" noIdentificacion="10.6370.610.88" unidad="PZAS" cantidad="2" />
+        <cfdi:Concepto importe="156.03" valorUnitario="156.03" descripcion="REMATE" noIdentificacion="11.9184.300.88" unidad="PZ" cantidad="1" />
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="51.78">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="51.78" tasa="16.00" impuesto="IVA" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="mZ8Wt9VWA6Av/fjYwN5+9t61Vh0mfoCh57qjJfNJvEQcr0i/3+14obYG/XKuAX8JtD+liSbWRtaTDh8hB/NYQUKsdfCp7mi2I/Xm2mVFnXEP4Z9/bWbIj9P9Gr658gsg0BF8nTJrCcgvRT4oUGNQeEEkMZw35Kan9+ZUrycXAps=" noCertificadoSAT="00001000000202693892" selloCFD="uXDoVbCF/66RjdMCKW8gHfNxbfxgHp4JgQn82nTcljH4GzlbFQTeX4l7Ae0UFB3PfSSAgx6/yijCo4j2Xs8qD11yiiRAqV2lgTWZvLQFFzwrSo5HxBODLFwdUBa5JfiJe47M0NCqB81dehLJ78O5W6yGMcmZSVHlQ1qILBax9cc=" FechaTimbrado="2014-11-12T13:52:42" UUID="737ff238-9d8e-4043-b203-c0d122b84674" version="1.0" />
+    </cfdi:Complemento>
+    <cfdi:Addenda>
+        <bfa2:AddendaBuzonFiscal version="2.0">
+            <bfa2:ExpedidoEn alias="CUAUTITLAN" />
+            <bfa2:Receptor email="jesus.jimenez@biotecsa.com" />
+            <bfa2:TipoDocumento descripcion="Factura" nombreCorto="FAC" />
+            <bfa2:CFD cargos="0" refID="V4110049971" totalConLetra="TRESCIENTOS SETENTA Y CINCO PESOS 38/100 MN" agenteVentas="ANABELP" tipoCambio="1.0" tipoMoneda="MXN" noOrden="10049971" />
+            <bfa2:Extra valor="FALSE" atributo="asignaFolio" />
+        </bfa2:AddendaBuzonFiscal>
+    </cfdi:Addenda>
+</cfdi:Comprobante>

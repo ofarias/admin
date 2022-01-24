@@ -74,6 +74,7 @@ if($tipo == 'fiel'){
 									<table class="table table-hover table-condensed" id="tabla-recibidos">
 										<thead>
 											<tr>
+												<th>Ln</th>
 												<th class="text-center">XML</th>
 												<th class="text-center">Acuse</th>
 												<th>Efecto</th>
@@ -92,6 +93,7 @@ if($tipo == 'fiel'){
 									</table>
 								</div>
 								<div class="text-right">
+									Seleccionar todo: <input type="checkbox" class="btn btn-info select">&nbsp;&nbsp;&nbsp;
 									<a href="#" class="btn btn-primary excel-export" download="cfdi_recibidos.xls">Exportar a Excel</a>
 									<button type="submit" class="btn btn-success" onclick="valorRFC()">Descargar seleccionados</button>
 								</div>
@@ -107,6 +109,7 @@ if($tipo == 'fiel'){
 									<table class="table table-hover table-condensed" id="tabla-emitidos">
 										<thead>
 											<tr>
+												<th>Ln</th>
 												<th class="text-center">XML</th>
 												<th class="text-center">Acuse</th>
 												<th>Efecto</th>
@@ -124,6 +127,7 @@ if($tipo == 'fiel'){
 									</table>
 								</div>
 								<div class="text-right">
+									Seleccionar todo: <input type="checkbox" class="btn btn-info select">&nbsp;&nbsp;&nbsp;
 									<a href="#" class="btn btn-primary excel-export" download="cfdi_emitidos.xls">Exportar a Excel</a>
 									<button type="submit" class="btn btn-success" onclick="valorRFC()">Descargar seleccionados</button>
 								</div>
@@ -144,6 +148,18 @@ if($tipo == 'fiel'){
 				document.getElementById('rfc_b').value=rf
 
 			}
+
+			$(".select").change(function(){
+				if($(this).prop('checked')){
+					$(".sel").each(function(index){
+								$(this).prop('checked',true);
+					})
+				}else{
+					$(".sel").each(function(index){
+								$(this).prop('checked',false);
+					})					
+				}
+			})
 		</script>
 	</body>
 </html>

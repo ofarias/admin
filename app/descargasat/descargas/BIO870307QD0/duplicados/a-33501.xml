@@ -1,0 +1,22 @@
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="SAN LUIS POTOSI, SLP" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" certificado="MIIEfTCCA2WgAwIBAgIUMDAwMDEwMDAwMDAyMDE2MzU4OTYwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDcyNjE1MDMwMFoXDTE2MDcyNjE1MDMwMFowgb4xIDAeBgNVBAMTF1BPU0FEQSBEQU5JRUxJIFNBIERFIENWMSAwHgYDVQQpExdQT1NBREEgREFOSUVMSSBTQSBERSBDVjEgMB4GA1UEChMXUE9TQURBIERBTklFTEkgU0EgREUgQ1YxJTAjBgNVBC0THFBEQTEwMTIyMFQxMCAvIFBJWlQ1MjAxMjdVSkExHjAcBgNVBAUTFSAvIFBJWlQ1MjAxMjdNU1BaTVIwMzEPMA0GA1UECxMGTUFUUklaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZeo0vjtC/Lk7cWAToMRJIBXu8mtF3mRMK2bb2eL7oEXo5GH6erQzqajAqcyGYnmInaI7zzAvVaEsvOfqa+KqWBk8Ga9XLF7VvcTJQUTZtMVImIeUYInXP6FSeqcqTX7ZG6FpJinoTjIILNQC76KeS+wjLchCWn6YYPob1rHMgNQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAnGFZx1g/5OQuGSka1joUvSnqsvaAN5tmKiJ+Cx/+KRqzIiDQ58/TejOD/Sdy0GAdVoU+H1eaWj/SLc/xWl2MH8XwHafrvnu1eSypV4Jo1/NQyV8Dk+BDa/rQa8InDtAaW7PLFupjkVSCxnvKzgBin3Cfd+UrdS95J36sfay3U+dr10XYsHHKOP5wz5BBjvbPik1jujwqUl8sIpCirPKLzS+WoZXeLUH8S7/IXyK0J6amyrrhGu/dLtSA4XWXeileawT6SiU2E8cSDTvyKK1H6/E3y22mkq+RmN349bAwKkETI4kX2taRdGyAgtD8rFUHAxKK0vKPFKjgo/iFn3r0pA==" sello="hre+sZPOA1JeHIJhl8X/2RLmS+Qvcpp96jK74i1IdXQdA9MIj4zyB2+FTsVhBo0Jo3Ln3OxenyvICAYpXsM1d33BeoEN41QKPs0S6J/vfoYiH9nNpX7ys9Mlv+do9etXNk2wXmwlMjFF+nOnW80FIvlusfDpnDPZMI/XqPo/LjI=" noCertificado="00001000000201635896" version="3.2" serie="A" folio="33501" fecha="2015-10-14T10:22:17" tipoDeComprobante="ingreso" subTotal="378.15" total="450.00" formaDePago="PAGO EN UNA SOLA EXHIBICION" condicionesDePago="NO IDENTIFICADO" metodoDePago="TARJETA DE DEBITO">
+	<cfdi:Emisor rfc="PDA101220T10" nombre="POSADA DANIELI, SA DE CV">
+		<cfdi:DomicilioFiscal calle="JUAN SARABIA" noExterior="120" colonia="CENTRO" localidad="SAN LUIS POTOSI" municipio="SAN LUIS POTOSI" estado="SAN LUIS POTOSI" pais="MEXICO" codigoPostal="78000"/>
+		<cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="BIO870307QD0" nombre="BIOTECSA S.A DE C.V.">
+		<cfdi:Domicilio calle="BLVD. MANUEL AVILA CAMACHO" noExterior="2900" noInterior="804" colonia="FRACC.LOS PIRULES" municipio="TLALNEPANTLA" estado="MEXICO" pais="MEXICO" codigoPostal="54040     "/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos><cfdi:Concepto cantidad="1.00" unidad="NO APLICA" descripcion="HOSPEDAJE 13/10/2015 - 14/10/2015" valorUnitario="378.15" importe="378.15" noIdentificacion="10">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="60.50">
+		<cfdi:Traslados><cfdi:Traslado impuesto="IVA" tasa="16.00" importe="60.50"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2015-10-14T10:24:23" UUID="86C8738D-F3A0-4CC7-89E4-CCBE077981E4" noCertificadoSAT="00001000000301751173" selloCFD="hre+sZPOA1JeHIJhl8X/2RLmS+Qvcpp96jK74i1IdXQdA9MIj4zyB2+FTsVhBo0Jo3Ln3OxenyvICAYpXsM1d33BeoEN41QKPs0S6J/vfoYiH9nNpX7ys9Mlv+do9etXNk2wXmwlMjFF+nOnW80FIvlusfDpnDPZMI/XqPo/LjI=" selloSAT="tXDRSxp/BqQN58TpGnkSK3VKQgJ62KmJ2cNHjvnRDCAt0JdGH6mFxCEr+AbFtAOM91wDL7YvtzWBio3B2HHgtjeRiAwnELOgwHrDZ1HA1c3FNONvzsk6D/PMaHaa0RkgETM0jy9PC978vXrPQASZ2ZxxD79IJ0awd5LwubVn+e4=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+		<implocal:ImpuestosLocales xmlns:implocal="http://www.sat.gob.mx/implocal" xsi:schemaLocation="http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd" version="1.0" TotaldeTraslados="11.35" TotaldeRetenciones="0.00"><implocal:TrasladosLocales ImpLocTrasladado="ISH" TasadeTraslado="3.00" Importe="11.35"/>
+		</implocal:ImpuestosLocales>
+	</cfdi:Complemento>
+	<cfdi:Addenda/>
+</cfdi:Comprobante>

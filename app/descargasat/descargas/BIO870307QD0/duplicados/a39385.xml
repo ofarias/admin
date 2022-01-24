@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" Version="3.3" Serie="A" Folio="39385" Fecha="2018-01-30T20:01:39" Sello="di1yf/VGi6W2nUrScEtOg/bBaYooOjzqgBDUgVpiQwVzGCSVzpi27X34e+hKQgFxWRIhvN5N2Nr9grqf2I+AUYmzXX51XJ3CV91ehZSekWO0kZlvnKydC1AdvumpXRVIRLdOIQ6PKjmnvLCv8LX3VruouTvm/m/oQ309rl5htlg7cAQTGa9P92c+LPX1Uf76mC1WJ/BNui9k3bS/7yRqd8XUgBtusT0hGsb3oIxxACpNp+B8/3NNQPW7U7nT611D5M163UwSNBWQ9KcH0lwghKPSpVHWRh5Ill6hSPEXiobxLewlv59akP/Crzj/ASwr6NccZDAdU2qUIbwz9JSOiw==" FormaPago="99" NoCertificado="00001000000405932806" Certificado="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" CondicionesDePago="A017 60 días fecha factura." SubTotal="1133.00" Moneda="USD" TipoCambio="18.61851" Total="1314.28" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="55540">
+  <cfdi:Emisor Rfc="ATM130404IM9" Nombre="Archroma Mexico S de RL de CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="BIO870307QD0" Nombre="Biotecsa SA de CV" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="12352100" NoIdentificacion="22809026298" Cantidad="1100.000" ClaveUnidad="KGM" Unidad="Kilo" Descripcion="Dekol 2005.MX liq                   1100" ValorUnitario="1.030000" Importe="1133.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1133.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="181.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="181.28">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="181.28" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital UUID="413f9b6c-0f6b-486d-8f49-6c989b491dc5" FechaTimbrado="2018-01-30T17:04:59" Version="1.1" SelloCFD="di1yf/VGi6W2nUrScEtOg/bBaYooOjzqgBDUgVpiQwVzGCSVzpi27X34e+hKQgFxWRIhvN5N2Nr9grqf2I+AUYmzXX51XJ3CV91ehZSekWO0kZlvnKydC1AdvumpXRVIRLdOIQ6PKjmnvLCv8LX3VruouTvm/m/oQ309rl5htlg7cAQTGa9P92c+LPX1Uf76mC1WJ/BNui9k3bS/7yRqd8XUgBtusT0hGsb3oIxxACpNp+B8/3NNQPW7U7nT611D5M163UwSNBWQ9KcH0lwghKPSpVHWRh5Ill6hSPEXiobxLewlv59akP/Crzj/ASwr6NccZDAdU2qUIbwz9JSOiw==" NoCertificadoSAT="00001000000405999912" SelloSAT="q8iNJESMlbsLwBQdDhzWupAy/aXlt2g2KZp2hWlZyfnwExj04cVi8CVliOv7tWzx3o3fEx8bYbgQmR8zHDYzzDrspE25BAwPXL/0TILHubBDyh7E1eCNJqxeGl+S1OkOR4axb2Xg9vKdKQ9mgZlEV9TOzyBqSZoctfNAi2NFC5AJ8CEfrK5UpUCEVXBe0y2fTqzEzBVCdo8nHi0QHyV0ekuGuUT15qZ5Q+1TWa0ZZlWqUrKsDR8d4aSTHphY3CvGsFhzuPwEdGu/j1kbojrB48tTSAItZhPQS48ov4tfgvPVeiJPrV9aHaIrZgFOA6rdu3CYJhp8ueeGDzIU4FpXeg==" RfcProvCertif="NSI050810TIA" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" />
+  </cfdi:Complemento>
+  <cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33A39385">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>0</ecfd:NroAprob>
+            <ecfd:AnoAprob>2013</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>A</ecfd:Serie>
+            <ecfd:Folio>39385</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:FechaEmis>2018-01-30T20:01:39</ecfd:FechaEmis>
+            <ecfd:FormaPago>PPD</ecfd:FormaPago>
+            <ecfd:MedioPago>99</ecfd:MedioPago>
+            <ecfd:LugarExpedicion>55540</ecfd:LugarExpedicion>
+            <ecfd:CondPago>A017 60 días fecha factura.</ecfd:CondPago>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>ATM130404IM9</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>Archroma Mexico S de RL de CV</ecfd:NmbEmisor>
+            <ecfd:CodigoExEmisor>
+              <ecfd:TpoCdgIntEmisor>INT</ecfd:TpoCdgIntEmisor>
+            </ecfd:CodigoExEmisor>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>Plásticos No.28. Santa Clara Coatitla</ecfd:Calle>
+              <ecfd:Colonia>Ecatepec, Estado de México</ecfd:Colonia>
+              <ecfd:Referencia>9385</ecfd:Referencia>
+              <ecfd:Municipio>México CP</ecfd:Municipio>
+              <ecfd:Estado>Estado de México</ecfd:Estado>
+              <ecfd:Pais>MÉX</ecfd:Pais>
+              <ecfd:CodigoPostal>55540</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>Plasticos No. 28</ecfd:Calle>
+              <ecfd:Colonia>Ecatepec, Estado de México</ecfd:Colonia>
+              <ecfd:Municipio>Santa Clara Coatitla - Ecatepec</ecfd:Municipio>
+              <ecfd:Estado>MÉX</ecfd:Estado>
+              <ecfd:Pais>MÉX</ecfd:Pais>
+              <ecfd:CodigoPostal>55540</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>BIO870307QD0</ecfd:RFCRecep>
+            <ecfd:NmbRecep>Biotecsa SA de CV</ecfd:NmbRecep>
+            <ecfd:CodigoExReceptor>
+              <ecfd:TpoCdgIntRecep>INT</ecfd:TpoCdgIntRecep>
+              <ecfd:CdgIntRecep>0000181906</ecfd:CdgIntRecep>
+            </ecfd:CodigoExReceptor>
+            <ecfd:UsoCFDI>G01</ecfd:UsoCFDI>
+            <ecfd:CdgSucursal>0000352912</ecfd:CdgSucursal>
+            <ecfd:Sucursal>Biotecsa SA de CV</ecfd:Sucursal>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>Blvd. Manuel Avila Camacho No. 2900</ecfd:Calle>
+              <ecfd:NroExterior>Desp 804</ecfd:NroExterior>
+              <ecfd:Colonia>Fraccionamiento Los Pirules</ecfd:Colonia>
+              <ecfd:Municipio>Tlalnepantla</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>MEX</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+            <ecfd:LugarRecep>
+              <ecfd:Calle>Destajistas No 6</ecfd:Calle>
+              <ecfd:Colonia>Fracc.Industrial Xhala</ecfd:Colonia>
+              <ecfd:Municipio>Cuautitlan Izcalli</ecfd:Municipio>
+              <ecfd:Estado>MEX</ecfd:Estado>
+              <ecfd:Pais>MEX</ecfd:Pais>
+              <ecfd:CodigoPostal>54040</ecfd:CodigoPostal>
+            </ecfd:LugarRecep>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>USD</ecfd:Moneda>
+            <ecfd:FctConv>18.61851</ecfd:FctConv>
+            <ecfd:SubTotal>1133.00</ecfd:SubTotal>
+            <ecfd:MntBase>1133.00</ecfd:MntBase>
+            <ecfd:MntImp>181.28</ecfd:MntImp>
+            <ecfd:VlrPagar>1314.28</ecfd:VlrPagar>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>002</ecfd:TipoImp>
+            <ecfd:TipoFactor>Tasa</ecfd:TipoFactor>
+            <ecfd:TasaImp>0.160000</ecfd:TasaImp>
+            <ecfd:MontoImp>181.28</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:CdgItem>
+            <ecfd:TpoCodigo>IN</ecfd:TpoCodigo>
+            <ecfd:VlrCodigo>22809026298</ecfd:VlrCodigo>
+          </ecfd:CdgItem>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:ClaveProdServ>12352100</ecfd:ClaveProdServ>
+          <ecfd:DscItem>Dekol 2005.MX liq                   1100</ecfd:DscItem>
+          <ecfd:QtyItem>1100.000</ecfd:QtyItem>
+          <ecfd:ClaveUnidad>KGM</ecfd:ClaveUnidad>
+          <ecfd:UnmdItem>Kilo</ecfd:UnmdItem>
+          <ecfd:PrcBrutoItem>1.030000</ecfd:PrcBrutoItem>
+          <ecfd:PrcNetoItem>1.030000</ecfd:PrcNetoItem>
+          <ecfd:ImpuestosDet>
+            <ecfd:TipoImp>002</ecfd:TipoImp>
+            <ecfd:TasaImp>0.160000</ecfd:TasaImp>
+            <ecfd:MontoImp>181.28</ecfd:MontoImp>
+            <ecfd:MontoBaseImp>1133.00</ecfd:MontoBaseImp>
+            <ecfd:TipoFactor>Tasa</ecfd:TipoFactor>
+          </ecfd:ImpuestosDet>
+          <ecfd:MontoBrutoItem>1133.00</ecfd:MontoBrutoItem>
+          <ecfd:MontoNetoItem>1133.00</ecfd:MontoNetoItem>
+          <ecfd:TpoDocRef>ON</ecfd:TpoDocRef>
+        </ecfd:Detalle>
+        <ecfd:TimeStamp>2018-01-30T17:04:54</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="NumeroCliente">0000181906</ecfd:campoString>
+        <ecfd:campoString name="OrdenCompra">5534</ecfd:campoString>
+        <ecfd:campoString name="SI_ZZZ">MIL TRESCIENTOS CATORCE Dólar USA 28/100</ecfd:campoString>
+        <ecfd:campoString name="Texto3">Lun a Vier 8:00 a 17:00 Hrs</ecfd:campoString>
+        <ecfd:campoString name="Texto4" />
+        <ecfd:campoString name="Texto5">Entregar  con orden de compra  y hojas de seguridad</ecfd:campoString>
+        <ecfd:campoString name="Transportista1" />
+        <ecfd:campoString name="Transportista2" />
+        <ecfd:campoString name="Pedido">0003537642</ecfd:campoString>
+        <ecfd:campoString name="Inco">LAB</ecfd:campoString>
+        <ecfd:campoString name="Departamento">Textile</ecfd:campoString>
+        <ecfd:campoString name="Vendedor">M63 Ivan Vazquez</ecfd:campoString>
+        <ecfd:campoString name="Transportista" />
+        <ecfd:campoString name="SucEmision">4001</ecfd:campoString>
+        <ecfd:campoString name="NumEntrega">83904886</ecfd:campoString>
+        <ecfd:campoString name="PagoMon">Para el Pago de ésta Factura en Moneda Nacional, se considera el tipo de cambio del Diario Oficial de la Federación o Banco de México del día anterior a la fecha de Pago, conforme a lo establecido por el Art. 8 de la Ley Monetaria Vigente.</ecfd:campoString>
+        <ecfd:campoString name="Ref1" />
+        <ecfd:campoString name="Ref2">Esta Factura causará intereses moratorios del 3% mensual, si no es pagada a su vencimiento. Los pagos deben hacerse a nombre de Archroma Textiles Mexico, S. de R.L. de C.V. en nuestra cuenta en Moneda Nacional No. 13787016 Clabe: 106180000137870163 en Bank of America Merrill Lynch o cuenta en Dólares No. 1257366536 SWIFT BOFAUS3N en Bank of America Merrill Lynch</ecfd:campoString>
+        <ecfd:campoString name="Ref3" />
+        <ecfd:campoString name="Ref4" />
+        <ecfd:campoString name="Texto1">LA CONTRAPRESTACION DE ESTA FACTURA SERÁ EN UNA SOLA EXHIBICION</ecfd:campoString>
+        <ecfd:campoString name="Texto2" />
+        <ecfd:campoString name="FechaOrdenCompra">20180116</ecfd:campoString>
+        <ecfd:campoString name="Texto6">Recabar el sello de recepcion</ecfd:campoString>
+        <ecfd:campoString name="Texto7" />
+        <ecfd:campoString name="Texto8" />
+        <ecfd:campoString name="Texto9" />
+        <ecfd:campoString name="Texto10" />
+        <ecfd:campoString name="Texto11" />
+        <ecfd:campoString name="Texto12" />
+        <ecfd:campoString name="Texto13" />
+        <ecfd:campoString name="Texto14" />
+        <ecfd:campoString name="Texto15" />
+        <ecfd:campoString name="Texto16" />
+        <ecfd:campoString name="Texto17" />
+        <ecfd:campoString name="Texto18" />
+        <ecfd:campoString name="Texto19" />
+        <ecfd:campoString name="Texto20" />
+        <ecfd:campoString name="Texto21" />
+        <ecfd:campoString name="Texto22" />
+        <ecfd:campoString name="Texto23" />
+        <ecfd:campoString name="Texto24" />
+        <ecfd:campoString name="Texto25" />
+        <ecfd:campoString name="Texto26" />
+        <ecfd:campoString name="Texto27" />
+        <ecfd:campoString name="Texto28" />
+        <ecfd:campoString name="Texto29" />
+        <ecfd:campoString name="Texto30" />
+        <ecfd:campoString name="NumeroInterno">9600039385</ecfd:campoString>
+        <ecfd:campoString name="Texto31" />
+        <ecfd:campoString name="Texto32" />
+        <ecfd:campoString name="Texto33" />
+        <ecfd:campoString name="Texto34" />
+        <ecfd:campoString name="Texto35" />
+        <ecfd:campoString name="Texto36" />
+        <ecfd:campoString name="Texto37" />
+        <ecfd:campoString name="Texto38" />
+        <ecfd:campoString name="Texto39" />
+        <ecfd:campoString name="Texto40" />
+        <ecfd:campoString name="Texto41" />
+        <ecfd:campoString name="Texto42" />
+        <ecfd:campoString name="Texto43" />
+        <ecfd:campoString name="Texto44" />
+        <ecfd:campoString name="Texto45" />
+        <ecfd:campoString name="Texto46" />
+        <ecfd:campoString name="Texto47" />
+        <ecfd:campoString name="Texto48" />
+        <ecfd:campoString name="Texto49" />
+        <ecfd:campoString name="Texto50" />
+        <ecfd:campoString name="Texto51" />
+        <ecfd:campoString name="Texto52" />
+        <ecfd:campoString name="Texto53" />
+        <ecfd:campoString name="Texto54" />
+        <ecfd:campoString name="Texto55" />
+        <ecfd:campoString name="Texto56" />
+        <ecfd:campoString name="Texto57" />
+        <ecfd:campoString name="Texto58" />
+        <ecfd:campoString name="Texto59" />
+        <ecfd:campoString name="Texto60" />
+        <ecfd:campoString name="Texto61" />
+        <ecfd:campoString name="Texto62" />
+        <ecfd:campoString name="Texto63" />
+        <ecfd:campoString name="Texto64" />
+        <ecfd:campoString name="Texto65" />
+        <ecfd:campoString name="Texto66" />
+        <ecfd:campoString name="Texto67" />
+        <ecfd:campoString name="Texto68" />
+        <ecfd:campoString name="Texto69" />
+        <ecfd:campoString name="Texto70" />
+        <ecfd:campoString name="Texto71" />
+        <ecfd:campoString name="Texto72" />
+        <ecfd:campoString name="Texto73" />
+        <ecfd:campoString name="Texto74" />
+        <ecfd:campoString name="Texto75" />
+        <ecfd:campoString name="Texto76" />
+        <ecfd:campoString name="Texto77" />
+        <ecfd:campoString name="Texto78" />
+        <ecfd:campoString name="Texto79" />
+        <ecfd:campoString name="Texto80" />
+        <ecfd:campoString name="Texto81" />
+        <ecfd:campoString name="Texto82" />
+        <ecfd:campoString name="Texto83" />
+        <ecfd:campoString name="Texto84" />
+        <ecfd:campoString name="Texto85" />
+        <ecfd:campoString name="Texto86" />
+        <ecfd:campoString name="Texto87" />
+        <ecfd:campoString name="Texto88" />
+        <ecfd:campoString name="Texto89" />
+        <ecfd:campoString name="Texto90" />
+        <ecfd:campoString name="Texto91" />
+        <ecfd:campoString name="Texto92" />
+        <ecfd:campoString name="Texto93" />
+        <ecfd:campoString name="Texto94" />
+        <ecfd:campoString name="Texto95" />
+        <ecfd:campoString name="Texto96" />
+        <ecfd:campoString name="Texto97" />
+        <ecfd:campoString name="Texto98" />
+        <ecfd:campoString name="Texto99" />
+        <ecfd:campoString name="Texto100" />
+        <ecfd:campoString name="Tasa">16</ecfd:campoString>
+        <ecfd:campoString name="Ret15" />
+        <ecfd:campoString name="Ret4" />
+        <ecfd:campoString name="CPReceptor">54040</ecfd:campoString>
+        <ecfd:campoString name="CPShipto">54040</ecfd:campoString>
+        <ecfd:campoString name="ret" />
+        <ecfd:campoString name="CuentaBanco">No identificado</ecfd:campoString>
+        <ecfd:campoString name="Regimen">601</ecfd:campoString>
+        <ecfd:campoString name="ClaseDoc">Factura</ecfd:campoString>
+        <ecfd:campoString name="formadepago">99</ecfd:campoString>
+        <ecfd:campoString name="RegimenFiscal">601</ecfd:campoString>
+        <ecfd:campoString name="LugarDeExpedicion">55540</ecfd:campoString>
+        <ecfd:CustDetalle>
+          <ecfd:CustDetNroLin>1</ecfd:CustDetNroLin>
+          <ecfd:CustDetAFN_01>4001004510</ecfd:CustDetAFN_01>
+          <ecfd:CustDetAFN_02>22809026298</ecfd:CustDetAFN_02>
+          <ecfd:CustDetNUE_02>1100</ecfd:CustDetNUE_02>
+          <ecfd:CustDetNUE_03>1</ecfd:CustDetNUE_03>
+          <ecfd:CustDetNUD_01>0.00</ecfd:CustDetNUD_01>
+        </ecfd:CustDetalle>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>
