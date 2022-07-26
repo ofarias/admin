@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:catCFDI="http://www.sat.gob.mx/sitio_internet/cfd/catalogos" xmlns:tdCFDI="http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Serie="A" Folio="1476" Fecha="2022-01-10T15:04:18" FormaPago="03" Sello="h7wiQLSDfF3xI7ayzHCir/QiNevsmDIBiQ/xsr8vKATBGC//SP5bpUof1bVm8w8u6Fud41MVERQnjanJ5AjJNaxrMBBfQTGdk3tirL2K51d4fGrGQJqoMIlQu5dYvQ2BAyg3yY2/N4cLK1QTCarfUlzxiyBOeo6n1wwDmdp+fE2fJLNGRFhiT69JR7S1asHNvBy3C+H9ei0t1KQPWNwrgzCInv4zEek2187Kh81kjxiy66SaWyyuxCdO8YZFl6Hb24xznINJn46AoSbIyR2rWJO1RrrBMu+o/MCoROs2g7HsLJXawiSPM9d2ffdzlIdOqUWqgP9/UhtlR8/FxFXddw==" Certificado="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" NoCertificado="00001000000409423439" SubTotal="2271.55" Moneda="MXN" TipoCambio="1" Total="2634.99" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="30500">
+  <cfdi:Emisor Rfc="FUGA550203A67" Nombre="ALMA DELIA FUENTES GONZALES" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="ISG160303AX3" Nombre="INGENIERIA DEL SURESTE GOCA S.A. DE C.V." UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="40141610" Cantidad="2" ClaveUnidad="H87" Descripcion="VALVULA TANQUE ALTO 3/4&quot; LATON" ValorUnitario="151.72" Importe="303.44">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="303.44" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="48.55" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="20121302" Cantidad="2" ClaveUnidad="H87" Descripcion="FLOTADOR #5 C/VARILLA" ValorUnitario="20.68" Importe="41.36">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="41.36" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.62" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="15111501" Cantidad="1" ClaveUnidad="H87" Descripcion="CARTUCHO GAS" ValorUnitario="42.24" Importe="42.24">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="42.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40171511" Cantidad="0.1" ClaveUnidad="LM" Descripcion="TUBO 3/4&quot; COBRE TIPO M" ValorUnitario="172.41" Importe="17.24">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40172521" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="CONECTOR R/ INTERIOR 3/4&quot; COBRE" ValorUnitario="32.75" Importe="32.75">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="32.75" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40173613" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="REDUCCION BUSHING 1&quot; - MENOR COBRE" ValorUnitario="27.58" Importe="27.58">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27.58" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.41" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40172521" Cantidad="2" ClaveUnidad="H87" Unidad="PZA" Descripcion="CONECTOR R/ INTERIOR 1&quot; COBRE" ValorUnitario="74.14" Importe="148.28">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="148.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="23.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40172812" Cantidad="4" ClaveUnidad="H87" Unidad="PZA" Descripcion="CODO 1&quot; X 90° COBRE" ValorUnitario="53.44" Importe="213.76">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="213.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="34.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40171708" Cantidad="1" ClaveUnidad="H87" Descripcion="ADAPTADOR HEMBRA 3/4&quot; PVC" ValorUnitario="4.31" Importe="4.31">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4.31" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="0.69" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40171708" Cantidad="8" ClaveUnidad="H87" Descripcion="ADAPTADOR MACHO 1&quot; PVC" ValorUnitario="6.04" Importe="48.32">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="48.32" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.73" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31201514" Cantidad="3" ClaveUnidad="H87" Descripcion="CINTA TEFLON 1&quot; X 13 m" ValorUnitario="10.344" Importe="31.03">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31.03" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.97" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40174608" Cantidad="3" ClaveUnidad="H87" Descripcion="TEE 1&quot; PVC" ValorUnitario="10.34" Importe="31.02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31.02" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.96" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40171708" Cantidad="1" ClaveUnidad="H87" Descripcion="ADAPTADOR MACHO 1 1/4&quot; PVC" ValorUnitario="10.3448" Importe="10.34">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10.34" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.66" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40173608" Cantidad="1" ClaveUnidad="H87" Descripcion="REDUCCION DE 1 1/4&quot; A MENOR PVC" ValorUnitario="12.07" Importe="12.07">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12.07" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.93" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40141607" Cantidad="1" ClaveUnidad="H87" Descripcion="VALVULA ESFERA 1&quot; LATON" ValorUnitario="190.51" Importe="190.51">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="190.51" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.48" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="20122361" Cantidad="1" ClaveUnidad="H87" Descripcion="CHECK COLUMPIO 1&quot; (YEE)" ValorUnitario="299.13" Importe="299.13">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="299.13" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="47.86" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40172808" Cantidad="10" ClaveUnidad="H87" Descripcion="CODO 1&quot;X 90 PVC" ValorUnitario="9.49" Importe="94.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="94.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15.18" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40171517" Cantidad="2" ClaveUnidad="XUN" Unidad="TRAMO" Descripcion="TUBO DE 1/2&quot; PVC CED. 40" ValorUnitario="118.96" Importe="237.92">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="237.92" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="38.07" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40171517" Cantidad="0.5" ClaveUnidad="XUN" Unidad="TRAMO" Descripcion="TUBO DE 1/2&quot; PVC CED. 40" ValorUnitario="118.96" Importe="59.48">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="59.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9.52" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161722" Cantidad="2" ClaveUnidad="H87" Descripcion="TUERCA UNION 1/2&quot; GALVANIZADO" ValorUnitario="35.3448" Importe="70.69">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="70.69" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.31" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40174606" Cantidad="1" ClaveUnidad="H87" Descripcion="TEE 1/2&quot; GALVANIZDO" ValorUnitario="10.34" Importe="10.34">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10.34" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.65" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40174900" Cantidad="7" ClaveUnidad="H87" Descripcion="NIPLE 1/2&quot; X 3&quot; GALVANIZADO" ValorUnitario="8.62" Importe="60.34">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="60.34" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9.65" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40141653" Cantidad="1" ClaveUnidad="H87" Descripcion="VALVULA COMPUERTA 1/2&quot;" ValorUnitario="74.13" Importe="74.13">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="74.13" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.86" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40172102" Cantidad="3" ClaveUnidad="H87" Descripcion="CODO 1/2&quot; GALVANIZADO" ValorUnitario="7.76" Importe="23.28">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="23.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40171708" Cantidad="3" ClaveUnidad="H87" Descripcion="ADAPTADOR HEMBRA 1/2&quot; PVC" ValorUnitario="3.4482" Importe="10.34">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10.34" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.66" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40171708" Cantidad="2" ClaveUnidad="H87" Descripcion="ADAPTADOR MACHO 1/2&quot; PVC" ValorUnitario="3.4482" Importe="6.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.10" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40172808" Cantidad="2" ClaveUnidad="H87" Descripcion="CODO 1/2 X 90 PVC" ValorUnitario="4.3103" Importe="8.62">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.38" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40174900" Cantidad="1" ClaveUnidad="H87" Descripcion="NIPLE 1/2&quot; X .80 GALVANIZADO" ValorUnitario="65.53" Importe="65.53">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="65.53" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.48" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40174900" Cantidad="1" ClaveUnidad="H87" Descripcion="NIPLE 1/2&quot; X .60 m GALVANIZADO" ValorUnitario="50.86" Importe="50.86">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="50.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.14" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31201617" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="PEGAMENTO HCO AZUL 60 ML" ValorUnitario="25" Importe="25.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40172608" Cantidad="1" ClaveUnidad="H87" Descripcion="COPLE 1/2&quot; PVC" ValorUnitario="3.45" Importe="3.45">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="0.55" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40173506" Cantidad="1" ClaveUnidad="H87" Descripcion="TAPON MACHO 1/2&quot; GALVANIZADO" ValorUnitario="6.0344" Importe="6.03">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6.03" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="0.97" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31201514" Cantidad="2" ClaveUnidad="H87" Descripcion="CINTA TEFLON 3/4&quot; X 6 m" ValorUnitario="5.18" Importe="10.36">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10.36" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.66" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="363.44">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="363.44" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="4B752FB5-F483-4745-943C-CCF6B485EC37" FechaTimbrado="2022-01-10T16:08:16" RfcProvCertif="IAD121214B34" SelloCFD="h7wiQLSDfF3xI7ayzHCir/QiNevsmDIBiQ/xsr8vKATBGC//SP5bpUof1bVm8w8u6Fud41MVERQnjanJ5AjJNaxrMBBfQTGdk3tirL2K51d4fGrGQJqoMIlQu5dYvQ2BAyg3yY2/N4cLK1QTCarfUlzxiyBOeo6n1wwDmdp+fE2fJLNGRFhiT69JR7S1asHNvBy3C+H9ei0t1KQPWNwrgzCInv4zEek2187Kh81kjxiy66SaWyyuxCdO8YZFl6Hb24xznINJn46AoSbIyR2rWJO1RrrBMu+o/MCoROs2g7HsLJXawiSPM9d2ffdzlIdOqUWqgP9/UhtlR8/FxFXddw==" NoCertificadoSAT="00001000000504587441" SelloSAT="KrnTSNY6bCOZBJ0kt3jWYJyMPolmzAWqGhktAHXe+fNegGv3xlk0i0k/BETBxMdINqfQLC0ETwjIwV96+OhKkOQGm0ny6/TD+88PE0f9s+TalxypXSSEqQNQ5RjvWyMLLKs+4MHXgX2B4WHEWAWPtB7qAEscU/IUknoEO48d9rovvx/nhre18dYNo5HwD+NHMjMieRpY5+g13YrC71VW9jC8CABpiTkvzWNY1nBn6LInaEGrFwyhpHxz6vCckkNSy6e27YrPGig7qi1D41ioPEbC1pYhgeorwZn1H1b2es4WucYKoo1IkMi0c0MpsvgR6Q011URgBO1nkfIpE/oi+Q==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

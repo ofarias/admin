@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="Calz. de la viga 1132, Apatlaco Iztapalapa Ciudad de México México 09430" certificado="MIIEhjCCA26gAwIBAgIUMDAwMDEwMDAwMDAyMDI0MTU2NzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyMzE4MjkzMloXDTE2MTEyMzE4MjkzMlowgccxIzAhBgNVBAMTGkVESVRPUklBTCBUUklMTEFTIFNBIERFIENWMSMwIQYDVQQpExpFRElUT1JJQUwgVFJJTExBUyBTQSBERSBDVjEjMCEGA1UEChMaRURJVE9SSUFMIFRSSUxMQVMgU0EgREUgQ1YxJTAjBgNVBC0THEVUUjgyMDMyOUs4OSAvIFRJU0Y0OTA4MTNOUDYxHjAcBgNVBAUTFSAvIFRJU0Y0OTA4MTNIREZSTFIwMjEPMA0GA1UECxMGVU5JREFEMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsbahKAx3jvbMoIhjc71ZTWH7RmSaClDiE/jE9d1yqVTDDTqHhQYU1GjcxPIM0s4JkX3X+v82olfM6t04JzvIjGiL2XBI6i3gsIjWdsGykjIte0DG3SmwdMaVhRwIqlj48iekDDHbTlZ4dnqykfle3tXrPAnTNIMTFk0j1Lcxx/wIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAZlT/N+JUOPEi2QNxQV98gCRxybG63CwLLGHG83yBQUQl9WrJ7UIZHVjL0wB7CANx/cvum13TTh6uyU0/6uKy71L9EdQ7OIYAPzyVmn9R+/RqzyMDZ8SYcSLRKpFMKiMyMYWTLUoktzQA9A1WIa4gaEzKr0ttA9o5kjm9pwkPFQW6UIHXhP0LOkk/cx/A8kR3jXSxLLLAQhvKr/q8dYdWNpneoZDwbexGF8VF9RzNfy9UTvQJqV3tFkfFhhjYduz/j2gepHcf58e+zGLHdtZq6Y1Ttf3xeAdnqxhesRv5273bw/0JwexKvc8XotpBmNZ9QxIdnmnYoDK5QfjdeV5hWg==" fecha="2016-09-06T12:01:41" folio="38151" formaDePago="Pago en una sola exhibición" metodoDePago="NA" noCertificado="00001000000202415670" sello="RQ2WYvESBjLM0ortLw5sj3dqHThy0HVOkzPyMVKPt/99lA2ctMd0ol0JL39XgPPA0sMPu53MbWqlS5m2/qZntKZXsRfi8vCxr8gcqLf3oz3jXy+a06n4ANX0m17saqcrTszii9+6jt2/KuRD2UZ51hRoQSzIZ6+JWiSVRbszuNo=" serie="JA" subTotal="945.00" tipoDeComprobante="ingreso" total="945.00" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="EDITORIAL TRILLAS S.A. DE C.V." rfc="ETR820329K89">
+    <cfdi:DomicilioFiscal calle="Av. Río Churubusco" codigoPostal="03340" colonia="General Pedro María Anaya" estado="Ciudad de México" municipio="Benito Juárez" noExterior="385" pais="México" />
+    <cfdi:ExpedidoEn calle="Calz. de la viga" codigoPostal="09430" colonia="Apatlaco" estado="Ciudad de México" municipio="Iztapalapa" noExterior="1132" pais="México" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="MARTA BENITEZ MARIA DE LA LUZ" rfc="MABL7705259U7">
+    <cfdi:Domicilio calle="CALZ. DE TLALPAN # 4500" codigoPostal="14080" colonia="SECCION XVI/TLALPAN" estado="CDMX" localidad="MEXICO" pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" descripcion="BALSEIRO-GUIA PARA TESINAS" importe="70.00" noIdentificacion="9786071717825" unidad="PIEZA" valorUnitario="70.0000" />
+    <cfdi:Concepto cantidad="4.00" descripcion="ROMAN C-ATN.PREHOSPITALARIA" importe="336.00" noIdentificacion="9786071705488" unidad="PIEZA" valorUnitario="84.0000" />
+    <cfdi:Concepto cantidad="2.00" descripcion="SEHGAL-ENF.TRANSMISION SEXUAL" importe="350.00" noIdentificacion="9786071725417" unidad="PIEZA" valorUnitario="175.0000" />
+    <cfdi:Concepto cantidad="1.00" descripcion="VAZQUEZ T-ENF.INFECCIOSAS" importe="189.00" noIdentificacion="9786071717931" unidad="PIEZA" valorUnitario="189.0000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="0.00" totalImpuestosTrasladados="0.00">
+    <cfdi:Retenciones>
+      <cfdi:Retencion importe="0.00" impuesto="IVA" />
+      <cfdi:Retencion importe="0.00" impuesto="ISR" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="0.00" impuesto="IVA" tasa="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento> <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" UUID="2E95CBBC-A358-D448-9C5C-3FD139C2F5B9" FechaTimbrado="2016-09-06T12:02:53" selloCFD="RQ2WYvESBjLM0ortLw5sj3dqHThy0HVOkzPyMVKPt/99lA2ctMd0ol0JL39XgPPA0sMPu53MbWqlS5m2/qZntKZXsRfi8vCxr8gcqLf3oz3jXy+a06n4ANX0m17saqcrTszii9+6jt2/KuRD2UZ51hRoQSzIZ6+JWiSVRbszuNo=" noCertificadoSAT="00001000000401041203" selloSAT="CEn0kjCbiJvmA1SJOzV4G2ubG7cID5kizx50Lj6fZrr1V3GlVF/rSmUciIom736hhsAULmI7xr2gjeuureMiUWrGvfsB5qQKLQYygN7irIgmuDgJzjyWuHgVjKRBvdsRP4ucscjx/qYvA9jiLjHUDVryOQ2j2pSSgFY3zrrjT54pMaMpGhqYAVn5LkUzw73g8ih8xLglNqx7wwB8rQsYHoE7D4/MqDIRl11XJzf/w4QwlTM9w0jgEHt99/8OYjxotRflwf4AzKXhXr/yC8JWkTmj1wAz4nbgJhhxi6JRgp6JpRTGOHpZhBWn7jobEDiI+Wx7Zxo+dDZ61+Y/OWb1QQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

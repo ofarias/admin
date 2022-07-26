@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="MEXICO, D.F." Moneda="PESOS" TipoCambio="1.0000" certificado="MIIEhjCCA26gAwIBAgIUMDAwMDEwMDAwMDAyMDI0NTM1ODEwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyODE3NDQwOVoXDTE2MTEyODE3NDQwOVowgccxIzAhBgNVBAMTGkxJQlJFUklBUyBHT05WSUxMIFNBIERFIENWMSMwIQYDVQQpExpMSUJSRVJJQVMgR09OVklMTCBTQSBERSBDVjEjMCEGA1UEChMaTElCUkVSSUFTIEdPTlZJTEwgU0EgREUgQ1YxJTAjBgNVBC0THExHTzg0MDQxM1NEMiAvIEdPTFQ2NjA3MzBHTEExHjAcBgNVBAUTFSAvIEdPTFQ2NjA3MzBIREZOVFIwNjEPMA0GA1UECxMGbWF0cml6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDD4WFw+wt0CMm/ozcNUnrVPyUmQq6bFV7ExtZ9YDgMn3LquM9ct07IPqDfI3A7nDsL6A7C9fa3I/yt2c3XFgcogWuk4As0pc3akn4q4fUBwBOs2yynyJP2DMpebHwIi9wY2VgwL1s3+/g8/J2ReGN/12i7UOvhq9JAsfZTaDcuYQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEACoPWjFkKRsjhEPV6U91VD2vC4FOYmmtYt+d7ZKbB+3bjqByN5b/0JAptxcXyd2mv/zig62KPmhiQVE/NRW9/8vieizjIU708WJ3JKXw1n0uSmweOyjdJdKmWD8RgIZjmvxf3FT8WC4PdmWurF1l7NdZA8PDwYQEr3p7FlJsOXf9pLVQLESep8pCThJ94UaUGFCNBG2Ao/8B4SfnG18WYujKEayQtU5DWVldxxeOYXkF0dRfQh8fD4SkeomX6A3jePaGe480w1Sh8QoaPqRW/mmr7IpWmO14uV0qIR5jFvSpcgZNn01RCI9JpI8SUxAltdR6xDOZDF6Kzwm3xlKvXxg==" condicionesDePago="CREDITO" descuento="0.00" fecha="2016-04-15T10:12:54" folio="18886" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="NO IDENTIFICADO" noCertificado="00001000000202453581" sello="Q1bqbPAawnuifpaC13YncYiV4CmEKdX0Sv0w30wWX108uARUtrA3wFTzAxCQhKwv2CRG1BRFAo4yE/UcFvotYuYZJFn5JS4Okwhj5UMypbrSHqijHZ7Mjw+4oCEhNTtAcUA5ZSC0mmqWsqdvR6vpOGvJm1S2Gh9XImuf6on5a4Q=" serie="B" subTotal="47116.80" tipoDeComprobante="ingreso" total="47116.80" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="LIBRERIAS GONVILL, S.A. DE C.V." rfc="LGO840413SD2">
+    <cfdi:DomicilioFiscal calle="8 DE JULIO" codigoPostal="44190" colonia="MODERNA" estado="JALISCO" municipio="GUADALAJARA" noExterior="825, Colonia MODERNA" pais="MEXICO" />
+    <cfdi:ExpedidoEn calle="NORTE 45" codigoPostal="02300" colonia="INDUSTRIAL VALLEJO" estado="D.F." municipio="D.F." noExterior="958" pais="MEXICO" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="MARIA DE LA LUZ MARTA BENITEZ" rfc="MABL7705259U7">
+    <cfdi:Domicilio calle="CALZ. DE TLALPAN NO. 4500" codigoPostal="14080" colonia="SECCION XVI" estado="DISTRITO FEDERAL" municipio="DELEG. TLALPAN MEXICO" pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" descripcion="RETINA  -HANDBOOK-" importe="359.40" noIdentificacion="15400847" unidad="PIEZA" valorUnitario="599.00" />
+    <cfdi:Concepto cantidad="5" descripcion="AMIR MEDICINA TEXTBOOK 1" importe="1437.00" noIdentificacion="15400814" unidad="PIEZA" valorUnitario="479.00" />
+    <cfdi:Concepto cantidad="5" descripcion="AMIR MEDICINA TEXTBOOK 2" importe="957.00" noIdentificacion="15400815" unidad="PIEZA" valorUnitario="319.00" />
+    <cfdi:Concepto cantidad="5" descripcion="AMIR ESPECIALIDADES TEXTBOOK 3" importe="837.00" noIdentificacion="15400816" unidad="PIEZA" valorUnitario="279.00" />
+    <cfdi:Concepto cantidad="5" descripcion="AMIR ESPECIALIDADES TEXTBOOK 4" importe="957.00" noIdentificacion="15400817" unidad="PIEZA" valorUnitario="319.00" />
+    <cfdi:Concepto cantidad="15" descripcion="AMIR TEST RAZONADOS TEXTBOOK 5" importe="5031.00" noIdentificacion="15400818" unidad="PIEZA" valorUnitario="559.00" />
+    <cfdi:Concepto cantidad="5" descripcion="URGENCIAS RX  -POCKET-" importe="717.00" noIdentificacion="15400844" unidad="PIEZA" valorUnitario="239.00" />
+    <cfdi:Concepto cantidad="5" descripcion="EKG  -POCKET-" importe="597.00" noIdentificacion="15400846" unidad="PIEZA" valorUnitario="199.00" />
+    <cfdi:Concepto cantidad="2" descripcion="CADERA TAPA DURA" importe="3466.80" noIdentificacion="15400687" unidad="PIEZA" valorUnitario="2889.00" />
+    <cfdi:Concepto cantidad="1" descripcion="POSICIONES RADIOLOGICAS -MINI-" importe="281.40" noIdentificacion="15400654" unidad="PIEZA" valorUnitario="469.00" />
+    <cfdi:Concepto cantidad="1" descripcion="VIAS DE ABORDAJE ARTROPLASTIA (1)" importe="455.40" noIdentificacion="15400792" unidad="PIEZA" valorUnitario="759.00" />
+    <cfdi:Concepto cantidad="1" descripcion="INFECCIONES Y TUMORES (2)" importe="413.40" noIdentificacion="15400793" unidad="PIEZA" valorUnitario="689.00" />
+    <cfdi:Concepto cantidad="1" descripcion="INFANTIL FRACTURAS Y LUXACIONES (3)" importe="359.40" noIdentificacion="15400794" unidad="PIEZA" valorUnitario="599.00" />
+    <cfdi:Concepto cantidad="1" descripcion="COLUMNA VERTEBRAL (4)" importe="437.40" noIdentificacion="15400795" unidad="PIEZA" valorUnitario="729.00" />
+    <cfdi:Concepto cantidad="1" descripcion="ARTROSCOPIA -LESIONES DEPORTIVAS- (5)" importe="455.40" noIdentificacion="15400796" unidad="PIEZA" valorUnitario="759.00" />
+    <cfdi:Concepto cantidad="1" descripcion="MANO -MICROCIRUGIA Y LESIONES NERVIOS PERIFERICOS- (7)" importe="575.40" noIdentificacion="15400798" unidad="PIEZA" valorUnitario="959.00" />
+    <cfdi:Concepto cantidad="1" descripcion="PIE Y TOBILLO (8)" importe="413.40" noIdentificacion="15400799" unidad="PIEZA" valorUnitario="689.00" />
+    <cfdi:Concepto cantidad="5" descripcion="CONSULTA RAPIDA -URGENCIAS-  POCKET" importe="1077.00" noIdentificacion="15400863" unidad="PIEZA" valorUnitario="359.00" />
+    <cfdi:Concepto cantidad="4" descripcion="RADIOLOGIA DIAGNOSTICO POR IMAGEN  -FLEXILIBRO-" importe="1725.60" noIdentificacion="15400865" unidad="PIEZA" valorUnitario="719.00" />
+    <cfdi:Concepto cantidad="2" descripcion="ORTOPEDIA Y FRACTURAS -HANDBOOK-" importe="1246.80" noIdentificacion="15400861" unidad="PIEZA" valorUnitario="1039.00" />
+    <cfdi:Concepto cantidad="1" descripcion="TCAR PULMON ESPECIALIDADES AMIRSYS" importe="839.40" noIdentificacion="15400714" unidad="PIEZA" valorUnitario="1399.00" />
+    <cfdi:Concepto cantidad="4" descripcion="FUNDAMENTOS DE RADIOLOGIA DEL ESQUELETO 3ED. (BOLSILLO 13)" importe="933.60" noIdentificacion="15400426" unidad="PIEZA" valorUnitario="389.00" />
+    <cfdi:Concepto cantidad="10" descripcion="GINECOLOGIA Y OBSTETRICIA (FORMATO PEQUEÑO)" importe="2634.00" noIdentificacion="15400543" unidad="PIEZA" valorUnitario="439.00" />
+    <cfdi:Concepto cantidad="2" descripcion="BODY TC 2VOL. FLEXILIBRO 21" importe="3202.80" noIdentificacion="15400491" unidad="PIEZA" valorUnitario="2669.00" />
+    <cfdi:Concepto cantidad="2" descripcion="MANUAL DE HEMODINAMICA E INTERVENCIONISMO CARDIACO" importe="3598.80" noIdentificacion="15400767" unidad="PIEZA" valorUnitario="2999.00" />
+    <cfdi:Concepto cantidad="1" descripcion="ECOGRAFIA  (RESIDENTE 15)" importe="521.40" noIdentificacion="15400464" unidad="PIEZA" valorUnitario="869.00" />
+    <cfdi:Concepto cantidad="1" descripcion="RM DE MAMA (TAPA DURA 19)" importe="563.40" noIdentificacion="15400599" unidad="PIEZA" valorUnitario="939.00" />
+    <cfdi:Concepto cantidad="6" descripcion="OBSTETRICIA Y GINECOLOGIA  -HANDBOOK-" importe="1004.40" noIdentificacion="15400853" unidad="PIEZA" valorUnitario="279.00" />
+    <cfdi:Concepto cantidad="1" descripcion="GENITOURINARIO -MANUAL-" importe="437.40" noIdentificacion="15400790" unidad="PIEZA" valorUnitario="729.00" />
+    <cfdi:Concepto cantidad="1" descripcion="NEURO MANUAL" importe="443.40" noIdentificacion="15400783" unidad="PIEZA" valorUnitario="739.00" />
+    <cfdi:Concepto cantidad="1" descripcion="ABDOMEN MANUAL" importe="443.40" noIdentificacion="15400782" unidad="PIEZA" valorUnitario="739.00" />
+    <cfdi:Concepto cantidad="1" descripcion="MUSCULOESQUELETICO MANUAL" importe="479.40" noIdentificacion="15400784" unidad="PIEZA" valorUnitario="799.00" />
+    <cfdi:Concepto cantidad="1" descripcion="RADIOLOGIA ANATOMIA  (HANDBOOK)" importe="287.40" noIdentificacion="15400836" unidad="PIEZA" valorUnitario="479.00" />
+    <cfdi:Concepto cantidad="30" descripcion="FARMACOS DE URGENCIAS  -POCKET-" importe="5022.00" noIdentificacion="15400851" unidad="PIEZA" valorUnitario="279.00" />
+    <cfdi:Concepto cantidad="1" descripcion="OBSTETRICIA -HANDBOOK-" importe="239.40" noIdentificacion="15400848" unidad="PIEZA" valorUnitario="399.00" />
+    <cfdi:Concepto cantidad="1" descripcion="GINECOLOGIA  -HANDBOOK-" importe="239.40" noIdentificacion="15400849" unidad="PIEZA" valorUnitario="399.00" />
+    <cfdi:Concepto cantidad="20" descripcion="ECG 2ED.(BOLSILLO 10) NEGRO" importe="4188.00" noIdentificacion="15400467" unidad="PIEZA" valorUnitario="349.00" />
+    <cfdi:Concepto cantidad="1" descripcion="FUNDAMENTOS DE TAC BODY (POCKET)" importe="239.40" noIdentificacion="15400824" unidad="PIEZA" valorUnitario="399.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="0.00" impuesto="IVA" tasa="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="C874F0C1-26FA-40A5-A7A6-1802472EF2F4" FechaTimbrado="2016-04-15T10:15:11" selloCFD="Q1bqbPAawnuifpaC13YncYiV4CmEKdX0Sv0w30wWX108uARUtrA3wFTzAxCQhKwv2CRG1BRFAo4yE/UcFvotYuYZJFn5JS4Okwhj5UMypbrSHqijHZ7Mjw+4oCEhNTtAcUA5ZSC0mmqWsqdvR6vpOGvJm1S2Gh9XImuf6on5a4Q=" noCertificadoSAT="00001000000203352843" selloSAT="k+vEcatLeJY7ja5fsb3tMFdyK/tvahx4wySha8+lfPdy25qNeXTZXuKVdc0F2/5R9jY9cJ3BXPbeekpATcgBMR8i1NY7tkhtonbuBRKpBAyw/c1ngbPMULDedggJPXmw1v0utqPLrf2VddyTCqxqq3mIS6VEu44zncv5zMotlr8=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

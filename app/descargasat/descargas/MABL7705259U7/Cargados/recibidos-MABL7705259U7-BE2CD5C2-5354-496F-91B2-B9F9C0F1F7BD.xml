@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="MEXICO, D.F." Moneda="PESOS" TipoCambio="1.0000" certificado="MIIEhjCCA26gAwIBAgIUMDAwMDEwMDAwMDAyMDI0NTM1ODEwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyODE3NDQwOVoXDTE2MTEyODE3NDQwOVowgccxIzAhBgNVBAMTGkxJQlJFUklBUyBHT05WSUxMIFNBIERFIENWMSMwIQYDVQQpExpMSUJSRVJJQVMgR09OVklMTCBTQSBERSBDVjEjMCEGA1UEChMaTElCUkVSSUFTIEdPTlZJTEwgU0EgREUgQ1YxJTAjBgNVBC0THExHTzg0MDQxM1NEMiAvIEdPTFQ2NjA3MzBHTEExHjAcBgNVBAUTFSAvIEdPTFQ2NjA3MzBIREZOVFIwNjEPMA0GA1UECxMGbWF0cml6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDD4WFw+wt0CMm/ozcNUnrVPyUmQq6bFV7ExtZ9YDgMn3LquM9ct07IPqDfI3A7nDsL6A7C9fa3I/yt2c3XFgcogWuk4As0pc3akn4q4fUBwBOs2yynyJP2DMpebHwIi9wY2VgwL1s3+/g8/J2ReGN/12i7UOvhq9JAsfZTaDcuYQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEACoPWjFkKRsjhEPV6U91VD2vC4FOYmmtYt+d7ZKbB+3bjqByN5b/0JAptxcXyd2mv/zig62KPmhiQVE/NRW9/8vieizjIU708WJ3JKXw1n0uSmweOyjdJdKmWD8RgIZjmvxf3FT8WC4PdmWurF1l7NdZA8PDwYQEr3p7FlJsOXf9pLVQLESep8pCThJ94UaUGFCNBG2Ao/8B4SfnG18WYujKEayQtU5DWVldxxeOYXkF0dRfQh8fD4SkeomX6A3jePaGe480w1Sh8QoaPqRW/mmr7IpWmO14uV0qIR5jFvSpcgZNn01RCI9JpI8SUxAltdR6xDOZDF6Kzwm3xlKvXxg==" condicionesDePago="CREDITO" descuento="0.00" fecha="2016-02-13T10:21:12" folio="18272" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="NO IDENTIFICADO" noCertificado="00001000000202453581" sello="b8OSFjODBYT6QyJeB6/VOQ6j2vjmZ0/3f/mk4l4ETcSMJLfswxMpXrfgcvr3kk9nwuIHWBR526WIJfvhTLYzsIEf63N83KPUuS7An8swK+N/T/JMzy3SSSKukpsnX6bKvW+uq0a8eOKHkJhRkk385UWkpG+x+QkY2knR9XsZIGo=" serie="B" subTotal="2923.70" tipoDeComprobante="ingreso" total="2923.70" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="LIBRERIAS GONVILL, S.A. DE C.V." rfc="LGO840413SD2">
+    <cfdi:DomicilioFiscal calle="8 DE JULIO" codigoPostal="44190" colonia="MODERNA" estado="JALISCO" municipio="GUADALAJARA" noExterior="825, Colonia MODERNA" pais="MEXICO" />
+    <cfdi:ExpedidoEn calle="NORTE 45" codigoPostal="02300" colonia="INDUSTRIAL VALLEJO" estado="D.F." municipio="D.F." noExterior="958" pais="MEXICO" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="MARIA DE LA LUZ MARTA BENITEZ" rfc="MABL7705259U7">
+    <cfdi:Domicilio calle="CALZ. DE TLALPAN NO. 4500" codigoPostal="55509" colonia="SECCION XVI" estado="DISTRITO FEDERAL" municipio="DELEG. TLALPAN MEXICO" pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" descripcion="MANUAL DE DIAGNOSTICOS DE ENFERMERIA 7ED." importe="1179.75" noIdentificacion="40101366" unidad="PIEZA" valorUnitario="1815.00" />
+    <cfdi:Concepto cantidad="2" descripcion="RADIOLOGIA ANATOMIA  (HANDBOOK)" importe="596.70" noIdentificacion="15400836" unidad="PIEZA" valorUnitario="459.00" />
+    <cfdi:Concepto cantidad="1" descripcion="AMIR MEDICINA TEXTBOOK 1" importe="278.85" noIdentificacion="15400814" unidad="PIEZA" valorUnitario="429.00" />
+    <cfdi:Concepto cantidad="1" descripcion="AMIR MEDICINA TEXTBOOK 2" importe="187.85" noIdentificacion="15400815" unidad="PIEZA" valorUnitario="289.00" />
+    <cfdi:Concepto cantidad="1" descripcion="AMIR ESPECIALIDADES TEXTBOOK 3" importe="161.85" noIdentificacion="15400816" unidad="PIEZA" valorUnitario="249.00" />
+    <cfdi:Concepto cantidad="1" descripcion="AMIR ESPECIALIDADES TEXTBOOK 4" importe="187.85" noIdentificacion="15400817" unidad="PIEZA" valorUnitario="289.00" />
+    <cfdi:Concepto cantidad="1" descripcion="AMIR TEST RAZONADOS TEXTBOOK 5" importe="330.85" noIdentificacion="15400818" unidad="PIEZA" valorUnitario="509.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="0.00" impuesto="IVA" tasa="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="BE2CD5C2-5354-496F-91B2-B9F9C0F1F7BD" FechaTimbrado="2016-02-13T10:23:24" selloCFD="b8OSFjODBYT6QyJeB6/VOQ6j2vjmZ0/3f/mk4l4ETcSMJLfswxMpXrfgcvr3kk9nwuIHWBR526WIJfvhTLYzsIEf63N83KPUuS7An8swK+N/T/JMzy3SSSKukpsnX6bKvW+uq0a8eOKHkJhRkk385UWkpG+x+QkY2knR9XsZIGo=" noCertificadoSAT="00001000000203352843" selloSAT="lHg0UxZcjkOSELswMFqck24+M+GUxp9sMSSsSL1iV0CqckTgGX9gJ5NYUXfi8LCgwVNSZL5WHsgNKBHYS9S88rXaUDG/HowLK63On8sMJOUoaYMSN2PmM8I7/ZeoVKiTeCw/rvGMEZU8jqdmoeMmC3vjhjzgTPwCn81HeDX1J80=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

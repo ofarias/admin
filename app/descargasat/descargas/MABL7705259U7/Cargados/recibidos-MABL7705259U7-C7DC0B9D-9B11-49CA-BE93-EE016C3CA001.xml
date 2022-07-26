@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="AAFD" folio="1030" fecha="2017-02-20T21:26:48" sello="wvbjiTpAgRN3yZrhLiEt/jL+5VFml42bpM9953lT5FQikWTNNkAMGBGGDMXk2MPo1cx8ZSUhOWsCzYN6uhzv2+FDNeG1B0/Jbso1M+YUcE7Sdci79dX/i+NmgnqzH1VHZ3aVS0YgBe0y89f09cvc1V9Q7jJPNN2r1ZkOV4BuCMk=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000302729737" certificado="MIIEvDCCA6SgAwIBAgIUMDAwMDEwMDAwMDAzMDI3Mjk3MzcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMzAxNzI5MzZaFw0xODAxMzAxNzI5MzZaMIIBBzE2MDQGA1UEAxMtRURJQ0lPTkVTIFkgRElTVFJJQlVDSU9ORVMgVU5JVkVSU1VNIFNBIERFIENWMTYwNAYDVQQpEy1FRElDSU9ORVMgWSBESVNUUklCVUNJT05FUyBVTklWRVJTVU0gU0EgREUgQ1YxNjA0BgNVBAoTLUVESUNJT05FUyBZIERJU1RSSUJVQ0lPTkVTIFVOSVZFUlNVTSBTQSBERSBDVjElMCMGA1UELRMcRURVMDcwMTE2NFkxIC8gUk9GQzY4MDYxMjRSNDEeMBwGA1UEBRMVIC8gUk9GQzY4MDYxMk1ERkNOTDA3MRYwFAYDVQQLEw1NRVRST1BPTElUQU5BMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNc9T8X/Bx/+kF49vbtYDoBNxxGj7iEazJ0quC6XVwVmP40OSix33nPPckfLy0+wN45/Eo77OnCm8S+fwulmuynGam+WIpKXQhr0lIN+j48eA1kMiSOW2VrALimWJz9sxhfZY5QC0I5Bm2tXyYiQNnwl38HZ83F+8cSz8iFupr1wIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAh/cFvD+oI1efq+NiCo6aA2yIVGZ7XVRTiGujmMAL1edsDVksN1Pq56p3L6t5JTE8+oUt2utwKY2JS8TqlFvkJnzA1YQC7p7SYdNv75/bkaGmTwBAWACfG63J0TzbblDvgQBAlF5lUfA+xoEMrEAmQgniRKEHkQWQA2wUgs615gDolki4VgqrRmJUWvqVQ1oMwGm1xweqaBpg4F9rP4I+vuKTDfXO+/5vVNbui//mOO8mQKvGOmQr2DUi9EuCeIYhx8Z9Q7/y1p7nZSiuI71TRI9GO6L2AB0Yt5i/TNL/u+AVX3hBScwBGSlhETQyayEx5VJdV3xXZ9yFQncajARdOw==" subTotal="7690.00" descuento="2582.75" TipoCambio="1.00" Moneda="MXN" total="5107.25" metodoDePago="03" tipoDeComprobante="ingreso" LugarExpedicion="Cd. Nezahualcoyotl, Estado de México" NumCtaPago="1354">
+  <cfdi:Emisor rfc="EDU0701164Y1" nombre="EDICIONES Y DISTRIBUCIONES UNIVERSUM SA DE CV">
+    <cfdi:DomicilioFiscal calle="Flamingos" noExterior="1" colonia="Metropolitana 1a. Secc." municipio="Cd. Nezahualcoyotl" estado="Estado de México" pais="México" codigoPostal="57730" />
+    <cfdi:RegimenFiscal Regimen="General de Ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="MABL7705259U7" nombre="MARTA  BENITEZ MARIA DE LA LUZ">
+    <cfdi:Domicilio calle="Calzada de Tlalpan" noExterior="4500" colonia="Sección  XVI" municipio="Tlalpan" estado="Ciudad de México" pais="México" codigoPostal="14080" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="3.00" unidad="piezas" noIdentificacion="9786077555148" descripcion="ORTOPEDIA y TRAUMATOLOGÍA - preg y resp-  Álvarez" valorUnitario="295.00" importe="885.00" />
+    <cfdi:Concepto cantidad="2.00" unidad="piezas" noIdentificacion="9786077555124" descripcion="EXTRAÑANDO TU AUSENCIA   Cano" valorUnitario="40.00" importe="80.00" />
+    <cfdi:Concepto cantidad="2.00" unidad="piezas" noIdentificacion="9789689328049" descripcion="ACT. TERAPIA HORMONAL D/CLIMATERIO Carranza" valorUnitario="175.00" importe="350.00" />
+    <cfdi:Concepto cantidad="1.00" unidad="pieza" noIdentificacion="9789962678224" descripcion="FARMACOS EN CARDIOLOGIA  Chatterjee" valorUnitario="1290.00" importe="1290.00" />
+    <cfdi:Concepto cantidad="1.00" unidad="pieza" noIdentificacion="9789974827999" descripcion="VMNI EN MEDICINA CRITICA  ESQUINAS" valorUnitario="1495.00" importe="1495.00" />
+    <cfdi:Concepto cantidad="2.00" unidad="piezas" noIdentificacion="0288" descripcion="EL ARTE DE LA INTUBACIÓN TRAQUEAL Grünberg" valorUnitario="395.00" importe="790.00" />
+    <cfdi:Concepto cantidad="1.00" unidad="pieza" noIdentificacion="9789974827837" descripcion="GUTIERREZ  TEMAS DE PATOLOGIA PERINATAL" valorUnitario="875.00" importe="875.00" />
+    <cfdi:Concepto cantidad="2.00" unidad="piezas" noIdentificacion="9786077555155" descripcion="NORMAS GIN Y OBST calidad‚ seguridad y ética  Morán" valorUnitario="695.00" importe="1390.00" />
+    <cfdi:Concepto cantidad="2.00" unidad="piezas" noIdentificacion="9689328018" descripcion="MANUAL DE VIH/SIDA AUTO CUIDADOS Peñarrieta" valorUnitario="155.00" importe="310.00" />
+    <cfdi:Concepto cantidad="1.00" unidad="pieza" noIdentificacion="9786077817154" descripcion="DESARR  INTELIG SENSORIOMOTORA  Sánchez" valorUnitario="225.00" importe="225.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="0.00" totalImpuestosTrasladados="0.00">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="IVA" importe="0.00" />
+      <cfdi:Retencion impuesto="ISR" importe="0.00" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="0.00" importe="0.00" />
+      <cfdi:Traslado impuesto="IEPS" tasa="0.00" importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="C7DC0B9D-9B11-49CA-BE93-EE016C3CA001" FechaTimbrado="2017-02-20T21:26:48" selloCFD="wvbjiTpAgRN3yZrhLiEt/jL+5VFml42bpM9953lT5FQikWTNNkAMGBGGDMXk2MPo1cx8ZSUhOWsCzYN6uhzv2+FDNeG1B0/Jbso1M+YUcE7Sdci79dX/i+NmgnqzH1VHZ3aVS0YgBe0y89f09cvc1V9Q7jJPNN2r1ZkOV4BuCMk=" noCertificadoSAT="00001000000203352843" selloSAT="aJmqggitsCKaCE0Pdnbws8AEcGfqQLAWKVy5XBMz9sxU4I5omhrqFMvNEqysf4KQxSEJGPOSpRmP8oJgh3iYaY1NEyeChAuvKMscCWwGwewpkXvNZJDevK4DqOxuT2xLy8UJIr8C7uR+t68UBbs8YANQ4rXASDNdZVtINaKtAVY=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

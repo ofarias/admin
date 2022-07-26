@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Folio="835" Fecha="2019-02-19T08:57:48" Sello="FZFX1rFzMnnMQUWcbHjLFSmzR58aExCVNIpaU/gaLogq+idNheu8gQ+K+8dg+fQU/SBiBEi9pzgDGVIVWbH7r5kRJTV+5jv2XaD17t+wZUoCDV83cZrC0+yW5hRSmWqvDPrhYxKO2CoUS85cWnMZrgQWZrcy27HQIgbXw1/rNXhCFZ0noq2wi0zrVnE5ZrTltOhKaitCEpAAHdE3e0Ziqh1IQpk9leOZ/TwT0Lhr3ELH1bc1sZ1wasHeQPM22i88K1JfcCpIuOA/l+FoKigtdrSB9mXd3LVCF7wEGguLzuq4IxzzXVaUSGsHsl/+2KordReOYMaBHJN/ZhZJOUKRXQ==" FormaPago="03" NoCertificado="00001000000402297032" Certificado="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" SubTotal="15111.40" Moneda="MXN" Total="15111.40" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="14080" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cfdi:Emisor Rfc="MABL7705259U7" Nombre="MARTA BENITEZ MARIA DE LA LUZ" RegimenFiscal="612" />
+	<cfdi:Receptor Rfc="FOVL641230MX9" Nombre="FLORES VALDES MARIA LUISA" UsoCFDI="P01" />
+	<cfdi:Conceptos>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="882" Cantidad="10" ClaveUnidad="H87" Unidad="PZ" Descripcion="MATEMATICAS 2 ALGEBRE LINEAL" ValorUnitario="140.00" Importe="1400.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1400.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="883" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="DERECHO PROCESAL PENAL 4 - BARRAGAN" ValorUnitario="537.60" Importe="537.60">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="537.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="719" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="METODOLOGIA DE LA INVESTIGACION - HDEZ. SAMPIERI" ValorUnitario="387.80" Importe="387.80">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="387.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="884" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="DERECHO ROMANO - PADILLA" ValorUnitario="311.50" Importe="311.50">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="311.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="884" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="DERECHO ROMANO - PADILLA" ValorUnitario="311.50" Importe="311.50">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="311.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="885" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="FISICA I. ENFOQUE COMPETENCIAS GTEZ." ValorUnitario="154.00" Importe="154.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="154.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="886" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="MATEMATICAS I - CUELLAR" ValorUnitario="157.50" Importe="157.50">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="157.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="848" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="QUIMICA - CHANG" ValorUnitario="455.00" Importe="455.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="455.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="887" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="BIOLOGIA II DGB - LECONA" ValorUnitario="154.00" Importe="154.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="154.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="888" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="CIENCIAS DE LA COMUNICACION - MTZ. RMZ." ValorUnitario="163.10" Importe="163.10">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="163.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="889" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="GEOGRAFIA ENFOQUE POR COMPETENCIAS - ESCOBAR MUÑOZ" ValorUnitario="193.90" Importe="193.90">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="193.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="890" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="PSICOLOGIA I. DGB - MARCUSCHAMER" ValorUnitario="189.00" Importe="189.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="189.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="891" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="PROBLEMAS ECONOMICOS DE MEXICO - MENDEZ" ValorUnitario="275.10" Importe="275.10">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="275.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="892" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="MATEMATICAS II - CUELLAR CARVAJAL" ValorUnitario="178.50" Importe="178.50">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="178.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="893" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="MATEMATICAS III CUELLAR CARVAJAL" ValorUnitario="244.30" Importe="244.30">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="244.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="894" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="LITERATURA I. TEXTOS NARRATIVOS DGB - DEL RIO MTNZ." ValorUnitario="162.40" Importe="162.40">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="162.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="895" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="BIOLOGIA I DGB - ERENDIRA ALONSO" ValorUnitario="171.50" Importe="171.50">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="171.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="896" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="HISTORIA UNIVERSAL CONTEMPORANEA ENFORQUE POR COMPETENCIAS - MONTOYA" ValorUnitario="164.50" Importe="164.50">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="164.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="897" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="PROBABIILIDAD Y ESTADISTICA - FUENLABRADA" ValorUnitario="151.20" Importe="151.20">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="151.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="898" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="MATEMATICAS APLICADAS PARA ADMON. ECONOMIA Y C. S. - FRANK" ValorUnitario="446.60" Importe="446.60">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="446.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="899" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ALGEBRA LINEAL 7 ED. - GROSSMAN" ValorUnitario="298.20" Importe="298.20">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="298.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="900" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="INTRODUCCION A LA ADMINISTRACION. TEORIA GRAL. ADMVA. - HDEZ." ValorUnitario="298.20" Importe="298.20">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="298.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="900" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="INTRODUCCION A LA ADMINISTRACION. TEORIA GRAL. ADMVA. - HDEZ." ValorUnitario="298.20" Importe="298.20">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="298.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="900" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="INTRODUCCION A LA ADMINISTRACION. TEORIA GRAL. ADMVA. - HDEZ." ValorUnitario="298.20" Importe="298.20">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="298.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="901" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="CONTABILIDAD DE SOCIEDADES 3ED. - MORALES" ValorUnitario="269.50" Importe="269.50">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="269.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="902" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="INGENIERIA INDUSTRIAL METODOS ESTANDERES Y DISEÑO DEL TRABAJO 12 ED. - NIEBEL" ValorUnitario="298.90" Importe="298.90">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="298.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="903" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="PROBABILIDAD Y ESTADISTICA SCHAUM - SPIEGEL" ValorUnitario="235.20" Importe="235.20">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="235.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="904" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="INVESTIGACION DE OPERACIONES - VARIOS" ValorUnitario="345.10" Importe="345.10">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="345.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="905" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="CALCULO - FRANK" ValorUnitario="283.50" Importe="283.50">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="283.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="906" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="MECANICA VECTORIAL PARA INGENIEROS, DINAMICAS - BEER" ValorUnitario="373.10" Importe="373.10">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="373.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="907" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ADMINISTRACION - BENAVIDES" ValorUnitario="217.00" Importe="217.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="217.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="908" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="DESARROLLO DE UNA CULTURA DE CALIDAD - CANTU" ValorUnitario="328.30" Importe="328.30">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="328.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="909" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="TECNOLOGIA DE LA INFORMACION: ESTRATEGIAS Y TRANFORMACION DE LOS NEGOCIOS - COHEN" ValorUnitario="259.70" Importe="259.70">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="259.70" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="910" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="INGENIERIA INDUSTRIAL DE NIEBEL: METODOS ESTANDARES DE DISEÑO - FREIVALDS" ValorUnitario="298.90" Importe="298.90">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="298.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="911" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="METROLOGIA - GLZ." ValorUnitario="261.10" Importe="261.10">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="261.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="914" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="INTRODUCCION A LOS PROCESOS DE MANUFACTURA" ValorUnitario="364.70" Importe="364.70">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="364.70" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="719" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="METODOLOGIA DE LA INVESTIGACION - HDEZ. SAMPIERI" ValorUnitario="407.00" Importe="407.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="407.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="915" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="FUNDAMENTOS GENERALES DE PROGRAMACION - JOYANES" ValorUnitario="385.00" Importe="385.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="385.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="916" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ESTRATEGIA SOCIOECONOMICA DE MEXICO - MENDEZ" ValorUnitario="164.50" Importe="164.50">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="164.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="883" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="DERECHO PROCESAL PENAL 4 - BARRAGAN" ValorUnitario="537.60" Importe="537.60">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="537.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="906" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="MECANICA VECTORIAL PARA INGENIEROS, DINAMICAS - BEER" ValorUnitario="373.10" Importe="373.10">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="373.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="879" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="PARASITOLOGIA MEDICA - TAY" ValorUnitario="336.00" Importe="672.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="672.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="181" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="MANUAL DE PEDIATRIA HIM - GARCIA" ValorUnitario="620.20" Importe="1240.40">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1240.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="37" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="PAQUETERIA" ValorUnitario="395.00" Importe="395.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="395.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosTrasladados="0.00">
+		<cfdi:Traslados>
+			<cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="976F7F4A-628C-F043-8B19-72E086F662FD" FechaTimbrado="2019-02-19T10:41:26" RfcProvCertif="SCD110105654" SelloCFD="FZFX1rFzMnnMQUWcbHjLFSmzR58aExCVNIpaU/gaLogq+idNheu8gQ+K+8dg+fQU/SBiBEi9pzgDGVIVWbH7r5kRJTV+5jv2XaD17t+wZUoCDV83cZrC0+yW5hRSmWqvDPrhYxKO2CoUS85cWnMZrgQWZrcy27HQIgbXw1/rNXhCFZ0noq2wi0zrVnE5ZrTltOhKaitCEpAAHdE3e0Ziqh1IQpk9leOZ/TwT0Lhr3ELH1bc1sZ1wasHeQPM22i88K1JfcCpIuOA/l+FoKigtdrSB9mXd3LVCF7wEGguLzuq4IxzzXVaUSGsHsl/+2KordReOYMaBHJN/ZhZJOUKRXQ==" NoCertificadoSAT="00001000000401041203" SelloSAT="ezZQyTHsqkCkJemMhxdNBqXIQ+kjBa9WMSXjLyAxYtOCG6KDeYP36oYPpc/xcQ5Eo4LvK7t+gSU46bt2gX838ZA1ol2kQDfUCRwM08tq0yxjJlFUlECUU63WlEHLvjZbsbZMGbzg8G6X7x3pVya618w49d31exeWo5e7qlx8gvx8aAMBjWukdgPzPMLgzO6REpO90vP5oCDoty47/YaQHaPiB+JYDCq/EC4L0TsK/IjNmu60Qhmmpa55u/f2L5KtQtbkmDESTnZiayU1D9P28qgDXs15xmjoHBvdTt45BrpXib0xn2xiFYmAumgCIa2dkim3vCaOVhUBXmWvFfFFKA==" />
+</cfdi:Complemento></cfdi:Comprobante>

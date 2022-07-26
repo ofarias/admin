@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="Calz. de la viga 1132, Apatlaco Iztapalapa Distrito Federal México 09430" certificado="MIIEhjCCA26gAwIBAgIUMDAwMDEwMDAwMDAyMDI0MTU2NzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyMzE4MjkzMloXDTE2MTEyMzE4MjkzMlowgccxIzAhBgNVBAMTGkVESVRPUklBTCBUUklMTEFTIFNBIERFIENWMSMwIQYDVQQpExpFRElUT1JJQUwgVFJJTExBUyBTQSBERSBDVjEjMCEGA1UEChMaRURJVE9SSUFMIFRSSUxMQVMgU0EgREUgQ1YxJTAjBgNVBC0THEVUUjgyMDMyOUs4OSAvIFRJU0Y0OTA4MTNOUDYxHjAcBgNVBAUTFSAvIFRJU0Y0OTA4MTNIREZSTFIwMjEPMA0GA1UECxMGVU5JREFEMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsbahKAx3jvbMoIhjc71ZTWH7RmSaClDiE/jE9d1yqVTDDTqHhQYU1GjcxPIM0s4JkX3X+v82olfM6t04JzvIjGiL2XBI6i3gsIjWdsGykjIte0DG3SmwdMaVhRwIqlj48iekDDHbTlZ4dnqykfle3tXrPAnTNIMTFk0j1Lcxx/wIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAZlT/N+JUOPEi2QNxQV98gCRxybG63CwLLGHG83yBQUQl9WrJ7UIZHVjL0wB7CANx/cvum13TTh6uyU0/6uKy71L9EdQ7OIYAPzyVmn9R+/RqzyMDZ8SYcSLRKpFMKiMyMYWTLUoktzQA9A1WIa4gaEzKr0ttA9o5kjm9pwkPFQW6UIHXhP0LOkk/cx/A8kR3jXSxLLLAQhvKr/q8dYdWNpneoZDwbexGF8VF9RzNfy9UTvQJqV3tFkfFhhjYduz/j2gepHcf58e+zGLHdtZq6Y1Ttf3xeAdnqxhesRv5273bw/0JwexKvc8XotpBmNZ9QxIdnmnYoDK5QfjdeV5hWg==" condicionesDePago="015 DIAS FECHA FACTURA" fecha="2016-07-29T11:44:44" folio="35885" formaDePago="Pago en una sola exhibición" metodoDePago="99" noCertificado="00001000000202415670" sello="Fv/KQEhXMihEHMymsR1Z+SLuPKDglPQISzyssMnCAMUFQzR3FI1aSM8erVkS7rYpL+8B2E6w7HVyve+T/iDkl4/RRNQ6qEZpNaHPSKAwM47sDcKaga/26NfaeotkFvMoHgqYIGYrSDkg8eFt8Eiu+rKpu3XrIIjA9HyW3W8Sg8A=" serie="JA" subTotal="1225.00" tipoDeComprobante="ingreso" total="1225.00" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="EDITORIAL TRILLAS S.A. DE C.V." rfc="ETR820329K89">
+    <cfdi:DomicilioFiscal calle="Av. Río Churubusco" codigoPostal="03340" colonia="General Pedro María Anaya" estado="Distrito Federal" municipio="Benito Juárez" noExterior="385" pais="México" />
+    <cfdi:ExpedidoEn calle="Calz. de la viga" codigoPostal="09430" colonia="Apatlaco" estado="Distrito Federal" municipio="Iztapalapa" noExterior="1132" pais="México" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="MARTA BENITEZ MARIA DE LA LUZ" rfc="MABL7705259U7">
+    <cfdi:Domicilio calle="CALZ. DE TLALPAN # 4500" codigoPostal="14080" colonia="SECCION XVI/TLALPAN" estado="CDMX" localidad="MEXICO" pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="5.00" descripcion="RIVERO S-NEUMOLOGIA" importe="1225.00" noIdentificacion="9786071726421" unidad="PIEZA" valorUnitario="245.0000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="0.00" totalImpuestosTrasladados="0.00">
+    <cfdi:Retenciones>
+      <cfdi:Retencion importe="0.00" impuesto="IVA" />
+      <cfdi:Retencion importe="0.00" impuesto="ISR" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="0.00" impuesto="IVA" tasa="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento> <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" UUID="9FE70A57-E914-8641-8A44-71E684858034" FechaTimbrado="2016-07-29T11:44:44" selloCFD="Fv/KQEhXMihEHMymsR1Z+SLuPKDglPQISzyssMnCAMUFQzR3FI1aSM8erVkS7rYpL+8B2E6w7HVyve+T/iDkl4/RRNQ6qEZpNaHPSKAwM47sDcKaga/26NfaeotkFvMoHgqYIGYrSDkg8eFt8Eiu+rKpu3XrIIjA9HyW3W8Sg8A=" noCertificadoSAT="00001000000401041203" selloSAT="eJvvk16ft0CzdZ9gnPkTLxf9XC+CNQhUQScYluudushWo/JUzMH8wTstp0mBqjaXyHT/tC+LRGi+057ziZw5VYgxNjd7rvymYiLB0wOOrifmsKqHI0XzPmgFzGBpr3VfeRapzfYnMmYcRvO+AMS2wMPAwRqt5wAsUXasnoIHggunvBHEwDGwFl0SNpYLUHTShuNafATjpFWw/F0MCBmOPADpV8DJA529mYWtafSxc2B+sooEGUwAtDY6XDdjQuNDWk0uzQDF/tYapZzIYj5eGw8e7AgXL3cHugps9l6FvcdwtuBFQ9aORogH6FlQIcyuDzskFSUUo7u4jORbm3IvDA==" />
+</cfdi:Complemento></cfdi:Comprobante>

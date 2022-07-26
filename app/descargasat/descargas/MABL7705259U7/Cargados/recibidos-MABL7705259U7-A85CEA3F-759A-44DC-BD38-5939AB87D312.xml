@@ -1,0 +1,21 @@
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecb="http://www.sat.gob.mx/ecb" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/cfd/3/cfdv32.xsd http://www.sat.gob.mx/ecb http://www.sat.gob.mx/cfd/ecb/ecb.xsd" version="3.2" folio="00" fecha="2017-07-16T05:08:54" sello="X1RZrCkkPraW6XGWjLpCZMI73W8EQlej4HOvLxuxiWA44vKgD9b1dwJ7UB3sCJEbIC375cWsYEgwiODcBqfb5YIXXvduiyzEjwvejj8k5sPcTFhsznViN8DcnnMIUTaK/syhtR/GqTEvmHshg42ikOMKe+bkD3c4rZbGDnAqWo8=" LugarExpedicion="Mexico DF" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000302049262" certificado="MIIEljCCA36gAwIBAgIUMDAwMDEwMDAwMDAzMDIwNDkyNjIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMjYxOTAwMzNaFw0xNzEyMjYxOTAwMzNaMIHiMS0wKwYDVQQDEyRUQVJKRVRBUyAgIEJBTkFNRVggU0EgREUgQ1YgU09GT00gRVIxLTArBgNVBCkTJFRBUkpFVEFTICAgQkFOQU1FWCBTQSBERSBDViBTT0ZPTSBFUjEtMCsGA1UEChMkVEFSSkVUQVMgICBCQU5BTUVYIFNBIERFIENWIFNPRk9NIEVSMSUwIwYDVQQtExxDRkE5NTA2MjhDQUEgLyBSRVJHNzMxMjE1UEgwMR4wHAYDVQQFExUgLyBSRVJHNzMxMjE1TU1DWUJEMDQxDDAKBgNVBAsTA3VubzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA4SklC/1KsfT6S/NBRrAr3gmS3rn2IKhLv/MdRsS2qg/N9LgPMQlyN7WxvsCjyX8mCQ7Zi1p22nhmw0re1w5S9CNNpx3MwLfJOlnpR0V6j1sNPIe0pItEOnhslfgdaY4MtY26UFNslnwkfvFX/7Jag4TIZ+FBQkPLVUTUDAYY62UCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBACt6Yg/J6hIcfjvywhZf2DKPWk4QWlR5h8GjY9J8NeOW1Hnvbam6jtJFiaeoK9Ou43qFZ/LQK6UT5vojxNEljoKgKJx6j/YfHlxnmUBU8rAx2lNdsEgbBU5rT0DN7HOyf5ZJPVKL/4dgI++aLS1e23/yqx0qq1oY8ks1AMTOujBdK9bTh5DpLv16bttkVM9/d3PNjYmoL8XjbxNObQDD6KmCFkTGLUIIV9SZmTSQb7H5W4LJqP3/ZrVZS7KmSDpxkLvpip26L7gn4vp5EhHQZcSxNhP9Us2WOgsHRk5Ne27yHvQBUu4kQw7hw18ExuqTn+zZJdTaz0nlEpyP9GXen1A=" subTotal="420.55" total="483.61" tipoDeComprobante="ingreso" metodoDePago="No Identificado" NumCtaPago="9107259683">
+  <cfdi:Emisor rfc="CFA950628CAA" nombre="TARJETAS BANAMEX SA DE CV SOFOM ER">
+    <cfdi:DomicilioFiscal calle="Moras" noExterior="850" colonia="Acacias" municipio="Benito Juarez" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="03240" />
+    <cfdi:RegimenFiscal Regimen="Persona moral del Regimen General" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="MABL7705259U7" nombre="MARIA LUZ MARTA BENITEZ">
+    <cfdi:Domicilio calle="MIRAVALLE 815 22" colonia="MIRAVALLE" municipio="BENITO JUAREZ CIUDAD DE MEXICO 03580" pais="MEXICO" codigoPostal="03580" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="INTERES COBRADO" valorUnitario="420.55" importe="420.55" />
+    <cfdi:Concepto cantidad="1" unidad="No Aplica" descripcion="COMISION COBRADA" valorUnitario="0" importe="0" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="63.06">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="63.06" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="A85CEA3F-759A-44DC-BD38-5939AB87D312" FechaTimbrado="2017-07-17T18:13:35" selloCFD="X1RZrCkkPraW6XGWjLpCZMI73W8EQlej4HOvLxuxiWA44vKgD9b1dwJ7UB3sCJEbIC375cWsYEgwiODcBqfb5YIXXvduiyzEjwvejj8k5sPcTFhsznViN8DcnnMIUTaK/syhtR/GqTEvmHshg42ikOMKe+bkD3c4rZbGDnAqWo8=" noCertificadoSAT="00001000000300627194" selloSAT="TCYHaKTOU8SsV9ncZV3VCDL77/X1wdMytuSAD5GR5V4ooN6xdPUkbt48FGEdStEuYBmTzUUODHaGw3ql9rvH3mW6SevsG5NkuwkKk12+6FtUuqaFQJMboNMA9kmtZyg+hRoCNXCsLKSxjZwKXlLw7tyzOe0nA8/3mD5iye4KUnQ=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

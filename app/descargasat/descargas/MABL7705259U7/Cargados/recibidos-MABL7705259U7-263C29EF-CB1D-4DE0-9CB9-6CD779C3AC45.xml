@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="VSRA" folio="0003872006" LugarExpedicion="Mexico, D.F." NumCtaPago="0000" fecha="2016-01-11T22:13:06" sello="sNuM+KwtU1lOcHFD94PWM3SVHSWiOW+rwTuDpDaEhUtcfoRBo7ENVeKed+pkilj7jLIyCUj4N/hp0z2w0rvvnzzbK324ih1d0TolT7jQB+i05fmz/iSk8MQ5SkCKZaNx9Y/kczfrGjEM59dD1LAD0wO09FabYygLZDl6w6h5woE=" formaDePago="PAGO EN UNA SOLA EXHIBICIO" noCertificado="00001000000202522295" certificado="MIIEgTCCA2mgAwIBAgIUMDAwMDEwMDAwMDAyMDI1MjIyOTUwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIwNTIyMzkxNFoXDTE2MTIwNTIyMzkxNFowgcIxITAfBgNVBAMTGFNFR1VST1MgQkFOQU1FWCBTQSBERSBDVjEhMB8GA1UEKRMYU0VHVVJPUyBCQU5BTUVYIFNBIERFIENWMSEwHwYDVQQKExhTRUdVUk9TIEJBTkFNRVggU0EgREUgQ1YxJTAjBgNVBC0THFNCQTk1MTExNUhCNSAvIEhPSEc0ODAzMDFEODAxHjAcBgNVBAUTFSAvIEhPSEc0ODAzMDFIREZSUlMwOTEQMA4GA1UECxMHc2VndXJvczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAu1vVXKxDWDwIxL4lZW+/T52Lj9OgnIilyuU6HbkaiisXSMe11hqqXqoVfTYUberMXal7sVribgYmqvxyOh8GRLVWX08kmD2qiA8skaJQewpdVm3CleZVGnwVyd18kgVGtJyZxeI4W9Ddw2rYRmPa6QYwoDeLzXQpoV4456y9ZIsCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAAGow5HOJvJnP074Y8ciPzX1sKOod9jI8yGuGC7z6xm7tFYSMZ9VEP23cE1rl9dcEcaa32BuZu5YXw1oZ8Tb0xxli/j4ATEh9E3InJOojOf9nHgHxLpdJrEsgis9MID8hzsbVFBdfRbEmYrI9IaRj0sxsRtEEjMidQfPOeFko+j9gn5JIZ37S88yFNq6Qq1fPNgCG3l8VkM6ffLZRdir+UhLijCt2p5hBZhDP8JaghHJ2BBcYKBk9hmDQzc5EkrMCAcoGYGwPAZG1lbuTjB6X5MqI47iKQ3y9qM5d+DX9ImsfF9dA3FcCwOaT4I5hUecCczTyszOSRZyzhKoSX7Bnb8=" subTotal="50.28" TipoCambio="17.928300" Moneda="DOLARES" total="50.28" metodoDePago="Medio no Identificado" tipoDeComprobante="ingreso">
+  <cfdi:Emisor nombre="SEGUROS BANAMEX, S.A. DE C.V." rfc="SBA951115HB5">
+    <cfdi:DomicilioFiscal calle="VENUSTIANO CARRANZA" noExterior="NO. 63" colonia="COL. CENTRO" municipio="DELEG. CUAUHTEMOC" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06000" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="MABL7705259U7" nombre="MARIA DE LA LUZ MARTA BENITEZ">
+    <cfdi:Domicilio calle="MIRAVALLE 815 22" colonia="MIRAVALLE" municipio="CIUDAD DE MEXICO" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="03580" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="NO APLICA" noIdentificacion="VSRA0003872006" descripcion="PRIMA DE SEGURO" valorUnitario="50.28" importe="50.28" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="0.00" importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="sNuM+KwtU1lOcHFD94PWM3SVHSWiOW+rwTuDpDaEhUtcfoRBo7ENVeKed+pkilj7jLIyCUj4N/hp0z2w0rvvnzzbK324ih1d0TolT7jQB+i05fmz/iSk8MQ5SkCKZaNx9Y/kczfrGjEM59dD1LAD0wO09FabYygLZDl6w6h5woE=" FechaTimbrado="2016-01-12T07:37:06" UUID="263c29ef-cb1d-4de0-9cb9-6cd779c3ac45" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="Kafn6w4Yw1BNvZQKv44PsEsDxd5CaMgA9GaReny+90v063a/kFcSCqldraEwoyHlkoJDxg3kKdK+jlt44b1Bz6htShyBq55jeb5HCd95/MjEq2RaqDod7SOTVI9irDwME0Rhs8Oi2N6qkVwbesJJERLvOxooVNuVotkOOw+BMt8=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

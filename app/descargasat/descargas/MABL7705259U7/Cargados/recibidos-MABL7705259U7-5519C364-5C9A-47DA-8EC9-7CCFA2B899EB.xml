@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante version="3.2" serie="AB" folio="0109006921" fecha="2016-10-13T01:29:43" formaDePago="Pago en una sola exhibición" subTotal="849.73" total="985.68" metodoDePago="04" NumCtaPago="2000" LugarExpedicion="México, D.F." tipoDeComprobante="ingreso" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" noCertificado="00001000000300401300" sello="mu3njgvgNyHi3simJRIKph14ypDSpfcwSgSXh/OiyfbvQl/XIL97Sl773IqkZ1cFPhPS1cgn6t09k4I5O68kQxKpk2YyPdCBY2tlxuJGR06IHt43eNy+eozL/ci3tTclRY3y0Hy0r7OttvaNG4G1Tzi+MnQqkOxYmMGFeBzSTiI=" certificado="MIIEYDCCA0igAwIBAgIUMDAwMDEwMDAwMDAzMDA0MDEzMDAwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA2MjgxNTI3NDlaFw0xNzA2MjgxNTI3NDlaMIGsMRowGAYDVQQDExFJVVNBQ0VMTCBTQSBERSBDVjEaMBgGA1UEKRMRSVVTQUNFTEwgU0EgREUgQ1YxGjAYBgNVBAoTEUlVU0FDRUxMIFNBIERFIENWMSUwIwYDVQQtExxJVVM4OTA2MTZSSDYgLyBGT0dNNzEwNTA0RTE0MR4wHAYDVQQFExUgLyBGT0dNNzEwNTA0SERGTFJSMDkxDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAw0UGXV9P1iYjtMEeIIk29DDkIoefAfdrZXhLT58KpcykXtVaghtpkB1W46nhMH77HS55zz7j4QLkJgjdl6UH4RSxjBq0clONBNDi1r0x8tdf7Sf6AAvrqqXPSHD38kbuqlDH5zEjyo3AvyZKQq9tswC1g+o+OYW/RSLfDG8Wnt8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADwzq/kTCRG9aUBXUor0Rt5y2c0gtBS9pPQEaCNft+PcCZ6m0B7L00wJ0J4vKD4n/3Gk+7AHSJUju4M+mrwrP8qwPMCCvgZTFnmaSjTj+3l2q3A8NjtXNvBHWNlK8M0iHPUETDo4dJGUABGjRUOXFYCu+j5lZOE8E2RLxIB43eOQl5aIytvX8l2NdJrnggnD5Loxzipw3bvitfQjrMgQLBBVMr26cdULW7BRcA0hvLWfZHDGagZAS4k8DzGviWpWz00hleaDD02XhGOPz/eRKBAltadxFuOEa5cyzg3zdXHODB5o2L/KjlYA5j9jz2AT7bnbUF4CyB4f1NLqeO9EtTM=" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor rfc="IUS890616RH6" nombre="AT&amp;T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.">
+    <cfdi:DomicilioFiscal calle="MONTES URALES" noExterior="460" colonia="LOMAS DE CHAPULTEPEC" municipio="MIGUEL HIDALGO" estado="D.F." pais="MEXICO" codigoPostal="11000"></cfdi:DomicilioFiscal>
+    <cfdi:ExpedidoEn calle="MONTES URALES" noExterior="460" colonia="LOMAS DE CHAPULTEPEC" municipio="MIGUEL HIDALGO" estado="D.F." pais="MEXICO" codigoPostal="11000"></cfdi:ExpedidoEn>
+    <cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales"></cfdi:RegimenFiscal>
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="MABL7705259U7" nombre="Sr. MARIA DE LA LUZ MARTA BENITEZ">
+    <cfdi:Domicilio calle="MIRAFLORES 922 502" colonia="MIRAVALLE" localidad="CIUDAD DE MEXICO DF 03580" municipio="BENITO JUAREZ" estado="CIUDAD DE MEXICO DF 03580" pais="MEXICO"></cfdi:Domicilio>
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" descripcion="Rentas" valorUnitario="756.90" importe="756.90" unidad="Servicio y/o renta"></cfdi:Concepto>
+    <cfdi:Concepto cantidad="1" descripcion="Consumos del periodo " valorUnitario="92.83" importe="92.83" unidad="Servicio y/o renta"></cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="135.95">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" importe="135.95" tasa="16"></cfdi:Traslado>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="5519C364-5C9A-47DA-8EC9-7CCFA2B899EB" FechaTimbrado="2016-10-14T01:29:43" selloCFD="mu3njgvgNyHi3simJRIKph14ypDSpfcwSgSXh/OiyfbvQl/XIL97Sl773IqkZ1cFPhPS1cgn6t09k4I5O68kQxKpk2YyPdCBY2tlxuJGR06IHt43eNy+eozL/ci3tTclRY3y0Hy0r7OttvaNG4G1Tzi+MnQqkOxYmMGFeBzSTiI=" noCertificadoSAT="00001000000202865018" selloSAT="APMrlK/8TYoxpTV/vnPV/fSUkh8HhJia4aKkVCfHroFI4QTYZkW8Aga1PCJEGAbF24ZMhgd1NjFQD0ro385Yb/3hV25sGGaLlsaciyCHfcdxPm1pkcxgrEHiYfntWLReckUQyr7PBSpNvvsS/W5b7ObLCV+4JSL+1CeI+W1mUYQ=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

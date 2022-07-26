@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" serie="B" folio="8265" fecha="2016-06-21T17:52:02" sello="iI5mhHX0CP8BVyasKJE1ELHhL283NDFdNEDDDqhO35VS+i0jr4B7RaDreSuhFHvYvh1RXE1xqe9LB/rGNuRiul4gQ6uA8cCazdVx1YMwq78gn4J3yJIzc2KNV6EXWFhU9LUumfLSSWTkCgGx/C3EYT7qZHuhXWuvxowYpJgDNeY=" formaDePago="PARCIALIDADES" noCertificado="00001000000203296969" certificado="MIIEdTCCA12gAwIBAgIUMDAwMDEwMDAwMDAyMDMyOTY5NjkwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDMyMjAzMzExOFoXDTE3MDMyMjAzMzExOFowgbYxGDAWBgNVBAMTD0FNT0xDQSBTQSBERSBDVjEYMBYGA1UEKRMPQU1PTENBIFNBIERFIENWMRgwFgYDVQQKEw9BTU9MQ0EgU0EgREUgQ1YxJTAjBgNVBC0THEFNTzAxMDEyNThYMyAvIFJJQlc1NzA1Mjc1VzYxHjAcBgNVBAUTFSAvIFJJQlc1NzA1MjdITkVYVEwwNjEfMB0GA1UECxMWQ0VSVElGSUNBRE9BTU9MQ0FNQVIxMzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA2TrFp15bzAMbVps80TR4fLsIzNJmr68FI9w6tcgDUxQ63mtP0CmIx29mTqS9F0ciBcg9pjPUQDx3ZwCc3mNW9bpYW7OLO4R3EclDMXEbpuNv0cx+bwq4nQNLI7RvkJ57MdVN0OUdJbxTn4bIykel5hU8o0wRC3yhOU5LevgHvwkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAFI+NynC81FCynSkHSFUpJsBNzWzmTKabur1QwH7o3NGf+ge+EntfqVjfnVsfBKmOIl/4LzdjctquqwDZrQDEMkV1ZgVL679fpawqgyH0Hr+71GIlyBKe6cu5rlqyerLB0ILIy/0pJsFKEaD2TdFIUpv7wf+6ITb+MNn29MXwMUag8KmJTNpMQ3yFVtBGQGLnxfkf7fARlHoq2ymq9g6GxG5mvzQw63f3RILKNe8OcwuO5rjVTDdCJOHdnW+wkA35E85Bc2XsQJgf3MFSrn2jdCuAivxhs7JUwfDfFOSmeGwDDLRCvgjTBDlMaSKkgejHK2tmYlWlQuPVFMeNNhnQLw=" condicionesDePago="CONTADO" subTotal="8172.50" motivoDescuento="DESCUENTO POR PRONTO PAGO" TipoCambio="1.0000" Moneda="MXN" total="8172.50" metodoDePago="03" tipoDeComprobante="ingreso" LugarExpedicion="México, D.F." NumCtaPago="NO IDENTIFICADO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="AMO0101258X3" nombre="AMOLCA, S.A. DE C.V.">
+<cfdi:DomicilioFiscal calle="Arquitectura" noExterior="49" noInterior="202" colonia="Copilco Universidad" referencia="5658-0882, 5339-5021, FAX: 5659-1998" municipio="Coyoacan" estado="Distrito Federal" pais="México" codigoPostal="04360" />
+<cfdi:RegimenFiscal Regimen="General" />
+</cfdi:Emisor>
+<cfdi:Receptor rfc="MABL7705259U7" nombre="MARIA DE LA LUZ MARTA BENITEZ">
+<cfdi:Domicilio calle="CALZADA DE TLALPAN 4500, COLONIA SECCION XVI, DELEGACION TLALPAN" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="14080" />
+</cfdi:Receptor>
+<cfdi:Conceptos>
+<cfdi:Concepto cantidad="1" unidad="pieza" noIdentificacion="BIJOS" descripcion="COBERTURA CUTANEA DE MANOS Y DEDOS" valorUnitario="1850.00" importe="1295.00">
+<cfdi:InformacionAduanera numero="35425000428" fecha="2015-03-17" aduana="MANZANILLO" />
+</cfdi:Concepto>
+<cfdi:Concepto cantidad="1" unidad="pieza" noIdentificacion="VILLEGAS" descripcion="MEDICINA DEL LABORATORIO REVISION Y ACTUALIZACION" valorUnitario="3150.00" importe="2205.00">
+<cfdi:InformacionAduanera numero="35425000428" fecha="2015-03-17" aduana="MANZANILLO" />
+</cfdi:Concepto>
+<cfdi:Concepto cantidad="1" unidad="pieza" noIdentificacion="COIFFMAN III" descripcion="CIRUGIA PLASTICA RECONSTUCTIVA Y ESTETICA TOMO III" valorUnitario="700.00" importe="525.00">
+<cfdi:InformacionAduanera numero="35457002874" fecha="2007-06-28" aduana="VERACRUZ" />
+</cfdi:Concepto>
+<cfdi:Concepto cantidad="1" unidad="pieza" noIdentificacion="STECCO" descripcion="MANIPULACION FASCIAL PARTE PRACTICA" valorUnitario="1470.00" importe="1029.00">
+<cfdi:InformacionAduanera numero="35421001319" fecha="2011-06-07" aduana="MANZANILLO" />
+</cfdi:Concepto>
+<cfdi:Concepto cantidad="1" unidad="pieza" noIdentificacion="TAUB" descripcion="RINOPLASTIA" valorUnitario="1305.00" importe="913.50">
+<cfdi:InformacionAduanera numero="35423001239" fecha="2013-09-18" aduana="MANZANILLO" />
+</cfdi:Concepto>
+<cfdi:Concepto cantidad="1" unidad="pieza" noIdentificacion="LUKETICH" descripcion="CIRUGIA DEL ESOFAGO" valorUnitario="3150.00" importe="2205.00">
+<cfdi:InformacionAduanera numero="151635425001188" fecha="2015-07-21" aduana="MANZANILLO" />
+</cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado impuesto="IVA" tasa="0.00" importe="0.00" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2016-06-21T17:57:56" UUID="42F704E3-DBFF-21B3-69DB-BC30DDD132B6" noCertificadoSAT="00001000000202771790" selloCFD="iI5mhHX0CP8BVyasKJE1ELHhL283NDFdNEDDDqhO35VS+i0jr4B7RaDreSuhFHvYvh1RXE1xqe9LB/rGNuRiul4gQ6uA8cCazdVx1YMwq78gn4J3yJIzc2KNV6EXWFhU9LUumfLSSWTkCgGx/C3EYT7qZHuhXWuvxowYpJgDNeY=" selloSAT="YdB4haeT0DT5FzxiUnajpcAThaYsqnOXxqrHRS5yzkUN0ci9+pQUF3HU5CMs0mycQxYZTUlv5rl2QxExWKx3Mhi/DN1+b8ZtSmBf8yj+3u79p0t42vbMbwR7lHmAYo0izNh26hc/nfNhoO6msvDuV7ntJ2VV24CBf+i4J1gxEa8=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

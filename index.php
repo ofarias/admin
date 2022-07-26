@@ -3,9 +3,8 @@ session_start();
 date_default_timezone_set('America/Mexico_City');
 require_once('app/controller/controller.php');
 $controller = new pegaso_controller;
-
 if(isset($_GET['action'])){
-$action = $_GET['action'];
+	$action = $_GET['action'];
 }else{
 	$action = '';
 }
@@ -41,33 +40,33 @@ if (isset($_POST['usuario'])){
 	echo json_encode($res);
 	exit();
 }
-else{switch(isset($_GET['action'])){
-	case 'login':
-		$controller->Login();
-		break;
-	case 'salir':
-        $controller->salir();        
-        break;
-	case 'loginC':
-		$_SESSION['empresa']=$_GET['empresa'];
-		$controller->LoginA($_SESSION['usuario'], $_SESSION['contra']);
-		break;
-	case 'CambiarSenia':
-		$controller->CambiarSenia();
-		break;
-	case 'madmin':
-		$controller->MenuAdmin();
-		break;
-	case 'AltaEmpresa':
-		$controller->AltaEmpresa();
-		break;
-	case 'usXemp':
-		$controller->usXemp($_GET['ide']);
-		break;
-	default: 
-		//header('Location: index.php?action=login');
-		$controller->Login();
-		break;
+else{
+	switch($action){
+		case 'login':
+			$controller->Login();
+			break;
+		case 'salir':
+			$controller->salir();        
+			break;
+		case 'loginC':
+			$_SESSION['empresa']=$_GET['empresa'];
+			$controller->LoginA($_SESSION['usuario'], $_SESSION['contra']);
+			break;
+		case 'CambiarSenia':
+			$controller->CambiarSenia();
+			break;
+		case 'madmin':
+			$controller->MenuAdmin();
+			break;
+		case 'AltaEmpresa':
+			$controller->AltaEmpresa();
+			break;
+		case 'usXemp':
+			$controller->usXemp($_GET['ide']);
+			break;
+		default: 
+			$controller->Login();
+			break;
 	}
 
 }

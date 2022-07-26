@@ -14,7 +14,7 @@ $meses = array(
 	'12'=>'Diciembre'
 );
 $dias = range(1, 31);
-$anios = range(date('Y')-5, date('Y'));
+$anios = range(date('Y')-8, date('Y'));
 ?>
 <form class="form-inline" method="POST" id="emitidos-form">
   <input type="hidden" name="accion" value="buscar-emitidos" />

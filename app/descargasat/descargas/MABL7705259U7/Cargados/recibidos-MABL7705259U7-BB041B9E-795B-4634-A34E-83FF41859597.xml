@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="MEXICO, D.F." Moneda="PESOS" TipoCambio="1.0000" certificado="MIIEhjCCA26gAwIBAgIUMDAwMDEwMDAwMDAyMDI0NTM1ODEwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyODE3NDQwOVoXDTE2MTEyODE3NDQwOVowgccxIzAhBgNVBAMTGkxJQlJFUklBUyBHT05WSUxMIFNBIERFIENWMSMwIQYDVQQpExpMSUJSRVJJQVMgR09OVklMTCBTQSBERSBDVjEjMCEGA1UEChMaTElCUkVSSUFTIEdPTlZJTEwgU0EgREUgQ1YxJTAjBgNVBC0THExHTzg0MDQxM1NEMiAvIEdPTFQ2NjA3MzBHTEExHjAcBgNVBAUTFSAvIEdPTFQ2NjA3MzBIREZOVFIwNjEPMA0GA1UECxMGbWF0cml6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDD4WFw+wt0CMm/ozcNUnrVPyUmQq6bFV7ExtZ9YDgMn3LquM9ct07IPqDfI3A7nDsL6A7C9fa3I/yt2c3XFgcogWuk4As0pc3akn4q4fUBwBOs2yynyJP2DMpebHwIi9wY2VgwL1s3+/g8/J2ReGN/12i7UOvhq9JAsfZTaDcuYQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEACoPWjFkKRsjhEPV6U91VD2vC4FOYmmtYt+d7ZKbB+3bjqByN5b/0JAptxcXyd2mv/zig62KPmhiQVE/NRW9/8vieizjIU708WJ3JKXw1n0uSmweOyjdJdKmWD8RgIZjmvxf3FT8WC4PdmWurF1l7NdZA8PDwYQEr3p7FlJsOXf9pLVQLESep8pCThJ94UaUGFCNBG2Ao/8B4SfnG18WYujKEayQtU5DWVldxxeOYXkF0dRfQh8fD4SkeomX6A3jePaGe480w1Sh8QoaPqRW/mmr7IpWmO14uV0qIR5jFvSpcgZNn01RCI9JpI8SUxAltdR6xDOZDF6Kzwm3xlKvXxg==" condicionesDePago="CREDITO" descuento="0.00" fecha="2016-02-05T12:17:25" folio="18174" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="NO IDENTIFICADO" noCertificado="00001000000202453581" sello="YnLQ8/DgNFGdkm9ZOBszS299Qoa3sMCnLMyF6wibEntc5D7qM0lAGM+9m0KLA8+cW9sZgmvsEfJs1Xr3k5qUoJKj67H4Y8drodKe19aGdg69gHtuPZRvET2sLk+rz6LvsP7yW5Szt3uXrAImOnxUo6Ykz2CjVztwC2Pq/v6NZ6g=" serie="B" subTotal="2587.00" tipoDeComprobante="ingreso" total="2587.00" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="LIBRERIAS GONVILL, S.A. DE C.V." rfc="LGO840413SD2">
+    <cfdi:DomicilioFiscal calle="8 DE JULIO" codigoPostal="44190" colonia="MODERNA" estado="JALISCO" municipio="GUADALAJARA" noExterior="825, Colonia MODERNA" pais="MEXICO" />
+    <cfdi:ExpedidoEn calle="NORTE 45" codigoPostal="02300" colonia="INDUSTRIAL VALLEJO" estado="D.F." municipio="D.F." noExterior="958" pais="MEXICO" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="MARIA DE LA LUZ MARTA BENITEZ" rfc="MABL7705259U7">
+    <cfdi:Domicilio calle="CALZ. DE TLALPAN NO. 4500" codigoPostal="55509" colonia="SECCION XVI" estado="DISTRITO FEDERAL" municipio="DELEG. TLALPAN MEXICO" pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" descripcion="AMIR MEDICINA TEXTBOOK 1" importe="278.85" noIdentificacion="15400814" unidad="PIEZA" valorUnitario="429.00" />
+    <cfdi:Concepto cantidad="1" descripcion="AMIR MEDICINA TEXTBOOK 2" importe="187.85" noIdentificacion="15400815" unidad="PIEZA" valorUnitario="289.00" />
+    <cfdi:Concepto cantidad="1" descripcion="AMIR ESPECIALIDADES TEXTBOOK 3" importe="161.85" noIdentificacion="15400816" unidad="PIEZA" valorUnitario="249.00" />
+    <cfdi:Concepto cantidad="1" descripcion="AMIR ESPECIALIDADES TEXTBOOK 4" importe="187.85" noIdentificacion="15400817" unidad="PIEZA" valorUnitario="289.00" />
+    <cfdi:Concepto cantidad="3" descripcion="NEUROLOGIA ELEMENTAL" importe="1770.60" noIdentificacion="40101856" unidad="PIEZA" valorUnitario="908.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="0.00" impuesto="IVA" tasa="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="BB041B9E-795B-4634-A34E-83FF41859597" FechaTimbrado="2016-02-05T12:19:40" selloCFD="YnLQ8/DgNFGdkm9ZOBszS299Qoa3sMCnLMyF6wibEntc5D7qM0lAGM+9m0KLA8+cW9sZgmvsEfJs1Xr3k5qUoJKj67H4Y8drodKe19aGdg69gHtuPZRvET2sLk+rz6LvsP7yW5Szt3uXrAImOnxUo6Ykz2CjVztwC2Pq/v6NZ6g=" noCertificadoSAT="00001000000203352843" selloSAT="jxu79dqZm51p910nQA/UZpbKR3LreX9SqhYelEAvmXb71VC6F4m5raf/g9Zne92daGJa18iAnVpH5H2oWj4QUibmvn/Xg+R6zNmQaLRqdt0/gibJ2Duqz33uotOYwYu5QQ5ttEr+UG+4RISFHwlPW5/uQfYaractyMhmcJpU6hU=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

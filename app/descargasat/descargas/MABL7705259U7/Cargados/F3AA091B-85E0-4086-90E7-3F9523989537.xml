@@ -1,0 +1,656 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Folio="402" Fecha="2018-07-27T19:17:25" Sello="InJMlVH41NTlfKRzCLzpu+5HyDNl1Fn+JZ1nomUKJHbyMLqXl2wOBo6iz8wjcCIp7VdJDct1X2sesF/r5cQSUT9BGmxKEmtpSWCgq1sQPBz9Jygv3400p+Q4YRW6YBJqu+I5qtCxwa5SnAlZya+dwmxxH2u8d/y+BFDEeIyy7KKdWoaYoP6AlV7ZBzJE8kW0jR3rUYEwwc6+AcIo5PDiq/+5RUTFfPDEQijgCTP8DZCXJ1seBaVeAHkgUH2xWFJQz6L29m9eDPRStraAqqPRmFC6x0etsgW3aluQubKwAxMpmQcjxpbjt3oJHKr6OtKTp9r4Rr/nzg2Xv0FLxhu8HQ==" FormaPago="03" NoCertificado="00001000000402297032" Certificado="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" SubTotal="135868.00" Moneda="MXN" Total="135868.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="14080" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cfdi:Emisor Rfc="MABL7705259U7" Nombre="MARTA BENITEZ MARIA DE LA LUZ" RegimenFiscal="612" />
+	<cfdi:Receptor Rfc="IME120521DU5" Nombre="ICIWEB MEXICO S.A. DE C.V." UsoCFDI="G01" />
+	<cfdi:Conceptos>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="149" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="APLICACION DEL PROCESO ENFERMERO - ALFARO 9788415840763" ValorUnitario="335.00" Importe="335.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="335.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="543" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="INTRODUCCION A LA PSICOPATOLOGIA Y A LA PSIQUIATRIA - VALLEJO" ValorUnitario="925.00" Importe="925.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="925.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="544" Cantidad="4" ClaveUnidad="H87" Unidad="PZ" Descripcion="LO ESENCIAL EN METABOLISMO Y NUTRICION - APPLETON" ValorUnitario="505.00" Importe="2020.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2020.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="391" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="OBSTETRICIA - GLZ. MERLO" ValorUnitario="1150.00" Importe="1150.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1150.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="545" Cantidad="3" ClaveUnidad="H87" Unidad="PZ" Descripcion="CIRUGIA BUCAL PATOLOGIA Y TECNICA - DONADO" ValorUnitario="1910.00" Importe="5730.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="5730.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="25" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="TRATADO DE FISIOLOGIA - GUYTON/HALL" ValorUnitario="1398.00" Importe="1398.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1398.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="118" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="NIC - BULECHECK" ValorUnitario="1000.00" Importe="2000.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="191" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="METODOS DE INVESTIGACION CLINICA - ARGIMON" ValorUnitario="980.00" Importe="1960.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1960.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="546" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="FARMACOLOGIA EN ENFERMERIA - CASTELL" ValorUnitario="935.00" Importe="935.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="935.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="50" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="DIETOTERAPIA KRAUSE - MAHAN" ValorUnitario="1655.00" Importe="3310.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="3310.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="547" Cantidad="3" ClaveUnidad="H87" Unidad="PZ" Descripcion="OPTOMETRIA ASPECTOS AVANZADOS Y CONSIDERACIONES ESPECIALES - MONTES MICO" ValorUnitario="900.00" Importe="2700.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2700.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="548" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="CASOS CLINICOS DE ANATOMIA - DUGANI" ValorUnitario="525.00" Importe="525.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="525.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="50" Cantidad="4" ClaveUnidad="H87" Unidad="PZ" Descripcion="DIETOTERAPIA KRAUSE - MAHAN" ValorUnitario="1655.00" Importe="6620.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="6620.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="549" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="NUTRICION COMUNITARIA - ARANCETA" ValorUnitario="675.00" Importe="675.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="675.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="550" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ELECTROTERAPIA: PRACTICA BASADA EN LA EVIDENCIA - WATSON" ValorUnitario="765.00" Importe="765.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="765.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="551" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="GRAY REPASO DE ANATOMIA: PREGUNTAS Y RESPUESTAS" ValorUnitario="465.00" Importe="465.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="465.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="552" Cantidad="3" ClaveUnidad="H87" Unidad="PZ" Descripcion="TERAPIA OCUPACIONAL EN GERIATRIA - DURANTE" ValorUnitario="825.00" Importe="2475.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2475.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="31" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="MOORE EMBRIOLOGIA CLINICA" ValorUnitario="700.00" Importe="700.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="700.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="3" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="PATOLOGIA ESTRUCTURAL Y FUNCIONAL - KUMAR/ABBAS" ValorUnitario="1325.00" Importe="1325.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1325.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="480" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="NELSON TRATADO DE PEDIATRIA - KLIEGMAN" ValorUnitario="2100.00" Importe="2100.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2100.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="555" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ENTRENAMIENTO TERAPEUTICO EN EL DEPORTE Y LAS TERAPIAS MANUALES - YLINEN" ValorUnitario="825.00" Importe="825.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="825.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="556" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="LO ESENCIAL EN PATOLOGIA - ANAND" ValorUnitario="530.00" Importe="530.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="530.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="506" Cantidad="4" ClaveUnidad="H87" Unidad="PZ" Descripcion="ODONTOLOGIA PREVENTIVA Y COMUNITARIA - CUENCA" ValorUnitario="760.00" Importe="3040.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="3040.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="286" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="AGENTES FISICOS EN REHABILITACION - CAMERON" ValorUnitario="985.00" Importe="985.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="985.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="557" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ATLAS Y CASOS DE DIAGNOSTICO POR IMAGEN - POPE" ValorUnitario="780.00" Importe="780.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="780.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="558" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="BASES BIOMECANICAS DEL SISTEMA MUSCULOESQUELETICO - NORDIN" ValorUnitario="890.00" Importe="890.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="890.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="559" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="BATES GUIA DE EXPLORACION FISICA E HISTORIA CLINICA" ValorUnitario="1110.00" Importe="2220.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2220.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="399" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="BIOESTADISTICA AMIGABLE - MARTINEZ" ValorUnitario="775.00" Importe="1550.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1550.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="560" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="BIOMECANICA BASICA: BASES DEL MOVIMIENTO HUMANO - HAMILL" ValorUnitario="635.00" Importe="635.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="635.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="313" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="BIOQUIMICA MEDICA - BAYNES" ValorUnitario="930.00" Importe="930.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="930.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="561" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="DERMATOLOGIA: PRINCIPALES DIAGNOSTICOS Y TRATAMIENTOS - BOLOGNIA" ValorUnitario="985.00" Importe="985.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="985.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="562" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="CARDIOLOGIA: BASES FISIOPATOLOGICAS DE LAS CARDIOPATIAS - LILLY" ValorUnitario="550.00" Importe="1100.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1100.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="563" Cantidad="3" ClaveUnidad="H87" Unidad="PZ" Descripcion="CIRUGIA ORAL Y MAXILOFACIAL - HUPP" ValorUnitario="2000.00" Importe="6000.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="6000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="564" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="CIRUGIA ORTOPEDICA DE BOLSILLO - BOUGHANEM" ValorUnitario="450.00" Importe="450.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="450.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="119" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="CLASIFICACION DE RESULTADOS NOC - MOORHEAD" ValorUnitario="1000.00" Importe="2000.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="509" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="COMPENDIO DE ATENCION PRIMARIA - MARTIN ZURRO" ValorUnitario="740.00" Importe="740.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="740.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="406" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="CAMPBELL CIRUGIA ORTOPEDICA FRACTURAS Y LUXACIONES" ValorUnitario="440.00" Importe="440.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="440.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="396" Cantidad="3" ClaveUnidad="H87" Unidad="PZ" Descripcion="DISEÑO INVESTIGACION CLINICA - HULLEY" ValorUnitario="965.00" Importe="2895.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2895.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="477" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ELECTROTERAPIA PRACTICA + STUDENT CONSULT AVANCES EN INVESTIGACION - ALBORNOZ" ValorUnitario="615.00" Importe="615.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="615.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="566" Cantidad="3" ClaveUnidad="H87" Unidad="PZ" Descripcion="ENDODONCIA: TECNICAS CLINICAS Y BASES CIENTIFICAS - CANALDA" ValorUnitario="1380.00" Importe="4140.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="4140.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="467" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ENFERMERIA DEL PACIENTE EN EL ESTADO CRITICO - WOODRUFF" ValorUnitario="465.00" Importe="465.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="465.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="567" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ENFERMERIA FACIL: ENFERMERIA MATERNO-NEONATAL - BUTKUS" ValorUnitario="440.00" Importe="440.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="440.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="568" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ENFERMERIA FACIL: PROCEDIMIENTOS EN ENFERMERIA - WEBB" ValorUnitario="415.00" Importe="415.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="415.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="569" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ENFERMERIA FACIL: CUIDADO Y ATENCION EN HERIDAS - SLATCHA" ValorUnitario="260.00" Importe="260.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="260.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="438" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="EPIDEMIOLOGIA - GORDIS" ValorUnitario="755.00" Importe="755.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="755.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="474" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="EPIDEMIOLOGIA CLINICA - FLETCHER" ValorUnitario="500.00" Importe="1000.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="287" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="FISIOLOGIA DEL EJERCICIO - McARDLE" ValorUnitario="1095.00" Importe="1095.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1095.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="570" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="FISIOPATOLOGIA Y PATOLOGIA GENERAL BAISCAS PARA CIENCIAS DE LA SALUD - PASTRANA" ValorUnitario="815.00" Importe="815.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="815.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="571" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="FUNDAMENTOS DE FISIOPATOLOGIA - PORTH" ValorUnitario="905.00" Importe="1810.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1810.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="572" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="FUNDAMENTOS DE RADIOLOGIA DENTAL - WHAITES" ValorUnitario="1475.00" Importe="1475.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1475.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="219" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="GENETICA MEDICA - JORDE" ValorUnitario="825.00" Importe="825.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="825.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="573" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="GUIA PARA LA EVALUACION Y TRATAMIENTO DE LAS ADICCIONES - LEVOUNIS" ValorUnitario="715.00" Importe="715.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="715.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="215" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="HISTORIA DE LA ENFERMERIA - MARTINEZ" ValorUnitario="380.00" Importe="380.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="380.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="591" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="INMUNOLOGIA MOLECULAR, CELULAR Y TRASLACIONAL - PAVON" ValorUnitario="825.00" Importe="825.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="825.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="574" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="INTRODUCCION  A LA INVESTIGACION EN CIENCIAS DE LA SALUD - POLGAR" ValorUnitario="530.00" Importe="530.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="530.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="575" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="INVESTIGACION EN METODOLOGIA Y LENGUAJES ENFERMEROS - ECHEVARRIA" ValorUnitario="615.00" Importe="615.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="615.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="461" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="BALCELLS LA CLINICA Y EL LABORATORIO - PRIETO VALTUEÑA" ValorUnitario="1165.00" Importe="1165.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1165.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="576" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="LA ENTREVISTA PSIQUIATRICA Y EL EXAMEN MENTAL - CARLAT" ValorUnitario="410.00" Importe="820.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="820.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="577" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="LAS ENFERMEDADES METABOLICAS Y SU IMPACTOEN LA SALUD - CORONA" ValorUnitario="450.00" Importe="450.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="450.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="102" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="FARMACOLOGIA LIR - WHALEN" ValorUnitario="570.00" Importe="570.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="570.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="578" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="MAITLAND - MANIPULACION VERTEBRAL - HENGEVELD" ValorUnitario="925.00" Importe="925.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="925.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="103" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="RODGERS MANUAL CUIDADOS INTENSIVOS PEDIATRICOS - SHAFFNER" ValorUnitario="800.00" Importe="800.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="800.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="143" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="MANUAL NEFROLOGIA - SCHRIER" ValorUnitario="615.00" Importe="615.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="615.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="269" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="MANUAL DE ODONTOLOGIA PEDIATRICA - CAMERON" ValorUnitario="1195.00" Importe="2390.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2390.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="237" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="PROCEDIMIENTOS EN ANESTESIA MASSACHUSETTS - PINO" ValorUnitario="725.00" Importe="1450.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1450.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="216" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="MANUAL PRACTICO DE INSTRUMENTACION QUIRURGICA - SERRA GUILLEN" ValorUnitario="595.00" Importe="1190.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1190.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="579" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="MATEMATICAS PARA ENFERMERAS - BOYER" ValorUnitario="305.00" Importe="610.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="610.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="82" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="NEUROCIENCIAS - BEAR" ValorUnitario="1105.00" Importe="1105.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1105.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="580" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="ONCOLOGIA CLINICA - CRUZ HERNANDEZ" ValorUnitario="500.00" Importe="500.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="500.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="581" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="PATOLOGIA ORAL PARA EL HIGIENISTA DENTAL - IBSEN" ValorUnitario="630.00" Importe="630.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="630.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="582" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="PATOLOGIA ORAL Y GENERAL EN ODONTOLOGIA - DELONG" ValorUnitario="685.00" Importe="685.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="685.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="30" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="FISIOPATOLOGIA - PORTH" ValorUnitario="1150.00" Importe="1150.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1150.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="38" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="PRINCIPIOS DE FARMACOLOGIA - GOLAN" ValorUnitario="1055.00" Importe="2110.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2110.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="49" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="PROPEDEUTICA Y SEMIOLOGIA EN ODONTOLOGIA - IBAÑEZ" ValorUnitario="665.00" Importe="665.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="665.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="583" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="PROTESIS DENTAL SOBRE IMPLANTES - MISCH" ValorUnitario="2230.00" Importe="4460.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="4460.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="584" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="PSICOLOGIA MEDICA - DIAZ MENDEZ" ValorUnitario="620.00" Importe="620.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="620.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="585" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="RESONANCIA MAGNETICA DIRIGIDA A TECNICOS SUPERIORES EN IMAGEN - COSTA" ValorUnitario="355.00" Importe="355.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="355.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="586" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="TERAPIA ACUATICA: ABORDAJES DESDE LA FISIOTERAPIA Y TERAPIA OCUPACIONAL - GÜEITA" ValorUnitario="620.00" Importe="620.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="620.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="587" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="TEXTO Y ATLAS DE NUTRICION - BIESALSKI" ValorUnitario="450.00" Importe="450.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="450.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="330" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="TRATADO DE AUDIOLOGIA - SALESA" ValorUnitario="1095.00" Importe="1095.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1095.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="335" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="TRATADO DE MEDICINA INTENSIVA - CARDENAS DE LA CRUZ" ValorUnitario="1230.00" Importe="2460.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2460.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="516" Cantidad="2" ClaveUnidad="H87" Unidad="PZ" Descripcion="TRATAMIENTO DE OCLUSION Y AFECCIONES TEMPOROMANDIBULARES - OKESON" ValorUnitario="2810.00" Importe="5620.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="5620.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="588" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="UROLOGIA PRACTICA - BROSETA" ValorUnitario="660.00" Importe="660.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="660.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="589" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="VERTIGOS: MANUAL DE DIAGNOSTICS Y REHABILITACION - SAUVAGE" ValorUnitario="740.00" Importe="740.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="740.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="51" Cantidad="3" ClaveUnidad="H87" Unidad="PZ" Descripcion="ANATOMIA Y OCLUSION DENTAL WHELER - NELSON" ValorUnitario="835.00" Importe="2505.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2505.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="498" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="WOELFELD ANATOMIA DENTAL - SCHEID" ValorUnitario="610.00" Importe="610.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="610.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="526" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="MANUAL DE ONCOLOGIA CLINICA - CASCIATO" ValorUnitario="690.00" Importe="690.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="690.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="544" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="LO ESENCIAL EN METABOLISMO Y NUTRICION - APPLETON" ValorUnitario="505.00" Importe="505.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="505.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="590" Cantidad="7" ClaveUnidad="H87" Unidad="PZ" Descripcion="PATOLOGIA Y TERAPEUTICA DENTAL: OPERATORIA DENTAL Y ENDODONCIA - GARCIA BARBERO" ValorUnitario="375.00" Importe="2625.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2625.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="25" Cantidad="5" ClaveUnidad="H87" Unidad="PZ" Descripcion="TRATADO DE FISIOLOGIA - GUYTON/HALL" ValorUnitario="1398.00" Importe="6990.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="6990.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="451" Cantidad="1" ClaveUnidad="H87" Unidad="PZ" Descripcion="MEDICINA PREVENTIVA Y SALUD PUBLICA - PIEDROLA" ValorUnitario="1230.00" Importe="1230.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1230.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="55101524" NoIdentificacion="206" Cantidad="4" ClaveUnidad="H87" Unidad="PZ" Descripcion="NUTRICION, DIAGNOSTICO Y TRATAMIENTO - ESCOTT" ValorUnitario="880.00" Importe="3520.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="3520.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosTrasladados="0.00">
+		<cfdi:Traslados>
+			<cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital RfcProvCertif="TSP080724QW6" Version="1.1" UUID="F3AA091B-85E0-4086-90E7-3F9523989537" FechaTimbrado="2018-07-27T20:09:28" SelloCFD="InJMlVH41NTlfKRzCLzpu+5HyDNl1Fn+JZ1nomUKJHbyMLqXl2wOBo6iz8wjcCIp7VdJDct1X2sesF/r5cQSUT9BGmxKEmtpSWCgq1sQPBz9Jygv3400p+Q4YRW6YBJqu+I5qtCxwa5SnAlZya+dwmxxH2u8d/y+BFDEeIyy7KKdWoaYoP6AlV7ZBzJE8kW0jR3rUYEwwc6+AcIo5PDiq/+5RUTFfPDEQijgCTP8DZCXJ1seBaVeAHkgUH2xWFJQz6L29m9eDPRStraAqqPRmFC6x0etsgW3aluQubKwAxMpmQcjxpbjt3oJHKr6OtKTp9r4Rr/nzg2Xv0FLxhu8HQ==" NoCertificadoSAT="00001000000407612027" SelloSAT="sEMUQ42KXj/tEkrLLrSiwtDau9/ZUDlRPJyOtxqfFR5ueocf5gtfFeikMM84kJvSICyUYhard1b1VttjtOowHHIvW4ptIzkCC4GxhKkpDQLqxdS4dedQehGvTjesTcgd7U5jelx1G6ffNVz655od/vArMC6bqMRzaXL56s/T6l0NHZkmLaGehgLbwiCR/HLJWcU9fjBII1VlcrGUgK+M60jNAZF8xJJmf3LPkqqBdk9OSCLt4hXdZbz7wHWzZlScRmKm7hmh4QMxWi4B+VvmLkKACQBVJuLtrmyLr9ajxNXOGc4uy0zEZc812jVWPCy/wHO+UMnTePPVNZr4nDW77Q==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" /></cfdi:Complemento></cfdi:Comprobante>

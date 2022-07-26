@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" serie="B" folio="7633" fecha="2016-02-25T18:33:05" sello="rMFhgNvW8BAqnHO371mOudhG5Yy4XeY/O7kynEHXvsY9RHPntkb9s/HMiH2SHXA3XSPlAmHksjrMF+66lUDckii8GA4/VbaQDtgGPFRDE7/NBgVoe+481syjxJNfMO5k9XI2iD0x3n1Ic7RNu1WKkIZEfSl+Pteo5EW+h+s8ZlU=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000203296969" certificado="MIIEdTCCA12gAwIBAgIUMDAwMDEwMDAwMDAyMDMyOTY5NjkwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDMyMjAzMzExOFoXDTE3MDMyMjAzMzExOFowgbYxGDAWBgNVBAMTD0FNT0xDQSBTQSBERSBDVjEYMBYGA1UEKRMPQU1PTENBIFNBIERFIENWMRgwFgYDVQQKEw9BTU9MQ0EgU0EgREUgQ1YxJTAjBgNVBC0THEFNTzAxMDEyNThYMyAvIFJJQlc1NzA1Mjc1VzYxHjAcBgNVBAUTFSAvIFJJQlc1NzA1MjdITkVYVEwwNjEfMB0GA1UECxMWQ0VSVElGSUNBRE9BTU9MQ0FNQVIxMzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA2TrFp15bzAMbVps80TR4fLsIzNJmr68FI9w6tcgDUxQ63mtP0CmIx29mTqS9F0ciBcg9pjPUQDx3ZwCc3mNW9bpYW7OLO4R3EclDMXEbpuNv0cx+bwq4nQNLI7RvkJ57MdVN0OUdJbxTn4bIykel5hU8o0wRC3yhOU5LevgHvwkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAFI+NynC81FCynSkHSFUpJsBNzWzmTKabur1QwH7o3NGf+ge+EntfqVjfnVsfBKmOIl/4LzdjctquqwDZrQDEMkV1ZgVL679fpawqgyH0Hr+71GIlyBKe6cu5rlqyerLB0ILIy/0pJsFKEaD2TdFIUpv7wf+6ITb+MNn29MXwMUag8KmJTNpMQ3yFVtBGQGLnxfkf7fARlHoq2ymq9g6GxG5mvzQw63f3RILKNe8OcwuO5rjVTDdCJOHdnW+wkA35E85Bc2XsQJgf3MFSrn2jdCuAivxhs7JUwfDfFOSmeGwDDLRCvgjTBDlMaSKkgejHK2tmYlWlQuPVFMeNNhnQLw=" condicionesDePago="CONTADO" subTotal="5180.00" motivoDescuento="DESCUENTO POR PRONTO PAGO" TipoCambio="1.0000" Moneda="MXN" total="5180.00" metodoDePago="NO IDENTIFICADO" tipoDeComprobante="ingreso" LugarExpedicion="México, D.F." NumCtaPago="NO IDENTIFICADO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="AMO0101258X3" nombre="AMOLCA, S.A. DE C.V.">
+<cfdi:DomicilioFiscal calle="Arquitectura" noExterior="49" noInterior="202" colonia="Copilco Universidad" referencia="5658-0882, 5339-5021, FAX: 5659-1998" municipio="Coyoacan" estado="Distrito Federal" pais="México" codigoPostal="04360" />
+<cfdi:RegimenFiscal Regimen="General" />
+</cfdi:Emisor>
+<cfdi:Receptor rfc="MABL7705259U7" nombre="MARIA DE LA LUZ MARTA BENITEZ">
+<cfdi:Domicilio calle="CALZADA DE TLALPAN 4500, COLONIA SECCION XVI, DELEGACION TLALPAN" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="14080" />
+</cfdi:Receptor>
+<cfdi:Conceptos>
+<cfdi:Concepto cantidad="1" unidad="pieza" noIdentificacion="ROMANELLI2" descripcion="1001 TIPS EN PERIODONCIA" valorUnitario="1800.00" importe="1260.00">
+<cfdi:InformacionAduanera numero="36923001062" fecha="2013-05-16" aduana="VERACRUZ" />
+</cfdi:Concepto>
+<cfdi:Concepto cantidad="1" unidad="pieza" noIdentificacion="STALEY ROBERT" descripcion="FUNDAMENTOS EN ORTODONCIA" valorUnitario="950.00" importe="665.00">
+<cfdi:InformacionAduanera numero="38912000222" fecha="2012-04-30" aduana="LAZARO CARDENAS" />
+</cfdi:Concepto>
+<cfdi:Concepto cantidad="1" unidad="pieza" noIdentificacion="OSCARQUIROS" descripcion="HACIENDO FACIL LA ORTODONCIA" valorUnitario="2800.00" importe="1960.00">
+<cfdi:InformacionAduanera numero="35422000119" fecha="2012-01-23" aduana="MANZANILLO" />
+</cfdi:Concepto>
+<cfdi:Concepto cantidad="1" unidad="pieza" noIdentificacion="GALLO 10" descripcion="NUTRICION, VITAMINAS Y OLIGOELEMENTOS EN EL EMBARAZO, No. 10" valorUnitario="1850.00" importe="1295.00">
+<cfdi:InformacionAduanera numero="35424001231" fecha="2014-07-28" aduana="MANZANILLO" />
+</cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado impuesto="IVA" tasa="0.00" importe="0.00" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2016-02-25T18:44:59" UUID="CA6433C4-82A2-5C37-CC65-E095390E383F" noCertificadoSAT="00001000000202771790" selloCFD="rMFhgNvW8BAqnHO371mOudhG5Yy4XeY/O7kynEHXvsY9RHPntkb9s/HMiH2SHXA3XSPlAmHksjrMF+66lUDckii8GA4/VbaQDtgGPFRDE7/NBgVoe+481syjxJNfMO5k9XI2iD0x3n1Ic7RNu1WKkIZEfSl+Pteo5EW+h+s8ZlU=" selloSAT="LM0+zV6Vh9zrJe7Rfe7hee97/UZpUPqpKDKgnvn+gQLQjA9+mBxXoPtVMHKIPLLadJSSeKunup//AvJyrjgnEzoRMdGFj6fk4KtWgtxbW8MW4ifLtQ+Iklz5TcT7Ohus88U7pzjIZaTsGOBFmo67DaDbpfE9caNJP23eQr25aLY=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

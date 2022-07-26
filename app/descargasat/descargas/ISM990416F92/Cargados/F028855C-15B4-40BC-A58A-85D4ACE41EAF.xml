@@ -1,0 +1,580 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CondicionesDePago="Transferencia 90 Días F.Recepcion Fac" Fecha="2022-05-12T18:34:18" Folio="2200250" FormaPago="99" LugarExpedicion="11520" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000502627974" Sello="KP/Uljk3ASuVPzA5fjTh+h5FDTszYU/PEEs2+hi90Kryzx3PhxJ1yl7nAg4iwSgy6sDhiEfDXcEpGlkDDGbP82nLlvLiW4f0MjRC9REYL+gdcNxd6OBEmqK46QN797zd4v+AhlTncfmi1nStr7SPDnNWjOEzbquh2KJssMi54bltzTL/cSoTqKz2nHE4Py00w32gwEGW6Di+0kDqLTkqya49LFtzaFVXtfz7XdFLt5Qi1iTfHQTT/fagJgaIkZJ/e34cYT0qq2oIf7F3HauBWrKVWb7NCYiiyGsPoI2jcvgNIjogmQ2ugrkfe4Uvmpd8MveA5dtKt55w18qrFFwzKA==" Serie="MX-0-FACT+A-2022-" SubTotal="2050093.89" TipoDeComprobante="I" Total="2378108.91" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Nombre="IN STORE DE MEXICO SA DE CV" RegimenFiscal="601" Rfc="ISM990416F92" />
+  <cfdi:Receptor Nombre="MARCAS NESTLE SA DE CV" Rfc="MNE0409226K9" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C8 - 12/04/2022 a 25/04/2022" Importe="24282.00" Unidad="Unidad de servicio" ValorUnitario="24282.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="24282.00" Importe="3885.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C9 - 26/04/2022 a 09/05/2022" Importe="24282.00" Unidad="Unidad de servicio" ValorUnitario="24282.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="24282.00" Importe="3885.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C8 - 12/04/2022 a 25/04/2022" Importe="125457.00" Unidad="Unidad de servicio" ValorUnitario="125457.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="125457.00" Importe="20073.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C9 - 26/04/2022 a 09/05/2022" Importe="125457.00" Unidad="Unidad de servicio" ValorUnitario="125457.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="125457.00" Importe="20073.1200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C8 - 12/04/2022 a 25/04/2022" Importe="40470.00" Unidad="Unidad de servicio" ValorUnitario="40470.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="40470.00" Importe="6475.2000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI CHEDRAUI C9 - 26/04/2022 a 09/05/2022" Importe="40470.00" Unidad="Unidad de servicio" ValorUnitario="40470.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="40470.00" Importe="6475.2000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C8 - 12/04/2022 a 25/04/2022" Importe="66101.00" Unidad="Unidad de servicio" ValorUnitario="66101.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="66101.00" Importe="10576.1600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C9 - 26/04/2022 a 09/05/2022" Importe="66101.00" Unidad="Unidad de servicio" ValorUnitario="66101.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="66101.00" Importe="10576.1600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C8 - 12/04/2022 a 25/04/2022" Importe="22933.00" Unidad="Unidad de servicio" ValorUnitario="22933.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="22933.00" Importe="3669.2800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI SORIANA C9 - 26/04/2022 a 09/05/2022" Importe="22933.00" Unidad="Unidad de servicio" ValorUnitario="22933.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="22933.00" Importe="3669.2800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C8 - 12/04/2022 a 25/04/2022" Importe="31027.00" Unidad="Unidad de servicio" ValorUnitario="31027.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31027.00" Importe="4964.3200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C9 - 26/04/2022 a 09/05/2022" Importe="31027.00" Unidad="Unidad de servicio" ValorUnitario="31027.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31027.00" Importe="4964.3200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="ARCO DE PASILLO CHEDRAUI C8 - 12/04/2022 a 25/04/2022" Importe="76147.50" Unidad="Unidad de servicio" ValorUnitario="76147.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="76147.50" Importe="12183.6000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="ARCO DE PASILLO CHEDRAUI C9 - 26/04/2022 a 09/05/2022" Importe="76147.50" Unidad="Unidad de servicio" ValorUnitario="76147.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="76147.50" Importe="12183.6000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="ARCO DE PASILLO CHEDRAUI C8 - 12/04/2022 a 25/04/2022" Importe="27690.00" Unidad="Unidad de servicio" ValorUnitario="27690.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27690.00" Importe="4430.4000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="ARCO DE PASILLO CHEDRAUI C9 - 26/04/2022 a 09/05/2022" Importe="27690.00" Unidad="Unidad de servicio" ValorUnitario="27690.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27690.00" Importe="4430.4000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL CHEDRAUI C8 - 12/04/2022 a 25/04/2022" Importe="1500.00" Unidad="Unidad de servicio" ValorUnitario="1500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1500.00" Importe="240.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL CHEDRAUI C9 - 26/04/2022 a 09/05/2022" Importe="1500.00" Unidad="Unidad de servicio" ValorUnitario="1500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1500.00" Importe="240.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL CHEDRAUI C8 - 12/04/2022 a 25/04/2022" Importe="81000.00" Unidad="Unidad de servicio" ValorUnitario="81000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="81000.00" Importe="12960.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL CHEDRAUI C9 - 26/04/2022 a 09/05/2022" Importe="81000.00" Unidad="Unidad de servicio" ValorUnitario="81000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="81000.00" Importe="12960.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL CHEDRAUI C8 - 12/04/2022 a 25/04/2022" Importe="15000.00" Unidad="Unidad de servicio" ValorUnitario="15000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15000.00" Importe="2400.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL CHEDRAUI C9 - 26/04/2022 a 09/05/2022" Importe="15000.00" Unidad="Unidad de servicio" ValorUnitario="15000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15000.00" Importe="2400.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL CHEDRAUI C8 - 12/04/2022 a 25/04/2022" Importe="1580.00" Unidad="Unidad de servicio" ValorUnitario="1580.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1580.00" Importe="252.8000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL CHEDRAUI C9 - 26/04/2022 a 09/05/2022" Importe="1580.00" Unidad="Unidad de servicio" ValorUnitario="1580.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1580.00" Importe="252.8000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL CHEDRAUI C8 - 12/04/2022 a 25/04/2022" Importe="85320.00" Unidad="Unidad de servicio" ValorUnitario="85320.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="85320.00" Importe="13651.2000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL CHEDRAUI C9 - 26/04/2022 a 09/05/2022" Importe="85320.00" Unidad="Unidad de servicio" ValorUnitario="85320.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="85320.00" Importe="13651.2000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL CHEDRAUI C8 - 12/04/2022 a 25/04/2022" Importe="15800.00" Unidad="Unidad de servicio" ValorUnitario="15800.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15800.00" Importe="2528.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL CHEDRAUI C9 - 26/04/2022 a 09/05/2022" Importe="15800.00" Unidad="Unidad de servicio" ValorUnitario="15800.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15800.00" Importe="2528.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL SORIANA C8 - 12/04/2022 a 25/04/2022" Importe="75000.00" Unidad="Unidad de servicio" ValorUnitario="75000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="75000.00" Importe="12000.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL SORIANA C9 - 26/04/2022 a 09/05/2022" Importe="75000.00" Unidad="Unidad de servicio" ValorUnitario="75000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="75000.00" Importe="12000.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL SORIANA C8 - 12/04/2022 a 25/04/2022" Importe="22500.00" Unidad="Unidad de servicio" ValorUnitario="22500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="22500.00" Importe="3600.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL SORIANA C9 - 26/04/2022 a 09/05/2022" Importe="22500.00" Unidad="Unidad de servicio" ValorUnitario="22500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="22500.00" Importe="3600.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL SORIANA C8 - 12/04/2022 a 25/04/2022" Importe="79000.00" Unidad="Unidad de servicio" ValorUnitario="79000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="79000.00" Importe="12640.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL SORIANA C9 - 26/04/2022 a 09/05/2022" Importe="79000.00" Unidad="Unidad de servicio" ValorUnitario="79000.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="79000.00" Importe="12640.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL SORIANA C8 - 12/04/2022 a 25/04/2022" Importe="23700.00" Unidad="Unidad de servicio" ValorUnitario="23700.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="23700.00" Importe="3792.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL SORIANA C9 - 26/04/2022 a 09/05/2022" Importe="23700.00" Unidad="Unidad de servicio" ValorUnitario="23700.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="23700.00" Importe="3792.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C8 - 12/04/2022 a 25/04/2022" Importe="14839.00" Unidad="Unidad de servicio" ValorUnitario="14839.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="14839.00" Importe="2374.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C9 - 26/04/2022 a 09/05/2022" Importe="14839.00" Unidad="Unidad de servicio" ValorUnitario="14839.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="14839.00" Importe="2374.2400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C8 - 12/04/2022 a 25/04/2022" Importe="5396.00" Unidad="Unidad de servicio" ValorUnitario="5396.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5396.00" Importe="863.3600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI WALMART C9 - 26/04/2022 a 09/05/2022" Importe="5396.00" Unidad="Unidad de servicio" ValorUnitario="5396.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5396.00" Importe="863.3600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C8 - 12/04/2022 a 25/04/2022" Importe="5396.00" Unidad="Unidad de servicio" ValorUnitario="5396.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5396.00" Importe="863.3600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="MUPI LA COMER C9 - 26/04/2022 a 09/05/2022" Importe="5396.00" Unidad="Unidad de servicio" ValorUnitario="5396.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5396.00" Importe="863.3600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL CHEDRAUI C8 - 12/04/2022 a 25/04/2022" Importe="13500.00" Unidad="Unidad de servicio" ValorUnitario="13500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13500.00" Importe="2160.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL CHEDRAUI C9 - 26/04/2022 a 09/05/2022" Importe="13500.00" Unidad="Unidad de servicio" ValorUnitario="13500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13500.00" Importe="2160.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL CHEDRAUI C8 - 12/04/2022 a 25/04/2022" Importe="1500.00" Unidad="Unidad de servicio" ValorUnitario="1500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1500.00" Importe="240.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL CHEDRAUI C9 - 26/04/2022 a 09/05/2022" Importe="1500.00" Unidad="Unidad de servicio" ValorUnitario="1500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1500.00" Importe="240.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL SORIANA C8 - 12/04/2022 a 25/04/2022" Importe="13500.00" Unidad="Unidad de servicio" ValorUnitario="13500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13500.00" Importe="2160.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL SORIANA C9 - 26/04/2022 a 09/05/2022" Importe="13500.00" Unidad="Unidad de servicio" ValorUnitario="13500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13500.00" Importe="2160.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL SORIANA C8 - 12/04/2022 a 25/04/2022" Importe="1500.00" Unidad="Unidad de servicio" ValorUnitario="1500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1500.00" Importe="240.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="COPETE ANAQUEL SORIANA C9 - 26/04/2022 a 09/05/2022" Importe="1500.00" Unidad="Unidad de servicio" ValorUnitario="1500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1500.00" Importe="240.0000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL LA COMER C8 - 12/04/2022 a 25/04/2022" Importe="1580.00" Unidad="Unidad de servicio" ValorUnitario="1580.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1580.00" Importe="252.8000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL LA COMER C9 - 26/04/2022 a 09/05/2022" Importe="1580.00" Unidad="Unidad de servicio" ValorUnitario="1580.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1580.00" Importe="252.8000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL LA COMER C8 - 12/04/2022 a 25/04/2022" Importe="30022.63" Unidad="Unidad de servicio" ValorUnitario="30022.63">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="30022.63" Importe="4803.6208" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101801" ClaveUnidad="E48" Descripcion="STOPPER XL LA COMER C9 - 26/04/2022 a 09/05/2022" Importe="30020.00" Unidad="Unidad de servicio" ValorUnitario="30020.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="30020.00" Importe="4803.2000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="6745.40" Unidad="Unidad de servicio" ValorUnitario="6745.40">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6745.40" Importe="1079.2640" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="34738.81" Unidad="Unidad de servicio" ValorUnitario="34738.81">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="34738.81" Importe="5558.2096" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="11467.18" Unidad="Unidad de servicio" ValorUnitario="11467.18">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11467.18" Importe="1834.7488" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="18549.85" Unidad="Unidad de servicio" ValorUnitario="18549.85">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="18549.85" Importe="2967.9760" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="6408.13" Unidad="Unidad de servicio" ValorUnitario="6408.13">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6408.13" Importe="1025.3008" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="8769.02" Unidad="Unidad de servicio" ValorUnitario="8769.02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8769.02" Importe="1403.0432" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="36204.61" Unidad="Unidad de servicio" ValorUnitario="36204.61">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="36204.61" Importe="5792.7376" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="13924.85" Unidad="Unidad de servicio" ValorUnitario="13924.85">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13924.85" Importe="2227.9760" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="711.64" Unidad="Unidad de servicio" ValorUnitario="711.64">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="711.64" Importe="113.8624" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="22416.66" Unidad="Unidad de servicio" ValorUnitario="22416.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="22416.66" Importe="3586.6656" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="4269.84" Unidad="Unidad de servicio" ValorUnitario="4269.84">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4269.84" Importe="683.1744" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="422.24" Unidad="Unidad de servicio" ValorUnitario="422.24">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="422.24" Importe="67.5584" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="13511.68" Unidad="Unidad de servicio" ValorUnitario="13511.68">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13511.68" Importe="2161.8688" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="2533.44" Unidad="Unidad de servicio" ValorUnitario="2533.44">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2533.44" Importe="405.3504" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="20993.38" Unidad="Unidad de servicio" ValorUnitario="20993.38">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="20993.38" Importe="3358.9408" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="6404.76" Unidad="Unidad de servicio" ValorUnitario="6404.76">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6404.76" Importe="1024.7616" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="12667.20" Unidad="Unidad de servicio" ValorUnitario="12667.20">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12667.20" Importe="2026.7520" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="3800.16" Unidad="Unidad de servicio" ValorUnitario="3800.16">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3800.16" Importe="608.0256" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="4384.51" Unidad="Unidad de servicio" ValorUnitario="4384.51">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4384.51" Importe="701.5216" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN WALMART" Importe="1686.35" Unidad="Unidad de servicio" ValorUnitario="1686.35">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1686.35" Importe="269.8160" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="1686.35" Unidad="Unidad de servicio" ValorUnitario="1686.35">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1686.35" Importe="269.8160" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="3914.02" Unidad="Unidad de servicio" ValorUnitario="3914.02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3914.02" Importe="626.2432" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN CHEDRAUI" Importe="711.64" Unidad="Unidad de servicio" ValorUnitario="711.64">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="711.64" Importe="113.8624" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="3914.02" Unidad="Unidad de servicio" ValorUnitario="3914.02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3914.02" Importe="626.2432" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN SORIANA" Importe="711.64" Unidad="Unidad de servicio" ValorUnitario="711.64">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="711.64" Importe="113.8624" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="422.24" Unidad="Unidad de servicio" ValorUnitario="422.24">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="422.24" Importe="67.5584" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="82101802" ClaveUnidad="E48" Descripcion="PRODUCCIÓN LA COMER" Importe="4644.64" Unidad="Unidad de servicio" ValorUnitario="4644.64">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4644.64" Importe="743.1424" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="328015.02">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="328015.0224" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="F028855C-15B4-40BC-A58A-85D4ACE41EAF" FechaTimbrado="2022-05-12T18:34:25" SelloCFD="KP/Uljk3ASuVPzA5fjTh+h5FDTszYU/PEEs2+hi90Kryzx3PhxJ1yl7nAg4iwSgy6sDhiEfDXcEpGlkDDGbP82nLlvLiW4f0MjRC9REYL+gdcNxd6OBEmqK46QN797zd4v+AhlTncfmi1nStr7SPDnNWjOEzbquh2KJssMi54bltzTL/cSoTqKz2nHE4Py00w32gwEGW6Di+0kDqLTkqya49LFtzaFVXtfz7XdFLt5Qi1iTfHQTT/fagJgaIkZJ/e34cYT0qq2oIf7F3HauBWrKVWb7NCYiiyGsPoI2jcvgNIjogmQ2ugrkfe4Uvmpd8MveA5dtKt55w18qrFFwzKA==" NoCertificadoSAT="00001000000505600468" SelloSAT="dYRTRHaidcqO8vJt8h30NuNOhWx6+KC+xxdXSzqdZexv/DfDkBmrzkEg5kCBBmWMRPmr4ktthqtU6H9hnTsoUwWwyPRXbgjvNN4q4WZeHsOhz00+cbR2QRu+GnQMUdh6PYcdeEkQ0CsPRoLKipGqfID5ukx3oyT5uJ/hpD6kGMjx4o6w26Rpu4Hwt1IX/VRZnNzMHqUCRKOqgB6WI1T+/e+kgkXypfVkn6Hp2ob5LyK7INBhsI7BUQofTesLDgGcgXX36cNF1NaHe2bFi9nc7RMB/ZJXI8sSOP3zZaNviJSGx+/xcZA6xIgj/dwcl3iBilgF4UQSV7keg9GKw0AQuA==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

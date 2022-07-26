@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="ODONTOLOGIA 69, COPILCO UNIVERSIDAD MEXICO COYOACAN DISTRITO FEDERAL MEXICO 04360" certificado="MIIEhjCCA26gAwIBAgIUMDAwMDEwMDAwMDAyMDI0MTU2NzAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyMzE4MjkzMloXDTE2MTEyMzE4MjkzMlowgccxIzAhBgNVBAMTGkVESVRPUklBTCBUUklMTEFTIFNBIERFIENWMSMwIQYDVQQpExpFRElUT1JJQUwgVFJJTExBUyBTQSBERSBDVjEjMCEGA1UEChMaRURJVE9SSUFMIFRSSUxMQVMgU0EgREUgQ1YxJTAjBgNVBC0THEVUUjgyMDMyOUs4OSAvIFRJU0Y0OTA4MTNOUDYxHjAcBgNVBAUTFSAvIFRJU0Y0OTA4MTNIREZSTFIwMjEPMA0GA1UECxMGVU5JREFEMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsbahKAx3jvbMoIhjc71ZTWH7RmSaClDiE/jE9d1yqVTDDTqHhQYU1GjcxPIM0s4JkX3X+v82olfM6t04JzvIjGiL2XBI6i3gsIjWdsGykjIte0DG3SmwdMaVhRwIqlj48iekDDHbTlZ4dnqykfle3tXrPAnTNIMTFk0j1Lcxx/wIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAZlT/N+JUOPEi2QNxQV98gCRxybG63CwLLGHG83yBQUQl9WrJ7UIZHVjL0wB7CANx/cvum13TTh6uyU0/6uKy71L9EdQ7OIYAPzyVmn9R+/RqzyMDZ8SYcSLRKpFMKiMyMYWTLUoktzQA9A1WIa4gaEzKr0ttA9o5kjm9pwkPFQW6UIHXhP0LOkk/cx/A8kR3jXSxLLLAQhvKr/q8dYdWNpneoZDwbexGF8VF9RzNfy9UTvQJqV3tFkfFhhjYduz/j2gepHcf58e+zGLHdtZq6Y1Ttf3xeAdnqxhesRv5273bw/0JwexKvc8XotpBmNZ9QxIdnmnYoDK5QfjdeV5hWg==" fecha="2016-02-16T16:13:18" folio="3378" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="EFECTIVO" noCertificado="00001000000202415670" sello="Ahxtdn0ZmhhjQfjBQ/+Oy/Kc7bgCwdYxNXu89IcqpURaoW1QZWLNYWe0Nw4JrWCciEhv1OdqIY6VueMqLxUH0JwAtT7uwpJSlhZLH4tM6h26F7f+hrMEHXtOhFqyJF0B9SAW+xQSue1u+kMIU+jW2lRnVQo3rfy8LRkikXj4kH8=" serie="LH" subTotal="182.00" tipoDeComprobante="ingreso" total="182.00" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="EDITORIAL TRILLAS S.A. DE C.V." rfc="ETR820329K89">
+    <cfdi:DomicilioFiscal calle="Av. Río Churubusco" codigoPostal="03340" colonia="General Pedro María Anaya" estado="Distrito Federal" municipio="Benito Juárez" noExterior="385" pais="México" />
+    <cfdi:ExpedidoEn calle="ODONTOLOGIA" codigoPostal="04360" colonia="COPILCO UNIVERSIDAD" estado="DISTRITO FEDERAL" localidad="MEXICO" municipio="COYOACAN" noExterior="69" pais="MEXICO" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="MARTA BENITEZ MARIA DE LA LUZ" rfc="MABL7705259U7">
+    <cfdi:Domicilio calle="CALZ. DE TLALPAN # 4500" codigoPostal="14080" colonia="SECCION XVI/TLALPAN" estado="D. F." localidad="MEXICO" pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" descripcion="BERNAL A-PROSTODONCIA TOTAL" importe="182.00" noIdentificacion="9789682471391" unidad="PIEZA" valorUnitario="182.0000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="0.00" totalImpuestosTrasladados="0.00">
+    <cfdi:Retenciones>
+      <cfdi:Retencion importe="0.00" impuesto="IVA" />
+      <cfdi:Retencion importe="0.00" impuesto="ISR" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="0.00" impuesto="IVA" tasa="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento> <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" UUID="812447AF-B018-3143-82A9-BFA0DF2E762F" FechaTimbrado="2016-02-16T16:13:55" selloCFD="Ahxtdn0ZmhhjQfjBQ/+Oy/Kc7bgCwdYxNXu89IcqpURaoW1QZWLNYWe0Nw4JrWCciEhv1OdqIY6VueMqLxUH0JwAtT7uwpJSlhZLH4tM6h26F7f+hrMEHXtOhFqyJF0B9SAW+xQSue1u+kMIU+jW2lRnVQo3rfy8LRkikXj4kH8=" noCertificadoSAT="00001000000401041203" selloSAT="0kc5joVg3aVP9ZzpmEJ49VYZz8dZmhGudkoWnzD6UY8GFY2ApN7rgfE5x42emkYs46DoZrpAC20LDF4XuzYI1znOeEIr9QUiW1MMyRATF/iGNsd62L3U04J0X3zo0WfV+gL9KLcR0yOSqr5BG3vygZNzTGjJD19zrSoNUTGEpFMXH1QemRkJ1z3EUdzNl1ZPWqfxoWYyKwgDnGOdtq0/GNaO4bEwFsVugyHd5mt3PioiWetaOGl4HEYXXdTSKwgHJMYytvwlvxUqJHxNpXd2hnvjhIszR1iTuDUyCC24sA41LYZf5RFWMII4hOpun+JPHHc/QVbFJffL5flKeRGUrQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

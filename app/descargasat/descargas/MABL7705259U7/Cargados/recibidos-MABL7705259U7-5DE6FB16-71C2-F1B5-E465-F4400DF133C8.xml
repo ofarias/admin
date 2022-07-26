@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" serie="FA" folio="11581" fecha="2016-08-15T09:54:02" sello="JCuk36d6Bg16QKl2+EgDbqyPmXCi4PJ/YJ8HfIHiFj9mx0HoXmSKq1ocHFdy4FoSzEbdFF71lBSFSjf1GoFop6B10kMqMQtZRzmMdsqVcEjYkwDH3TJvrADBZnFrVk9Pt3B/IVg1Rz75U3FEk5aKZMn1vZngIj1AalNAICaTmrQ=" formaDePago="Pago en una sola exhibicion" noCertificado="00001000000202377679" certificado="MIIEdTCCA12gAwIBAgIUMDAwMDEwMDAwMDAyMDIzNzc2NzkwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyMDE2MjAzNFoXDTE2MTEyMDE2MjAzNFowgbYxHDAaBgNVBAMTE1JHUyBMSUJST1MgU0EgREUgQ1YxHDAaBgNVBCkTE1JHUyBMSUJST1MgU0EgREUgQ1YxHDAaBgNVBAoTE1JHUyBMSUJST1MgU0EgREUgQ1YxJTAjBgNVBC0THFJMSTk3MDgyN0pTNyAvIEdBU1I0OTA1MTlWQUExHjAcBgNVBAUTFSAvIEdBU1I0OTA1MTlITkVSTEcwNjETMBEGA1UECxMKUkdTIExJQlJPUzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvo/o5CNbm7BiodB7sZ0lCjrHg9iKDBggIamGrduBgusQyaHkztHBxUxoQX3jOzFv2M/x469WXMQJvi7mskmOkmujR1zGxVm75sRN/whVjz9yVYb/yQyi2iEomM0KjZ4fxieeKWmvJ3Sxcb6sLgvoe++P7FM98/MeWiNo3KsI5EkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAGjArFeoIEsdeUGDdkOEjsYUYxl1SmAuNV4D5U6q5QYzXC3/RMwKlMelFKUPnYf5OuHYXHCEgD86vookRneTmidZ4Jc3RonrS3qFcQgElP3lkiUPD7XUpLr36bKHEHmgj8JyOsjK23HZ5pQFZh4TKyi6FlXOOGkO0SS+temgsThRcbTzEdoAqRDwLXnL7xm/fQM/MX5luBpmy4xkmqgAvNUZAGP0zGmB2QZCa4MpG2S0uIzE4GEE0aFXX4rbo/TIGouJF/SG9yh7A2GEYiJi30eobTQFyGlrhM/xTE9FXBNSKs280AMjZxO3OrtFSxMpnx/ZP6vi6SkmndRt9wATt1k=" subTotal="28250.000000" descuento="9887.500000" TipoCambio="1.000000" Moneda="MXP" total="18362.500000" metodoDePago="02" tipoDeComprobante="ingreso" LugarExpedicion="Miguel Hidalgo, D. F." xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+<cfdi:Emisor rfc="RLI970827JS7" nombre="RGS LIBROS S. A. DE C. V.">
+		<cfdi:DomicilioFiscal calle="AVENIDA PROGRESO" noExterior="202" colonia="ESCANDON" localidad="MEXICO" municipio="MIGUEL HIDALGO" estado="Distrito Federal" pais="MEXICO" codigoPostal="11800" />
+		<cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales" />
+	</cfdi:Emisor>
+<cfdi:Receptor rfc="MABL7705259U7" nombre="MARIA DE LA LUZ MARTA BENITEZ">
+		<cfdi:Domicilio calle="CALZ. DE TLALPAN #4500" localidad="COL. SECCION 16, Tlalpan" municipio="COL. SECCION 16, Tlalpan" estado="Distrito Federal" pais="MEXICO" codigoPostal="14080" />
+	</cfdi:Receptor>
+<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="5.000000" unidad="Pzas." noIdentificacion="978-84-282-1603-6" descripcion="Lehninger principios de bioquimica 6ta Ed. / Autor - NELSoN / Editorial - EDiCioNES oMEGA / iSBN - 978-84-282-1603-6 / Edicion - 6" valorUnitario="4620.000000" importe="23100.000000">
+		<cfdi:InformacionAduanera numero="16 43 3891 6000413" fecha="2016-05-07" />
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="Pzas." noIdentificacion="978-84-282-1507-7" descripcion="Biologia molecular de la celula. 5ta ed. / Autor - ALBeRTS / editorial - eDiCioneS oMeGA / iSBn - 978-84-282-1507-7 / Ano - 2010 / edicion - 05" valorUnitario="5150.000000" importe="5150.000000">
+		<cfdi:InformacionAduanera numero="16 43 3891 6000187" fecha="2016-02-27" />
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+<cfdi:Impuestos totalImpuestosTrasladados="0.000000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="0.00" importe="0.000000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital FechaTimbrado="2016-08-15T09:54:02" UUID="5DE6FB16-71C2-F1B5-E465-F4400DF133C8" noCertificadoSAT="00001000000203392777" selloCFD="JCuk36d6Bg16QKl2+EgDbqyPmXCi4PJ/YJ8HfIHiFj9mx0HoXmSKq1ocHFdy4FoSzEbdFF71lBSFSjf1GoFop6B10kMqMQtZRzmMdsqVcEjYkwDH3TJvrADBZnFrVk9Pt3B/IVg1Rz75U3FEk5aKZMn1vZngIj1AalNAICaTmrQ=" selloSAT="Pm7mJnHKwA24MTRDkw7LPVtMwEHb8ovY23etV1G1UV5TqR0yFUW2WobqS2+M8cW31U5bF6jWhrGUagAwQquV3oFrYECsePZQkz5YRYmDupLNzzE7MNHu5F983DG1mtCd9/9iUP2S18skf+a6mwAqjnu1aISMASMTsplN0NvUd0M=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

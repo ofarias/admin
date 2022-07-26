@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="AIRA" folio="0085045240" LugarExpedicion="MEXICO, D.F." NumCtaPago="8445" fecha="2016-06-20T22:57:59" sello="Oqm0V8JaSWnXKDicUwu/AS+O0yXPfVgBFryF7kCIaNAjt890hbPOQs0ZHVsEM0/mN6YmsT+fzUN7OGfNnctWopFprw21WEgLPGznzYpGzVc/tyfOqSRmIeTM15rGMs+mIHQCTAnGWW4Nz75MONYjGB5PepRqnodP0ZkaZYuQKiU=" formaDePago="PAGO EN PARCIALIDADES" noCertificado="00001000000202522295" certificado="MIIEgTCCA2mgAwIBAgIUMDAwMDEwMDAwMDAyMDI1MjIyOTUwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIwNTIyMzkxNFoXDTE2MTIwNTIyMzkxNFowgcIxITAfBgNVBAMTGFNFR1VST1MgQkFOQU1FWCBTQSBERSBDVjEhMB8GA1UEKRMYU0VHVVJPUyBCQU5BTUVYIFNBIERFIENWMSEwHwYDVQQKExhTRUdVUk9TIEJBTkFNRVggU0EgREUgQ1YxJTAjBgNVBC0THFNCQTk1MTExNUhCNSAvIEhPSEc0ODAzMDFEODAxHjAcBgNVBAUTFSAvIEhPSEc0ODAzMDFIREZSUlMwOTEQMA4GA1UECxMHc2VndXJvczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAu1vVXKxDWDwIxL4lZW+/T52Lj9OgnIilyuU6HbkaiisXSMe11hqqXqoVfTYUberMXal7sVribgYmqvxyOh8GRLVWX08kmD2qiA8skaJQewpdVm3CleZVGnwVyd18kgVGtJyZxeI4W9Ddw2rYRmPa6QYwoDeLzXQpoV4456y9ZIsCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAAGow5HOJvJnP074Y8ciPzX1sKOod9jI8yGuGC7z6xm7tFYSMZ9VEP23cE1rl9dcEcaa32BuZu5YXw1oZ8Tb0xxli/j4ATEh9E3InJOojOf9nHgHxLpdJrEsgis9MID8hzsbVFBdfRbEmYrI9IaRj0sxsRtEEjMidQfPOeFko+j9gn5JIZ37S88yFNq6Qq1fPNgCG3l8VkM6ffLZRdir+UhLijCt2p5hBZhDP8JaghHJ2BBcYKBk9hmDQzc5EkrMCAcoGYGwPAZG1lbuTjB6X5MqI47iKQ3y9qM5d+DX9ImsfF9dA3FcCwOaT4I5hUecCczTyszOSRZyzhKoSX7Bnb8=" subTotal="1101.52" Moneda="PESOS" total="1277.76" metodoDePago="CHEQUE NOMINATIVO" tipoDeComprobante="ingreso">
+  <cfdi:Emisor nombre="SEGUROS BANAMEX, S.A. DE C.V." rfc="SBA951115HB5">
+    <cfdi:DomicilioFiscal calle="VENUSTIANO CARRANZA" noExterior="NO. 63" colonia="COL. CENTRO" municipio="DELEG. CUAUHTEMOC" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="06000" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="MABL7705259U7" nombre="MARIA DE LA LUZ MARTA BENITEZ">
+    <cfdi:Domicilio calle="CALZ DE TLALPAN 4500" colonia="SECCION 16" municipio="CIUDAD DE MEXICO" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="14080" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="NO APLICA" noIdentificacion="AIRA0085045240" descripcion="PRIMA DE SEGURO" valorUnitario="981.75" importe="981.75" />
+    <cfdi:Concepto cantidad="1.00" unidad="NO APLICA" noIdentificacion="AIRA0085045240" descripcion="RECARGO POR PAGO FRA" valorUnitario="119.77" importe="119.77" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="176.24" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="Oqm0V8JaSWnXKDicUwu/AS+O0yXPfVgBFryF7kCIaNAjt890hbPOQs0ZHVsEM0/mN6YmsT+fzUN7OGfNnctWopFprw21WEgLPGznzYpGzVc/tyfOqSRmIeTM15rGMs+mIHQCTAnGWW4Nz75MONYjGB5PepRqnodP0ZkaZYuQKiU=" FechaTimbrado="2016-06-21T07:57:31" UUID="e4b9c6f4-8b8b-433d-a1fc-0da2d6d3994c" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="ZD/E71TgSnltlLeSM5T87fcxROpiHxPMjti8fNmDpan8f2q3SdepNwTRUkNDiPQCyj0wbTMIHK9WaA5sMm++Ve/70eRQHGIgJy/amzCEWKh3Y6y3t5OxQYKK0PCWTADttVeIqF4FjAR2+7Zn6jtM9wuSji888dlzbmOaQ4lAEkM=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

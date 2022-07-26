@@ -14,7 +14,7 @@ $meses = array(
 	'12'=>'Diciembre'
 );
 $dias = range(1, 31);
-$anios = range(date('Y')-6, date('Y'));
+$anios = range(date('Y')-8, date('Y'));
 ?>
 <form class="form-inline" method="POST" id="recibidos-form">
   <input type="hidden" name="accion" value="buscar-recibidos" />

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="MEXICO, D.F." Moneda="PESOS" TipoCambio="1.0000" certificado="MIIEhjCCA26gAwIBAgIUMDAwMDEwMDAwMDAyMDI0NTM1ODEwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyODE3NDQwOVoXDTE2MTEyODE3NDQwOVowgccxIzAhBgNVBAMTGkxJQlJFUklBUyBHT05WSUxMIFNBIERFIENWMSMwIQYDVQQpExpMSUJSRVJJQVMgR09OVklMTCBTQSBERSBDVjEjMCEGA1UEChMaTElCUkVSSUFTIEdPTlZJTEwgU0EgREUgQ1YxJTAjBgNVBC0THExHTzg0MDQxM1NEMiAvIEdPTFQ2NjA3MzBHTEExHjAcBgNVBAUTFSAvIEdPTFQ2NjA3MzBIREZOVFIwNjEPMA0GA1UECxMGbWF0cml6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDD4WFw+wt0CMm/ozcNUnrVPyUmQq6bFV7ExtZ9YDgMn3LquM9ct07IPqDfI3A7nDsL6A7C9fa3I/yt2c3XFgcogWuk4As0pc3akn4q4fUBwBOs2yynyJP2DMpebHwIi9wY2VgwL1s3+/g8/J2ReGN/12i7UOvhq9JAsfZTaDcuYQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEACoPWjFkKRsjhEPV6U91VD2vC4FOYmmtYt+d7ZKbB+3bjqByN5b/0JAptxcXyd2mv/zig62KPmhiQVE/NRW9/8vieizjIU708WJ3JKXw1n0uSmweOyjdJdKmWD8RgIZjmvxf3FT8WC4PdmWurF1l7NdZA8PDwYQEr3p7FlJsOXf9pLVQLESep8pCThJ94UaUGFCNBG2Ao/8B4SfnG18WYujKEayQtU5DWVldxxeOYXkF0dRfQh8fD4SkeomX6A3jePaGe480w1Sh8QoaPqRW/mmr7IpWmO14uV0qIR5jFvSpcgZNn01RCI9JpI8SUxAltdR6xDOZDF6Kzwm3xlKvXxg==" condicionesDePago="CREDITO" descuento="0.00" fecha="2016-05-12T17:22:38" folio="19138" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="NO IDENTIFICADO" noCertificado="00001000000202453581" sello="UQp3ex+H6d5xHdPMFy6KrFydZQuiYSdz1sElMTGuCFPR2EE6hHLRhcfo7JwVnrBxebeQFARAf8g/q87mYLF8hApO1o5N54Nh7r2M6Pnwmvkv4mYk5CSJ8o1yZcKyC6F3WcBSyZcpcuEBnYmeACgY4BKuJqHAwwxUaz8Ddw9sEY8=" serie="B" subTotal="3317.30" tipoDeComprobante="ingreso" total="3317.30" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="LIBRERIAS GONVILL, S.A. DE C.V." rfc="LGO840413SD2">
+    <cfdi:DomicilioFiscal calle="8 DE JULIO" codigoPostal="44190" colonia="MODERNA" estado="JALISCO" municipio="GUADALAJARA" noExterior="825, Colonia MODERNA" pais="MEXICO" />
+    <cfdi:ExpedidoEn calle="NORTE 45" codigoPostal="02300" colonia="INDUSTRIAL VALLEJO" estado="D.F." municipio="D.F." noExterior="958" pais="MEXICO" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="MARIA DE LA LUZ MARTA BENITEZ" rfc="MABL7705259U7">
+    <cfdi:Domicilio calle="CALZ. DE TLALPAN NO. 4500" codigoPostal="14080" colonia="SECCION XVI" estado="D.F." municipio="DELEG. TLALPAN MEXICO" pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="2" descripcion="MANUAL DE CUIDADOS PERIOPERATORIOS EN CIRUGIA CARDIACA" importe="2798.60" noIdentificacion="24720096" unidad="PIEZA" valorUnitario="1999.00" />
+    <cfdi:Concepto cantidad="2" descripcion="ENFERMEDADES INFECCIOSAS" importe="518.70" noIdentificacion="15400257" unidad="PIEZA" valorUnitario="399.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="0.00" impuesto="IVA" tasa="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="E591C6A8-8B02-407C-A373-356F14908F34" FechaTimbrado="2016-05-12T17:25:02" selloCFD="UQp3ex+H6d5xHdPMFy6KrFydZQuiYSdz1sElMTGuCFPR2EE6hHLRhcfo7JwVnrBxebeQFARAf8g/q87mYLF8hApO1o5N54Nh7r2M6Pnwmvkv4mYk5CSJ8o1yZcKyC6F3WcBSyZcpcuEBnYmeACgY4BKuJqHAwwxUaz8Ddw9sEY8=" noCertificadoSAT="00001000000203352843" selloSAT="UhH7kczVtvrFm6q/UCY5cJIaa2nOn2yu3/aCx6snTb91zM7ggCwcgF+Ukdsp5I7krYP8FxMTz4Rk6TMSTrVKG9kniY0ME9zNjyqhlxFtPyJ2R90aPf4IbLzlXhfHDhw+fApdQF8/tYlGJfGoAh7a1Tn/MJPJkb/Xof0CZCkonnk=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+
